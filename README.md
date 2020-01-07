@@ -1,4 +1,6 @@
-# 无道词典
+一直不喜欢查词典，生词量大，查词的工作量太大，找了个工具批量生成词汇表，手可以不冷了，来源于：https://blog.csdn.net/qq_28491207/article/details/86768595 只是金山词霸的网页api限流，改一下配合无道词典用。
+
+# 无有道词典
 
 ![py](https://img.shields.io/badge/python-3.4.5-green.svg?style=plastic)![plat](https://img.shields.io/badge/platform-Ubuntu/CentOS/Debian-green.svg?style=plastic)
 
