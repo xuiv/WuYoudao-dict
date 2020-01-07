@@ -9,7 +9,7 @@ if [ $count == 0 ]; then
     cd $save_path
 fi
 
-for enfile in 20*.txt;
+for enfile in *;
 do
     python3 /opt/WuYoudao-dict/wudao-dict/vocabulary.py $enfile /opt/WuYoudao-dict/vocabulary/learned_words.txt;
 done

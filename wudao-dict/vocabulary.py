@@ -4,7 +4,7 @@
 先词形还原，再词频统计
 去掉简单的单词后，生成单词本
 '''
-import traceback,os,sys,json,socket
+import traceback,os,sys,json,socket,time
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
 from nltk import pos_tag
