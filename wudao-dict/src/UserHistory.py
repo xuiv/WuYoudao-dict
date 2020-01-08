@@ -50,7 +50,8 @@ class UserHistory:
 
     # add item to history
     def add_item(self, word_info):
-        word = word_info['word']
+        #word = word_info['word']
+        word = word_info
         # Update word dict
         if word in self.word_co_map:
             self.word_co_map[word] += 1

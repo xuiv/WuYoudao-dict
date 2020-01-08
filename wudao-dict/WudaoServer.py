@@ -5,16 +5,10 @@ import sys
 
 from src.JsonReader import JsonReader
 from src.tools import is_alphabet
-from src.tools import ie
-from src.tools import get_ip
-from src.tools import report_new_word
-from src.tools import report_old_word
-
 
 class WudaoServer:
     def __init__(self):
         self.json_reader = JsonReader()
-        self.ip = get_ip()
         self.server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         # Singleton
@@ -30,15 +24,12 @@ class WudaoServer:
         while True:
             # Get bytes
             conn, addr = self.server.accept()
-            data = conn.recv(256)
-            word = data.decode('utf-8').strip()
+            data = conn.recv(4096)
+            try:
+                word = data.decode('utf-8').strip()
+            except:
+                word = ''
             print('Get:' + str(len(data)) + ' bytes ' + word)
-            # Shutdown
-            if word == '---shutdown keyword---':
-                self.server.close()
-                print('Bye!~~~')
-                sys.exit(0)
-            # Get word
             try:
                 word_info = None
                 if word:
@@ -54,20 +45,6 @@ class WudaoServer:
             except KeyError:
                 print('No words: ' + word)
             conn.close()
-            # report
-            try:
-                if ie():
-                    if word_info is None:
-                        report_new_word(word, self.ip)
-                        print('report new word')
-                    else:
-                        report_old_word(word, self.ip)
-                        print('report old word')
-                else:
-                    print('no ie, report failed')
-            except:
-                print('exception occured, report failed')
-
 
 if __name__ == '__main__':
     ws = WudaoServer()

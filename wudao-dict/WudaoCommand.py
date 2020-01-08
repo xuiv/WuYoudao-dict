@@ -10,7 +10,6 @@ from src.CommandDraw import CommandDraw
 from src.UserHistory import UserHistory
 from src.WudaoClient import WudaoClient
 from src.tools import is_alphabet
-from src.tools import ie
 
 
 class WudaoCommand:

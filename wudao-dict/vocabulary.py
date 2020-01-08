@@ -4,7 +4,7 @@
 先词形还原，再词频统计
 去掉简单的单词后，生成单词本
 '''
-import traceback,os,sys,json,socket,time
+import traceback,os,sys,json,socket,time,re
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
 from nltk import pos_tag
@@ -120,7 +120,7 @@ class vocabulary(object):
             print('removed_words:',len(words))
             return words
     def look_up_one(self,word):
-        #查询单个单词，返回：key(单词),ps（音标）,pattern（时态）,acceptation（释义）
+        #查询单个单词，返回：key(单词),ps（音标）,pattern（形态）,acceptation（释义）
         key = ''
         ps = ''
         pattern = ''
@@ -129,6 +129,9 @@ class vocabulary(object):
         word_info = None
         word = word.lower()
         self.client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        match =re.search('[a-z]',word)
+        if not match:
+            return
         beats = 0
         while True:
             try:
@@ -147,7 +150,6 @@ class vocabulary(object):
             if not rec:
                 break
             server_context += rec
-        self.client.sendall('---shutdown keyword---'.encode('utf-8'))
         self.client.close()
         server_context = server_context.decode('utf-8')
         server_context = server_context.strip()
@@ -174,8 +176,8 @@ class vocabulary(object):
 
     def get_look_up_result(self,words,text):
         '''
-        查词，返回字典列表，key(单词),ps（音标）,pattern（时态）,acceptation（释义）
-        key: 单词，ps: 音标，pattern:时态
+        查词，返回字典列表，key(单词),ps（音标）,pattern（形态）,acceptation（释义）
+        key: 单词，ps: 音标，pattern:形态
         '''
         data = []
         for i in range(len(words)):
@@ -186,8 +188,8 @@ class vocabulary(object):
         return data
     def look_up(self,word,text,data):
         '''
-        查词，返回字典列表，key(单词),ps（音标）,pattern（时态）,acceptation（释义）
-        key: 单词，ps: 音标，pattern:时态
+        查词，返回字典列表，key(单词),ps（音标）,pattern（形态）,acceptation（释义）
+        key: 单词，ps: 音标，pattern:形态
         '''
         if self.look_up_one(word):
             datum = {}
@@ -201,7 +203,7 @@ class vocabulary(object):
     def write_words(self,data):
         with open(self.save_filename,'w',encoding='utf-8') as f:
             for datum in data:
-                text = '{}\t{}\t{}'.format(datum['key'],datum['ps'],datum['pattern'])
+                text = '{}\t{} {}'.format(datum['key'],datum['ps'],datum['pattern'])
                 for paraphrase in datum['acceptation']:
                     text += '\n  ' + paraphrase
                 text += '\n\n'

@@ -40,5 +40,6 @@ class WudaoClient:
     def close(self):
         self.connect()
         if self.client:
-            self.client.sendall('---shutdown keyword---'.encode('utf-8'))
-            print('Server closed!')
+            #self.client.sendall('---shutdown keyword---'.encode('utf-8'))
+            #print('Server closed!')
+            self.client.close()

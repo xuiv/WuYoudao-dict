@@ -109,6 +109,7 @@ class MainWindow(QMainWindow):
                     # search in online cache first
                     word_info = self.history_manager.get_word_info(self.word)
                     if word_info:
+                        #print(word_info)
                         self.history_manager.add_item(self.word)
                         self.painter.draw_text(word_info, self.draw_conf)
                         self.ui.textBrowser.setHtml(self.painter.html)
