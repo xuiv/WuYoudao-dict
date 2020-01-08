@@ -68,7 +68,7 @@ issue: <a href="https://github.com/ChestnutHeng/Wudao-dict/issues/new">创建新
     sudo easy_install pip
     sudo pip install bs4
     sudo pip install lxml
-    sudo pip3 install nltk
+    sudo pip install nltk
     brew install bash-completion
     ```
 
