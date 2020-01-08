@@ -4,7 +4,7 @@
 先词形还原，再词频统计
 去掉简单的单词后，生成单词本
 '''
-import requests,re,threading,traceback,os,sys
+import requests,re,threading,traceback,os,sys,time
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 from nltk.stem import WordNetLemmatizer
@@ -133,26 +133,40 @@ class vocabulary(object):
         #调用金山词霸开放平台API
         #http://dict-co.iciba.com/api/dictionary.php?w=moose&key=4EE27DDF668AD6501DCC2DC75B46851B
         url = 'http://dict-co.iciba.com/api/dictionary.php?w={}&key=4EE27DDF668AD6501DCC2DC75B46851B'.format(word)
-        #print(url)
-        try:
-            resp = requests.get(url)
-            resp.encoding = 'utf-8'
-            soup = BeautifulSoup(resp.text,'html.parser')
-            key = soup.key.string
-            ps = '[{}]'.format(soup.ps.string)
-            pron = soup.pron.string
-            pos_list = soup.select('pos')
-            pos = pos_list[0].string
-            acceptation_list = soup.select('acceptation')
-            acceptation = pos_list[0].string + ' ' + acceptation_list[0].string.replace('\n','').replace('\r','')
-            for i in range(1,len(pos_list)):
-                #acceptation = acceptation + '<div>' + pos_list[i].string + ' '  + acceptation_list[i].string.replace('\n','').replace('\r','') + '</div>'
-                acceptation = acceptation + ' ' + pos_list[i].string + ' '  + acceptation_list[i].string.replace('\n','').replace('\r','') + ' '
-            return (key,ps,pron,pos,acceptation)
-        except:
-            #print(url)
-            #traceback.print_exc()
-            return None
+        match =re.search('[a-z]',word)
+        if not match:
+            return
+        beats = 0
+        blankbeats = 0
+        while True:
+            try:
+                resp = requests.get(url,timeout=12)
+                resp.encoding = 'utf-8'
+                soup = BeautifulSoup(resp.text,'html.parser')
+                key = soup.key.string
+                if key == '':
+                    if blankbeats >= 20:
+                        print('requests blank')
+                        break
+                    time.sleep(0.2)
+                    blankbeats += 1
+                    continue
+                ps = '[{}]'.format(soup.ps.string)
+                pron = soup.pron.string
+                pos_list = soup.select('pos')
+                pos = pos_list[0].string
+                acceptation_list = soup.select('acceptation')
+                acceptation = pos_list[0].string + ' ' + acceptation_list[0].string.replace('\n','').replace('\r','')
+                for i in range(1,len(pos_list)):
+                    #acceptation = acceptation + '<div>' + pos_list[i].string + ' '  + acceptation_list[i].string.replace('\n','').replace('\r','') + '</div>'
+                    acceptation = acceptation + ' ' + pos_list[i].string + ' '  + acceptation_list[i].string.replace('\n','').replace('\r','') + ' '
+                return (key,ps,pron,pos,acceptation)
+            except:
+                if beats >= 20:
+                    print('Error: requests data error --> ',word)
+                    break
+                time.sleep(0.2)
+                beats += 1
     def get_sen(self,word,text):
         #获取原文例句：
         pattern= '\\..*?{}.*?\\.'.format(word) #问题：大单词包含该小单词
