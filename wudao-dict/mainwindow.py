@@ -75,7 +75,7 @@ class MainWindow(QMainWindow):
                 if self.is_zh:
                     self.painter.draw_zh_text(wi, self.draw_conf)
                 else:
-                    self.history_manager.add_item(self.word)
+                    self.history_manager.add_item(wi)
                     self.painter.draw_text(wi, self.draw_conf)
                 self.ui.textBrowser.setHtml(self.painter.html)
             else:
