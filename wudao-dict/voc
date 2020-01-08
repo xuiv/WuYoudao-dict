@@ -1,0 +1,5 @@
+#!/bin/bash
+save_path=$PWD
+cd /opt/WuYoudao-dict/wudao-dict
+./make_vocabulary.sh $save_path
+cd $save_path

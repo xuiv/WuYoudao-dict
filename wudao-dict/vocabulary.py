@@ -10,7 +10,6 @@ from nltk.corpus import wordnet
 from nltk import pos_tag
 
 lemmatizer = WordNetLemmatizer()
-Max_lookup_connections = 5
 class vocabulary(object):
     def __init__(self,file,learned_words_file = 'learned_words.txt',save_path=''):
         '''
@@ -216,8 +215,13 @@ if __name__=='__main__':
     if len(sys.argv) == 2:
         file = sys.argv[1]
         work =  vocabulary(file,save_path = '')
-    if len(sys.argv) > 2:
+    if len(sys.argv) == 3:
         file = sys.argv[1]
         learned_words_file = sys.argv[2]
         work =  vocabulary(file,learned_words_file,save_path = '')
+    if len(sys.argv) > 3:
+        file = sys.argv[1]
+        learned_words_file = sys.argv[2]
+        save_path = sys.argv[3]
+        work =  vocabulary(file,learned_words_file,save_path)
     data = work.run()

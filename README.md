@@ -44,6 +44,7 @@ issue: <a href="https://github.com/ChestnutHeng/Wudao-dict/issues/new">创建新
     sudo apt-get install python3-pip
     sudo pip3 install bs4
     sudo pip3 install lxml
+    sudo pip3 install nltk
     ```
  
     #### OpenSUSE
@@ -51,6 +52,7 @@ issue: <a href="https://github.com/ChestnutHeng/Wudao-dict/issues/new">创建新
     sudo zypper install python3-pip
     sudo pip3 install bs4
     sudo pip3 install lxml
+    sudo pip3 install nltk
     ```
     #### CentOS
     ```
@@ -58,6 +60,7 @@ issue: <a href="https://github.com/ChestnutHeng/Wudao-dict/issues/new">创建新
     sudo yum install python34-pip
     sudo pip3 install bs4
     sudo pip3 install lxml
+    sudo pip3 install nltk
     ```
     #### MacOS
     ```
@@ -65,24 +68,35 @@ issue: <a href="https://github.com/ChestnutHeng/Wudao-dict/issues/new">创建新
     sudo easy_install pip
     sudo pip install bs4
     sudo pip install lxml
+    sudo pip3 install nltk
     brew install bash-completion
     ```
 
 2.  运行
     ```sh
-    git clone https://github.com/chestnutheng/wudao-dict
-    cd ./wudao-dict/wudao-dict
+    git clone https://github.com/xuiv/WuYoudao-dict.git
+    mv ./WuYoudao-dict/vocabulary/nltk_data ~/
+    sudo mkdir -p /opt
+    sudo mv ./WuYoudao-dict /opt/
+    cd /opt/WuYoudao-dict/wudao-dict
     sudo bash setup.sh #或者sudo ./setup.sh
     ```
 
     看到出现`Setup Finished!`表明安装成功。如果发生由于移动安装文件不能使用的情况，只需再次运行该脚本即可。
 
-无法clone的，可以下载 https://github.com/ChestnutHeng/Wudao-dict/archive/master.zip ,然后解压安装使用。
+无法clone的，可以下载 https://github.com/xuiv/WuYoudao-dict/archive/master.zip ,然后解压安装使用。
 
 **Note: 注意python的版本，只支持python3**
 
 
 ## 使用说明
+
+**生成英语文章词汇表的方法**
+把英语文档以utf8编码保存为.txt文本格式，放入单独的目录yourpath，进入此目录执行voc命令
+```
+cd ~/yourpath
+voc
+```
 
 运行`wd -h`查看使用说明。
 
