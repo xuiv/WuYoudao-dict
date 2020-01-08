@@ -1,0 +1,512 @@
+control	英 [kən'trəʊl] 美 [kən'trol] ( controlling, controlled, controls )
+  n. 控制；管理；抑制；操纵装置
+  vt. 控制；管理；抑制
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+affected	英 [ə'fektɪd] 美 [ə'fɛktɪd] 
+  adj. 受到影响的；做作的；假装的
+  vt. 影响；假装；使…感动（affect的过去式和过去分词）
+
+affect	英 [ə'fekt] 美 [ə'fɛkt] ( affecting, affected, affects )
+  vt. 影响；感染；感动；假装
+  vi. 倾向；喜欢
+  n. 情感；引起感情的因素
+
+Nigeria	英/美 [nai'dʒiəriə] 
+  n. 尼日利亚（位于非洲）
+
+unlikely	英 [ʌn'laɪklɪ] 美 [ʌn'laɪkli] ( unlikeliest )
+  adj. 不太可能的；没希望的
+  adv. 未必
+
+despite	英 [dɪ'spaɪt] 美 [dɪ'spaɪt] 
+  prep. 尽管，不管
+  n. 轻视；憎恨；侮辱
+
+fiscal	英 ['fɪsk(ə)l] 美 ['fɪskl] 
+  adj. 会计的，财政的；国库的
+  n. (Fiscal)人名；(法)菲斯卡尔
+
+victory	英 ['vɪkt(ə)rɪ] 美 ['vɪktəri] ( victories )
+  n. 胜利；成功；克服
+  n. (Victory)人名；(西)维多利；(英)维克托里
+
+analyst	英 ['æn(ə)lɪst] 美 ['ænəlɪst] ( analysts )
+  n. 分析者；精神分析医师；分解者
+
+reduce	英 [rɪ'djuːs] 美 [rɪ'dʊs] ( reducing, reduced, reduces )
+  vt. 减少；降低；使处于；把…分解
+  vi. 减少；缩小；归纳为
+
+compromise	英 ['kɒmprəmaɪz] 美 ['kɑmprəmaɪz] ( compromising, compromised, compromises )
+  vt. 妥协；危害
+  vi. 妥协；让步
+  n. 妥协，和解；折衷
+
+lawmaker	英 ['lɔːmeɪkə] 美 ['lɔmekɚ] ( lawmakers )
+  n. 立法者
+
+decrease	英 [dɪ'kriːs] 美 [dɪ'kris] ( decreasing, decreased, decreases )
+  n. 减少，减小；减少量
+  vi. 减少，减小
+  vt. 减少，减小
+
+republican	英 [rɪ'pʌblɪk(ə)n] 美 [rɪ'pʌblɪkən] ( republicans )
+  adj. 共和国的；共和政体的；共和主义的；拥护共和政体的
+  n. 共和主义者
+
+senate	英 ['senɪt] 美 ['sɛnət] ( Senates )
+  n. 参议院，上院；（古罗马的）元老院
+
+endemic	英 [en'demɪk] 美 [ɛn'dɛmɪk] 
+  adj. 地方性的；风土的
+  n. 地方病
+
+democratic	英 [demə'krætɪk] 美 ['dɛmə'krætɪk] 
+  adj. 民主的；民主政治的；大众的
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+decade	英 ['dekeɪd; dɪ'keɪd] 美 ['dɛked] ( decades )
+  n. 十年，十年期；十
+
+Asia	英 [ˈeɪʃn] 美 [ˈeɪʒn; eʒən] 
+  n. 亚洲
+
+Saharan	英/美 [sə'ha:rən] 
+  adj. 撒哈拉沙漠的；不毛的
+  n. 撒哈拉沙漠之人
+
+Christmas	英 [ˈkrɪsməs]  ( Christmases )
+  n. 圣诞节
+  圣诞节期间
+
+disease	英 [dɪ'ziːz] 美 [dɪ'ziz] ( diseases )
+  n. 病，[医] 疾病；弊病
+  vt. 传染；使…有病
+
+income	英 ['ɪnkʌm] 美 ['ɪnkʌm] ( incomes )
+  n. 收入，收益；所得
+
+result	英 [rɪ'zʌlt] 美 [rɪ'zʌlt] ( resulting, resulted, results )
+  n. 结果；成绩；答案；比赛结果
+  vi. 结果；导致；产生
+
+john	英 [dʒɒn] 美 [dʒɑn] ( johns )
+  n. 厕所
+
+official	英 [ə'fɪʃ(ə)l] 美 [əˈfɪʃəl; oʊˈfɪʃəl] ( officials )
+  adj. 官方的；正式的；公务的
+  n. 官员；公务员；高级职员
+
+rate	英 [reɪt] 美 [ret] ( rating, rated, rates )
+  n. 比率，率；速度；价格；等级
+  vt. 认为；估价；责骂
+  vi. 责骂；被评价
+  n. (Rate)人名；(法、塞)拉特
+
+Richard	英 ['ritʃəd] 美 [rɪ'ʃɑrd] 
+  n. 理查德（男子名）
+
+lead	英 [li:d;led] 美 [lid; lɛd] ( leading, led, leads )
+  n. 领导；铅；导线；榜样
+  vt. 领导；致使；引导；指挥
+  vi. 领导；导致；用水砣测深
+  adj. 带头的；最重要的
+  n. (Lead)人名；(英)利德
+
+track	英 [træk] 美 [træk] ( tracking, tracked, tracks )
+  n. 轨道；足迹，踪迹；小道
+  vt. 追踪；通过；循路而行；用纤拉
+  vi. 追踪；走；留下足迹
+
+health	英 [helθ] 美 [hɛlθ] 
+  n. 健康；卫生；保健；兴旺
+
+avert	英 [ə'vɜːt] 美 [ə'vɝt] ( averting, averted, averts )
+  vt. 避免，防止；转移
+
+plunge	英 [plʌn(d)ʒ] 美 [plʌndʒ] ( plunging, plunged, plunges )
+  n. 投入；跳进
+  vi. 突然地下降；投入；陷入；跳进
+  vt. 使陷入；使投入；使插入
+
+increase	英 [ɪn'kriːs] 美 ['ɪnkris] ( increasing, increased, increases )
+  n. 增加，增长；提高
+  vi. 增加，增大；繁殖
+  vt. 增加，加大
+  n. (Increase)人名；(英)英克里斯
+
+	 
+
+relatively	英 ['relətɪvlɪ] 美 ['rɛlətɪvli] 
+  adv. 相当地；相对地，比较地
+
+pas	英/美 [pɑː] 
+  n. 一种舞步
+  n. 优先权
+
+almost	英 ['ɔːlməʊst] 美 ['ɔlmost] 
+  adv. 差不多，几乎
+
+mosquito	英 [mɒ'skiːtəʊ] 美 [məˈskiːtoʊ] ( mosquitos )
+  n. 蚊子
+
+mandate	英 ['mændeɪt] 美 ['mændet] ( mandating, mandated, mandates )
+  n. 授权；命令，指令；委托管理；受命进行的工作
+  vt. 授权；托管
+
+support	英 [sə'pɔːt] 美 [sə'pɔrt] ( supporting, supported, supports )
+  vt. 支持，支撑，支援；扶持，帮助；赡养，供养
+  n. 支持，维持；支援，供养；支持者，支撑物
+
+prevent	英 [prɪ'vent] 美 [pri'vɛnt] ( preventing, prevented, prevents )
+  vt. 预防，防止；阻止
+  vi. 妨碍，阻止
+
+Barack	英 [bɑ:'ræk]  
+  n. 巴拉克（男子名）
+
+could	英 [kəd; kʊd] 美 [kəd; kʊd] 
+  aux. 能够
+  v. 能（can的过去式）
+
+measure	英 ['meʒə] 美 ['mɛʒɚ] ( measuring, measured, measures )
+  n. 测量；措施；程度；尺寸
+  vt. 测量；估量；权衡
+  vi. 测量；估量
+
+expansion	英 [ɪk'spænʃ(ə)n; ek-] 美 [ɪk'spænʃən] ( expansions )
+  n. 膨胀；阐述；扩张物
+
+although	英 [ɔːl'ðəʊ; ɒl-] 美 [ɔl'ðo] 
+  conj. 尽管；虽然；但是；然而
+
+insecticide	英 [ɪn'sektɪsaɪd] 美 [ɪn'sɛktɪsaɪd] ( insecticides )
+  n. 杀虫剂
+
+if	英 [ɪf] 美 [ɪf] 
+  conj. （表条件）如果；即使；是否；（表假设）假如
+  n. 条件；设想
+
+delay	英 [dɪ'leɪ] 美 [dɪ'le] ( delaying, delayed, delays )
+  vi. 延期；耽搁
+  vt. 延期；耽搁
+  n. 延期；耽搁；被耽搁或推迟的时间
+  n. (Delay)人名；(英)迪莱；(法)德莱
+
+statement	英 ['steɪtm(ə)nt] 美 ['stetmənt] ( statements )
+  n. 声明；陈述，叙述；报表，清单
+
+net	英 [net] 美 [nɛt] ( netting, netted, nets )
+  n. 网；网络；净利；实价
+  vi. 编网
+  vt. 得到；净赚；用网捕
+  adj. 纯粹的；净余的
+  n. (Net)人名；(法)内
+
+congress	英 ['kɒŋgres] 美 ['kɑŋɡrəs] ( congresses )
+  n. 国会；代表大会；会议；社交
+
+veto	英 ['viːtəʊ] 美 ['vito] ( vetoing, vetoed, vetoes )
+  n. 否决权
+  vt. 否决；禁止
+  vi. 否决；禁止
+
+shortage	英 ['ʃɔːtɪdʒ] 美 ['ʃɔrtɪdʒ] ( shortages )
+  n. 缺乏，缺少；不足
+
+proposal	英 [prə'pəʊz(ə)l] 美 [prə'pozl] ( proposals )
+  n. 提议，建议；求婚
+
+work	英 [wɜːk] 美 [wɝk] ( working, worked, works )
+  n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品
+  vt. 使工作；操作；经营；使缓慢前进
+  vi. 工作；运作；起作用
+  n. （英、埃塞）沃克（人名）
+
+boehner	 
+  博纳（人名）
+
+death	英 [deθ] 美 [dɛθ] ( deaths )
+  n. 死；死亡；死神；毁灭
+  n. (Death)人名；(英)迪阿思
+
+incidence	英 ['ɪnsɪd(ə)ns] 美 ['ɪnsɪdəns] ( incidences )
+  n. 发生率；影响；[光] 入射；影响范围
+
+malaria	英 [mə'leərɪə] 美 [mə'lɛrɪə] 
+  n. [内科] 疟疾；瘴气
+
+hardest	英/美 [hɑ:dɪst] 
+  adj. 极难的；困难的( hard的最高级 )；硬的；有力的；努力的
+
+American	英 [əˈmerɪkən] 美 [əˈmɛrɪkən] ( Americans )
+  n. 美国人
+  adj. 美国的
+
+recession	英 [rɪ'seʃ(ə)n] 美 [rɪ'sɛʃən] ( recessions )
+  n. 衰退；不景气；后退；凹处
+
+pass	英 [pɑːs] 美 [pæs] ( passing, passed, passes )
+  n. 及格；经过；护照；途径；传球
+  vi. 经过；传递；变化；终止
+  vt. 通过；经过；传递
+  n. (Pass)人名；(英、法、德、俄)帕斯
+
+deliver	英 [dɪ'lɪvə] 美 [dɪ'lɪvɚ] ( delivering, delivered, delivers )
+  vt. 交付；发表；递送；释放；给予（打击）；给…接生
+  vi. 实现；传送；履行；投递
+  n. 投球
+
+Thursday	英 ['θɜːzdeɪ; -dɪ] 美 [ˈθɝzde; ˈθɝzdɪ] ( Thursdays )
+  n. 星期四
+
+level	英 ['lev(ə)l] 美 ['lɛvl] ( levelling, leveled, levels )
+  n. 水平；标准；水平面
+  adj. 水平的；平坦的；同高的
+  vi. 瞄准；拉平；变得平坦
+  vt. 使同等；对准；弄平
+  n. (Level)人名；(法)勒韦尔
+
+spending	英 ['spendɪŋ] 美 ['spɛndɪŋ] ( spending, spent, spends )
+  n. 花费；开销
+  v. 花费；度过（spend的现在分词形式）
+
+percent	英 [pə'sent] 美 [pɚ'sɛnt] 
+  n. 百分比，百分率；部分；百分数
+  adj. 百分之…的
+  adv. 以百分之…地
+
+organization	英 [ˌɔːɡənaɪ'zeɪʃn] 美 [,ɔrɡənə'zeʃən] ( organizations )
+  n. 组织；机构；体制；团体
+
+stall	英 [stɔːl] 美 [stɔl] ( stalling, stalled, stalls )
+  n. 货摊；畜栏；托辞
+  vi. 停止，停转；拖延
+  vt. 拖延；使停转；使陷于泥中
+  n. (Stall)人名；(瑞典)斯塔尔
+
+earn	英 [ɜːn] 美 [ɝn] ( earning, earned, earns )
+  vt. 赚，赚得；获得，挣得；使得到；博得
+  n. (Earn)人名；(泰)炎
+
+earlier	英 ['ɜ:lɪə(r)] 美 ['ɝlɪr] 
+  adj. 早的；初期的 （early的比较级）
+  adv. 早地；早先的时候
+
+cliff	英 [klɪf] 美 [klɪf] ( cliffs )
+  n. 悬崖；绝壁
+  n. (Cliff)人名；(英)克利夫
+
+delivery	英 [dɪ'lɪv(ə)rɪ] 美 [dɪ'lɪvəri] ( deliveries )
+  n. [贸易] 交付；分娩；递送
+
+representative	英 [reprɪ'zentətɪv] 美 ['rɛprɪ'zɛntətɪv] ( representatives )
+  adj. 典型的，有代表性的；代议制的
+  n. 代表；典型；众议员
+
+medication	英 [medɪ'keɪʃ(ə)n] 美 ['mɛdɪ'keʃən] ( medications )
+  n. 药物；药物治疗；药物处理
+
+progress	英 ['prəʊgres] 美 ['prɑɡrɛs] ( progressing, progressed, progresses )
+  n. 进步，发展；前进
+  vi. 前进，进步；进行
+  n. (Progress)人名；(赞)普罗格雷斯
+
+obama	 
+  n. 奥巴马(姓)
+
+vote	英 [vəʊt] 美 [vot; voʊt] ( voting, voted, votes )
+  n. 投票，选举；选票；得票数
+  vt. 提议，使投票；投票决定；公认
+  vi. 选举，投票
+  n. (Vote)人名；(英、法)沃特
+
+shortly	英 ['ʃɔːtlɪ] 美 ['ʃɔrtli] 
+  adv. 立刻；简短地；唐突地
+
+fund	英 [fʌnd] 美 [fʌnd] ( funding, funded, funds )
+  n. 基金；资金；存款
+  vt. 投资；资助
+  n. (Fund)人名；(德)丰德
+
+extend	英 [ɪk'stend; ek-] 美 [ɪk'stɛnd] ( extending, extended, extends )
+  vt. 延伸；扩大；推广；伸出；给予；使竭尽全力；对…估价
+  vi. 延伸；扩大；伸展；使疏开
+
+uncertainty	英 [ʌn'sɜːt(ə)ntɪ; -tɪntɪ] 美 [ʌn'sɝtnti] ( uncertainties )
+  n. 不确定，不可靠
+
+global	英 ['gləʊb(ə)l] 美 ['ɡlobl] 
+  adj. 全球的；总体的；球形的
+
+democrat	英 ['deməkræt] 美 ['dɛməkræt] ( democrats )
+  n. 民主党人；民主主义者；民主政体论者
+
+Washington	英 [ˈwɒʃɪŋtən] 美 [ˈwɑʃɪŋtən] 
+  n. 华盛顿（美国州名，美国城市名，美国第一任总统，姓氏）
+
+renew	英 [rɪ'njuː] 美 [rɪ'nʊ] ( renewing, renewed, renews )
+  vt. 使更新；续借；续费；复兴；重申
+  vi. 更新；重新开始
+
+raise	英 [reɪz] 美 [rez] ( raising, raised, raises )
+  vt. 提高；筹集；养育；升起
+  vi. 上升
+  n. 高地；上升；加薪
+  n. (Raise)人名；(英)雷兹
+
+economy	英 [ɪ'kɒnəmɪ] 美 [ɪˈkɑnəmɪ] ( economies )
+  n. 经济；节约；理财
+  n. (Economy)人名；(英)伊科诺米
+
+predict	英 [prɪ'dɪkt] 美 [prɪ'dɪkt] ( predicting, predicted, predicts )
+  vt. 预报，预言；预知
+  vi. 作出预言；作预料，作预报
+
+Africa	英 ['æfrɪkə] 美 [ˈæfrɪkə] 
+  n. 非洲
+
+pose	英 [pəʊz] 美 [poz] ( posing, posed, poses )
+  vt. 造成，形成；摆姿势；装模作样；提出…讨论
+  vi. 摆姿势；佯装；矫揉造作
+  n. 姿势，姿态；装模作样
+
+tax	英 [tæks] 美 [tæks] ( taxing, taxed, taxes )
+  vt. 向…课税；使负重担
+  n. 税金；重负
+  n. (Tax)人名；(英、匈、捷)塔克斯
+
+against	英 [ə'genst; ə'geɪnst] 美 [əˈɡɛnst;əˈɡenst] 
+  prep. 反对，违反；靠；倚；防备
+  adj. 不利的；对立的
+
+rise	英 [raɪz] 美 [raɪz] ( rising, rose, risen, rises )
+  vi. 上升；增强；起立；高耸
+  vt. 使…飞起；使…浮上水面
+  n. 上升；高地；增加；出现
+
+sub	英 [sʌb] 美 [sʌb] ( subs )
+  n. 潜水艇；地铁；替补队员
+  vi. 代替
+
+spread	英 [spred] 美 [sprɛd] ( spreading, spread, spreads )
+  vi. 传播；伸展
+  vt. 传播，散布；展开；伸展；铺开
+  n. 传播；伸展
+  adj. 伸展的
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+largely	英 ['lɑːdʒlɪ] 美 ['lɑrdʒli] 
+  adv. 主要地；大部分；大量地
+
+chance	英 [tʃɑːns] 美 [tʃæns] ( chancing, chanced, chances )
+  n. 机会，际遇；运气，侥幸；可能性
+  vt. 偶然发生；冒……的险
+  vi. 碰巧；偶然被发现
+  n. (Chance)人名；(英)钱斯
+
+top	英 [tɒp] 美 [tɑp] ( tops )
+  n. 顶部，顶端；上部；首席；陀螺
+  vi. 高出，超越；结束；达到顶点
+  vt. 超越，超过；给…加盖；达到…的顶端
+  adj. 最高的，顶上的；头等的
+  n. (Top)人名；(英、土、意)托普
+
+Congo	英/美 ['kɔŋɡəu] (also congo)
+  n. 刚果（位于非洲中部）
+
+annual	英 ['ænjʊəl] 美 ['ænjuəl] ( annuals )
+  adj. 年度的；每年的
+  n. 年刊，年鉴；一年生植物
+
+rapid	英 ['ræpɪd] 美 ['ræpɪd] 
+  adj. 迅速的，急促的；飞快的；险峻的
+  n. 急流；高速交通工具，高速交通网
+
+action	英 ['ækʃ(ə)n] 美 ['ækʃən] ( actioning, actioned, actions )
+  n. 行动；活动；功能；战斗；情节
+  n. (Action)人名；(英)埃克申
+
+speaker	英 ['spiːkə] 美 ['spikɚ] ( speakers )
+  n. 演讲者；扬声器；说话者；说某种语言的人
+  n. (Speaker)人名；(英)斯皮克
+
+passing	英 ['pɑːsɪŋ] 美 ['pæsɪŋ] 
+  adj. 经过的；目前的；及格的；短暂的
+  n. 经过；及格；流逝；去世
+  adv. 非常
+  v. 通过；及格；许可；传送（pass的ing形式）
+  n. (Passing)人名；(德)帕辛
+
+January	英 ['dʒænjʊ(ə)rɪ] 美 ['dʒænjʊ'ɛri] ( Januaries )
+  n. 一月
+
+chamber	英 ['tʃeɪmbə] 美 [ˈtʃeɪmbər] ( chambers )
+  n. （身体或器官内的）室，膛；房间；会所
+  adj. 室内的；私人的，秘密的
+  vt. 把…关在室内；装填（弹药等）
+  n. (Chamber)人名；(英)钱伯
+
+republic	英 [rɪ'pʌblɪk] 美 [rɪ'pʌblɪk] ( republics )
+  n. 共和国；共和政体
+
+crisis	英 ['kraɪsɪs] 美 ['kraɪsɪs] ( crises /ˈkraɪsiːz/ )
+  n. 危机；危险期；决定性时刻
+  adj. 危机的；用于处理危机的
+
+threat	英 [θret] 美 [θrɛt] ( threats )
+  n. 威胁，恐吓；凶兆
+
+off	英 [ɒf] 美 [ɔf] 
+  prep. 离开；脱落
+  adv. 切断；走开
+  adj. 远离的；空闲的
+
+bill	英 [bɪl] 美 [bɪl] ( billing, billed, bills )
+  n. [法] 法案；广告；账单；[金融] 票据；钞票；清单
+  vt. 宣布；开账单；用海报宣传
+
+December	英 [dɪ'sembə] 美 [dɪ'sɛmbɚ] ( Decembers )
+  n. 十二月
+
+resurgence	英 [rɪ'sɜːdʒ(ə)ns] 美 [rɪ'sɝdʒəns] 
+  n. 复活；再现；再起
+
+abruptly	英/美 [ə'brʌptli] 
+  adv. 突然地；唐突地
+
+region	英 ['riːdʒ(ə)n] 美 ['ridʒən] ( regions )
+  n. 地区；范围；部位
+
+agreement	英 [ə'griːm(ə)nt] 美 [ə'grimənt] ( agreements )
+  n. 协议；同意，一致
+
+estimate	英 ['estɪmeɪt] 美 ['ɛstə,met] ( estimating, estimated, estimates )
+  vi. 估计，估价
+  n. 估计，估价；判断，看法
+  vt. 估计，估量；判断，评价
+
+vow	英 [vaʊ] 美 [vaʊ] ( vowing, vowed, vows )
+  n. 发誓；誓言；许愿
+  vt. 发誓；郑重宣告
+  vi. 发誓；郑重宣告
+
+India	英 ['ɪndɪə] 美 ['ɪndɪə] 
+  n. 印度（南亚国家）
+
+already	英 [ɔːl'redɪ] 美 [ɔl'rɛdi] 
+  adv. 已经，早已；先前
+
+symbolic	英 [sɪm'bɒlɪk] 美 [sɪm'bɑlɪk] 
+  adj. 象征的；符号的；使用符号的
+

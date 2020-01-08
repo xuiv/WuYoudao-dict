@@ -1,0 +1,445 @@
+commander	英 [kə'mɑːndə] 美 [kə'mændɚ] ( commanders )
+  n. 指挥官；司令官
+
+thousand	英 ['θaʊz(ə)nd] 美 ['θaʊznd] ( thousands )
+  n. 一千；一千个；许许多多
+  adj. 成千的；无数的
+
+Belgian	英/美 ['beldʒən] ( Belgians )
+  adj. 比利时的
+  n. 比利时人
+
+restrict	英 [rɪ'strɪkt] 美 [rɪ'strɪkt] ( restricting, restricted, restricts )
+  vt. 限制；约束；限定
+
+Russian	英 ['rʌʃ(ə)n] 美 ['rʌʃən] ( Russians )
+  adj. 俄国的；俄语的
+  n. 俄语；俄国人
+
+estimate	英 ['estɪmeɪt] 美 ['ɛstə,met] ( estimating, estimated, estimates )
+  vi. 估计，估价
+  n. 估计，估价；判断，看法
+  vt. 估计，估量；判断，评价
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+recent	英 ['riːs(ə)nt] 美 ['risnt] 
+  adj. 最近的；近代的
+
+Syria	英/美 ['si:riə; 'si-] 
+  n. 叙利亚共和国
+
+Wednesday	英 [ˈwenzdɪ] 美 [ˈwɛnzdɪ] ( Wednesdays )
+  n. 星期三
+
+amid	英 [ə'mɪd] 美 [ə'mɪd] 
+  prep. 在其中，在其间
+  n. (Amid)人名；(法、阿拉伯)阿米德
+
+dominate	英 ['dɒmɪneɪt] 美 ['dɑmɪnet] ( dominating, dominated, dominates )
+  vt. 控制；支配；占优势；在…中占主要地位
+  vi. 占优势；处于支配地位
+
+work	英 [wɜːk] 美 [wɝk] ( working, worked, works )
+  n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品
+  vt. 使工作；操作；经营；使缓慢前进
+  vi. 工作；运作；起作用
+  n. （英、埃塞）沃克（人名）
+
+establish	英 [ɪ'stæblɪʃ; e-] 美 [ɪˈstæblɪʃ] ( establishing, established, establishes )
+  vt. 建立；创办；安置
+  vi. 植物定植
+
+confirm	英 [kən'fɜːm] 美 [kən'fɝm] ( confirming, confirmed, confirms )
+  vt. 确认；确定；证实；批准；使巩固
+
+	 
+
+tight	英 [taɪt] 美 [taɪt] ( tighter, tightest )
+  adj. 紧的；密封的；绷紧的；麻烦的；严厉的；没空的；吝啬的
+  adv. 紧紧地；彻底地
+  n. (Tight)人名；(英)泰特
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+banner	英 ['bænə] 美 ['bænɚ] ( banners )
+  n. 横幅图片的广告模式
+  n. 旗帜，横幅,标语
+  n. 人名(英、德、罗)班纳
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+police	英 [pə'liːs] 美 [pə'lis] ( policing, policed, polices )
+  n. 警察，警方；治安
+  vt. 监督；管辖；维持治安；为…配备警察
+  adj. 警察的；有关警察的
+
+zone	英 [zəʊn] 美 [zon] ( zoning, zoned, zones )
+  n. 地带；地区；联防
+  vi. 分成区
+  vt. 使分成地带；环绕
+  n. (Zone)人名；(塞)佐内
+
+Europe	英 ['jʊrəp] 美 ['jʊrəp] 
+  n. 欧洲
+
+force	英 [fɔːs] 美 [fɔrs] ( forcing, forced, forces )
+  n. 力量；武力；军队；魄力
+  vt. 促使，推动；强迫；强加
+  n. (Force)人名；(意)福尔切；(英、法)福斯
+
+hotline	美 ['hɑtlaɪn] (also hot line)
+  n. 热线；热线电话，咨询电话
+
+Iraq	英 [ɪ'rɑ:k] 美 [ɪ'rɑk] 
+  n. 伊拉克（西南亚国家）
+
+summit	英 ['sʌmɪt] 美 ['sʌmɪt] ( summits )
+  n. 顶点；最高级会议；最高阶层
+  adj. 最高级的；政府首脑的
+
+terror	英 ['terə] 美 ['tɛrɚ] ( terrors )
+  n. 恐怖；恐怖行动；恐怖时期；可怕的人
+  n. (Terror)人名；(南非)特罗尔
+
+deployed	英/美 [di:'plɔi] ( deploying, deployed, deploys )
+  v. 部署（deploy的过去式）；展开
+
+Thursday	英 ['θɜːzdeɪ; -dɪ] 美 [ˈθɝzde; ˈθɝzdɪ] ( Thursdays )
+  n. 星期四
+
+first	英 [fɜːst] 美 [fɝst] 
+  adv. 第一；首先；优先；宁愿
+  n. 第一；开始；冠军
+  adj. 第一的；基本的；最早的
+  num. 第一
+  n. (First)人名；(英)弗斯特；(捷)菲尔斯特
+
+picket	英 ['pɪkɪt] 美 ['pɪkɪt] ( picketing, picketed, pickets )
+  n. 警戒哨；纠察队；[建] 尖木桩
+  vt. 派……担任纠察；用尖桩围住
+  vi. 担任纠察
+  n. (Picket)人名；(英)皮克特
+
+islamic	英/美 [iz'læmik] 
+  adj. 伊斯兰教的；穆斯林的
+
+security	英 [sɪ'kjʊərətɪ] 美 [sə'kjʊrəti] ( securities )
+  n. 安全；保证；证券；抵押品
+  adj. 安全的；保安的；保密的
+
+reduce	英 [rɪ'djuːs] 美 [rɪ'dʊs] ( reducing, reduced, reduces )
+  vt. 减少；降低；使处于；把…分解
+  vi. 减少；缩小；归纳为
+
+crow	英 [krəʊ] 美 [kro] ( crowing, crowed, crows )
+  vi. 啼叫；报晓
+  n. [鸟] 乌鸦；鸡鸣；撬棍
+
+England	英 [ˈɪŋɡlənd] 美 ['iŋɡlənd] 
+  n. 英格兰；英国
+
+tense	英 [tens] 美 [tɛns] ( tensing, tensed, tenser, tenses, tensest )
+  adj. 紧张的；拉紧的
+  vt. 变得紧张；使拉紧
+  vi. 拉紧，变得紧张
+  n. 时态
+
+Russia	英 ['rʌʃə] 美 ['rʌʃə] 
+  n. 俄罗斯
+
+avoid	英 [ə'vɒɪd] 美 [ə'vɔɪd] ( avoiding, avoided, avoids )
+  vt. 避免；避开，躲避；消除
+
+metro	英 ['metrəʊ] 美 ['mɛtro] (also Metro)
+  n. 地铁；大都市；伦敦地下铁道；麦德隆（财富500强公司之一，总部所在地德国，主要经营零售）
+
+lobby	英 ['lɒbɪ] 美 ['lɑbi] ( lobbying, lobbied, lobbies )
+  n. 大厅；休息室；会客室；游说议员的团体
+  vt. 对……进行游说
+  vi. 游说议员
+
+charge	英 [tʃɑːdʒ] 美 [tʃɑrdʒ] ( charging, charged, charges )
+  n. 费用；电荷；掌管；控告；命令；负载
+  vt. 使充电；使承担；指责；装载；对…索费；向…冲去
+  vi. 充电；控告；索价；向前冲；记在账上
+  n. (Charge)人名；(法)沙尔热；(英)查奇
+
+united	英 [jʊ'naɪtɪd] 美 [jʊ'naɪtɪd] 
+  adj. 一致的，统一的；团结的，和睦的
+
+trump	英 [trʌmp] 美 [trʌmp] ( trumping, trumped, trumps )
+  n. 王牌；法宝；喇叭
+  vt. 胜过；打出王牌赢
+  vi. 出王牌；吹喇叭
+  n. (Trump)人名；(英)特朗普
+
+obscenity	英 [əb'senɪtɪ] 美 [əb'sɛnəti] ( obscenities )
+  n. 猥亵，淫秽；猥亵的言语（或行为）
+
+central	英 ['sentr(ə)l] 美 ['sɛntrəl] 
+  adj. 中心的；主要的；中枢的
+  n. 电话总机
+
+terrorist	英 ['terərɪst] 美 ['tɛrərɪst] ( terrorists )
+  n. 恐怖主义者，恐怖分子
+
+prevent	英 [prɪ'vent] 美 [pri'vɛnt] ( preventing, prevented, prevents )
+  vt. 预防，防止；阻止
+  vi. 妨碍，阻止
+
+tighter	英/美 [tait] 
+  紧的（ tight的比较级 ）
+
+movement	英 ['muːvm(ə)nt] 美 ['muvmənt] ( movements )
+  n. 运动；活动；运转；乐章
+
+encounter	英 [ɪn'kaʊntə; en-] 美 [ɪn'kaʊntɚ] ( encountering, encountered, encounters )
+  vt. 遭遇，邂逅；遇到
+  n. 遭遇，偶然碰见
+  vi. 遭遇；偶然相遇
+
+current	英 ['kʌr(ə)nt] 美 [kɝ​ənt] ( currents )
+  adj. 现在的；流通的，通用的；最近的；草写的
+  n. （水，气，电）流；趋势；涌流
+  n. (Current)人名；(英)柯伦特
+
+demonstrator	英 ['demənstreɪtə] 美 ['dɛmən'stretɚ] ( demonstrators )
+  n. 示威者；论证者；指示者；证明者
+
+campaign	英 [kæm'peɪn] 美 [kæm'pen] ( campaigning, campaigned, campaigns )
+  vi. 作战；参加竞选；参加活动
+  n. 运动；活动；战役
+
+create	英 [kriː'eɪt] 美 [krɪ'et] ( creating, created, creates )
+  vt. 创造，创作；造成
+
+target	英 ['tɑːgɪt] 美 ['tɑrɡɪt] ( targetting, targetted, targets )
+  美国塔吉特公司
+
+territory	英 ['terɪt(ə)rɪ] 美 ['tɛrətɔri] ( territories )
+  n. 领土，领域；范围；地域；版图
+
+system	英 ['sɪstəm] 美 ['sɪstəm] ( systems )
+  n. 制度，体制；系统；方法
+
+extremely	英 [ɪk'striːmlɪ; ek-] 美 [ɪk'strimli] 
+  adv. 非常，极其；极端地
+
+terrorism	英 ['terərɪzəm] 美 ['tɛrərɪzəm] 
+  n. 恐怖主义；恐怖行动；恐怖统治
+
+within	英 [wɪð'ɪn] 美 [wɪ'ðɪn] 
+  prep. 在…之内
+  adv. 在内部
+  n. 里面
+
+east	英 [iːst] 美 [ist] (also East)
+  n. 东方；东风；东方国家
+  adj. 东方的；向东的；从东方来的
+  adv. 向东方，在东方
+  n. (East)人名；(英)伊斯特
+
+operation	英 [ɒpə'reɪʃ(ə)n] 美 [,ɑpə'reʃən] ( operations )
+  n. 操作；经营；[外科] 手术；[数][计] 运算
+
+Donald	英/美 ['dɒnəld] 
+  n. 唐纳德（男子名）
+
+counter	英 ['kaʊntə] 美 ['kaʊntɚ] ( countering, countered, counters )
+  n. 柜台；对立面；计数器；（某些棋盘游戏的）筹码
+  vt. 反击，还击；反向移动，对着干；反驳，回答
+  vi. 逆向移动，对着干；反驳
+  adj. 相反的
+  adv. 反方向地；背道而驰地
+
+leftist	英 ['leftɪst] 美 ['lɛftɪst] ( leftists )
+  n. 左派；急进派；左翼的人；左撇子
+  adj. 左派的；左撇子的；急进派的
+
+	 
+
+attack	英 [ə'tæk] 美 [ə'tæk] ( attacking, attacked, attacks )
+  n. 攻击；抨击；疾病发作
+  vt. 攻击；抨击；动手干
+  vi. 攻击；腐蚀
+  n. (Attack)人名；(瑞典)阿塔克
+
+engage	英 [ɪn'geɪdʒ; en-] 美 [ɪn'ɡedʒ] ( engaging, engaged, engages )
+  vt. 吸引，占用；使参加；雇佣；使订婚；预定
+  vi. 从事；答应，保证；交战；啮合
+
+gen	英 [dʒen] 美 [dʒɛn] 
+  n. 情报；一般布告
+  n. (Gen)人名；(法)让；(土、阿塞、土库)根
+
+anti	英 ['æntɪ] 美 ['æntaɪ] 
+  adj. 反对的
+  n. 反对者，反对论者
+  n. (Anti)人名；(意)安蒂；(阿拉伯)安提
+
+increase	英 [ɪn'kriːs] 美 ['ɪnkris] ( increasing, increased, increases )
+  n. 增加，增长；提高
+  vi. 增加，增大；繁殖
+  vt. 增加，加大
+  n. (Increase)人名；(英)英克里斯
+
+NATO	英/美 ['neitəu] 
+  abbr. 北大西洋公约组织（North Atlantic Treaty Organization）
+  n. (Nato)人名；(意)纳托
+
+Brussels	英/美 ['brʌsəlz] 
+  n. 布鲁塞尔（比利时首都）
+
+via	英 [ˈvaɪə，ˈviːə] 美 [ˈvaɪə, ˈviə] 
+  prep. 渠道，通过；经由
+
+potential	英 [pəˈtenʃl] 美 [pə'tɛnʃl] 
+  n. 潜能；可能性；[电] 电势
+  adj. 潜在的；可能的；势的
+
+sky	英 [skaɪ] 美 [skaɪ] ( skies )
+  n. 天空；顶点
+  vt. 把…投向空中；把…挂得过高
+  vi. 踢或击高空球；把桨叶翘得过高；飞涨
+  n. (Sky)人名；(英)斯凯
+
+criticism	英 ['krɪtɪsɪz(ə)m] 美 ['krɪtə'sɪzəm] ( criticisms )
+  n. 批评；考证；苛求
+
+obsolete	英 ['ɒbsəliːt] 美 [ɑbsəˌlit] 
+  adj. 废弃的；老式的
+  n. 废词；陈腐的人
+  vt. 淘汰；废弃
+
+patrol	英 [pə'trəʊl] 美 [pə'trol] ( patrolling, patrolled, patrols )
+  n. 巡逻；巡逻队；侦察队
+  vt. 巡逻；巡查
+  vi. 巡逻；巡查
+
+Manchester	英/美 ['mæntʃɪstə] 
+  n. 曼彻斯特（英格兰西北部一大城市）
+
+ahead	英 [ə'hed] 美 [ə'hɛd] 
+  adj. 向前；在前的；领先
+  adv. 向前地；领先地；在（某人或某事物的）前面；预先；在将来，为未来
+
+support	英 [sə'pɔːt] 美 [sə'pɔrt] ( supporting, supported, supports )
+  vt. 支持，支撑，支援；扶持，帮助；赡养，供养
+  n. 支持，维持；支援，供养；支持者，支撑物
+
+told	英 [təʊld] 美 [told] 
+  v. 告诉（tell的过去式）；讲述
+
+underground	英 [ʌndə'graʊnd] 美 [ʌndɚˈɡraʊnd] 
+  adv. 在地下；秘密地
+  adj. 地下的；秘密的；先锋派的
+  n. 地下；地铁；地道；地下组织；秘密活动；先锋派团体
+
+alliance	英 [ə'laɪəns] 美 [ə'laɪəns] ( alliances )
+  n. 联盟，联合；联姻
+
+peak	英 [piːk] 美 [pik] ( peaking, peaked, peaks )
+  n. 山峰；最高点；顶点；帽舌
+  vt. 使达到最高点；使竖起
+  vi. 消瘦；到达最高点；变憔悴
+  adj. 最高的；最大值的
+  n. (Peak)人名；(英)皮克
+
+disappointed	英 [dɪsə'pɒɪntɪd] 美 ['dɪsə'pɔɪntɪd] 
+  adj. 失望的，沮丧的；受挫折的
+
+airspace	英 ['eəspeɪs] 美 ['ɛr'spes] (also air space)
+  n. 空域；领空；空间
+
+strengthen	英 ['streŋθ(ə)n; -ŋkθ(ə)n] 美 ['strɛŋθn] ( strengthening, strengthened, strengthens )
+  vt. 加强；巩固
+  vi. 变强；变坚挺
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+communicate	英 [kə'mjuːnɪkeɪt] 美 [kə'mjunɪket] ( communicating, communicated, communicates )
+  vi. 通讯，传达；相通；交流；感染
+  vt. 传达；感染；显露
+
+against	英 [ə'genst; ə'geɪnst] 美 [əˈɡɛnst;əˈɡenst] 
+  prep. 反对，违反；靠；倚；防备
+  adj. 不利的；对立的
+
+effectively	英 [ɪ'fektɪvlɪ] 美 [ɪ'fɛktɪvli] 
+  adv. 有效地，生效地；有力地；实际上
+
+several	英 [ˈsevrəl] 美 [ˈsɛvrəl] 
+  adj. 几个的；各自的
+  pron. 几个；数个
+
+American	英 [əˈmerɪkən] 美 [əˈmɛrɪkən] ( Americans )
+  n. 美国人
+  adj. 美国的
+
+reporter	英 [rɪ'pɔːtə] 美 [rɪ'pɔrtɚ] ( reporters )
+  n. 记者
+
+fighter	英 ['faɪtə] 美 ['faɪtɚ] ( fighters )
+  n. 战士，斗争者；斗士；奋斗者；好战者
+
+heavily	英 ['hevɪlɪ] 美 ['hɛvɪli] 
+  adv. 沉重地；猛烈地；沉闷地
+
+LT	英/美 [el'ti:] 
+  abbr. 书信电报（letter message）；数据处理（Language Translation）
+
+march	英 [mɑːtʃ] 美 [mɑrtʃ] ( marching, marched, marches )
+  vi. （坚定地向某地）前进；行军，进军；游行示威；进展，进行
+  vt. 使前进；使行军
+  n. 行进，前进；行军；游行示威；进行曲
+
+middle	英 ['mɪd(ə)l] 美 ['mɪdl] ( middles )
+  adj. 中间的，中部的；中级的，中等的
+  n. 中间，中央；腰部
+
+insult	英 [ɪn'sʌlt] 美 [ɪn'sʌlt] ( insulting, insulted, insults )
+  vt. 侮辱；辱骂；损害
+  n. 侮辱；凌辱；无礼
+
+earlier	英 ['ɜ:lɪə(r)] 美 ['ɝlɪr] 
+  adj. 早的；初期的 （early的比较级）
+  adv. 早地；早先的时候
+
+misunderstanding	英 [,mɪsʌndə'stændɪŋ] 美 [,mɪsʌndɚ'stændɪŋ] ( misunderstandings )
+  n. 误解；误会；不和
+
+communication	英 [kəmjuːnɪ'keɪʃ(ə)n] 美 [kə,mjunɪ'keʃən] ( communications )
+  n. 通讯，[通信] 通信；交流；信函
+
+personnel	英 [pɜːsə'nel] 美 [,pɝsə'nɛl] 
+  n. 人事部门；全体人员
+  adj. 人员的；有关人事的
+
+mishap	英 ['mɪshæp] 美 ['mɪshæp] ( mishaps )
+  n. 灾祸；不幸事故；晦气
+
+effort	英 ['efət] 美 ['ɛfɚt] ( efforts )
+  n. 努力；成就
+
+Jeffrey	英/美 ['dʒefri] 
+  n. 杰弗里（男子名，等于Geoffrey）
+
+military	英 ['mɪlɪt(ə)rɪ] 美 ['mɪlətɛri] ( militaries )
+  adj. 军事的；军人的；适于战争的
+  n. 军队；军人
+
+protest	英 [prəˈtest;ˈprəʊtest] 美 [prəˈtɛst;protɛst] ( protesting, protested, protests )
+  vi. 抗议；断言
+  vt. 抗议；断言
+  n. 抗议
+  adj. 表示抗议的；抗议性的
+

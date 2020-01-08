@@ -1,0 +1,435 @@
+attitude	英 ['ætɪtjuːd] 美 ['ætɪtʊd] ( attitudes )
+  n. 态度；看法；意见；姿势
+
+locate	英 [lə(ʊ)'keɪt] 美 [ˈloˌket; loˈket] ( locating, located, locates )
+  vt. 位于；查找…的地点
+  vi. 定位；定居
+
+shoot	英 [ʃuːt] 美 [ʃut] ( shooting, shot, shoots )
+  vt. 射击，射中；拍摄；发芽；使爆炸；给…注射
+  vi. 射击；发芽；拍电影
+  n. 射击；摄影；狩猎；急流
+
+suspect	英 [ˈsʌspekt; (for v.) səˈspekt] 美 [sʌspɛkt; (for v.) səˈspɛkt] ( suspecting, suspected, suspects )
+  n. 嫌疑犯
+  adj. 可疑的；不可信的
+  vt. 怀疑；猜想
+  vi. 怀疑；猜想
+
+gunfire	英 ['gʌnfaɪə] 美 ['ɡʌnfaɪɚ] 
+  n. 炮火；炮火声
+
+down	英 [daʊn] 美 [daʊn] ( downing, downed, downs )
+  adv. 向下，下去；在下面
+  adj. 向下的
+  n. 软毛，绒毛；[地质] 开阔的高地
+  prep. 沿着，往下
+  vt. 打倒，击败
+  vi. 下降；下去
+  n. (Down)人名；(英)唐
+
+thousand	英 ['θaʊz(ə)nd] 美 ['θaʊznd] ( thousands )
+  n. 一千；一千个；许许多多
+  adj. 成千的；无数的
+
+dozen	英 ['dʌz(ə)n] 美 ['dʌzn] ( dozens )
+  n. 十二个，一打
+  adj. 一打的
+
+hallmark	英 ['hɔːlmɑːk] 美 ['hɔlmɑrk] ( hallmarks )
+  n. 特点；品质证明
+  vt. 给…盖上品质证明印记；使具有…标志
+  n. (Hallmark)人名；(英)霍尔马克
+
+abuse	英 [ə'bjuːz] 美 [ə'bjus] ( abusing, abused, abuses )
+  n. 滥用；虐待；辱骂；弊端；恶习，陋习
+  vt. 滥用；虐待；辱骂
+  n. (Abuse)人名；(英)阿比斯
+
+deputy	英 ['depjʊtɪ] 美 ['dɛpjuti] ( deputies )
+  n. 代理人，代表
+  adj. 副的；代理的
+
+degree	英 [dɪ'griː] 美 [dɪ'ɡri] ( degrees )
+  n. 程度，等级；度；学位；阶层
+
+festivity	英 [fe'stɪvɪtɪ] 美 [fɛ'stɪvəti] ( festivities )
+  n. 欢庆，欢宴；庆典；欢乐
+
+include	英 [ɪn'kluːd] 美 [ɪn'klud] ( including, included, includes )
+  vt. 包含，包括
+
+kilometer	英 ['kɪlə,mitɚ] 美 [ˈkɪləˌmitɚ; kəˈlɑmətɚ] 
+  n. [计量] 公里；[计量] 千米（等于kilometre）
+
+crystal	英 ['krɪst(ə)l] 美 ['krɪstl] ( crystals )
+  n. 结晶，晶体；水晶；水晶饰品
+  adj. 水晶的；透明的，清澈的
+  n. (Crystal)人名；(英)克里斯特尔，克丽丝特尔 (女名)
+
+exchange	英 [ɪks'tʃeɪndʒ; eks-] 美 [ɪks'tʃendʒ] ( exchanging, exchanged, exchanges )
+  n. 交换；交流；交易所；兑换
+  vt. 交换；交易；兑换
+  vi. 交换；交易；兑换
+
+	 
+
+commitment	英 [kə'mɪtm(ə)nt] 美 [kə'mɪtmənt] ( commitments )
+  n. 承诺，保证；委托；承担义务；献身
+
+injury	英 ['ɪn(d)ʒ(ə)rɪ] 美 ['ɪndʒəri] ( injuries )
+  n. 伤害，损害；受伤处
+
+wound	英 [wuːnd] 美 [wund] ( wounding, wounded, wounds )
+  n. 创伤，伤口
+  vt. 使受伤
+  vi. 受伤，伤害
+
+	 
+
+officer	英 ['ɒfɪsə] 美 ['ɔfɪsɚ] ( officers )
+  n. 军官，警官；公务员，政府官员；船长
+  vt. 指挥
+  n. (Officer)人名；(英)奥菲瑟
+
+	 
+
+threaten	英 ['θret(ə)n] 美 ['θrɛtn] ( threatening, threatened, threatens )
+  vt. 威胁；恐吓；预示
+  vi. 威胁；可能来临
+
+assault	英 [ə'sɔːlt; ə'sɒlt] 美 [ə'sɔlt] ( assaulting, assaulted, assaults )
+  n. 攻击；袭击
+  vt. 攻击；袭击
+  vi. 袭击；动武
+
+	 
+
+against	英 [ə'genst; ə'geɪnst] 美 [əˈɡɛnst;əˈɡenst] 
+  prep. 反对，违反；靠；倚；防备
+  adj. 不利的；对立的
+
+dawn	英 [dɔːn] 美 [dɔn] ( dawning, dawned, dawns )
+  n. 黎明；开端
+  vt. 破晓；出现；被领悟
+  n. (Dawn)人名；(西)道恩
+
+told	英 [təʊld] 美 [told] 
+  v. 告诉（tell的过去式）；讲述
+
+Sunday	英 [ˈsʌndeɪ; ˈsʌndi] 美 [ˈsʌnde; ˈsʌndi] ( Sundays )
+  n. 星期日；礼拜日
+
+highland	英 ['haɪlənd] 美 ['haɪlənd] 
+  n. 高地；丘陵地带
+  adj. 高原的；高地的
+
+Jonas	英/美 ['dʒəunəs] (also Jonas)
+  n. 乔纳斯（人名）
+
+slid	英 [slɪd] 美 [slɪd] ( sliding, slid, slides )
+  v. 滑；滑落；不知不觉地陷入（slide的过去分词）
+
+others	英 [ˈʌðə(r)z] 美 [ʌðɚz] ( others )
+  pron. 其他人
+
+button	英 [ˈbʌtn] 美 ['bʌtn] ( buttoning, buttoned, buttons )
+  n. 按钮；纽扣
+  vt. 扣住；扣紧；在…上装纽扣
+  vi. 扣住；装有纽扣；扣上纽扣
+  n. (Button)人名；(英)巴顿
+
+gunman	英 ['gʌnmən] 美 ['ɡʌnmən] ( gunmen )
+  n. 枪手；持枪歹徒
+
+Carey	英/美 ['kεəri; 'kæri] 
+  n. 凯里（等于Cary）
+
+movement	英 ['muːvm(ə)nt] 美 ['muvmənt] ( movements )
+  n. 运动；活动；运转；乐章
+
+south	英 [saʊθ] 美 [saʊθ] (also South)
+  n. 南方，南边；南部
+  adv. 在南方，向南方
+  adj. 南的，南方的
+  n. (South)人名；(老)苏；(英)索思
+
+crowd	英 [kraʊd] 美 [kraʊd] ( crowding, crowded, crowds )
+  n. 群众,一伙;一堆,许多,大众
+  v. 拥挤,挤满,挤进
+  vt. 挤满,将...塞进;催促,催逼
+  vi. 挤,拥挤,聚集
+
+kill	英 [kɪl] 美 [kɪl] ( killing, killed, kills )
+  vt. 杀死；扼杀；使终止；抵消
+  vi. 杀死
+  n. 杀戮；屠杀
+  adj. 致命的；致死的
+  n. (Kill)人名；(德)基尔
+
+social	英 ['səʊʃ(ə)l] 美 ['soʃl] 
+  adj. 社会的，社交的；群居的
+  n. 联谊会；联欢会
+
+Denver	英/美 ['denvə] 
+  n. 丹佛（地名，美国城市）
+
+York	英 [jɔːk] 美 [jɔːk] 
+  n. 约克郡；约克王朝
+
+security	英 [sɪ'kjʊərətɪ] 美 [sə'kjʊrəti] ( securities )
+  n. 安全；保证；证券；抵押品
+  adj. 安全的；保安的；保密的
+
+burke	英/美 [bə:k] 
+  vt. 秘密地除去；使人窒息而死
+  n. (Burke)人名；(德、俄、西、波)布尔克；(英)伯克
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+receive	英 [rɪ'siːv] 美 [rɪ'siv] ( receiving, received, receives )
+  vt. 收到；接待；接纳
+  vi. 接收
+
+shot	英 [ʃɒt] 美 [ʃɑt] ( shots )
+  n. 发射；炮弹；射手；镜头
+  adj. 用尽的；破旧的；杂色的，闪光的
+  v. 射击（shoot的过去式和过去分词）
+
+temperature	英 [temprətʃə(r)] 美 [ˈtempərtʃʊər; tɛmpɚ-ˌtʃʊr] ( temperatures )
+  n. 温度；体温；气温；发烧
+
+frosty	英 ['frɒstɪ] 美 ['frɔsti] ( frostier, frostiest )
+  adj. 结霜的，严寒的；冷淡的；灰白的
+
+victim	英 ['vɪktɪm] 美 ['vɪktɪm] ( victims )
+  n. 受害人；牺牲品；牺牲者
+
+standoff	英 ['stændɒf] 美 ['stændɔf] ( standoffs )
+  n. 和局；僵持；冷淡；平衡
+  adj. 冷淡的；有支架的
+
+	 
+
+saw	英 [sɔː] 美 [sɔ] ( sawing, sawed, sawn, saws )
+  vt. 看见；明白，了解；锯；锯成；锯开
+  vi. 锯；用锯；将某物锯成小块
+  n. 锯子；谚语
+  v. see的过去式
+
+fahrenheit	美 ['færən'haɪt] 
+  adj. 华氏的；华氏温度计的
+  n. 华氏温度计；华氏温标
+
+trump	英 [trʌmp] 美 [trʌmp] ( trumping, trumped, trumps )
+  n. 王牌；法宝；喇叭
+  vt. 胜过；打出王牌赢
+  vi. 出王牌；吹喇叭
+  n. (Trump)人名；(英)特朗普
+
+condolence	英 [kən'dəʊl(ə)ns] 美 [kən'doləns] ( condolences )
+  n. 哀悼；慰问
+
+non	英 [nɒn] 美 [nɑn] 
+  adv. 非，不
+  n. 投反对票的人，反对票
+  n. (Non)人名；(柬)嫩；(俄)诺恩
+
+brief	英 [briːf] 美 [brif] ( briefing, briefed, briefer, briefs, briefest )
+  adj. 简短的，简洁的；短暂的，草率的
+  n. 摘要，简报；概要，诉书
+  vt. 简报，摘要；作…的提要
+  n. (Brief)人名；(英)布里夫
+
+activist	英 ['æktɪvɪst] 美 ['æktɪvɪst] ( activists )
+  n. 积极分子；激进主义分子
+
+pole	英 [pəʊl] 美 [pol] ( poles )
+  n. 杆；极点；电极
+  vt. 用竿支撑
+  n. (Pole)人名；(英)波尔；(俄)波列；(塞)波莱
+
+awareness	英 [ə'weənəs] 美 [ə'wɛrnəs] 
+  n. 意识，认识；明白，知道
+  n. 人群对品牌或产品的认知
+
+daily	英 ['deɪlɪ] 美 ['delɪ] 
+  adj. 日常的；每日的
+  n. 日报；朝来夜去的女佣
+  adv. 日常地；每日；天天
+  n. (Daily)人名；(英)戴利
+
+pervasive	英 [pə'veɪsɪv] 美 [pɚ'vesɪv] 
+  adj. 普遍的；到处渗透的；流行的
+
+offer	英 ['ɒfə] 美 ['ɔfɚ] ( offering, offered, offers )
+  vt. 提供；出价；试图
+  n. 提议；出价；意图；录取通知书
+  vi. 提议；出现；献祭；求婚
+
+sheriff	英 ['ʃerɪf] 美 ['ʃɛrɪf] ( sheriffs )
+  n. 州长；郡治安官；执行吏
+  n. (Sheriff)人名；(英、葡)谢里夫；(阿拉伯)谢里夫
+
+confetti	英 [kən'fetɪ] 美 [kən'fɛti] 
+  n. （婚礼、狂欢节中抛撒的）五彩纸屑；（旧时狂欢节或庆祝场合抛撒的）糖果
+  n. (Confetti)人名；(意)孔费蒂
+
+incident	英 ['ɪnsɪd(ə)nt] 美 ['ɪnsɪdənt] ( incidents )
+  n. 事件，事变；插曲
+  adj. [光] 入射的；附带的；易发生的，伴随而来的
+
+barricade	英 [,bærɪ'keɪd] 美 ['bærɪ'ked] ( barricading, barricaded, barricades )
+  n. 街垒；路障；争论之处
+  vt. 设路障；阻碍
+
+sexual	英 ['sekʃʊəl; -sjʊəl] 美 [sɛkʃʊəl] 
+  adj. 性的；性别的；有性的
+
+celebrity	英 [sɪ'lebrɪtɪ] 美 [sə'lɛbrəti] ( celebrities )
+  n. 名人；名声
+
+harassment	英 ['hærəsm(ə)nt; hə'ræsm(ə)nt] 美 [hə'ræsmənt] 
+  n. 骚扰；烦恼
+
+celebrate	英 ['selɪbreɪt] 美 [sɛləˌbret] ( celebrating, celebrated, celebrates )
+  vt. 庆祝；举行；赞美；祝贺；宣告
+  vi. 庆祝；过节；举行宗教仪式
+
+accusation	英 [ækjʊ'zeɪʃ(ə)n] 美 [,ækju'zeʃən] ( accusations )
+  n. 控告，指控；谴责
+
+Mariah	英/美 [ma:rija] 
+  n. 玛丽亚（女子名）
+
+despite	英 [dɪ'spaɪt] 美 [dɪ'spaɪt] 
+  prep. 尽管，不管
+  n. 轻视；憎恨；侮辱
+
+domestic	英 [də'mestɪk] 美 [də'mɛstɪk] 
+  adj. 国内的；家庭的；驯养的；一心只管家务的
+  n. 国货；佣人
+
+annual	英 ['ænjʊəl] 美 ['ænjuəl] ( annuals )
+  adj. 年度的；每年的
+  n. 年刊，年鉴；一年生植物
+
+PRE	英/美 [pri] 
+  abbr. 炼油工程师（Petroleum Refining Engineer）
+
+civilian	英 [sɪ'vɪlj(ə)n] 美 [sə'vɪlɪən] ( civilians )
+  adj. 民用的；百姓的，平民的
+  n. 平民，百姓
+
+accompany	英 [ə'kʌmpənɪ] 美 [ə'kʌmpəni] ( accompanying, accompanied, accompanies )
+  vt. 陪伴，伴随；伴奏
+  vi. 伴奏，伴唱
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+complex	英 ['kɒmpleks] 美 [ˈkɑmplɛks;kəmˈplɛks] ( complexes )
+  adj. 复杂的；合成的
+  n. 复合体；综合设施
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+bottom	英 ['bɒtəm] 美 ['bɑtəm] ( bottoms )
+  n. 底部；末端；臀部；尽头
+  adj. 底部的
+  vt. 装底；测量深浅；查明真相
+  vi. 到达底部；建立基础
+  n. (Bottom)人名；(英)博顿
+
+	 
+
+congress	英 ['kɒŋgres] 美 ['kɑŋɡrəs] ( congresses )
+  n. 国会；代表大会；会议；社交
+
+performance	英 [pə'fɔːm(ə)ns] 美 [pɚ'fɔrməns] ( performances )
+  n. 性能；绩效；表演；执行；表现
+
+famed	英/美 [feɪmd] 
+  adj. 著名的
+
+	 
+
+hundred	英 ['hʌndrəd] 美 ['hʌndrəd] ( hundreds )
+  n. 一百；许多
+  adj. 一百的；许多的
+  num. 百；百个
+
+celebration	英 [selɪ'breɪʃ(ə)n] 美 [,sɛlɪ'breʃən] ( celebrations )
+  n. 庆典，庆祝会；庆祝；颂扬
+
+personnel	英 [pɜːsə'nel] 美 [,pɝsə'nɛl] 
+  n. 人事部门；全体人员
+  adj. 人员的；有关人事的
+
+police	英 [pə'liːs] 美 [pə'lis] ( policing, policed, polices )
+  n. 警察，警方；治安
+  vt. 监督；管辖；维持治安；为…配备警察
+  adj. 警察的；有关警察的
+
+profile	英 ['prəʊfaɪl] 美 ['profaɪl] ( profiles )
+  n. 侧面；轮廓；外形；剖面；简况
+  vt. 描…的轮廓；扼要描述
+  vi. 给出轮廓
+
+firework	英 ['faɪəwɜːk] 美 ['faɪɚwɝk] ( fireworks )
+  n. 烟火；激烈情绪
+
+colorado	英/美 [ˌkɒləˈrɑːdo] 
+  adj. （雪茄浓度、颜色）中等的
+
+member	英 ['membə] 美 ['mɛmbɚ] ( members )
+  n. 成员；会员；议员
+
+men	英 [men] 美 [mɛn] 
+  n. 男人，人类（man的复数）
+  n. (Men)人名；(日)面(姓)；(葡)梅恩；(柬)孟
+
+count	英 [kaʊnt] 美 [kaʊnt] ( counting, counted, counts )
+  vt. 计算；认为
+  vi. 计数；有价值
+  n. 计数；计算；伯爵
+  n. (Count)人名；(法、德、南非)伯爵(欧洲贵族头衔)， 康特(人名)
+
+Donald	英/美 ['dɒnəld] 
+  n. 唐纳德（男子名）
+
+respond	英 [rɪ'spɒnd] 美 [rɪ'spɑnd] ( responding, responded, responds )
+  vi. 回答；作出反应；承担责任
+  vt. 以…回答
+  n. 应答；唱和
+
+attention	英 [ə'tenʃ(ə)n] 美 [ə'tɛnʃən] 
+  n. 注意力；关心；立正！（口令）
+
+ranch	英 [rɑːn(t)ʃ] 美 [ræntʃ] ( ranches )
+  n. 大农场；大牧场
+  vi. 经营牧场；在牧场工作
+  vt. 经营牧场；在牧场饲养…
+
+frigid	英 ['frɪdʒɪd] 美 ['frɪdʒɪd] 
+  adj. 寒冷的，严寒的；冷淡的
+
+disturbance	英 [dɪ'stɜːb(ə)ns] 美 [dɪ'stɝbəns] ( disturbances )
+  n. 干扰；骚乱；忧虑
+
+nick	英 [nɪk] 美 [nɪk] ( nicking, nicked, nicks )
+  vt. 刻痕于；挑毛病；用刻痕记
+  n. 刻痕；缺口
+  vi. 刻痕；狙击
+

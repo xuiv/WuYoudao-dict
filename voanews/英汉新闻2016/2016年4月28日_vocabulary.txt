@@ -1,0 +1,463 @@
+academic	英 [ækə'demɪk] 美 [,ækə'dɛmɪk] ( academics )
+  adj. 学术的；理论的；学院的
+  n. 大学生，大学教师；学者
+
+apply	英 [ə'plaɪ] 美 [ə'plaɪ] ( applying, applied, applies )
+  vt. 申请；涂，敷；应用
+  vi. 申请；涂，敷；适用；请求
+
+reveal	英 [rɪ'viːl] 美 [rɪ'vil] ( revealing, revealed, reveals )
+  vt. 显示；透露；揭露；泄露
+  n. 揭露；暴露；门侧，窗侧
+
+association	英 [əˌsəʊsɪˈeɪʃn] 美 [ə,soʃɪ'eʃən] ( associations )
+  n. 协会，联盟，社团；联合；联想
+
+group	英 [gruːp] 美 [ɡrup] ( grouping, grouped, groups )
+  n. 组；团体
+  adj. 群的；团体的
+  vi. 聚合
+  vt. 把…聚集；把…分组
+
+subversion	英 [səb'vɜːʃən] 美 [səb'vɝʒən] 
+  n. 颠覆；破坏
+
+within	英 [wɪð'ɪn] 美 [wɪ'ðɪn] 
+  prep. 在…之内
+  adv. 在内部
+  n. 里面
+
+police	英 [pə'liːs] 美 [pə'lis] ( policing, policed, polices )
+  n. 警察，警方；治安
+  vt. 监督；管辖；维持治安；为…配备警察
+  adj. 警察的；有关警察的
+
+European	英 [ˌjʊərəˈpɪən] 美 ['jʊrə'piən] ( Europeans )
+  adj. 欧洲的；欧洲人的
+  n. 欧洲人
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+decide	英 [dɪ'saɪd] 美 [dɪ'saɪd] ( deciding, decided, decides )
+  vt. 决定；解决；判决
+  vi. 决定，下决心
+
+cancel	英 ['kæns(ə)l] 美 ['kænsl] ( cancelling, cancelled, cancels )
+  vt. 取消；删去
+  vi. 取消；相互抵消
+  vi. 取消，撤销
+  n. 取消，撤销
+  n. (Cancel)人名；(法)康塞尔
+
+overseas	英 [əʊvə'siːz] 美 [,ovɚ'siz] 
+  adv. 在海外，海外
+  adj. 海外的，国外的
+
+organization	英 [ˌɔːɡənaɪ'zeɪʃn] 美 [,ɔrɡənə'zeʃən] ( organizations )
+  n. 组织；机构；体制；团体
+
+legislation	英 [ledʒɪs'leɪʃ(ə)n] 美 [,lɛdʒɪs'leʃən] 
+  n. 立法；法律
+
+international	英 [ɪntə'næʃ(ə)n(ə)l] 美 [,ɪntɚ'næʃnəl] 
+  n. 国际组织；国际体育比赛；外国居留者；国际股票
+  adj. 国际的；两国（或以上）国家的；超越国界的；国际关系的；世界的
+
+separatism	英 ['sep(ə)rətɪz(ə)m] 美 ['sɛpərə,tɪzm] 
+  n. 分离主义
+
+personnel	英 [pɜːsə'nel] 美 [,pɝsə'nɛl] 
+  n. 人事部门；全体人员
+  adj. 人员的；有关人事的
+
+speech	英 [spiːtʃ] 美 [spitʃ] ( speeches )
+  n. 演讲；讲话；[语] 语音；演说
+
+accept	英 [əkˈsept] 美 [əkˈsɛpt] ( accepting, accepted, accepts )
+  vt. 接受；承认；承担；承兑；容纳
+  vi. 承认；同意；承兑
+
+member	英 ['membə] 美 ['mɛmbɚ] ( members )
+  n. 成员；会员；议员
+
+concern	英 [kən'sɜːn] 美 [kən'sɝn] ( concerning, concerned, concerns )
+  vt. 涉及，关系到；使担心
+  n. 关系；关心；关心的事；忧虑
+
+schedule	英 [ˈʃedju:l] 美 [ˈskedʒʊl; skɛdʒʊl] ( scheduling, scheduled, schedules )
+  vt. 安排，计划；编制目录；将……列入计划表
+  n. 时间表；计划表；一览表
+
+Europe	英 ['jʊrəp] 美 ['jʊrəp] 
+  n. 欧洲
+
+authority	英 [ɔː'θɒrɪtɪ] 美 [ə'θɔrəti] ( authorities )
+  n. 权威；权力；当局
+
+Chinese	英 [tʃaɪniːz]  ( Chinese )
+  n. 中文，汉语；中国人
+  adj. 中国的，中国人的；中国话的
+
+join	英 [dʒɒɪn] 美 [dʒɔɪn] ( joining, joined, joins )
+  vt. 参加；结合；连接
+  vi. 加入；参加；结合
+  n. 结合；连接；接合点
+  n. (Join)人名；(法)茹安
+
+law	英 [lɔː] 美 [lɔ] ( laws )
+  n. 法律；规律；法治；法学；诉讼；司法界
+  vi. 起诉；控告
+  vt. 控告；对…起诉
+  n. (Law)人名；(东南亚国家华语)刘；(英、缅、柬)劳
+
+necessary	英 [ˈnesəsərɪ] 美 [ˈnɛsəˌsɛri] 
+  adj. 必要的；必需的；必然的
+  n. 必需品
+  n. (Necessary)人名；(英)内塞瑟里
+
+human	英 ['hjuːmən] 美 ['hjumən] ( humans )
+  adj. 人的；人类的
+  n. 人；人类
+  n. (Human)人名；(英)休曼
+
+power	英 ['paʊə] 美 ['paʊɚ] ( powering, powered, powers )
+  n. 力量，能力；电力，功率；政权，势力；[数] 幂
+  vt. 激励；供以动力；使…有力量
+  vi. 快速前进
+  adj. 借影响有权势人物以操纵权力的
+  n. (Power)人名；(英、葡)鲍尔
+
+seeker	英 ['siːkə] 美 ['sikɚ] ( seekers )
+  n. 探求者；搜查人
+
+earlier	英 ['ɜ:lɪə(r)] 美 ['ɝlɪr] 
+  adj. 早的；初期的 （early的比较级）
+  adv. 早地；早先的时候
+
+prevent	英 [prɪ'vent] 美 [pri'vɛnt] ( preventing, prevented, prevents )
+  vt. 预防，防止；阻止
+  vi. 妨碍，阻止
+
+negatively	英 ['neɡətɪvlɪ] 美 ['nɛgətɪvli] 
+  adv. 消极地；否定地
+
+governmental	美 [,ɡʌvɚn'mɛntl] 
+  adj. 政府的；政治的；统治上的
+
+internal	英 [ɪn'tɜːn(ə)l] 美 [ɪn'tɝnl] 
+  n. 内脏；本质
+  adj. 内部的；里面的；体内的；（机构）内部的
+
+Austria	英/美 [ˈɒstrɪə] 
+  n. 奥地利
+
+official	英 [ə'fɪʃ(ə)l] 美 [əˈfɪʃəl; oʊˈfɪʃəl] ( officials )
+  adj. 官方的；正式的；公务的
+  n. 官员；公务员；高级职员
+
+migrant	英 ['maɪgr(ə)nt] 美 ['maɪɡrənt] ( migrants )
+  n. 候鸟；移居者；随季节迁移的民工
+  adj. 移居的；流浪的
+
+comment	英 ['kɒment] 美 ['kɑmɛnt] ( commenting, commented, comments )
+  n. 评论；意见；批评
+  vi. 发表评论；发表意见
+  vt. 为…作评语
+  n. (Comment)人名；(德)科门特；(法)科芒
+
+ki	英/美 [,keɪ 'aɪ] 
+  abbr. 基里巴斯（Kiribati）
+  n. (Ki)人名；(东南亚国家华语)纪；(印尼)基
+
+institution	英 [ɪnstɪ'tjuːʃ(ə)n] 美 [,ɪnstɪ'tuʃən] ( institutions )
+  n. 制度；建立；（社会或宗教等）公共机构；习俗
+
+legal	英 ['liːg(ə)l] 美 ['ligl] 
+  adj. 法律的；合法的；法定的；依照法律的
+  n. (Legal)人名；(法)勒加尔
+
+border	英 ['bɔːdə] 美 ['bɔrdɚ] ( bordering, bordered, borders )
+  n. 边境；边界；国界
+  vt. 接近；与…接壤；在…上镶边
+  vi. 接界；近似
+  n. (Border)人名；(英)博德
+
+ban	英 [bæn] 美 [bæn] ( banning, banned, bans )
+  vt. 禁止，取缔
+  n. 禁令，禁忌
+  n. (Ban)人名；(日)蕃(名)；(缅、老、柬)班；(东南亚国家华语)万；(法)邦；(中)饼(广东话·威妥玛)；(德、塞、罗、阿拉伯)巴恩；(英)班恩
+
+china	英 [ˈtʃaɪnə] 美 [ˈtʃaɪ.nə] 
+  n. 瓷器
+  adj. 瓷制的
+  n. China，中国
+  adj. China，中国的
+
+control	英 [kən'trəʊl] 美 [kən'trol] ( controlling, controlled, controls )
+  n. 控制；管理；抑制；操纵装置
+  vt. 控制；管理；抑制
+
+security	英 [sɪ'kjʊərətɪ] 美 [sə'kjʊrəti] ( securities )
+  n. 安全；保证；证券；抵押品
+  adj. 安全的；保安的；保密的
+
+abuse	英 [ə'bjuːz] 美 [ə'bjus] ( abusing, abused, abuses )
+  n. 滥用；虐待；辱骂；弊端；恶习，陋习
+  vt. 滥用；虐待；辱骂
+  n. (Abuse)人名；(英)阿比斯
+
+charity	英 ['tʃærɪtɪ] 美 ['tʃærəti] ( charities )
+  n. 慈善；施舍；慈善团体；宽容；施舍物
+
+ngo	 ( NGOs )
+  abbr. 非政府组织（Non-Governmental Organization）；民间组织
+  n. (Ngo)人名；(喀)恩戈；(柬)努
+
+general	英 ['dʒen(ə)r(ə)l] 美 ['dʒɛnrəl] ( generals )
+  adj. 一般的，普通的；综合的；大体的
+  n. 一般；将军，上将；常规
+  n. (General)人名；(英)杰纳勒尔
+
+partner	英 ['pɑːtnə] 美 ['pɑrtnɚ] ( partnering, partnered, partners )
+  n. 伙伴；合伙人；配偶
+  vi. 合伙；合股；成为搭档
+  vt. 使合作；与…合伙
+  n. (Partner)人名；(英、德)帕特纳
+
+could	英 [kəd; kʊd] 美 [kəd; kʊd] 
+  aux. 能够
+  v. 能（can的过去式）
+
+national	英 ['næʃ(ə)n(ə)l] 美 ['næʃnəl] ( nationals )
+  adj. 国家的；国民的；民族的；国立的
+  n. 国民
+
+such	英 [sʌtʃ] 美 [sʌtʃ] 
+  adj. 这样的，如此的
+  n. (Such)人名；(英)萨奇；(德)祖赫
+
+increase	英 [ɪn'kriːs] 美 ['ɪnkris] ( increasing, increased, increases )
+  n. 增加，增长；提高
+  vi. 增加，增大；繁殖
+  vt. 增加，加大
+  n. (Increase)人名；(英)英克里斯
+
+controversial	英 [kɒntrə'vɜːʃ(ə)l] 美 [,kɑntrə'vɝʃl] 
+  adj. 有争议的；有争论的
+
+threat	英 [θret] 美 [θrɛt] ( threats )
+  n. 威胁，恐吓；凶兆
+
+tab	英 [tæb] 美 [tæb] ( tabs )
+  n. 标签；制表；帐单
+  vt. 给…贴标签
+
+persecution	英 [pɜːsɪ'kjuːʃn] 美 [,pɝsɪ'kjʊʃən] ( persecutions )
+  n. 迫害；烦扰
+
+non	英 [nɒn] 美 [nɑn] 
+  adv. 非，不
+  n. 投反对票的人，反对票
+  n. (Non)人名；(柬)嫩；(俄)诺恩
+
+if	英 [ɪf] 美 [ɪf] 
+  conj. （表条件）如果；即使；是否；（表假设）假如
+  n. 条件；设想
+
+upper	英 ['ʌpə] 美 ['ʌpɚ] 
+  adj. 上面的，上部的；较高的
+  n. (Upper)人名；(英)厄珀
+
+temporary	英 ['temp(ə)rərɪ] 美 [ˈtempəreri] 
+  adj. 暂时的，临时的
+  n. 临时工，临时雇员
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+criticize	英 ['krɪtɪsaɪz] 美 ['krɪtə'saɪz] ( criticizing, criticized, criticizes )
+  vt. 批评；评论；非难
+  vi. 批评；评论；苛求
+  
+
+told	英 [təʊld] 美 [told] 
+  v. 告诉（tell的过去式）；讲述
+
+since	英 [sɪns] 美 [sɪns] 
+  conj. 因为；由于；既然；自…以来；自…以后
+  prep. 自…以来；自…以后
+  adv. 后来
+
+November	英 [nə(ʊ)'vembə] 美 [no'vɛmbɚ] ( Novembers )
+  n. 十一月
+
+impact	英 ['ɪmpækt] 美 [ɪm'pækt] ( impacting, impacted, impacts )
+  n. 影响；效果；碰撞；冲击力
+  vt. 挤入，压紧；撞击；对…产生影响
+  vi. 影响；撞击；冲突；压紧（on，upon，with）
+
+allow	英 [ə'laʊ] 美 [ə'laʊ] ( allowing, allowed, allows )
+  vt. 允许；给予；认可
+  vi. 容许；考虑
+
+detail	英 ['diːteɪl] 美 [dɪˈtel] ( detailing, detailed, details )
+  n. 细节，详情
+  vt. 详述；选派
+  vi. 画详图
+
+vote	英 [vəʊt] 美 [vot; voʊt] ( voting, voted, votes )
+  n. 投票，选举；选票；得票数
+  vt. 提议，使投票；投票决定；公认
+  vi. 选举，投票
+  n. (Vote)人名；(英、法)沃特
+
+grant	英 [grɑːnt] 美 [ɡrænt] ( granting, granted, grants )
+  vt. 授予；允许；承认
+  vi. 同意
+  n. 拨款；[法] 授予物
+  n. (Grant)人名；(瑞典、葡、西、俄、罗、英、塞、德、意)格兰特；(法)格朗
+
+permission	英 [pə'mɪʃ(ə)n] 美 [pɚ'mɪʃən] 
+  n. 允许，许可
+
+asylum	英 [ə'saɪləm] 美 [ə'saɪləm] ( asylums )
+  n. 庇护；收容所，救济院
+
+obligation	英 [ɒblɪ'geɪʃ(ə)n] 美 [,ɑblɪ'ɡeʃən] ( obligations )
+  n. 义务；职责；债务
+
+relative	英 ['relətɪv] 美 ['rɛlətɪv] ( relatives )
+  adj. 相对的；有关系的；成比例的
+  n. 亲戚；相关物；[语] 关系词；亲缘植物
+
+moral	英 ['mɒr(ə)l] 美 ['mɔrəl] ( morals )
+  adj. 道德的；精神上的；品性端正的
+  n. 道德；寓意
+  n. (Moral)人名；(德、法、西、葡、土)莫拉尔
+
+low	英 [ləʊ]  ( lower, lows, lowest )
+  adj. 低的，浅的；卑贱的；粗俗的；消沉的
+  adv. 低声地；谦卑地，低下地
+  n. 低；低价；低点；牛叫声
+  vi. 牛叫
+  n. (Low)人名；(英、德)洛
+
+parliament	英 ['pɑːləm(ə)nt] 美 ['pɑrləmənt] (also Parliament)
+  n. 议会，国会
+
+deem	英 [diːm] 美 [dim] ( deeming, deemed, deems )
+  vt. 认为，视作；相信
+  vi. 认为，持某种看法；作某种评价
+  n. (Deem)人名；(英)迪姆
+
+flee	英 [fliː] 美 [fli] ( fleeing, fled, flees )
+  vi. 逃走；消失，消散
+  vt. 逃跑，逃走；逃避
+
+legislator	英 ['ledʒɪsleɪtə] 美 ['lɛdʒɪsletɚ] ( legislators )
+  n. 立法者
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+measure	英 ['meʒə] 美 ['mɛʒɚ] ( measuring, measured, measures )
+  n. 测量；措施；程度；尺寸
+  vt. 测量；估量；权衡
+  vi. 测量；估量
+
+single	英 ['sɪŋg(ə)l] 美 ['sɪŋɡl] ( singles )
+  adj. 单一的；单身的；单程的
+  n. 一个；单打；单程票
+  vt. 选出
+  vi. 击出一垒安打
+
+Vienna	英/美 [vɪ'ɛnə] 
+  n. 维也纳（奥地利首都）
+
+restriction	英 [rɪ'strɪkʃ(ə)n] 美 [rɪ'strɪkʃən] ( restrictions )
+  n. 限制；约束；束缚
+
+recruiting	英 [rɪ'krʊtɪŋ] 美 [rɪ'krʊtɪŋ] ( recruiting, recruited, recruits )
+  n. 招聘；招募
+  v. 招募；聘请（recruit的ing形式）
+
+believe	英 [bɪ'liːv] 美 [bɪ'liv] ( believing, believed, believes )
+  vi. 信任；料想；笃信宗教
+  vt. 相信；认为；信任
+
+	 
+
+	 
+
+agency	英 ['eɪdʒ(ə)nsɪ] 美 ['edʒənsi] ( agencies )
+  n. 代理，中介；代理处，经销处
+
+pass	英 [pɑːs] 美 [pæs] ( passing, passed, passes )
+  n. 及格；经过；护照；途径；传球
+  vi. 经过；传递；变化；终止
+  vt. 通过；经过；传递
+  n. (Pass)人名；(英、法、德、俄)帕斯
+
+council	英 ['kaʊns(ə)l; -sɪl] 美 ['kaʊnsl] ( councils )
+  n. 委员会；会议；理事会；地方议会；顾问班子
+  n. (Council)人名；(英)康斯尔
+
+meeting	英 ['miːtɪŋ] 美 ['mitɪŋ] ( meetings )
+  n. 会议；会见；集会；汇合点
+  v. 会面；会合（meet的ing形式）
+
+promote	英 [prə'məʊt] 美 [prə'mot] ( promoting, promoted, promotes )
+  vt. 促进；提升；推销；发扬
+  vi. 成为王后或其他大于卒的子
+
+secretary	英 [ˈsekrətrɪ] 美 ['sɛkrətɛrɪ] ( secretaries )
+  n. 秘书；书记；部长；大臣
+
+lawmaker	英 ['lɔːmeɪkə] 美 ['lɔmekɚ] ( lawmakers )
+  n. 立法者
+
+compel	英 [kəm'pel] 美 [kəm'pɛl] ( compelling, compelled, compels )
+  vt. 强迫，迫使；强使发生
+  n. (Compel)人名；(法)孔佩尔
+
+impose	英 [ɪm'pəʊz] 美 [ɪm'poz] ( imposing, imposed, imposes )
+  vi. 利用；欺骗；施加影响
+  vt. 强加；征税；以…欺骗
+
+govern	英 ['gʌv(ə)n] 美 ['ɡʌvɚn] ( governing, governed, governs )
+  vt. 管理；支配；统治；控制
+  vi. 居支配地位；进行统治
+  n. (Govern)人名；(英)戈文
+
+mandate	英 ['mændeɪt] 美 ['mændet] ( mandating, mandated, mandates )
+  n. 授权；命令，指令；委托管理；受命进行的工作
+  vt. 授权；托管
+
+despite	英 [dɪ'spaɪt] 美 [dɪ'spaɪt] 
+  prep. 尽管，不管
+  n. 轻视；憎恨；侮辱
+
+description	英 [dɪ'skrɪpʃ(ə)n] 美 [dɪ'skrɪpʃən] ( descriptions )
+  n. 描述，描写；类型；说明书
+
+commitment	英 [kə'mɪtm(ə)nt] 美 [kə'mɪtmənt] ( commitments )
+  n. 承诺，保证；委托；承担义务；献身
+
+request	英 [rɪ'kwest] 美 [rɪ'kwɛst] ( requesting, requested, requests )
+  n. 请求；需要
+  vt. 要求，请求
+
+Thursday	英 ['θɜːzdeɪ; -dɪ] 美 [ˈθɝzde; ˈθɝzdɪ] ( Thursdays )
+  n. 星期四
+
+summon	英 ['sʌmən] 美 ['sʌmən] ( summoning, summoned, summons )
+  vt. 召唤；召集；鼓起；振作
+
+refugee	英 [refjʊ'dʒiː] 美 ['rɛfjʊdʒi] ( refugees )
+  n. 难民，避难者；流亡者，逃亡者
+

@@ -1,0 +1,537 @@
+accord	英 [ə'kɔːd] 美 [ə'kɔrd] ( according, accorded, accords )
+  n. 符合；一致；协议；自愿
+  vt. 使一致；给予
+  vi. 符合；一致
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+insurance	英 [ɪn'ʃʊər(ə)ns] 美 [ɪn'ʃʊrəns] ( insurances )
+  n. 保险；保险费；保险契约；赔偿金
+
+opening	英 ['əʊp(ə)nɪŋ] 美 ['opənɪŋ] ( openings )
+  n. 开始；机会；通路；空缺的职位
+  adj. 开始的
+  v. 开放（open的ing形式）；打开；公开
+
+aim	英 [eɪm] 美 [em] ( aiming, aimed, aims )
+  vt. 目的在于；引导；把…对准
+  vi. 打算；对准目标；瞄准
+  n. 目的；目标；对准
+
+draft	英 [drɑːft] 美 [dræft] ( drafting, drafted, drafts )
+  n. 汇票；草稿；选派；（尤指房间、烟囱、炉子等供暖系统中的）（小股）气流
+  vt. 起草；制定；征募
+  vi. 拟稿；绘样；作草图
+  adj. 初步画出或（写出）的；（设计、草图、提纲或版本）正在起草中的，草拟的；以草稿形式的；草图的
+
+paid	英 [peɪd] 美 [peɪd] 
+  adj. 付清的；已付的
+  vt. 支付（pay的过去式和过去分词）；付清
+
+part	英 [pɑːt] 美 [pɑrt] ( parts )
+  n. 部分；角色；零件；一些；片段
+  vt. 分离；分配；分开
+  vi. 断裂；分手
+  adv. 部分地
+  adj. 部分的
+  n. (Part)人名；(英、瑞典)帕特；(泰)巴；(法)帕尔
+
+ceremony	英 ['serɪmənɪ] 美 [ˈsɛrəˌmoʊni] ( ceremonies )
+  n. 典礼，仪式；礼节，礼仪；客套，虚礼
+
+often	英 ['ɒf(tə)n] 美 [ˈɔ:fn; ɔfən] 
+  adv. 常常，时常
+
+Beijing	英/美 [ˌbeɪˈdʒɪŋ] 
+  n. 北京（等于Peking或Pekin）
+
+deny	英 [dɪ'naɪ] 美 [dɪ'nai] ( denying, denied, denies )
+  vt. 否定，否认；拒绝给予；拒绝…的要求
+  vi. 否认；拒绝
+
+salary	英 ['sælərɪ] 美 ['sæləri] ( salaries )
+  vt. 给...加薪；给...薪水
+  n. 薪水
+
+amusement	英 [ə'mjuːzm(ə)nt] 美 [ə'mjuzmənt] ( amusements )
+  n. 消遣，娱乐；乐趣
+
+due	英 [djuː] 美 [du] 
+  adj. 到期的；预期的；应付的；应得的
+  n. 应付款；应得之物
+  adv. 正（置于方位词前）
+  n. (Due)人名；(英)迪尤
+
+employer	英 [ɪm'plɒɪə; em-] 美 [ɪm'plɔɪɚ] ( employers )
+  n. 雇主，老板
+
+congress	英 ['kɒŋgres] 美 ['kɑŋɡrəs] ( congresses )
+  n. 国会；代表大会；会议；社交
+
+unheard	英 [ʌn'hɜːd] 美 [ʌn'hɝd] 
+  adj. 听不到的；未被倾听的；不予理睬的
+
+political	英 [pə'lɪtɪk(ə)l] 美 [pə'lɪtɪkl] 
+  adj. 政治的；党派的
+
+workplace	英 ['wɜːkpleɪs] 美 ['wɝkples] (also work place)
+  n. 工作场所；车间
+
+care	英 [keə] 美 [kɛr] ( caring, cared, cares )
+  n. 关怀；照料；谨慎；忧虑
+  vi. 照顾；关心；喜爱；顾虑
+  vt. 在意；希望或喜欢
+  n. (Care)人名；(英)凯尔；(塞)察蕾
+
+festivity	英 [fe'stɪvɪtɪ] 美 [fɛ'stɪvəti] ( festivities )
+  n. 欢庆，欢宴；庆典；欢乐
+
+loan	英 [ləʊn] 美 [lon] ( loaning, loaned, loans )
+  n. 贷款；借款
+  vi. 借出
+  vt. 借；借给
+
+paltry	英 ['pɔːltrɪ; 'pɒl-] 美 ['pɔltri] 
+  adj. 不足取的；无价值的；琐碎的；卑鄙的
+
+intent	英 [ɪn'tent] 美 [ɪn'tɛnt] ( intents )
+  n. 意图；目的；含义
+  adj. 专心的；急切的；坚决的
+
+globalization	英/美 [ˌɡlobələ'zeʃn] 
+  n. 全球化
+
+infrastructure	英 ['ɪnfrəstrʌktʃə] 美 ['ɪnfrə'strʌktʃɚ] ( infrastructures )
+  n. 基础设施；公共建设；下部构造
+
+union	英 ['juːnjən; -ɪən] 美 ['junɪən] ( unions )
+  n. 联盟，协会；工会；联合
+
+unofficial	英/美 [,ʌnə'fɪʃl] 
+  adj. 非官方的；非正式的
+
+trap	英 [træp] 美 [træp] ( trapping, trapped, traps )
+  vt. 诱捕；使…受限制；使…陷入困境
+  n. 陷阱；圈套；[建] 存水湾
+  vi. 设陷阱
+  n. (Trap)人名；(英)特拉普
+
+labor	英 ['leɪbə(r)] 美 ['lebɚ] 
+  n. 劳动；工作；劳工；分娩
+  vi. 劳动；努力；苦干
+  vt. 详细分析；使厌烦
+  n. (Labor)人名；(德、塞、法)拉博尔；(英)拉博
+
+decade	英 ['dekeɪd; dɪ'keɪd] 美 ['dɛked] ( decades )
+  n. 十年，十年期；十
+
+risk	英 [rɪsk] 美 [rɪsk] ( risking, risked, risks )
+  n. 风险；危险；冒险
+  vt. 冒…的危险
+  n. (Risk)人名；(英、阿拉伯)里斯克
+
+aside	英 [ə'saɪd] 美 [ə'saɪd] 
+  adv. 离开，撇开；在旁边
+  n. 旁白；私语，悄悄话；离题的话
+  prep. 在…旁边
+
+deflect	英 [dɪ'flekt] 美 [dɪ'flɛkt] ( deflecting, deflected, deflects )
+  vt. 使转向；使偏斜；使弯曲
+  vi. 转向；偏斜
+
+data	英 ['deɪtə] 美 ['detə] 
+  n. 数据（datum的复数）；资料
+  n. (Data)人名；(日)驮太 (姓)；(印、葡)达塔
+
+dingy	英 ['dɪn(d)ʒɪ] 美 ['dɪndʒi] ( dingier, dingiest )
+  adj. 昏暗的；肮脏的
+
+trade	英 [treɪd] 美 [tred] ( trading, traded, trades )
+  n. 贸易，交易；行业；职业
+  vi. 交易，买卖；以物易物
+  vt. 用…进行交换
+
+xi	英 [ksaɪ; gzaɪ; saɪ; zaɪ] 美 [saɪ] 
+  n. 希腊字母的第14个字母；粒子（等于xi particle）
+
+vacation	英 [vəˈkeɪʃn] 美 [veˈkeʃən] ( vacationing, vacationed, vacations )
+  n. 假期；（房屋）搬出
+  vi. 休假，度假
+
+debt	英 [det] 美 [dɛt] ( debts )
+  n. 债务；借款；罪过
+
+cooperation	英 [kəʊ,ɒpə'reɪʃ(ə)n] 美 [ko,ɑpə'reʃən] 
+  n. 合作，协作；[劳经] 协力
+
+include	英 [ɪn'kluːd] 美 [ɪn'klud] ( including, included, includes )
+  vt. 包含，包括
+
+raise	英 [reɪz] 美 [rez] ( raising, raised, raises )
+  vt. 提高；筹集；养育；升起
+  vi. 上升
+  n. 高地；上升；加薪
+  n. (Raise)人名；(英)雷兹
+
+investment	英 [ɪn'ves(t)m(ə)nt] 美 [ɪn'vɛstmənt] ( investments )
+  n. 投资；投入；封锁
+
+recreation	英 [,rekrɪ'eɪʃ(ə)n] 美 [,rɛkrɪ'eʃən] ( recreations )
+  n. 娱乐；消遣；休养
+
+free	英 [friː] 美 [fri] ( freeing, freed, freer, frees, freest )
+  adj. 免费的；自由的，不受约束的；[化学] 游离的
+  vt. 使自由，解放；释放
+  adv. 自由地；免费
+  n. (Free)人名；(英)弗里
+
+Djibouti	英/美 [dʒə'bu:ti] 
+  n. 吉布提（东非一共和国及其首都）
+
+dwindle	英 ['dwɪnd(ə)l] 美 ['dwɪndl] ( dwindling, dwindled, dwindles )
+  vi. 减少；变小
+  vt. 使缩小，使减少
+
+effort	英 ['efət] 美 ['ɛfɚt] ( efforts )
+  n. 努力；成就
+
+initiative	英 [ɪ'nɪʃɪətɪv; -ʃə-] 美 [ɪ'nɪʃətɪv] ( initiatives )
+  n. 主动权；首创精神
+  adj. 主动的；自发的；起始的
+
+September	英 [sep'tembə] 美 [sɛp'tɛmbɚ] ( Septembers )
+  n. 九月
+
+recent	英 ['riːs(ə)nt] 美 ['risnt] 
+  adj. 最近的；近代的
+
+health	英 [helθ] 美 [hɛlθ] 
+  n. 健康；卫生；保健；兴旺
+
+technology	英 [tek'nɒlədʒɪ] 美 [tɛkˈnɑlədʒɪ] ( technologies )
+  n. 技术；工艺；术语
+
+growth	英 [grəʊθ] 美 [ɡroθ] ( growths )
+  n. 增长；发展；生长；种植
+
+triennial	英 [traɪ'enɪəl] 美 [traɪ'ɛnɪəl] 
+  adj. 每三年的；连续三年的
+  n. 三年生植物
+
+likely	英 ['laɪklɪ] 美 ['laɪkli] ( likelier, likeliest )
+  adj. 很可能的；合适的；有希望的
+  adv. 很可能；或许
+
+African	英 ['æfrɪk(ə)n] 美 ['æfrɪkən] ( Africans )
+  adj. 非洲的，非洲人的
+  n. 非洲人
+
+work	英 [wɜːk] 美 [wɝk] ( working, worked, works )
+  n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品
+  vt. 使工作；操作；经营；使缓慢前进
+  vi. 工作；运作；起作用
+  n. （英、埃塞）沃克（人名）
+
+medium	英 ['miːdɪəm] 美 ['midɪəm] ( media )
+  adj. 中间的，中等的；半生熟的
+  n. 方法；媒体；媒介；中间物
+
+benefit	英 ['benɪfɪt] 美 ['bɛnɪfɪt] ( benefitting, benefitted, benefits )
+  n. 利益，好处；救济金
+  vt. 有益于，对…有益
+  vi. 受益，得益
+
+august	英 [ɔ:ˈgʌst] 美 [ɔˈɡʌst] 
+  adj. 威严的；令人敬畏的
+  n. 八月（简写为Aug）
+  n. (August)人名；(法、葡、西、俄、罗、英、德、瑞典、挪)奥古斯特
+
+extend	英 [ɪk'stend; ek-] 美 [ɪk'stɛnd] ( extending, extended, extends )
+  vt. 延伸；扩大；推广；伸出；给予；使竭尽全力；对…估价
+  vi. 延伸；扩大；伸展；使疏开
+
+national	英 ['næʃ(ə)n(ə)l] 美 ['næʃnəl] ( nationals )
+  adj. 国家的；国民的；民族的；国立的
+  n. 国民
+
+university	英 [juːnɪ'vɜːsɪtɪ] 美 [,junɪ'vɝsəti] ( universities )
+  n. 大学；综合性大学；大学校舍
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+military	英 ['mɪlɪt(ə)rɪ] 美 ['mɪlətɛri] ( militaries )
+  adj. 军事的；军人的；适于战争的
+  n. 军队；军人
+
+June	英 [dʒu:n] 美 [dʒun] ( Junes )
+  n. 六月；琼（女名）
+
+honor	英 [ˈɒnə(r)] 美 [ɑnɚ] ( honoring, honored, honors )
+  n. 荣誉；信用；头衔
+  vt. 尊敬（等于honour）；给…以荣誉
+
+absolve	英 [əb'zɒlv] 美 [əb'zɑlv] ( absolving, absolved, absolves )
+  vt. 免除；赦免；宣告…无罪
+
+backyard	英 [bæk'jɑːd] 美 [,bæk'jɑrd] (also back yard)
+  n. 后院；后庭
+
+attach	英 [ə'tætʃ] 美 [ə'tætʃ] ( attaching, attached, attaches )
+  vt. 使依附；贴上；系上；使依恋
+  vi. 附加；附属；伴随
+
+Chinese	英 [tʃaɪniːz]  ( Chinese )
+  n. 中文，汉语；中国人
+  adj. 中国的，中国人的；中国话的
+
+funding	英 ['fʌndɪŋ] 美 ['fʌndɪŋ] 
+  n. 提供资金；用发行长期债券的方法来收回短期债券
+  v. 提供资金；积存（fund的ing形式）
+
+certain	英 ['sɜːt(ə)n; -tɪn] 美 ['sɝtn] 
+  adj. 某一；必然的；确信；无疑的；有把握的
+  pron. 某些；某几个
+  n. (Certain)人名；(葡)塞尔塔因；(法)塞尔坦
+
+level	英 ['lev(ə)l] 美 ['lɛvl] ( levelling, leveled, levels )
+  n. 水平；标准；水平面
+  adj. 水平的；平坦的；同高的
+  vi. 瞄准；拉平；变得平坦
+  vt. 使同等；对准；弄平
+  n. (Level)人名；(法)勒韦尔
+
+politician	英 [pɒlɪ'tɪʃ(ə)n] 美 [,pɑlə'tɪʃən] ( politicians )
+  n. 政治家，政客
+
+first	英 [fɜːst] 美 [fɝst] 
+  adv. 第一；首先；优先；宁愿
+  n. 第一；开始；冠军
+  adj. 第一的；基本的；最早的
+  num. 第一
+  n. (First)人名；(英)弗斯特；(捷)菲尔斯特
+
+pass	英 [pɑːs] 美 [pæs] ( passing, passed, passes )
+  n. 及格；经过；护照；途径；传球
+  vi. 经过；传递；变化；终止
+  vt. 通过；经过；传递
+  n. (Pass)人名；(英、法、德、俄)帕斯
+
+continue	英 [kən'tɪnjuː] 美 [kən'tɪnju] ( continuing, continued, continues )
+  vi. 继续，延续；仍旧，连续
+  vt. 继续说…；使…继续；使…延长
+
+trip	英 [trɪp] 美 [trɪp] ( tripping, tripped, trips )
+  vi. 绊倒；远足；犯错误；轻快地走
+  n. 旅行；绊倒；差错
+  vt. 绊倒；使犯错
+  n. (Trip)人名；(荷)特里普
+
+	 
+
+cookout	英/美 ['kʊkaʊt] ( cookouts )
+  n. （美）野外郊游时烹调的野餐；野烹食物
+  adj. 野外烹饮聚会的
+
+industrial	英 [ɪn'dʌstrɪəl] 美 [ɪn'dʌstrɪəl] 
+  adj. 工业的，产业的；从事工业的；供工业用的；来自勤劳的
+  n. 工业股票；工业工人
+
+Monday	英 [ˈmʌndeɪ; ˈmʌndi] 美 [ˈmʌnde; ˈmʌndɪ] ( Mondays )
+  n. 星期一
+
+gathering	英 ['gæð(ə)rɪŋ] 美 ['ɡæðərɪŋ] ( gatherings )
+  n. 聚集；集会；收款
+  v. 聚集（gather的ing形式）
+
+base	英 [beɪs] 美 [bes] ( basing, based, baser, basest, bases )
+  n. 基础；底部；垒
+  adj. 卑鄙的；低劣的
+  vt. 以…作基础
+  n. (Base)人名；(日)马濑(姓)
+
+original	英 [ə'rɪdʒɪn(ə)l; ɒ-] 美 [ə'rɪdʒənl] ( originals )
+  n. 原件；原作；原物；原型
+  adj. 原始的；最初的；独创的；新颖的
+
+string	英 [strɪŋ] 美 [strɪŋ] ( stringing, strung, strings )
+  n. 线，弦，细绳；一串，一行
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+Zambia	英/美 ['zæmbiə] 
+  n. 赞比亚（非洲中南部国）
+
+customary	英 ['kʌstəm(ə)rɪ] 美 ['kʌstə'mɛri] 
+  adj. 习惯的；通常的
+  n. 习惯法汇编
+
+parade	英 [pə'reɪd] 美 [pə'red] ( parading, paraded, parades )
+  n. 游行；阅兵；炫耀；行进；阅兵场
+  vt. 游行；炫耀；列队行进
+  vi. 游行；炫耀；列队行进
+  n. (Parade)人名；(法、德)帕拉德
+
+interest	英 ['ɪnt(ə)rɪst] 美 ['ɪntrəst] ( interesting, interested, interests )
+  n. 兴趣，爱好；利息；趣味；同行
+  vt. 使……感兴趣；引起……的关心；使……参与
+
+appear	英 [ə'pɪə] 美 [ə'pɪr] ( appearing, appeared, appears )
+  vi. 出现；显得；似乎；出庭；登场
+
+concern	英 [kən'sɜːn] 美 [kən'sɝn] ( concerning, concerned, concerns )
+  vt. 涉及，关系到；使担心
+  n. 关系；关心；关心的事；忧虑
+
+designate	英 ['dezɪgneɪt] 美 ['dɛzɪɡnet] ( designating, designated, designates )
+  vt. 指定；指派；标出；把…定名为
+  adj. 指定的；选定的
+
+research	英 [rɪ'sɜːtʃ; 'riːsɜːtʃ] 美 ['risɝtʃ] ( researching, researched, researches )
+  n. 研究；调查
+  vi. 研究；调查
+  vt. 研究；调查
+  [ 过去式 researched 过去分词 researched 现在分词 researching ]
+
+china	英 [ˈtʃaɪnə] 美 [ˈtʃaɪ.nə] 
+  n. 瓷器
+  adj. 瓷制的
+  n. China，中国
+  adj. China，中国的
+
+pledge	英 [pledʒ] 美 [plɛdʒ] ( pledging, pledged, pledges )
+  n. 保证，誓言；抵押；抵押品，典当物
+  vt. 保证，许诺；用……抵押；举杯祝……健康
+  n. (Pledge)人名；(英)普莱奇
+
+off	英 [ɒf] 美 [ɔf] 
+  prep. 离开；脱落
+  adv. 切断；走开
+  adj. 远离的；空闲的
+
+lead	英 [li:d;led] 美 [lid; lɛd] ( leading, led, leads )
+  n. 领导；铅；导线；榜样
+  vt. 领导；致使；引导；指挥
+  vi. 领导；导致；用水砣测深
+  adj. 带头的；最重要的
+  n. (Lead)人名；(英)利德
+
+united	英 [jʊ'naɪtɪd] 美 [jʊ'naɪtɪd] 
+  adj. 一致的，统一的；团结的，和睦的
+
+already	英 [ɔːl'redɪ] 美 [ɔl'rɛdi] 
+  adv. 已经，早已；先前
+
+stage	英 [steɪdʒ] 美 [stedʒ] ( staging, staged, stages )
+  n. 阶段；舞台；戏剧；驿站
+  vt. 举行；上演；筹划
+  vi. 举行；适于上演；乘驿车旅行
+  n. (Stage)人名；(英)斯特奇
+
+recently	英 ['riːsntlɪ] 美 ['risntli] 
+  adv. 最近；新近
+
+	 
+
+since	英 [sɪns] 美 [sɪns] 
+  conj. 因为；由于；既然；自…以来；自…以后
+  prep. 自…以来；自…以后
+  adv. 后来
+
+observe	英 [əb'zɜːv] 美 [əb'zɝv] ( observing, observed, observes )
+  vt. 庆祝
+  vt. 观察；遵守；说；注意到；评论
+  vi. 观察；说；注意到；评论
+
+common	英 ['kɒmən] 美 ['kɑmən] ( commons )
+  adj. 共同的；普通的；一般的；通常的
+  n. 普通；平民；公有地
+  n. (Common)人名；(法)科蒙；(英)康芒
+
+landscape	英 [ˈlændskeɪp] 美 [ˈlændskep] ( landscaping, landscaped, landscapes )
+  n. 风景；风景画；景色；山水画；乡村风景画；地形；（文件的）横向打印格式
+  vt. 对…做景观美化，给…做园林美化；从事庭园设计
+  vi. 美化（环境等），使景色宜人；从事景观美化工作，做庭园设计师
+
+forum	英 ['fɔːrəm] 美 ['fɔrəm] ( forums )
+  n. 论坛，讨论会；法庭；公开讨论的广场
+
+legislation	英 [ledʒɪs'leɪʃ(ə)n] 美 [,lɛdʒɪs'leʃən] 
+  n. 立法；法律
+
+economy	英 [ɪ'kɒnəmɪ] 美 [ɪˈkɑnəmɪ] ( economies )
+  n. 经济；节约；理财
+  n. (Economy)人名；(英)伊科诺米
+
+john	英 [dʒɒn] 美 [dʒɑn] ( johns )
+  n. 厕所
+
+contribution	英 [kɒntrɪ'bjuːʃ(ə)n] 美 [,kɑntrɪ'bjuʃən] ( contributions )
+  n. 贡献；捐献；投稿
+
+fought	英 [fɔːt] 美 [fɔt] 
+  v. 战斗（fight的过去分词）；打架
+
+argue	英 ['ɑːgjuː] 美 ['ɑrgjʊ] ( arguing, argued, argues )
+  vi. 争论，辩论；提出理由
+  vt. 辩论，争论；证明；说服
+  n. (Argue)人名；(英、法)阿格
+
+least	英 [liːst] 美 [list] 
+  adj. 最小的；最少的（little的最高级）
+  adv. 最小；最少
+  n. 最小；最少
+
+recognize	英 ['rekəɡnaɪz] 美 [ˈrɛkəɡˌnaɪz] ( recognizing, recognized, recognizes )
+  vt. 认出，识别；承认
+  vi. 确认，承认；具结
+
+membership	英 ['membəʃɪp] 美 ['mɛmbɚʃɪp] ( memberships )
+  n. 资格；成员资格；会员身份
+
+Hopkins	英/美 ['hɔpkinz] 
+  n. 霍普金（姓氏）
+
+wipe	英 [waɪp] 美 [waɪp] ( wiping, wiped, wipes )
+  vt. 擦；消除；涂上
+  vi. 擦；打
+  n. 擦拭；用力打
+
+reopen	英 [riː'əʊp(ə)n] 美 [,ri'opən] ( reopening, reopened, reopens )
+  vt. 使再开，使重开
+  vi. 重开
+
+Africa	英 ['æfrɪkə] 美 [ˈæfrɪkə] 
+  n. 非洲
+
+grape	英 [greɪp] 美 [ɡrep] ( grapes )
+  n. 葡萄；葡萄酒；葡萄树；葡萄色
+  n. (Grape)人名；(法)格拉普；(德、瑞典)格拉佩
+
+enhancement	英 [ɪn'hɑːnsm(ə)nt; en-] 美 [in'hænsmənt] ( enhancements )
+  n. 增加；放大
+
+diplomacy	英 [dɪ'pləʊməsɪ] 美 [dɪ'ploməsi] 
+  n. 外交；外交手腕；交际手段
+
+act	英 [ækt] 美 [ækt] ( acting, acted, acts )
+  美国大学入学考试，全称是American College Testing
+
+engage	英 [ɪn'geɪdʒ; en-] 美 [ɪn'ɡedʒ] ( engaging, engaged, engages )
+  vt. 吸引，占用；使参加；雇佣；使订婚；预定
+  vi. 从事；答应，保证；交战；啮合
+
+engagement	英 [ɪn'geɪdʒm(ə)nt; en-] 美 [ɪn'ɡedʒmənt] ( engagements )
+  n. 婚约；约会；交战；诺言
+  n. 参与度（指用户点赞、转发、评论、下载文档、观看视频、咨询等交互行为）
+
+overseas	英 [əʊvə'siːz] 美 [,ovɚ'siz] 
+  adv. 在海外，海外
+  adj. 海外的，国外的
+

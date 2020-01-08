@@ -1,0 +1,464 @@
+action	英 ['ækʃ(ə)n] 美 ['ækʃən] ( actioning, actioned, actions )
+  n. 行动；活动；功能；战斗；情节
+  n. (Action)人名；(英)埃克申
+
+narrow	英 ['nærəʊ] 美 ['næro] ( narrowing, narrowed, narrower, narrows, narrowest )
+  adj. 狭窄的，有限的；勉强的；精密的；度量小的
+  n. 海峡；狭窄部分，隘路
+  vt. 使变狭窄
+  vi. 变窄
+
+opponent	英 [ə'pəʊnənt] 美 [ə'ponənt] ( opponents )
+  n. 对手；反对者；敌手
+  adj. 对立的；敌对的
+
+crowd	英 [kraʊd] 美 [kraʊd] ( crowding, crowded, crowds )
+  n. 群众,一伙;一堆,许多,大众
+  v. 拥挤,挤满,挤进
+  vt. 挤满,将...塞进;催促,催逼
+  vi. 挤,拥挤,聚集
+
+china	英 [ˈtʃaɪnə] 美 [ˈtʃaɪ.nə] 
+  n. 瓷器
+  adj. 瓷制的
+  n. China，中国
+  adj. China，中国的
+
+friday	美 [ˈfraɪ.deɪ] ( Fridays )
+  n. 星期五；忠仆
+
+Washington	英 [ˈwɒʃɪŋtən] 美 [ˈwɑʃɪŋtən] 
+  n. 华盛顿（美国州名，美国城市名，美国第一任总统，姓氏）
+
+automaker	英/美 ['ɔ:təu,meikə] ( automakers )
+  n. 汽车制造商
+
+unemployment	英 [ʌnɪm'plɒɪm(ə)nt; -em-] 美 [,ʌnɪm'plɔɪmənt] 
+  n. 失业；失业率；失业人数
+
+harm	英 [hɑːm] 美 [hɑrm] ( harming, harmed, harms )
+  n. 伤害；损害
+  vt. 伤害；危害；损害
+  n. (Harm)人名；(德)哈尔姆
+
+percent	英 [pə'sent] 美 [pɚ'sɛnt] 
+  n. 百分比，百分率；部分；百分数
+  adj. 百分之…的
+  adv. 以百分之…地
+
+mixed	英 [mɪkst] 美 [mɪkst] 
+  adj. 混合的；形形色色的；弄糊涂的
+  v. 混合；弄混（mix的过去式和过去分词）
+
+allegedly	英 [ə'ledʒɪdlɪ] 美 [ə'lɛdʒɪdli] 
+  adv. 依其申述；据说，据称
+
+romney	英/美 ['rɔmni] 
+  n. 罗姆尼（男性名）；罗姆尼羊
+
+manager	英 ['mænɪdʒə] 美 ['mænɪdʒɚ] ( managers )
+  n. 经理；管理人员
+
+Toledo	英/美 [tə'li:dəu] 
+  n. 托莱多（美国港市）
+
+organization	英 [ˌɔːɡənaɪ'zeɪʃn] 美 [,ɔrɡənə'zeʃən] ( organizations )
+  n. 组织；机构；体制；团体
+
+election	英 [ɪ'lekʃ(ə)n] 美 [ɪ'lɛkʃən] ( elections )
+  n. 选举；当选；选择权；上帝的选拔
+
+first	英 [fɜːst] 美 [fɝst] 
+  adv. 第一；首先；优先；宁愿
+  n. 第一；开始；冠军
+  adj. 第一的；基本的；最早的
+  num. 第一
+  n. (First)人名；(英)弗斯特；(捷)菲尔斯特
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+such	英 [sʌtʃ] 美 [sʌtʃ] 
+  adj. 这样的，如此的
+  n. (Such)人名；(英)萨奇；(德)祖赫
+
+payroll	英 ['peɪrəʊl] 美 ['perol] ( payrolls )
+  n. 工资单；在册职工人数；工资名单
+
+challenge	英 ['tʃælɪn(d)ʒ] 美 ['tʃælɪndʒ] ( challenging, challenged, challenges )
+  n. 挑战；怀疑
+  vt. 向…挑战；对…质疑
+
+American	英 [əˈmerɪkən] 美 [əˈmɛrɪkən] ( Americans )
+  n. 美国人
+  adj. 美国的
+
+spending	英 ['spendɪŋ] 美 ['spɛndɪŋ] ( spending, spent, spends )
+  n. 花费；开销
+  v. 花费；度过（spend的现在分词形式）
+
+enter	英 ['entə] 美 ['ɛntɚ] ( entering, entered, enters )
+  vt. 进入；开始；参加
+  vi. 参加，登场；进去
+  n. [计] 输入；回车
+  n. (Enter)人名；(英)恩特
+
+Pennsylvania	英/美 [,pɛnsəl'veɪnjə] 
+  n. 宾夕法尼亚州（美国州名）
+
+fair	英 [feə] 美 [fɛr] ( fairer, fairs, fairest )
+  adj. 公平的；美丽的，白皙的；[气象] 晴朗的
+  adv. 公平地；直接地；清楚地
+  vi. 转晴
+  n. 展览会；市集；美人
+  n. (Fair)人名；(英、芬)费尔
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+politics	英 [ˈpɒlətɪks] 美 ['pɑlətɪks] 
+  n. 政治，政治学；政治活动；政纲
+
+campaign	英 [kæm'peɪn] 美 [kæm'pen] ( campaigning, campaigned, campaigns )
+  vi. 作战；参加竞选；参加活动
+  n. 运动；活动；战役
+
+employment	英 [ɪm'plɒɪm(ə)nt; em-] 美 [ɪm'plɔɪmənt] 
+  n. 使用；职业；雇用
+
+Barack	英 [bɑ:'ræk]  
+  n. 巴拉克（男子名）
+
+recent	英 ['riːs(ə)nt] 美 ['risnt] 
+  adj. 最近的；近代的
+
+successful	英 [sək'sesfʊl; -f(ə)l] 美 [sək'sɛsfl] 
+  adj. 成功的；一帆风顺的
+
+supply	英 [sə'plaɪ] 美 [sə'plaɪ] ( supplying, supplied, supplies )
+  n. 供给，补给；供应品
+  vt. 供给，提供；补充
+  vi. 供给；替代
+
+work	英 [wɜːk] 美 [wɝk] ( working, worked, works )
+  n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品
+  vt. 使工作；操作；经营；使缓慢前进
+  vi. 工作；运作；起作用
+  n. （英、埃塞）沃克（人名）
+
+champion	英 ['tʃæmpɪən] 美 ['tʃæmpɪən] ( championing, championed, champions )
+  n. 冠军；拥护者；战士
+  vt. 支持；拥护
+  adj. 优胜的；第一流的
+  n. (Champion)人名；(英)钱皮恩；(法)尚皮翁
+
+WTO	英/美 [,dʌblju: ti: 'əu] 
+  abbr. 世界贸易组织（World Trade Organization）；世界旅游组织（World Tourism Organization）；世界厕所组织（World Toilet Organization）；华沙条约组织（Warsaw Treaty Organization）
+
+crisis	英 ['kraɪsɪs] 美 ['kraɪsɪs] ( crises /ˈkraɪsiːz/ )
+  n. 危机；危险期；决定性时刻
+  adj. 危机的；用于处理危机的
+
+application	英 [ˌæplɪ'keɪʃ(ə)n] 美 [ˌæpləˈkeʃən] ( applications )
+  n. 应用；申请；应用程序；敷用
+
+employer	英 [ɪm'plɒɪə; em-] 美 [ɪm'plɔɪɚ] ( employers )
+  n. 雇主，老板
+
+economist	英 [ɪ'kɒnəmɪst] 美 [ɪ'kɑnəmɪst] ( economists )
+  n. 经济学者；节俭的人
+
+Ohio	英/美 [əu'haiəu] 
+  n. 俄亥俄州（美国一个州）
+
+firm	英 [fɜːm] 美 [fɝm] ( firmer, firmest, firms )
+  adj. 坚定的；牢固的；严格的；结实的
+  vt. 使坚定；使牢固
+  vi. 变坚实；变稳固
+  adv. 稳固地
+  n. 公司；商号
+
+rate	英 [reɪt] 美 [ret] ( rating, rated, rates )
+  n. 比率，率；速度；价格；等级
+  vt. 认为；估价；责骂
+  vi. 责骂；被评价
+  n. (Rate)人名；(法、塞)拉特
+
+wealthy	英 ['welθɪ] 美 ['wɛlθi] ( wealthier, wealthiest )
+  adj. 富有的；充分的；丰裕的
+  n. 富人
+
+jobless	英 ['dʒɒblɪs] 美 ['dʒɑbləs] 
+  adj. 失业的，无业的；（关于）失业者的
+  n. 失业者
+
+announce	英 [ə'naʊns] 美 [ə'naʊns] ( announcing, announced, announces )
+  vt. 宣布；述说；预示；播报
+  vi. 宣布参加竞选；当播音员
+
+duty	英 ['djuːtɪ] 美 ['dʊti] ( duties )
+  n. 责任；[税收] 关税；职务
+  n. (Duty)人名；(英)迪蒂
+
+lead	英 [li:d;led] 美 [lid; lɛd] ( leading, led, leads )
+  n. 领导；铅；导线；榜样
+  vt. 领导；致使；引导；指挥
+  vi. 领导；导致；用水砣测深
+  adj. 带头的；最重要的
+  n. (Lead)人名；(英)利德
+
+political	英 [pə'lɪtɪk(ə)l] 美 [pə'lɪtɪkl] 
+  adj. 政治的；党派的
+
+complex	英 ['kɒmpleks] 美 [ˈkɑmplɛks;kəmˈplɛks] ( complexes )
+  adj. 复杂的；合成的
+  n. 复合体；综合设施
+
+June	英 [dʒu:n] 美 [dʒun] ( Junes )
+  n. 六月；琼（女名）
+
+release	英 [rɪ'liːs] 美 [rɪ'lis] ( releasing, released, releases )
+  vt. 释放；发射；让与；允许发表
+  n. 释放；发布；让与
+
+average	英 ['æv(ə)rɪdʒ] 美 ['ævərɪdʒ] ( averaging, averaged, averages )
+  n. 平均；平均数；海损
+  adj. 平均的；普通的；通常的
+  vt. 算出…的平均数；将…平均分配；使…平衡
+  vi. 平均为；呈中间色
+
+poll	英 [pəʊl] 美 [pol] ( polling, polled, polls )
+  n. 投票；民意测验；投票数；投票所
+  vt. 投票；剪短；对…进行民意测验；获得选票
+  vi. 投票
+  adj. 无角的；剪过毛的；修过枝的
+  n. (Poll)人名；(德、匈、罗、英)波尔
+
+recession	英 [rɪ'seʃ(ə)n] 美 [rɪ'sɛʃən] ( recessions )
+  n. 衰退；不景气；后退；凹处
+
+Chinese	英 [tʃaɪniːz]  ( Chinese )
+  n. 中文，汉语；中国人
+  adj. 中国的，中国人的；中国话的
+
+ADP	英/美 [,eidi:'pi:] 
+  abbr. 自动数据处理（Automatic Data Processing）
+
+benefit	英 ['benɪfɪt] 美 ['bɛnɪfɪt] ( benefitting, benefitted, benefits )
+  n. 利益，好处；救济金
+  vt. 有益于，对…有益
+  vi. 受益，得益
+
+purchasing	英/美 ['pɝtʃəsɪŋ] ( purchasing, purchased, purchases )
+  n. [贸易] 采购（purchase的ing形式）；购买
+
+institute	英 ['ɪnstɪtjuːt] 美 ['ɪnstɪtut] ( instituting, instituted, institutes )
+  vt. 开始（调查）；制定；创立；提起（诉讼）
+  n. 学会，协会；学院
+
+mitt	英 [mɪt] 美 [mɪt] ( mitts )
+  n. 手；棒球手套；连指手套；女用露指长手套
+  n. (Mitt)人名；(瑞典)米特
+
+obama	 
+  n. 奥巴马(姓)
+
+decline	英 [dɪ'klaɪn] 美 [dɪ'klaɪn] ( declining, declined, declines )
+  n. 下降；衰退；斜面
+  vi. 下降；衰落；谢绝
+  vt. 谢绝；婉拒
+
+group	英 [gruːp] 美 [ɡrup] ( grouping, grouped, groups )
+  n. 组；团体
+  adj. 群的；团体的
+  vi. 聚合
+  vt. 把…聚集；把…分组
+
+united	英 [jʊ'naɪtɪd] 美 [jʊ'naɪtɪd] 
+  adj. 一致的，统一的；团结的，和睦的
+
+non	英 [nɒn] 美 [nɑn] 
+  adv. 非，不
+  n. 投反对票的人，反对票
+  n. (Non)人名；(柬)嫩；(俄)诺恩
+
+European	英 [ˌjʊərəˈpɪən] 美 ['jʊrə'piən] ( Europeans )
+  adj. 欧洲的；欧洲人的
+  n. 欧洲人
+
+auto	英 ['ɔːtəʊ] 美 ['ɔto] ( autos )
+  n. 汽车（等于automobile）；自动
+  vi. 乘汽车
+  n. (Auto)人名；(葡)奥托
+
+shrank	英 [ʃræŋk] 美 [ʃræŋk] 
+  v. 收缩（shrink的过去式）；缩小
+
+previous	英 ['priːvɪəs] 美 ['privɪəs] 
+  adj. 以前的；早先的；过早的
+  adv. 在先；在…以前
+
+economy	英 [ɪ'kɒnəmɪ] 美 [ɪˈkɑnəmɪ] ( economies )
+  n. 经济；节约；理财
+  n. (Economy)人名；(英)伊科诺米
+
+manufacturing	英 [,mænjʊ'fæktʃərɪŋ] 美 [,mænju'fæktʃərɪŋ] ( manufacturing, manufactured, manufactures )
+  adj. 制造的；制造业的
+  n. 制造业；工业
+  v. 制造；生产（manufacture的ing形式）
+
+Mr	英/美 [ˈmɪs.tər] 
+  abbr. 先生（Mister）
+
+complaint	英 [kəm'pleɪnt] 美 [kəm'plent] ( complaints )
+  n. 抱怨；诉苦；疾病；委屈
+
+announce	英 [ə'naʊns] 美 [ə'naʊns] ( announcing, announced, announces )
+  vt. 宣布；述说；预示；播报
+  vi. 宣布参加竞选；当播音员
+
+Thursday	英 ['θɜːzdeɪ; -dɪ] 美 [ˈθɝzde; ˈθɝzdɪ] ( Thursdays )
+  n. 星期四
+
+debt	英 [det] 美 [dɛt] ( debts )
+  n. 债务；借款；罪过
+
+stall	英 [stɔːl] 美 [stɔl] ( stalling, stalled, stalls )
+  n. 货摊；畜栏；托辞
+  vi. 停止，停转；拖延
+  vt. 拖延；使停转；使陷于泥中
+  n. (Stall)人名；(瑞典)斯塔尔
+
+ongoing	英 ['ɒngəʊɪŋ] 美 ['ɑnɡoɪŋ] 
+  adj. 不间断的，进行的；前进的
+  n. 前进；行为，举止
+
+practice	英 ['præktɪs] 美 ['præktɪs] ( practices )
+  n. 实践；练习；惯例
+  vi. 练习；实习；实行
+  vt. 练习；实习；实行
+
+republican	英 [rɪ'pʌblɪk(ə)n] 美 [rɪ'pʌblɪkən] ( republicans )
+  adj. 共和国的；共和政体的；共和主义的；拥护共和政体的
+  n. 共和主义者
+
+processing	英 [prəˈsesɪŋ] 美 [proˈsɛsɪŋ] ( processing, processed, processes )
+  v. 加工；[自] 处理；对…起诉（process的ing形式）
+
+told	英 [təʊld] 美 [told] 
+  v. 告诉（tell的过去式）；讲述
+
+portray	英 [pɔː'treɪ] 美 [pɔr'tre] ( portraying, portrayed, portrays )
+  vt. 描绘；扮演
+
+improvement	英 [ɪm'pruːvm(ə)nt] 美 [ɪm'prʊvmənt] ( improvements )
+  n. 改进，改善；提高
+
+anywhere	英 ['enɪweə] 美 ['ɛnɪwɛr] 
+  adv. 在任何地方；无论何处
+  n. 任何地方
+
+crucial	英 ['kruːʃ(ə)l] 美 ['krʊʃəl] 
+  adj. 重要的；决定性的；定局的；决断的
+
+trade	英 [treɪd] 美 [tred] ( trading, traded, trades )
+  n. 贸易，交易；行业；职业
+  vi. 交易，买卖；以物易物
+  vt. 用…进行交换
+
+against	英 [ə'genst; ə'geɪnst] 美 [əˈɡɛnst;əˈɡenst] 
+  prep. 反对，违反；靠；倚；防备
+  adj. 不利的；对立的
+
+while	英 [waɪl] 美 [hwaɪl] ( whiling, whiled, whiles )
+  conj. 虽然；然而；当……的时候
+  n. 一会儿；一段时间
+  vt. 消磨；轻松地度过
+
+believe	英 [bɪ'liːv] 美 [bɪ'liv] ( believing, believed, believes )
+  vi. 信任；料想；笃信宗教
+  vt. 相信；认为；信任
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+recovery	英 [rɪ'kʌv(ə)rɪ] 美 [rɪ'kʌvəri] ( recoveries )
+  n. 恢复，复原；痊愈；重获
+
+opinion	英 [ə'pɪnjən] 美 [ə'pɪnjən] ( opinions )
+  n. 意见；主张
+
+businessman	英 ['bɪznɪsmən] 美 ['bɪznəsmæn] ( businessmen )
+  n. 商人
+
+remain	英 [rɪ'meɪn] 美 [rɪ'men] ( remaining, remained, remains )
+  vi. 保持；依然；留下；剩余；逗留；残存
+  n. 遗迹；剩余物，残骸
+
+sovereign	英 ['sɒvrɪn] 美 [sɑvrɪn] ( sovereigns )
+  adj. 至高无上的；有主权的；拥有最高统治权的；不折不扣的；极好的
+  n. 君主；独立国；最高统治者
+  n. (Sovereign)人名；(英)索夫林
+
+November	英 [nə(ʊ)'vembə] 美 [no'vɛmbɚ] ( Novembers )
+  n. 十一月
+
+stalemate	英 ['steɪlmeɪt] 美 ['stelmet] ( stalemates )
+  n. 僵局；陷于困境
+  vt. 使僵持；使陷入困境
+  vi. 僵持；陷入僵局
+
+slightly	英 ['slaɪtlɪ] 美 ['slaɪtli] 
+  adv. 些微地，轻微地；纤细地
+
+department	英 [dɪ'pɑːtm(ə)nt] 美 [dɪ'pɑrtmənt] ( departments )
+  n. 部；部门；系；科；局
+
+management	英 ['mænɪdʒm(ə)nt] 美 ['mænɪdʒmənt] ( managements )
+  n. 管理；管理人员；管理部门；操纵；经营手段
+
+unfair	英 [ʌn'feə] 美 ['ʌn'fɛr] 
+  adj. 不公平的，不公正的
+
+accountable	英 [ə'kaʊntəb(ə)l] 美 [ə'kaʊntəbl] 
+  adj. 有责任的；有解释义务的；可解释的
+
+labor	英 ['leɪbə(r)] 美 ['lebɚ] 
+  n. 劳动；工作；劳工；分娩
+  vi. 劳动；努力；苦干
+  vt. 详细分析；使厌烦
+  n. (Labor)人名；(德、塞、法)拉博尔；(英)拉博
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+swing	英 [swɪŋ] 美 [swɪŋ] ( swinging, swung, swings )
+  n. 摇摆；摆动；秋千；音律；涨落
+  vi. 摇摆；转向；悬挂；大摇大摆地行走
+  vt. 使旋转；挥舞；悬挂
+  adj. 旋转的；悬挂的；强节奏爵士音乐的
+  n. (Swing)人名；(英、瑞典)斯温
+
+separate	英 [(for v.) ˈsepəreɪt; (for adj.) ˈseprət] 美 [(for v.) sɛpəˌret; (for adj.) sɛprɪt] ( separating, separated, separates )
+  vt. 使分离；使分开；使分居
+  vi. 分开；隔开；分居
+  adj. 单独的；分开的；不同的；各自的；
+  n. .分开；抽印本
+
+expect	英 [ɪkˈspekt] 美 [ɪk'spɛkt] ( expecting, expected, expects )
+  vt. 期望；指望；认为；预料
+  vi. 期待；预期
+
+global	英 ['gləʊb(ə)l] 美 ['ɡlobl] 
+  adj. 全球的；总体的；球形的
+
+general	英 ['dʒen(ə)r(ə)l] 美 ['dʒɛnrəl] ( generals )
+  adj. 一般的，普通的；综合的；大体的
+  n. 一般；将军，上将；常规
+  n. (General)人名；(英)杰纳勒尔
+

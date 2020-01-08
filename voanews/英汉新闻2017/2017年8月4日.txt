@@ -1,0 +1,71 @@
+解除“想哭”勒索软件威胁的英雄在美被捕
+
+今年早些时候发现“自毁开关”，有效阻止了“想哭”勒索软件袭击的英国黑客马库斯·哈钦斯被美国安全特工逮捕。
+
+哈钦斯今年23岁，是一名恶性软件研究员，网名为“恶性软件技工”。哈钦斯星期三在美国拉斯维加斯机场准备返回英国时被美国联邦调查局拘捕。他这次来拉斯维加斯是参加两个黑客会议。
+
+星期四公布的法庭文件显示，哈钦斯被控从事的非法黑客活动，跟“想哭”勒索软件袭击无关。
+
+路透社报道说，哈钦斯的罪名是推销和散布一种名叫 Kronos的恶性软件并从中牟利，这种软件在2014年7月到2015年7月间曾被用于盗取网上银行信息和信用卡数据。
+
+哈钦斯尚未发布公开声明。不过，他的母亲告诉伦敦电讯报说，她正努力打探儿子被关在哪里，估计“今天晚上会很忙”。
+
+哈钦斯今年五月因为解除了“想哭”勒索软件的杀伤力一夜之间成了英雄。这种勒索软件侵入了150多个国家里医院、学校、工厂和商店不计其数的电脑，英国国民保健服务的部分系统、美国联邦快递公司、德国铁路公司和西班牙电信公司都感染了病毒。
+
+“想哭”勒索软件的袭击最早是5月12日发现的，持续了整个周末。直到5月15日哈钦斯找到一种所谓的“自毁开关”，才有效阻止了袭击的蔓延。
+
+WannaCry Hero Arrested in US After Hacking Conference
+
+U.S. security agents have arrested the British hacker known for discovering a "kill switch" that nullified a widespread ransomware attack earlier this year.
+
+Marcus Hutchins, a 23-year-old malware researcher who uses the name Malware Tech, was detained by the FBI on Wednesday at the Las Vegas airport, where he was preparing to return to Britain after attending two hacking conferences in the city.
+
+Court documents unsealed on Thursday indicated Hutchins was arrested on hacking charges unrelated to the ransomware attack known as WannaCry.
+
+Reuters news agency reports Hutchins is accused of advertising, distributing and profiting from malware code known as Kronos that stole online banking credentials and credit card data between July 2014 and July 2015.
+
+Hutchins has not made a public statement, but his mother told London's Telegraph newspaper that she expected to be "rather busy tonight," trying to find out where her son is being held.
+
+Hutchins became an overnight hero in May after disabling the WannaCry worm, which infiltrated software in hundreds of thousands of computers in hospitals, schools, factories and shops in more than 150 countries. Parts of Britain's National Health Service were infected, as well as the FedEx delivery company, German rail Deutsche Bahn and Spain's Telefonica.
+
+The attack first became evident on May 12, 2017, and continued over the weekend. By May 15, Hutchins had discovered a so-called "kill switch" that disabled the worm.
+
+叙利亚中部新停火协议星期四得到了执行
+
+观察人员说，叙利亚中部霍姆斯省部分地区的停火星期四得到了执行，让老百姓有机会恢复正常生活。
+
+总部设在英国的叙利亚人权了望台报告说，没有发生违反停火的的现象。当地记者说，霍姆斯市的蔬菜水果市场都重新开张，孩子们也在街头玩耍。
+
+停火带来的平静也让人道救援工作者有机会将急需的援助物质送往当地。
+
+反对派活动人士告诉美联社说，“让人们重新开始生活，这一点很重要。”
+
+俄罗斯国防官员和叙利亚反叛武装代表上星期在开罗商定了霍姆斯北部地区的停火细节。
+
+俄罗斯外交部发言人说，停火区域内住着14万7千多人。
+
+俄罗斯、伊朗和土耳其在哈萨克斯坦谈判后同意在叙利亚暴力冲突最严重的一些地区建立“减战区”，谈判各方达成了四项停火协议，这是其中的第三项。
+
+叙利亚南部部分地区和大马士革外围的停火已经生效。伊德利卜省的第四个停火区尚未建成。
+
+与先前那些叙利亚停火协议一样，这四项协议并不适用于伊斯兰国或是跟基地组织有联系的武装分子。
+
+Observers Say New Cease-Fire in Central Syria Held Thursday
+
+A cease-fire in parts of Homs province in central Syria was held Thursday, observers say, giving civilians a chance to start putting their lives back together.
+
+The British-based Syrian Observatory for Human Rights reported no violations while reporters on the ground say fruit and vegetable markets reopened and children were back on the streets in the city of Homs.
+
+The quiet will also give humanitarian workers the chance to bring in badly-needed aid.
+
+"It's important that people can live again," an opposition activist told the Associated Press.
+
+Russian defense officials and representatives of the Syrian rebels worked out the details of the cease-fire in northern Homs last week in Cairo.
+
+Russian Defense Ministry spokesman Igor Konashenkov said the truce would affect an area that has a population of more than 147,000 people.
+
+This is the third of four truces reached during negotiations in Kazakhstan when Russia, Iran, and Turkey agreed to establish what they called "de-escalation" zones in some of the most violent areas of Syria.
+
+Cease-fires are also in effect in parts of southern Syria and an area outside Damascus. The fourth area in Idlib province has yet to be established.
+
+Like other cease-fire deals during the Syrian conflict, this one does not cover Islamic State fighters or those from al-Qaida-linked groups.

@@ -1,0 +1,465 @@
+public	英 ['pʌblɪk] 美 ['pʌblɪk] 
+  adj. 公众的；政府的；公用的；公立的
+  n. 公众；社会；公共场所
+  n. (Public)人名；(英)帕布利克
+
+crisis	英 ['kraɪsɪs] 美 ['kraɪsɪs] ( crises /ˈkraɪsiːz/ )
+  n. 危机；危险期；决定性时刻
+  adj. 危机的；用于处理危机的
+
+Shanghai	美 [,ʃæŋ'haɪ] 
+  n. 上海（中国东部港市）
+
+dollar	英 ['dɒlə] 美 ['dɑlɚ] ( dollars )
+  n. 美元
+  n. (Dollar)人名；(英)多拉尔
+
+investor	英 [ɪn'vestə] 美 [ɪn'vɛstɚ] ( investors )
+  n. 投资者
+
+nuclear	英 ['njuːklɪə] 美 ['nuklɪɚ] 
+  adj. 原子能的；[细胞] 细胞核的；中心的；原子核的
+
+stake	英 [steɪk] 美 [stek] ( staking, staked, stakes )
+  n. 桩，棍子；赌注；火刑；奖金
+  vt. 资助，支持；系…于桩上；把…押下打赌
+  vi. 打赌
+  n. (Stake)人名；(瑞典)斯塔克
+
+mostly	英 ['məʊs(t)lɪ] 美 ['mostli] 
+  adv. 主要地；通常；多半地
+
+secure	英 [sɪ'kjʊə; sɪ'kjɔː] 美 [sə'kjʊr] ( securing, secured, secures )
+  adj. 安全的；无虑的；有把握的；稳当的
+  vt. 保护；弄到；招致；缚住
+  vi. 获得安全；船抛锚；停止工作
+
+composite	英 ['kɒmpəzɪt] 美 [kɑm'pɑzɪt] ( composites )
+  n. 复合材料；合成物；菊科
+  adj. 复合的；合成的；菊科的
+  vt. 使合成；使混合
+
+flexible	英 ['fleksɪb(ə)l] 美 ['flɛksəbl] 
+  adj. 灵活的；柔韧的；易弯曲的
+
+midday	英 [mɪd'deɪ] 美 [,mɪd'de] 
+  n. 中午；正午
+  adj. 正午的
+
+delegation	英 [delɪ'geɪʃ(ə)n] 美 [,dɛlɪ'ɡeʃən] ( delegations )
+  n. 代表团；授权；委托
+
+international	英 [ɪntə'næʃ(ə)n(ə)l] 美 [,ɪntɚ'næʃnəl] 
+  n. 国际组织；国际体育比赛；外国居留者；国际股票
+  adj. 国际的；两国（或以上）国家的；超越国界的；国际关系的；世界的
+
+finalize	英 ['faɪn(ə)laɪz] 美 ['faɪnəlaɪz] ( finalizing, finalized, finalizes )
+  vt. 完成；使结束
+  vi. 把最后定下来；定案
+
+Beijing	英/美 [ˌbeɪˈdʒɪŋ] 
+  n. 北京（等于Peking或Pekin）
+
+proposal	英 [prə'pəʊz(ə)l] 美 [prə'pozl] ( proposals )
+  n. 提议，建议；求婚
+
+final	英 ['faɪn(ə)l] 美 ['faɪnl] ( finals )
+  adj. 最终的；决定性的；不可更改的
+  n. 决赛；期末考试；当日报纸的末版
+
+Greece	英/美 [ɡriːs] 
+  n. 希腊（欧州南部国家）
+
+frankly	英 ['fræŋklɪ] 美 ['fræŋkli] 
+  adv. 真诚地，坦白地
+
+reach	英 [riːtʃ] 美 [ritʃ] ( reaching, reached, reaches )
+  vi. 达到；延伸；伸出手；传开
+  vt. 达到；影响；抵达；伸出
+  n. 范围；延伸；河段；横风行驶
+  n. (Reach)人名；(柬)列
+
+default	英 [dɪ'fɔːlt; 'diːfɔːlt] 美 [dɪ'fɔlt] ( defaulting, defaulted, defaults )
+  vi. 拖欠；不履行；不到场
+  n. 违约；缺席；缺乏；系统默认值
+  vt. 不履行；不参加（比赛等）；对…处以缺席裁判
+
+elsewhere	英 [els'weə; 'elsweə]  
+  adv. 在别处；到别处
+
+meeting	英 ['miːtɪŋ] 美 ['mitɪŋ] ( meetings )
+  n. 会议；会见；集会；汇合点
+  v. 会面；会合（meet的ing形式）
+
+bailout	英 ['beɪlaʊt] 美 ['belaʊt] ( bailouts )
+  n. 紧急救助；跳伞
+
+value	英 ['væljuː] 美 ['vælju] ( valuing, valued, values )
+  n. 值；价值；价格；重要性；确切涵义
+  vt. 评价；重视；估价
+
+announce	英 [ə'naʊns] 美 [ə'naʊns] ( announcing, announced, announces )
+  vt. 宣布；述说；预示；播报
+  vi. 宣布参加竞选；当播音员
+
+remain	英 [rɪ'meɪn] 美 [rɪ'men] ( remaining, remained, remains )
+  vi. 保持；依然；留下；剩余；逗留；残存
+  n. 遗迹；剩余物，残骸
+
+percent	英 [pə'sent] 美 [pɚ'sɛnt] 
+  n. 百分比，百分率；部分；百分数
+  adj. 百分之…的
+  adv. 以百分之…地
+
+Iran	英/美 [i'rɑ:n; i'ræn] 
+  n. 伊朗（亚洲国家）
+
+chief	英 [tʃiːf] 美 [tʃif] ( chiefs )
+  n. 首领；酋长；主要部分
+  adj. 首席的；主要的；主任的
+  adv. 主要地；首要地
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+substantial	英 [səb'stænʃ(ə)l] 美 [səbˈstænʃəl] 
+  adj. 大量的；实质的；内容充实的
+  n. 本质；重要材料
+
+discontinues	英/美 [,diskən'tinju:] ( discontinuing, discontinued, discontinues )
+  中止
+
+currency	英 ['kʌr(ə)nsɪ] 美 [ˈkɜrənsi] ( currencies )
+  n. 货币；通货
+
+bounce	英 [baʊns] 美 [baʊns] ( bouncing, bounced, bounces )
+  n. 跳；弹力；活力
+  vt. 弹跳；使弹起
+  vi. 弹跳；弹起，反跳；弹回
+
+	 
+
+progress	英 ['prəʊgres] 美 ['prɑɡrɛs] ( progressing, progressed, progresses )
+  n. 进步，发展；前进
+  vi. 前进，进步；进行
+  n. (Progress)人名；(赞)普罗格雷斯
+
+index	英 ['ɪndeks] 美 ['ɪndɛks] ( indexing, indexed, indexes )
+  n. 指标；指数；索引；指针
+  vi. 做索引
+  vt. 指出；编入索引中
+
+union	英 ['juːnjən; -ɪən] 美 ['junɪən] ( unions )
+  n. 联盟，协会；工会；联合
+
+earlier	英 ['ɜ:lɪə(r)] 美 ['ɝlɪr] 
+  adj. 早的；初期的 （early的比较级）
+  adv. 早地；早先的时候
+
+eu	英/美 [,i: 'ju:] 
+  abbr. 欧盟（European Union）；能量单位（Energy Unit）；熵的单位（Entropy Unit）；等效单位（Equivalent Unit）
+  n. (Eu)人名；(中)余 (普通话·威妥玛)；(英)尤
+
+power	英 ['paʊə] 美 ['paʊɚ] ( powering, powered, powers )
+  n. 力量，能力；电力，功率；政权，势力；[数] 幂
+  vt. 激励；供以动力；使…有力量
+  vi. 快速前进
+  adj. 借影响有权势人物以操纵权力的
+  n. (Power)人名；(英、葡)鲍尔
+
+hong	英 [hɒŋ] 美 [hɔŋ] 
+  n. （中国、日本的）行， 商行
+  n. (Hong)人名；(中)洪(普通话·威妥玛)；(泰)鸿；(柬)洪
+
+policy	英 ['pɒləsɪ] 美 ['pɑləsi] ( policies )
+  n. 政策，方针；保险单
+
+aim	英 [eɪm] 美 [em] ( aiming, aimed, aims )
+  vt. 目的在于；引导；把…对准
+  vi. 打算；对准目标；瞄准
+  n. 目的；目标；对准
+
+friday	美 [ˈfraɪ.deɪ] ( Fridays )
+  n. 星期五；忠仆
+
+euro	英 ['jʊərəʊ] 美 ['jʊro] ( euros )
+  n. 欧元（欧盟的统一货币单位）
+
+Shenzhen	英/美 ['ʃʌn'dʒʌŋ] 
+  n. 深圳
+
+expect	英 [ɪkˈspekt] 美 [ɪk'spɛkt] ( expecting, expected, expects )
+  vt. 期望；指望；认为；预料
+  vi. 期待；预期
+
+European	英 [ˌjʊərəˈpɪən] 美 ['jʊrə'piən] ( Europeans )
+  adj. 欧洲的；欧洲人的
+  n. 欧洲人
+
+	 
+
+extend	英 [ɪk'stend; ek-] 美 [ɪk'stɛnd] ( extending, extended, extends )
+  vt. 延伸；扩大；推广；伸出；给予；使竭尽全力；对…估价
+  vi. 延伸；扩大；伸展；使疏开
+
+reverse	英 [rɪ'vɜːs] 美 [rɪ'vɝs] ( reversing, reversed, reverses )
+  n. 背面；相反；倒退；失败
+  vt. 颠倒；倒转
+  adj. 反面的；颠倒的；反身的
+  vi. 倒退；逆叫
+
+estimate	英 ['estɪmeɪt] 美 ['ɛstə,met] ( estimating, estimated, estimates )
+  vi. 估计，估价
+  n. 估计，估价；判断，看法
+  vt. 估计，估量；判断，评价
+
+share	英 [ʃeə] 美 [ʃɛr] ( sharing, shared, shares )
+  vt. 分享，分担；分配
+  vi. 共享；分担
+  n. 份额；股份
+  n. (Share)人名；(阿拉伯)沙雷
+
+continued	英 [kən'tɪnjuːd] 美 [kən'tɪnjud] ( continuing, continued, continues )
+  adj. 继续的；持久的
+  v. 继续；逗留；维持原状（continue的过去分词）
+
+Sydney	英 [ˈsɪdnɪ] 美 ['sɪdnɪ] 
+  n. 悉尼（澳大利亚港市）
+
+failure	英 ['feɪljə] 美 ['feljɚ] ( failures )
+  n. 失败；故障；失败者；破产
+
+offer	英 ['ɒfə] 美 ['ɔfɚ] ( offering, offered, offers )
+  vt. 提供；出价；试图
+  n. 提议；出价；意图；录取通知书
+  vi. 提议；出现；献祭；求婚
+
+contain	英 [kən'teɪn] 美 [kən'ten] ( containing, contained, contains )
+  vt. 包含；控制；容纳；牵制（敌军）
+  vi. 含有；自制
+
+stricken	英 ['strɪk(ə)n] 美 ['strɪkən] 
+  adj. 患病的；受挫折的；受…侵袭的；遭殃的
+
+provide	英 [prə'vaɪd] 美 [prə'vaɪd] ( providing, provided, provides )
+  vt. 提供；规定；准备；装备
+  vi. 规定；抚养；作准备
+
+recover	英 [rɪ'kʌvə] 美 [rɪ'kʌvɚ] ( recovering, recovered, recovers )
+  vt. 恢复；弥补；重新获得
+  vi. 恢复；胜诉；重新得球
+  n. 还原至预备姿势
+  n. (Recover)人名；(西)雷科韦尔
+
+resolve	英 [rɪ'zɒlv] 美 [rɪ'zɑlv] ( resolving, resolved, resolves )
+  vt. 决定；溶解；使…分解；决心要做…
+  vi. 解决；决心；分解
+  n. 坚决；决定要做的事
+
+continue	英 [kən'tɪnjuː] 美 [kən'tɪnju] ( continuing, continued, continues )
+  vi. 继续，延续；仍旧，连续
+  vt. 继续说…；使…继续；使…延长
+
+interim	英 ['ɪnt(ə)rɪm] 美 ['ɪntərɪm] 
+  adj. 临时的，暂时的；中间的；间歇的
+  n. 过渡时期，中间时期；暂定
+
+major	英 ['meɪdʒə] 美 ['medʒɚ] ( majoring, majored, majors )
+  adj. 主要的；重要的；主修的；较多的
+  n. [人类] 成年人；主修科目；陆军少校
+  vi. 主修
+  n. (Major)人名；(西)马霍尔；(法)马若尔；(捷、德、塞、瑞典)马约尔；(英)梅杰
+
+	 
+
+involve	英 [ɪn'vɒlv] 美 [ɪn'vɑlv] ( involving, involved, involves )
+  vt. 包含；牵涉；使陷于；潜心于
+
+loss	英 [lɒs] 美 [lɔs] ( losses )
+  n. 减少；亏损；失败；遗失
+  n. (Loss)人名；(匈)洛什；(法、德、意)洛斯
+
+raise	英 [reɪz] 美 [rez] ( raising, raised, raises )
+  vt. 提高；筹集；养育；升起
+  vi. 上升
+  n. 高地；上升；加薪
+  n. (Raise)人名；(英)雷兹
+
+quality	英 [ˈkwɒlətɪ] 美 ['kwɑləti] ( qualities )
+  n. 质量，[统计] 品质；特性；才能
+  adj. 优质的；高品质的；棒极了
+
+gain	英 [geɪn] 美 [ɡen] ( gaining, gained, gains )
+  n. 增加；利润；收获
+  vt. 获得；增加；赚到
+  vi. 增加；获利
+  n. (Gain)人名；(英、匈、法)盖恩
+
+trillion	英 ['trɪljən] 美 ['trɪljən] ( trillions )
+  n. [数] 万亿
+  adj. 万亿的
+  num. [数] 万亿
+
+kong	英/美 [kɔŋ] 
+  n. 钢；含锡砾石下的无矿基岩
+  n. (Kong)人名；(泰)空；(老、柬)贡
+
+Marie	英/美 [mə'ri:] 
+  n. 玛丽（女子名）
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+Tuesday	英 ['tjuːzdeɪ; -dɪ] 美 [ˈtuzdɪ;-de] ( Tuesdays )
+  n. 星期二
+
+pour	英 [pɔː] 美 [pɔr] ( pouring, poured, pours )
+  n. 倾泻；流出；骤雨
+  vt. 灌，注；倒；倾泻；倾吐
+  vi. 倾泻；涌流；斟茶
+  n. (Pour)人名；(伊朗)普尔；(捷)保尔
+
+china	英 [ˈtʃaɪnə] 美 [ˈtʃaɪ.nə] 
+  n. 瓷器
+  adj. 瓷制的
+  n. China，中国
+  adj. China，中国的
+
+spokeswoman	美 ['spokswʊmən] ( spokeswomen )
+  n. 女代言人，女代言人
+
+include	英 [ɪn'kluːd] 美 [ɪn'klud] ( including, included, includes )
+  vt. 包含，包括
+
+series	英 ['sɪəriːz; -rɪz] 美 ['sɪriz] ( series )
+  n. 系列，连续；[电] 串联；级数；丛书
+
+	 
+
+work	英 [wɜːk] 美 [wɝk] ( working, worked, works )
+  n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品
+  vt. 使工作；操作；经营；使缓慢前进
+  vi. 工作；运作；起作用
+  n. （英、埃塞）沃克（人名）
+
+deadline	英 ['dedlaɪn] 美 [ˈdedlaɪn] ( deadlines )
+  n. 截止期限，最后期限
+
+Asia	英 [ˈeɪʃn] 美 [ˈeɪʒn; eʒən] 
+  n. 亚洲
+
+could	英 [kəd; kʊd] 美 [kəd; kʊd] 
+  aux. 能够
+  v. 能（can的过去式）
+
+plunge	英 [plʌn(d)ʒ] 美 [plʌndʒ] ( plunging, plunged, plunges )
+  n. 投入；跳进
+  vi. 突然地下降；投入；陷入；跳进
+  vt. 使陷入；使投入；使插入
+
+concerned	英 [kən'sɜːnd] 美 [kən'sɝnd] 
+  adj. 有关的；关心的
+  v. 关心（concern的过去时和过去分词）；与…有关
+
+agreement	英 [ə'griːm(ə)nt] 美 [ə'grimənt] ( agreements )
+  n. 协议；同意，一致
+
+Wellington	英 ['welɪŋtən] 美 ['wɛlɪŋtən] ( wellingtons )
+  n. 惠灵顿（新西兰首都）
+
+	 
+
+debt	英 [det] 美 [dɛt] ( debts )
+  n. 债务；借款；罪过
+
+Chinese	英 [tʃaɪniːz]  ( Chinese )
+  n. 中文，汉语；中国人
+  adj. 中国的，中国人的；中国话的
+
+ability	英 [əˈbɪlətɪ] 美 [əˈbɪlətɪ] ( abilities )
+  n. 能力，能耐；才能
+
+technical	英 ['teknɪk(ə)l] 美 ['tɛknɪkl] 
+  adj. 工艺的，科技的；技术上的；专门的
+
+ahead	英 [ə'hed] 美 [ə'hɛd] 
+  adj. 向前；在前的；领先
+  adv. 向前地；领先地；在（某人或某事物的）前面；预先；在将来，为未来
+
+reassure	英 [ˌri:əˈʃɔ:(r)] 美 [,riə'ʃʊr] ( reassuring, reassured, reassures )
+  vt. 使…安心，使消除疑虑
+
+wipe	英 [waɪp] 美 [waɪp] ( wiping, wiped, wipes )
+  vt. 擦；消除；涂上
+  vi. 擦；打
+  n. 擦拭；用力打
+
+interpret	英 [ɪn'tɜːprɪt] 美 [ɪn'tɝprɪt] ( interpreting, interpreted, interprets )
+  vt. 说明；口译
+  vi. 解释；翻译
+
+united	英 [jʊ'naɪtɪd] 美 [jʊ'naɪtɪd] 
+  adj. 一致的，统一的；团结的，和睦的
+
+recently	英 ['riːsntlɪ] 美 ['risntli] 
+  adv. 最近；新近
+
+Tokyo	英 [ˈtəʊkjəʊ] 美 ['tokjo] 
+  n. 东京（日本首都）
+
+highly	英 ['haɪlɪ] 美 ['haɪli] 
+  adv. 高度地；非常；非常赞许地
+
+halt	英 [hɔːlt] 美 [hɔlt] ( halting, halted, halts )
+  vi. 停止；立定；踌躇，犹豫
+  n. 停止；立定；休息
+  vt. 使停止；使立定
+  n. (Halt)人名；(德、芬)哈尔特
+
+already	英 [ɔːl'redɪ] 美 [ɔl'rɛdi] 
+  adv. 已经，早已；先前
+
+while	英 [waɪl] 美 [hwaɪl] ( whiling, whiled, whiles )
+  conj. 虽然；然而；当……的时候
+  n. 一会儿；一段时间
+  vt. 消磨；轻松地度过
+
+initial	英 [ɪ'nɪʃəl] 美 [ɪ'nɪʃəl] ( initialling, initialled, initials )
+  adj. 最初的；字首的
+  vt. 用姓名的首字母签名
+  n. 词首大写字母
+
+offering	英 ['ɒf(ə)rɪŋ] 美 ['ɔfərɪŋ] ( offerings )
+  n. 提供；祭品；奉献物；牲礼
+  v. 提供（offer的ing形式）
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+several	英 [ˈsevrəl] 美 [ˈsɛvrəl] 
+  adj. 几个的；各自的
+  pron. 几个；数个
+
+statement	英 ['steɪtm(ə)nt] 美 ['stetmənt] ( statements )
+  n. 声明；陈述，叙述；报表，清单
+
+emergency	英 [ɪ'mɜːdʒ(ə)nsɪ] 美 [ɪ'mɝdʒənsi] ( emergencies )
+  n. 紧急情况；突发事件；非常时刻
+  adj. 紧急的；备用的
+
+stock	英 [stɒk] 美 [stɑk] ( stocking, stocked, stocks )
+  n. 股份，股票；库存；血统；树干；家畜
+  adj. 存货的，常备的；平凡的
+  vt. 进货；备有；装把手于…
+  vi. 囤积；办货；出新芽
+  n. (Stock)人名；(德、匈、捷)施托克；(英、法、葡、瑞典)斯托克
+

@@ -1,0 +1,693 @@
+project	英 [prəˈdʒekt; ˈprɒdʒekt] 美 [prəˈdʒɛkt; prɑdʒɛkt] ( projecting, projected, projects )
+  vi. 设计；计划；表达；投射
+  vt. 设计；计划；发射；放映
+  n. 工程；计划；事业
+
+immigrant	英 ['ɪmɪgr(ə)nt] 美 ['ɪmɪɡrənt] ( immigrants )
+  adj. 移民的；迁入的
+  n. 移民，侨民
+
+surge	英 [sɜːdʒ] 美 [sɝdʒ] ( surging, surged, surges )
+  n. 汹涌；大浪，波涛；汹涌澎湃；巨涌
+  v. 汹涌；起大浪，蜂拥而来
+
+composition	英 [ˌkɒmpəˈzɪʃn] 美 [,kɑmpə'zɪʃən] ( compositions )
+  n. 作文，作曲，作品；[材] 构成；合成物；成分
+
+doubt	英 [daʊt] 美 [daʊt] ( doubting, doubted, doubts )
+  n. 怀疑；疑问；疑惑
+  v. 怀疑；不信；恐怕；拿不准
+
+northern	英 ['nɔːð(ə)n] 美 ['nɔrðɚn] (also Northern)
+  adj. 北部的；北方的
+  n. 北部方言
+
+remark	英 [rɪ'mɑːk] 美 [rɪ'mɑrk] ( remarking, remarked, remarks )
+  n. 注意；言辞
+  vt. 评论；觉察
+  vi. 谈论
+
+Muslim	英 [ˈmʊzlɪm;ˈmʌzlɪm;ˈmʊzləm;ˈmʌzləm] 美 [ˈmʊzlɪm;ˈmʌzlɪm;ˈmʊzləm;ˈmʌzləm] ( Muslims )
+  n. 穆斯林；穆罕默德信徒
+  adj. 伊斯兰教的
+
+DE	英/美 [di] (also De or d' or D')
+  abbr. 判定元件（Decision Element）
+  n. (De)人名；(朝)大
+
+killing	英 ['kɪlɪŋ] 美 ['kɪlɪŋ] ( killings )
+  adj. 杀害的；迷人的；使人筋疲力尽的
+  n. 杀戮；谋杀；猎获物
+  v. 杀死；消磨；毁掉（kill的ing形式）
+  n. (Killing)人名；(德)基林
+
+chief	英 [tʃiːf] 美 [tʃif] ( chiefs )
+  n. 首领；酋长；主要部分
+  adj. 首席的；主要的；主任的
+  adv. 主要地；首要地
+
+plus	英 [plʌs] 美 [plʌs] ( plusses )
+  n. 正号，加号；好处；附加额
+  adj. 正的；附加的
+  prep. 加，加上
+  n. (Plus)人名；(德)普卢斯
+
+member	英 ['membə] 美 ['mɛmbɚ] ( members )
+  n. 成员；会员；议员
+
+since	英 [sɪns] 美 [sɪns] 
+  conj. 因为；由于；既然；自…以来；自…以后
+  prep. 自…以来；自…以后
+  adv. 后来
+
+indiscriminate	英 [,ɪndɪ'skrɪmɪnət] 美 [,ɪndɪ'skrɪmɪnət] 
+  adj. 任意的；无差别的；不分皂白的
+
+estimate	英 ['estɪmeɪt] 美 ['ɛstə,met] ( estimating, estimated, estimates )
+  vi. 估计，估价
+  n. 估计，估价；判断，看法
+  vt. 估计，估量；判断，评价
+
+minority	英 [maɪ'nɒrɪtɪ; mɪ-] 美 [maɪ'nɔrəti] ( minorities )
+  n. 少数民族；少数派；未成年
+  adj. 少数的；属于少数派的
+
+view	英 [vjuː] 美 [vju] ( viewing, viewed, views )
+  n. 观察；视野；意见；风景
+  vt. 观察；考虑；查看
+
+	 
+
+celebrate	英 ['selɪbreɪt] 美 [sɛləˌbret] ( celebrating, celebrated, celebrates )
+  vt. 庆祝；举行；赞美；祝贺；宣告
+  vi. 庆祝；过节；举行宗教仪式
+
+moral	英 ['mɒr(ə)l] 美 ['mɔrəl] ( morals )
+  adj. 道德的；精神上的；品性端正的
+  n. 道德；寓意
+  n. (Moral)人名；(德、法、西、葡、土)莫拉尔
+
+Catholic	美 [kæθəlɪk] ( Catholics )
+  adj. 天主教的；宽宏大量的
+  n. 天主教徒；罗马天主教
+
+police	英 [pə'liːs] 美 [pə'lis] ( policing, policed, polices )
+  n. 警察，警方；治安
+  vt. 监督；管辖；维持治安；为…配备警察
+  adj. 警察的；有关警察的
+
+response	英 [rɪ'spɒns] 美 [rɪ'spɑns] ( responses )
+  n. 响应；反应；回答
+
+migration	英 [maɪ'greɪʃ(ə)n] 美 [maɪ'ɡreʃən] 
+  n. 迁移；移民；移动
+
+marked	英 [mɑːkt] 美 [mɑrkt] 
+  adj. 显著的；有记号的
+  v. 表示（mark的过去分词）；作记号；打分数
+
+address	英 [ə'dres] 美 [əˈdrɛs;(for n)ˈædres; ædrɛs] ( addressing, addressed, addresses )
+  vt. 演说；从事；忙于；写姓名地址；向…致辞；与…说话；提出；处理
+  n. 地址；演讲；致辞；说话的技巧；称呼
+
+powerful	英 ['paʊəfʊl; -f(ə)l] 美 ['paʊɚfl] 
+  adj. 强大的；强有力的
+  adv. 很；非常
+
+base	英 [beɪs] 美 [bes] ( basing, based, baser, basest, bases )
+  n. 基础；底部；垒
+  adj. 卑鄙的；低劣的
+  vt. 以…作基础
+  n. (Base)人名；(日)马濑(姓)
+
+Christian	英 [ˈkrɪstʃən] 美 ['krɪstʃən] ( Christians )
+  n. 基督徒，信徒
+  adj. 基督教的；信基督教的
+
+nation	英 ['neɪʃ(ə)n] 美 ['neʃən] ( nations )
+  n. 国家；民族；国民
+  n. (Nation)人名；(英)内申
+
+Norway	英 ['nɔ:weɪ] 美 ['nɔrweɪ] 
+  n. 挪威（北欧国家名）
+
+earth	英 [ɜːθ] 美 [ɝθ] 
+  n. 地球；地表，陆地；土地，土壤；尘事，俗事；兽穴
+  vt. 把（电线）[电] 接地；盖（土）；追赶入洞穴
+  vi. 躲进地洞
+
+refusal	英 [rɪ'fjuːz(ə)l] 美 [rɪ'fjuzl] ( refusals )
+  n. 拒绝；优先取舍权；推却；取舍权
+
+almost	英 ['ɔːlməʊst] 美 ['ɔlmost] 
+  adv. 差不多，几乎
+
+against	英 [ə'genst; ə'geɪnst] 美 [əˈɡɛnst;əˈɡenst] 
+  prep. 反对，违反；靠；倚；防备
+  adj. 不利的；对立的
+
+neighbor	英 ['neɪbə] 美 ['nebɚ] ( neighbors )
+  n. 邻居
+  adj. 邻近的
+  vi. 友好；毗邻而居
+  vt. 邻接
+  n. (Neighbor)人名；(英)内伯
+
+brutal	英 ['bruːt(ə)l] 美 ['brutl] 
+  adj. 残忍的；野蛮的，不讲理的
+
+adviser	英 [əd'vaɪzə] 美 [əd'vaɪzɚ] (also advisor)
+  n. 顾问；劝告者；指导教师（等于advisor）
+
+authority	英 [ɔː'θɒrɪtɪ] 美 [ə'θɔrəti] ( authorities )
+  n. 权威；权力；当局
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+min	英/美 [mɪn] 
+  分钟(minute)
+
+account	英 [ə'kaʊnt] 美 [ə'kaʊnt] ( accounting, accounted, accounts )
+  n. 账户；解释；账目，账单；理由；描述
+  vi. 解释；导致；报账
+  vt. 认为；把…视为
+
+despite	英 [dɪ'spaɪt] 美 [dɪ'spaɪt] 
+  prep. 尽管，不管
+  n. 轻视；憎恨；侮辱
+
+rape	英 [reɪp] 美 [rep] ( raping, raped, rapes )
+  n. 强奸，掠夺；[园艺] 油菜；葡萄渣
+  vt. 强奸；掠夺，抢夺
+  vi. 犯强奸罪
+
+denounce	英 [dɪ'naʊns] 美 [dɪ'naʊns] ( denouncing, denounced, denounces )
+  vt. 谴责；告发；公然抨击；通告废除
+
+religious	英 [rɪ'lɪdʒəs] 美 [rɪ'lɪdʒəs] 
+  adj. 宗教的；虔诚的；严谨的；修道的
+  n. 修道士；尼姑
+
+cleanse	英 [klenz] 美 [klɛnz] ( cleansing, cleansed, cleanses )
+  vt. 净化；使…纯净；使…清洁
+
+	 
+
+Bangladesh	英/美 [,ba:ŋglə'deʃ] 
+  n. 孟加拉国（亚洲国家）
+
+middle	英 ['mɪd(ə)l] 美 ['mɪdl] ( middles )
+  adj. 中间的，中部的；中级的，中等的
+  n. 中间，中央；腰部
+
+conflict	英 ['kɒnflɪkt] 美 ['kɑnflɪkt] ( conflicting, conflicted, conflicts )
+  n. 冲突，矛盾；斗争；争执
+  vi. 冲突，抵触；争执；战斗
+
+Kyi	 
+  n. (Kyi)人名；(缅)枝(女名)，基(男名)
+
+august	英 [ɔ:ˈgʌst] 美 [ɔˈɡʌst] 
+  adj. 威严的；令人敬畏的
+  n. 八月（简写为Aug）
+  n. (August)人名；(法、葡、西、俄、罗、英、德、瑞典、挪)奥古斯特
+
+militant	英 ['mɪlɪt(ə)nt] 美 ['mɪlɪtənt] ( militants )
+  adj. 好战的
+  n. 富有战斗性的人；好斗者；激进分子
+
+include	英 [ɪn'kluːd] 美 [ɪn'klud] ( including, included, includes )
+  vt. 包含，包括
+
+outpost	英 ['aʊtpəʊst] 美 ['aʊtpost] ( outposts )
+  n. 前哨；警戒部队；边区村落
+
+refugee	英 [refjʊ'dʒiː] 美 ['rɛfjʊdʒi] ( refugees )
+  n. 难民，避难者；流亡者，逃亡者
+
+spokesman	英 ['spəʊksmən] 美 ['spoksmən] ( spokesmen )
+  n. 发言人；代言人
+
+backlash	英 ['bæklæʃ] 美 ['bæklæʃ] 
+  n. 反冲；强烈抵制
+  vt. 强烈反对；发生后冲
+
+trigger	英 ['trɪgə] 美 ['trɪɡɚ] ( triggering, triggered, triggers )
+  vt. 引发，引起；触发
+  vi. 松开扳柄
+  n. 扳机；[电子] 触发器；制滑机
+  n. (Trigger)人名；(英)特里杰
+
+medium	英 ['miːdɪəm] 美 ['midɪəm] ( media )
+  adj. 中间的，中等的；半生熟的
+  n. 方法；媒体；媒介；中间物
+
+launch	英 [lɔːntʃ] 美 [lɔntʃ] ( launching, launched, launches )
+  vt. 发射（导弹、火箭等）；发起，发动；使…下水
+  vi. 开始；下水；起飞
+  n. 发射；发行，投放市场；下水；汽艇
+
+mention	英 ['menʃ(ə)n] 美 ['mɛnʃən] ( mentioning, mentioned, mentions )
+  vt. 提到，谈到；提及，论及；说起
+  n. 提及，说起
+  n. (Mention)人名；(法)芒雄
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+final	英 ['faɪn(ə)l] 美 ['faɪnl] ( finals )
+  adj. 最终的；决定性的；不可更改的
+  n. 决赛；期末考试；当日报纸的末版
+
+suggest	英 [sə'dʒest] 美 [sə'dʒɛst] ( suggesting, suggested, suggests )
+  vt. 提议，建议；启发；使人想起；显示；暗示
+
+flow	英 [fləʊ] 美 [flo] ( flowing, flowed, flows )
+  vi. 流动，涌流；川流不息；飘扬
+  vt. 淹没，溢过
+  n. 流动；流量；涨潮，泛滥
+  n. (Flow)人名；(英)弗洛
+
+growth	英 [grəʊθ] 美 [ɡroθ] ( growths )
+  n. 增长；发展；生长；种植
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+	 
+
+facto	英 ['fæktəʊ] 美 ['fækto] 
+  adj. 事实上的，实际上的
+
+percentage	英 [pə'sentɪdʒ] 美 [pɚ'sɛntɪdʒ] ( percentages )
+  n. 百分比；百分率，百分数
+
+crisis	英 ['kraɪsɪs] 美 ['kraɪsɪs] ( crises /ˈkraɪsiːz/ )
+  n. 危机；危险期；决定性时刻
+  adj. 危机的；用于处理危机的
+
+former	英 ['fɔːmə] 美 ['fɔrmɚ] 
+  adj. 从前的，前者的；前任的
+  n. 模型，样板；起形成作用的人
+  n. (Former)人名；(法)福尔梅；(德、捷)福尔默
+
+military	英 ['mɪlɪt(ə)rɪ] 美 ['mɪlətɛri] ( militaries )
+  adj. 军事的；军人的；适于战争的
+  n. 军队；军人
+
+Buddhist	英/美 ['budist] ( Buddhists )
+  n. 佛教徒
+  adj. 佛教的
+
+Myanmar	英/美 ['mjænmɑ:] 
+  n. 缅甸（东南亚国家）
+
+indefinitely	英 [ɪn'defɪnɪtlɪ] 美 [ɪn'dɛfɪnətli] 
+  adv. 不确定地，无限期地；模糊地，不明确地
+
+expect	英 [ɪkˈspekt] 美 [ɪk'spɛkt] ( expecting, expected, expects )
+  vt. 期望；指望；认为；预料
+  vi. 期待；预期
+
+human	英 ['hjuːmən] 美 ['hjumən] ( humans )
+  adj. 人的；人类的
+  n. 人；人类
+  n. (Human)人名；(英)休曼
+
+trip	英 [trɪp] 美 [trɪp] ( tripping, tripped, trips )
+  vi. 绊倒；远足；犯错误；轻快地走
+  n. 旅行；绊倒；差错
+  vt. 绊倒；使犯错
+  n. (Trip)人名；(荷)特里普
+
+urge	英 ['ɜːdʒ] 美 [ɝdʒ] ( urging, urged, urges )
+  vt. 力劝，催促；驱策，推进
+  n. 强烈的欲望，迫切要求；推动力
+  vi. 强烈要求
+
+Afghanistan	英 [æfˈɡænɪˌstɑːn] 美 [æf'gænə,stæn] 
+  n. 阿富汗（国家名称，位于亚洲）
+
+public	英 ['pʌblɪk] 美 ['pʌblɪk] 
+  adj. 公众的；政府的；公用的；公立的
+  n. 公众；社会；公共场所
+  n. (Public)人名；(英)帕布利克
+
+attack	英 [ə'tæk] 美 [ə'tæk] ( attacking, attacked, attacks )
+  n. 攻击；抨击；疾病发作
+  vt. 攻击；抨击；动手干
+  vi. 攻击；腐蚀
+  n. (Attack)人名；(瑞典)阿塔克
+
+Wednesday	英 [ˈwenzdɪ] 美 [ˈwɛnzdɪ] ( Wednesdays )
+  n. 星期三
+
+	 
+
+treatment	英 ['triːtm(ə)nt] 美 ['tritmənt] ( treatments )
+  n. 治疗，疗法；处理；对待
+
+due	英 [djuː] 美 [du] 
+  adj. 到期的；预期的；应付的；应得的
+  n. 应付款；应得之物
+  adv. 正（置于方位词前）
+  n. (Due)人名；(英)迪尤
+
+fear	英 [fɪə] 美 [fɪr] ( fearing, feared, fears )
+  n. 害怕；恐惧；敬畏；担心
+  vt. 害怕；敬畏；为…担心
+  vi. 害怕；敬畏；为…担心
+
+campaign	英 [kæm'peɪn] 美 [kæm'pen] ( campaigning, campaigned, campaigns )
+  vi. 作战；参加竞选；参加活动
+  n. 运动；活动；战役
+
+reality	英 [rɪ'ælɪtɪ] 美 [rɪ'æləti] ( realities )
+  n. 现实；实际；真实
+
+Switzerland	英 [ˈswɪtsələnd] 美 ['swɪtsələnd] 
+  n. 瑞士（欧洲国家）
+
+mass	英 [mæs] 美 [mæs] ( massing, massed, masses )
+  n. 块，团；群众，民众；大量，众多；质量
+  adj. 群众的，民众的；大规模的，集中的
+  vi. 聚集起来，聚集
+  vt. 使集合
+
+truth	英 [truːθ] 美 [trʊθ] ( truths )
+  n. 真理；事实；诚实；实质
+
+research	英 [rɪ'sɜːtʃ; 'riːsɜːtʃ] 美 ['risɝtʃ] ( researching, researched, researches )
+  n. 研究；调查
+  vi. 研究；调查
+  vt. 研究；调查
+  [ 过去式 researched 过去分词 researched 现在分词 researching ]
+
+century	英 [ˈsentʃərɪ] 美 [ˈsɛntʃərɪ] ( centuries )
+  n. 世纪，百年；（板球）一百分
+
+Syria	英/美 ['si:riə; 'si-] 
+  n. 叙利亚共和国
+
+majority	英 [mə'dʒɒrɪtɪ] 美 [mə'dʒɔrəti] ( majorities )
+  n. 多数；成年
+
+migrate	英 [maɪ'greɪt; 'maɪgreɪt] 美 ['maɪɡret] ( migrating, migrated, migrates )
+  vi. 移动；随季节而移居；移往
+  vt. 使移居；使移植
+
+situation	英 [sɪtjʊ'eɪʃ(ə)n] 美 [ˌsɪtʃʊˈeʃən] ( situations )
+  n. 情况；形势；处境；位置
+
+decade	英 ['dekeɪd; dɪ'keɪd] 美 ['dɛked] ( decades )
+  n. 十年，十年期；十
+
+publicly	英/美 ['pʌblɪklɪ] 
+  adv. 公然地；以公众名义
+
+	 
+
+united	英 [jʊ'naɪtɪd] 美 [jʊ'naɪtɪd] 
+  adj. 一致的，统一的；团结的，和睦的
+
+scorch	英 [skɔːtʃ] 美 [skɔrtʃ] ( scorching, scorched, scorches )
+  vt. 烧焦；使枯萎；挖苦
+  vi. 烧焦；枯萎
+  n. 烧焦；焦痕
+
+average	英 ['æv(ə)rɪdʒ] 美 ['ævərɪdʒ] ( averaging, averaged, averages )
+  n. 平均；平均数；海损
+  adj. 平均的；普通的；通常的
+  vt. 算出…的平均数；将…平均分配；使…平衡
+  vi. 平均为；呈中间色
+
+	 
+
+pew	英 [pjuː] 美 [pju] ( pews )
+  n. 座位；会众；教堂内的靠背长凳
+  vt. 排座位
+  n. (Pew)人名；(英)皮尤
+
+result	英 [rɪ'zʌlt] 美 [rɪ'zʌlt] ( resulting, resulted, results )
+  n. 结果；成绩；答案；比赛结果
+  vi. 结果；导致；产生
+
+European	英 [ˌjʊərəˈpɪən] 美 ['jʊrə'piən] ( Europeans )
+  adj. 欧洲的；欧洲人的
+  n. 欧洲人
+
+history	英 ['hɪst(ə)rɪ] 美 [ˈhɪstrɪ] ( histories )
+  n. 历史，历史学；历史记录；来历
+
+described	英 [dɪ'skraɪbd] 美 [dɪ'skraɪbd] ( describing, described, describes )
+  v. 描述，描写（describe的过去式）
+  adj. 描述的
+
+percent	英 [pə'sent] 美 [pɚ'sɛnt] 
+  n. 百分比，百分率；部分；百分数
+  adj. 百分之…的
+  adv. 以百分之…地
+
+slam	英 [slæm] 美 [slæm] ( slamming, slammed, slams )
+  vt. 砰地关上；猛力抨击
+  vi. 砰地关上；猛力抨击
+  n. 猛击；砰然声
+  n. (Slam)人名；(阿拉伯)萨拉姆；(罗)斯拉姆
+
+basic	英 ['beɪsɪk] 美 ['besɪk] 
+  adj. 基本的；基础的
+  n. 基础；要素
+
+consider	英 [kən'sɪdə] 美 [kən'sɪdɚ] ( considering, considered, considers )
+  vt. 考虑；认为；考虑到；细想
+  vi. 考虑；认为；细想
+
+	 
+
+first	英 [fɜːst] 美 [fɝst] 
+  adv. 第一；首先；优先；宁愿
+  n. 第一；开始；冠军
+  adj. 第一的；基本的；最早的
+  num. 第一
+  n. (First)人名；(英)弗斯特；(捷)菲尔斯特
+
+vatican	英/美 ['vætikən] 
+  n. 梵蒂冈；罗马教廷
+
+scenario	英 [sɪ'nɑːrɪəʊ] 美 [sə'nærɪo] ( scenarios )
+  n. 方案；情节；剧本；设想
+
+john	英 [dʒɒn] 美 [dʒɑn] ( johns )
+  n. 厕所
+
+continue	英 [kən'tɪnjuː] 美 [kən'tɪnju] ( continuing, continued, continues )
+  vi. 继续，延续；仍旧，连续
+  vt. 继续说…；使…继续；使…延长
+
+flee	英 [fliː] 美 [fli] ( fleeing, fled, flees )
+  vi. 逃走；消失，消散
+  vt. 逃跑，逃走；逃避
+
+	 
+
+considerably	英 [kən'sɪd(ə)rəblɪ] 美 [kən'sɪdərəbli] 
+  adv. 相当地；非常地
+
+ethnic	英 ['eθnɪk] 美 ['ɛθnɪk] 
+  adj. 种族的；人种的
+
+counsel	英 ['kaʊns(ə)l] 美 ['kaʊnsl] ( counseling, counseled, counsels )
+  n. 法律顾问；忠告；商议；讨论；决策
+  vt. 建议；劝告
+  vi. 商讨；提出忠告
+
+deny	英 [dɪ'naɪ] 美 [dɪ'nai] ( denying, denied, denies )
+  vt. 否定，否认；拒绝给予；拒绝…的要求
+  vi. 否认；拒绝
+
+direct	英 [dəˈrekt; daɪˈrekt] 美 [dəˈrɛkt; daɪˈrɛkt] ( directing, directed, directs )
+  adj. 直接的；直系的；亲身的；恰好的
+  vt. 管理；指挥；导演；指向
+  vi. 指导；指挥
+  adv. 直接地；正好；按直系关系
+
+pontiff	英 ['pɒntɪf] 美 ['pɑntɪf] ( pontiffs )
+  n. 主教，教皇；罗马教宗
+
+Iraq	英 [ɪ'rɑ:k] 美 [ɪ'rɑk] 
+  n. 伊拉克（西南亚国家）
+
+border	英 ['bɔːdə] 美 ['bɔrdɚ] ( bordering, bordered, borders )
+  n. 边境；边界；国界
+  vt. 接近；与…接壤；在…上镶边
+  vi. 接界；近似
+  n. (Border)人名；(英)博德
+
+activist	英 ['æktɪvɪst] 美 ['æktɪvɪst] ( activists )
+  n. 积极分子；激进主义分子
+
+union	英 ['juːnjən; -ɪən] 美 ['junɪən] ( unions )
+  n. 联盟，协会；工会；联合
+
+cast	英 [kɑːst] 美 [kæst] ( casting, casts )
+  vt. 投，抛；计算；浇铸；投射（光、影、视线等）
+  n. 投掷，抛；铸件，[古生] 铸型；演员阵容；脱落物
+  vi. 投，抛垂钓鱼钩；计算，把几个数字加起来
+  n. (Cast)人名；(法)卡斯特
+
+exodus	英 ['eksədəs] 美 ['ɛksədəs] 
+  n. 大批的离去
+
+critic	英 ['krɪtɪk] 美 ['krɪtɪk] ( critics )
+  n. 批评家，评论家；爱挑剔的人
+
+criticize	英 ['krɪtɪsaɪz] 美 ['krɪtə'saɪz] ( criticizing, criticized, criticizes )
+  vt. 批评；评论；非难
+  vi. 批评；评论；苛求
+  
+
+accord	英 [ə'kɔːd] 美 [ə'kɔrd] ( according, accorded, accords )
+  n. 符合；一致；协议；自愿
+  vt. 使一致；给予
+  vi. 符合；一致
+
+worsen	英 ['wɜːs(ə)n] 美 ['wɝsn] ( worsening, worsened, worsens )
+  vi. 恶化；变得更坏；更坏
+  vt. 使恶化；使变得更坏
+
+atrocity	英 [ə'trɒsɪtɪ] 美 [ə'trɑsəti] ( atrocities )
+  n. 暴行；凶恶，残暴
+
+while	英 [waɪl] 美 [hwaɪl] ( whiling, whiled, whiles )
+  conj. 虽然；然而；当……的时候
+  n. 一会儿；一段时间
+  vt. 消磨；轻松地度过
+
+capital	英 ['kæpɪt(ə)l] 美 ['kæpɪtl] ( capitals )
+  n. 首都，省会；资金；大写字母；资本家
+  adj. 首都的；重要的；大写的
+  n. (Capital)人名；(法)卡皮塔尔
+
+center	英 [ˈsentə(r)] 美 ['sɛntɚ] ( centering, centered, centers )
+  n. 中心，中央；中锋；中心点
+  vi. 居中，被置于中心
+  vt. 集中，使聚集在一点；定中心
+  adj. 中央的，位在正中的
+  n. (Center)人名；(英)森特
+
+population	英 [pɒpjʊ'leɪʃ(ə)n] 美 [,pɑpju'leʃən] ( populations )
+  n. 人口；[生物] 种群，[生物] 群体；全体居民
+
+could	英 [kəd; kʊd] 美 [kəd; kʊd] 
+  aux. 能够
+  v. 能（can的过去式）
+
+migrant	英 ['maɪgr(ə)nt] 美 ['maɪɡrənt] ( migrants )
+  n. 候鸟；移居者；随季节迁移的民工
+  adj. 移居的；流浪的
+
+Washington	英 [ˈwɒʃɪŋtən] 美 [ˈwɑʃɪŋtən] 
+  n. 华盛顿（美国州名，美国城市名，美国第一任总统，姓氏）
+
+bishop	英 ['bɪʃəp] 美 ['bɪʃəp] ( bishops )
+  n. （基督教的）主教；（国际象棋的）象
+
+group	英 [gruːp] 美 [ɡrup] ( grouping, grouped, groups )
+  n. 组；团体
+  adj. 群的；团体的
+  vi. 聚合
+  vt. 把…聚集；把…分组
+
+scene	英 [siːn] 美 [sin] ( scenes )
+  n. 场面；情景；景象；事件
+
+generation	英 [dʒenə'reɪʃ(ə)n] 美 ['dʒɛnə'reʃən] ( generations )
+  n. 一代；产生；一代人；生殖
+
+data	英 ['deɪtə] 美 ['detə] 
+  n. 数据（datum的复数）；资料
+  n. (Data)人名；(日)驮太 (姓)；(印、葡)达塔
+
+private	英 [ˈpraɪvɪt] 美 [ˈpraɪvɪt] ( privates )
+  adj. 私人的，私有的；私立的；私营的
+  adj. 私下的，不公开的，秘密的
+  adj. （场所）清静的；（人）不愿吐露心思的，内向的
+  adj. 无官职的
+  n. 列兵；二等兵
+
+number	英 ['nʌmbə] 美 ['nʌmbɚ] ( numbering, numbered, numbers )
+  n. 数；（杂志等的）期；号码；数字；算术
+  vi. 计入；总数达到
+  vt. 编号；计入；数…的数目；使为数有限
+
+Europe	英 ['jʊrəp] 美 ['jʊrəp] 
+  n. 欧洲
+
+Thursday	英 ['θɜːzdeɪ; -dɪ] 美 [ˈθɝzde; ˈθɝzdɪ] ( Thursdays )
+  n. 星期四
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+pope	英 [pəʊp] 美 [pop] ( popes )
+  n. 教皇，罗马教皇；权威，大师
+
+if	英 [ɪf] 美 [ɪf] 
+  conj. （表条件）如果；即使；是否；（表假设）假如
+  n. 条件；设想
+
+cover	英 ['kʌvə] 美 ['kʌvɚ] ( covering, covered, covers )
+  vt. 包括；采访，报导；涉及
+  n. 封面，封皮；盖子；掩蔽物;幌子，借口
+  vi. 覆盖；代替
+  n. (Cover)人名；(英)科弗；(意)科韦尔
+
+largely	英 ['lɑːdʒlɪ] 美 ['lɑrdʒli] 
+  adv. 主要地；大部分；大量地
+
+specifically	英 [spɪ'sɪfɪkəlɪ] 美 [spə'sɪfɪkli] 
+  adv. 特别地；明确地
+
+previous	英 ['priːvɪəs] 美 ['privɪəs] 
+  adj. 以前的；早先的；过早的
+  adv. 在先；在…以前
+
+religion	英 [rɪ'lɪdʒ(ə)n] 美 [rɪ'lɪdʒən] ( religions )
+  n. 宗教；宗教信仰
+
+birthrate	英/美 ['bɝθ,ret] 
+  n. 出生率
+
+release	英 [rɪ'liːs] 美 [rɪ'lis] ( releasing, released, releases )
+  vt. 释放；发射；让与；允许发表
+  n. 释放；发布；让与
+
+Aung	 
+  n. (Aung)人名；(缅)昂
+
+rise	英 [raɪz] 美 [raɪz] ( rising, rose, risen, rises )
+  vi. 上升；增强；起立；高耸
+  vt. 使…飞起；使…浮上水面
+  n. 上升；高地；增加；出现
+
+SAN	英/美 [sæn] 
+  abbr. 存储区域网（Storage Area Networking）
+  n. (San)人名；(泰)讪；(俄、罗、刚)萨恩；(土、柬)桑；(缅)山
+
+depart	英 [dɪ'pɑːt] 美 [dɪ'pɑrt] ( departing, departed, departs )
+  vi. 离开；出发，起程；违反；去世
+  adj. 逝世的
+
+Francis	英 ['frɑ:nsɪs] 美 ['frænsɪs] 
+  n. 弗朗西斯（男子名，义为自由之人）
+
+annually	英 ['ænjʊəlɪ; 'ænjʊlɪ] 美 ['ænjuəli] 
+  adv. 每年；一年一次
+

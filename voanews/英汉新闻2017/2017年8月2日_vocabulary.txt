@@ -1,0 +1,596 @@
+section	英 ['sekʃ(ə)n] 美 ['sɛkʃən] ( sectioning, sectioned, sections )
+  n. 截面；部分；部门；地区；章节
+  vi. 被切割成片；被分成部分
+  vt. 把…分段；将…切片；对…进行划分
+
+decision	英 [dɪ'sɪʒ(ə)n] 美 [dɪ'sɪʒn] ( decisions )
+  n. 决定，决心；决议
+
+secretary	英 [ˈsekrətrɪ] 美 ['sɛkrətɛrɪ] ( secretaries )
+  n. 秘书；书记；部长；大臣
+
+unfair	英 [ʌn'feə] 美 ['ʌn'fɛr] 
+  adj. 不公平的，不公正的
+
+FIDE	英/美 ['faɪd] 
+  abbr. 世界国际象棋联合会（Fédération Internationale des Echecs，即International Chess Federation）
+
+effort	英 ['efət] 美 ['ɛfɚt] ( efforts )
+  n. 努力；成就
+
+first	英 [fɜːst] 美 [fɝst] 
+  adv. 第一；首先；优先；宁愿
+  n. 第一；开始；冠军
+  adj. 第一的；基本的；最早的
+  num. 第一
+  n. (First)人名；(英)弗斯特；(捷)菲尔斯特
+
+July	英 [dʒʊˈlaɪ] 美 [dʒʊˈlaɪ] ( Julys )
+  n. 七月
+
+refund	英 [ˈriːfʌnd] 美 [ˈrifʌnd] ( refunding, refunded, refunds )
+  vi. 退还；偿还，归还
+  vt. 退还；偿还；付还
+  n. 退款；偿还，偿还额
+
+monthly	英 ['mʌnθlɪ] 美 ['mʌnθli] ( monthlies )
+  adj. 每月的，每月一次的；有效期为一个月的
+  n. 月刊
+  adv. 每月，每月一次
+
+decline	英 [dɪ'klaɪn] 美 [dɪ'klaɪn] ( declining, declined, declines )
+  n. 下降；衰退；斜面
+  vi. 下降；衰落；谢绝
+  vt. 谢绝；婉拒
+
+decade	英 ['dekeɪd; dɪ'keɪd] 美 ['dɛked] ( decades )
+  n. 十年，十年期；十
+
+accuse	英 [ə'kjuːz] 美 [ə'kjuz] ( accusing, accused, accuses )
+  vt. 控告，指控；谴责；归咎于
+  vi. 指责；控告
+
+Oct	美 [ɑkt] 
+  abbr. 十月（October）
+
+several	英 [ˈsevrəl] 美 [ˈsɛvrəl] 
+  adj. 几个的；各自的
+  pron. 几个；数个
+
+consider	英 [kən'sɪdə] 美 [kən'sɪdɚ] ( considering, considered, considers )
+  vt. 考虑；认为；考虑到；细想
+  vi. 考虑；认为；细想
+
+commerce	英 ['kɒmɜːs] 美 ['kɑmɝs] 
+  n. 贸易；商业；商务
+
+fail	英 [feɪl] 美 [fel] ( failing, failed, fails )
+  vi. 失败，不及格；破产；缺乏；衰退
+  vt. 不及格；使失望；忘记；舍弃
+  n. 不及格
+  n. (Fail)人名；(葡、捷)法伊尔；(法)法伊
+
+agency	英 ['eɪdʒ(ə)nsɪ] 美 ['edʒənsi] ( agencies )
+  n. 代理，中介；代理处，经销处
+
+dip	英 [dɪp] 美 [dɪp] ( dipping, dipped, dips )
+  vt. 浸，泡，蘸；舀取；把伸入
+  vi. 浸；下降，下沉；倾斜；舀，掏
+  n. 下沉，下降；倾斜；浸渍，蘸湿
+  n. (Dip)人名；(尼)迪普
+
+outlet	英 ['aʊtlet] 美 ['aʊtlɛt] ( outlets )
+  n. 出口，排放孔；[电] 电源插座；销路；发泄的方法；批发商店
+
+reach	英 [riːtʃ] 美 [ritʃ] ( reaching, reached, reaches )
+  vi. 达到；延伸；伸出手；传开
+  vt. 达到；影响；抵达；伸出
+  n. 范围；延伸；河段；横风行驶
+  n. (Reach)人名；(柬)列
+
+such	英 [sʌtʃ] 美 [sʌtʃ] 
+  adj. 这样的，如此的
+  n. (Such)人名；(英)萨奇；(德)祖赫
+
+lead	英 [li:d;led] 美 [lid; lɛd] ( leading, led, leads )
+  n. 领导；铅；导线；榜样
+  vt. 领导；致使；引导；指挥
+  vi. 领导；导致；用水砣测深
+  adj. 带头的；最重要的
+  n. (Lead)人名；(英)利德
+
+act	英 [ækt] 美 [ækt] ( acting, acted, acts )
+  美国大学入学考试，全称是American College Testing
+
+property	英 ['prɒpətɪ] 美 ['prɑpɚti] ( properties )
+  n. 性质，性能；财产；所有权
+
+Robert	英/美 ['rɔbət] 
+  n. 罗伯特（男子名）
+
+insist	英 [ɪn'sɪst] 美 [ɪn'sɪst] ( insisting, insisted, insists )
+  vt. 坚持，强调
+  vi. 坚持，强调
+
+aim	英 [eɪm] 美 [em] ( aiming, aimed, aims )
+  vt. 目的在于；引导；把…对准
+  vi. 打算；对准目标；瞄准
+  n. 目的；目标；对准
+
+ceiling	英 ['siːlɪŋ] 美 ['silɪŋ] ( ceilings )
+  n. 天花板；上限
+
+could	英 [kəd; kʊd] 美 [kəd; kʊd] 
+  aux. 能够
+  v. 能（can的过去式）
+
+planning	英 ['plænɪŋ] 美 ['plænɪŋ] 
+  n. 规划；计划编制
+  v. 计划；设计；预期（plan的ing形式）
+
+data	英 ['deɪtə] 美 ['detə] 
+  n. 数据（datum的复数）；资料
+  n. (Data)人名；(日)驮太 (姓)；(印、葡)达塔
+
+prove	英 [pruːv] 美 [pruv] ( proving, proved, proven, proves )
+  vt. 证明；检验；显示
+  vi. 证明是
+
+impose	英 [ɪm'pəʊz] 美 [ɪm'poz] ( imposing, imposed, imposes )
+  vi. 利用；欺骗；施加影响
+  vt. 强加；征税；以…欺骗
+
+tariff	英 ['tærɪf] 美 ['tærɪf] ( tariffs )
+  n. 关税表；收费表
+  vt. 定税率；征收关税
+
+displace	英 [dɪs'pleɪs] 美 [dɪs'ples] ( displacing, displaced, displaces )
+  vt. 取代；置换；转移；把…免职；排水
+
+plummet	英 ['plʌmɪt] 美 ['plʌmɪt] ( plummeting, plummeted, plummets )
+  n. [测] 铅锤，坠子
+  vi. 垂直落下；（价格、水平等）骤然下跌
+
+ballistic	英 [bə'lɪstɪk] 美 [bə'lɪstɪk] 
+  adj. 弹道的；射击的
+
+industry	英 ['ɪndəstrɪ] 美 ['ɪndəstri] ( industries )
+  n. 产业；工业；勤勉
+
+economic	英 [,iːkə'nɒmɪk; ek-] 美 [ˌikəˈnɑmɪk, ˌɛkəˈ-nɑmɪk] 
+  adj. 经济的，经济上的；经济学的
+
+member	英 ['membə] 美 ['mɛmbɚ] ( members )
+  n. 成员；会员；议员
+
+within	英 [wɪð'ɪn] 美 [wɪ'ðɪn] 
+  prep. 在…之内
+  adv. 在内部
+  n. 里面
+
+significant	英 [sɪg'nɪfɪk(ə)nt] 美 [sɪɡ'nɪfɪkənt] 
+  adj. 重大的；有效的；有意义的；值得注意的；意味深长的
+  n. 象征；有意义的事物
+
+trade	英 [treɪd] 美 [tred] ( trading, traded, trades )
+  n. 贸易，交易；行业；职业
+  vi. 交易，买卖；以物易物
+  vt. 用…进行交换
+
+administration	英 [ədmɪnɪ'streɪʃ(ə)n] 美 [əd,mɪnɪ'streʃən] ( administrations )
+  n. 管理；行政；实施；行政机构
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+action	英 ['ækʃ(ə)n] 美 ['ækʃən] ( actioning, actioned, actions )
+  n. 行动；活动；功能；战斗；情节
+  n. (Action)人名；(英)埃克申
+
+journal	英 ['dʒɜːn(ə)l] 美 ['dʒɝnl] ( journals )
+  n. 日报，杂志；日记；分类账
+
+excess	英 [ɪk'ses; ek-; 'ekses] 美 ['ɛk'sɛs] ( excesses )
+  n. 超过，超额；过度，过量；无节制
+  adj. 额外的，过量的；附加的
+
+amid	英 [ə'mɪd] 美 [ə'mɪd] 
+  prep. 在其中，在其间
+  n. (Amid)人名；(法、阿拉伯)阿米德
+
+limit	英 ['lɪmɪt] 美 ['lɪmɪt] ( limiting, limited, limits )
+  n. 限制；限度；界线
+  vt. 限制；限定
+
+	 
+
+initiate	英 [ɪ'nɪʃɪeɪt] 美 [ɪ'nɪʃɪet] ( initiating, initiated, initiates )
+  vt. 开始，创始；发起；使初步了解
+  n. 开始；新加入者，接受初步知识者
+  adj. 新加入的；接受初步知识的
+
+Europe	英 ['jʊrəp] 美 ['jʊrəp] 
+  n. 欧洲
+
+obama	 
+  n. 奥巴马(姓)
+
+emphasize	英 ['emfəsaɪz] 美 ['ɛmfəsaɪz] ( emphasizing, emphasized, emphasizes )
+  vt. 强调，着重
+
+level	英 ['lev(ə)l] 美 ['lɛvl] ( levelling, leveled, levels )
+  n. 水平；标准；水平面
+  adj. 水平的；平坦的；同高的
+  vi. 瞄准；拉平；变得平坦
+  vt. 使同等；对准；弄平
+  n. (Level)人名；(法)勒韦尔
+
+low	英 [ləʊ]  ( lower, lows, lowest )
+  adj. 低的，浅的；卑贱的；粗俗的；消沉的
+  adv. 低声地；谦卑地，低下地
+  n. 低；低价；低点；牛叫声
+  vi. 牛叫
+  n. (Low)人名；(英、德)洛
+
+against	英 [ə'genst; ə'geɪnst] 美 [əˈɡɛnst;əˈɡenst] 
+  prep. 反对，违反；靠；倚；防备
+  adj. 不利的；对立的
+
+since	英 [sɪns] 美 [sɪns] 
+  conj. 因为；由于；既然；自…以来；自…以后
+  prep. 自…以来；自…以后
+  adv. 后来
+
+continue	英 [kən'tɪnjuː] 美 [kən'tɪnju] ( continuing, continued, continues )
+  vi. 继续，延续；仍旧，连续
+  vt. 继续说…；使…继续；使…延长
+
+official	英 [ə'fɪʃ(ə)l] 美 [əˈfɪʃəl; oʊˈfɪʃəl] ( officials )
+  adj. 官方的；正式的；公务的
+  n. 官员；公务员；高级职员
+
+curb	英 [kɜːb] 美 [kɝb] ( curbing, curbed, curbs )
+  n. 抑制；路边；勒马绳
+  vt. 控制；勒住
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+Ross	英 [rɒs] 美 [rɔs] 
+  n. 罗丝（女性名）
+
+if	英 [ɪf] 美 [ɪf] 
+  conj. （表条件）如果；即使；是否；（表假设）假如
+  n. 条件；设想
+
+resettle	英/美 [,ri'sɛtl] ( resettling, resettled, resettles )
+  vi. 重新定居
+  vt. 使重新定居
+
+pressure	英 ['preʃə] 美 ['prɛʃɚ] ( pressuring, pressured, pressures )
+  n. 压力；压迫，[物] 压强
+  vt. 迫使；密封；使……增压
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+complaint	英 [kəm'pleɪnt] 美 [kəm'plent] ( complaints )
+  n. 抱怨；诉苦；疾病；委屈
+
+Korea	英 [kə'rɪə] 美 [kə'rɪr] 
+  n. 韩国；朝鲜
+
+spokesperson	英 ['spəʊkspɜːs(ə)n] 美 ['spokspɝsn] ( spokespeople )
+  n. 发言人；代言人
+
+American	英 [əˈmerɪkən] 美 [əˈmɛrɪkən] ( Americans )
+  n. 美国人
+  adj. 美国的
+
+tie	英 [taɪ] 美 [taɪ] ( tying, tied, ties )
+  vt. 系；约束；打结；与…成平局
+  vi. 打结；不分胜负；被用带（或绳子等）系住
+  n. 领带；平局；鞋带；领结；不分胜负
+  n. (Tie)人名；(东南亚国家华语)治；(英)泰伊；(柬)狄
+
+frustrate	英 [frʌ'streɪt; 'frʌs-] 美 ['frʌstret] ( frustrating, frustrated, frustrates )
+  vt. 挫败；阻挠；使感到灰心
+  vi. 失败；受挫
+  adj. 挫败的；无益的
+
+intellectual	英 [,ɪntə'lektʃʊəl; -tjʊəl] 美 [,ɪntə'lɛktʃuəl] ( intellectuals )
+  adj. 智力的；聪明的；理智的
+  n. 知识分子；凭理智做事者
+
+apparent	英 [ə'pær(ə)nt] 美 [ə'pærənt] 
+  adj. 显然的；表面上的
+
+harm	英 [hɑːm] 美 [hɑrm] ( harming, harmed, harms )
+  n. 伤害；损害
+  vt. 伤害；危害；损害
+  n. (Harm)人名；(德)哈尔姆
+
+subsidy	英 ['sʌbsɪdɪ] 美 ['sʌbsədi] ( subsidies )
+  n. 补贴；津贴；补助金
+
+Monday	英 [ˈmʌndeɪ; ˈmʌndi] 美 [ˈmʌnde; ˈmʌndɪ] ( Mondays )
+  n. 星期一
+
+cost	英 [kɒst] 美 [kɔst] ( costing, costs )
+  vt. 花费；使付出；使花许多钱
+  n. 费用，代价，成本；损失
+  vi. 花费
+  n. (Cost)人名；(英、罗)科斯特
+
+subsidize	英 [ˈsʌbsɪdaɪz] 美 ['sʌbsə'daɪz] ( subsidizing, subsidized, subsidizes )
+  vt. 资助；给与奖助金；向…行贿
+
+formal	英 ['fɔːm(ə)l] 美 ['fɔrml] ( formals )
+  adj. 正式的；拘谨的；有条理的
+  n. 正式的社交活动；夜礼服
+  n. (Formal)人名；(法)福马尔
+
+import	英 [ɪm'pɔːt; 'ɪm-] 美 ['ɪmpɔt] ( importing, imported, imports )
+  n. 进口，进口货；输入；意思，含义；重要性
+  vt. 输入，进口；含…的意思
+  vi. 输入，进口
+
+export	英 [ˈekspɔːt；ɪkˈ-] 美 [ˈekspɔːrt；ɪkˈ-] ( exporting, exported, exports )
+  n. 输出，出口；出口商品
+  vi. 输出物资
+  vt. 输出，出口
+
+immediate	英 [ɪ'miːdɪət] 美 [ɪ'midɪət] 
+  adj. 立即的；直接的；最接近的
+
+bilateral	英 [baɪ'læt(ə)r(ə)l] 美 [,baɪ'lætərəl] 
+  adj. 双边的；有两边的
+
+allow	英 [ə'laʊ] 美 [ə'laʊ] ( allowing, allowed, allows )
+  vt. 允许；给予；认可
+  vi. 容许；考虑
+
+despite	英 [dɪ'spaɪt] 美 [dɪ'spaɪt] 
+  prep. 尽管，不管
+  n. 轻视；憎恨；侮辱
+
+energy	英 ['enədʒɪ] 美 ['ɛnɚdʒi] ( energies )
+  n. [物] 能量；精力；活力；精神
+
+theft	英 [θeft] 美 [θɛft] ( thefts )
+  n. 盗窃；偷；赃物
+
+representative	英 [reprɪ'zentətɪv] 美 ['rɛprɪ'zɛntətɪv] ( representatives )
+  adj. 典型的，有代表性的；代议制的
+  n. 代表；典型；众议员
+
+trump	英 [trʌmp] 美 [trʌmp] ( trumping, trumped, trumps )
+  n. 王牌；法宝；喇叭
+  vt. 胜过；打出王牌赢
+  vi. 出王牌；吹喇叭
+  n. (Trump)人名；(英)特朗普
+
+grant	英 [grɑːnt] 美 [ɡrænt] ( granting, granted, grants )
+  vt. 授予；允许；承认
+  vi. 同意
+  n. 拨款；[法] 授予物
+  n. (Grant)人名；(瑞典、葡、西、俄、罗、英、塞、德、意)格兰特；(法)格朗
+
+reluctance	英 [rɪ'lʌkt(ə)ns] 美 [rɪ'lʌktəns] 
+  n. [电磁] 磁阻；勉强；不情愿
+
+reduce	英 [rɪ'djuːs] 美 [rɪ'dʊs] ( reducing, reduced, reduces )
+  vt. 减少；降低；使处于；把…分解
+  vi. 减少；缩小；归纳为
+
+restriction	英 [rɪ'strɪkʃ(ə)n] 美 [rɪ'strɪkʃən] ( restrictions )
+  n. 限制；约束；束缚
+
+announcement	英 [ə'naʊnsm(ə)nt] 美 [ə'naʊnsmənt] ( announcements )
+  n. 公告；宣告；发表；通告
+
+cooperation	英 [kəʊ,ɒpə'reɪʃ(ə)n] 美 [ko,ɑpə'reʃən] 
+  n. 合作，协作；[劳经] 协力
+
+publish	英 ['pʌblɪʃ] 美 ['pʌblɪʃ] ( publishing, published, publishes )
+  vt. 出版；发表；公布
+  vi. 出版；发行；刊印
+
+total	英 ['təʊt(ə)l] 美 ['totl] ( totalling, totalled, totals )
+  adj. 全部的；完全的；整个的
+  vt. 总数达
+  vi. 合计
+  n. 总数，合计
+  n. (Total)人名；(法、德)托塔尔
+
+refugee	英 [refjʊ'dʒiː] 美 ['rɛfjʊdʒi] ( refugees )
+  n. 难民，避难者；流亡者，逃亡者
+
+steel	英 [stiːl] 美 [stil] ( steeling, steeled, steels )
+  n. 钢铁；钢制品；坚固
+  vt. 钢化；使冷酷
+  adj. 钢制的；钢铁业的；坚强的
+  n. (Steel)人名；(德)施特尔；(英)斯蒂尔
+
+practice	英 ['præktɪs] 美 ['præktɪs] ( practices )
+  n. 实践；练习；惯例
+  vi. 练习；实习；实行
+  vt. 练习；实习；实行
+
+bona	英 ['bəunə] 美 ['bonə] 
+  adj. 好的（等于good）
+  n. (Bona)人名；(阿拉伯)布纳；(英、法、德、西、意、葡、罗、塞、塞拉)博纳
+
+relationship	英 [rɪ'leɪʃ(ə)nʃɪp] 美 [rɪ'leʃən'ʃɪp] ( relationships )
+  n. 关系；关联
+
+direct	英 [dəˈrekt; daɪˈrekt] 美 [dəˈrɛkt; daɪˈrɛkt] ( directing, directed, directs )
+  adj. 直接的；直系的；亲身的；恰好的
+  vt. 管理；指挥；导演；指向
+  vi. 指导；指挥
+  adv. 直接地；正好；按直系关系
+
+program	英 ['prəʊɡræm] 美 ['proɡræm] ( programming, programmed, programs )
+  n. 程序；计划；大纲
+  vt. 用程序指令；为…制订计划；为…安排节目
+  vi. 编程序；安排节目；设计电脑程式
+
+Chinese	英 [tʃaɪniːz]  ( Chinese )
+  n. 中文，汉语；中国人
+  adj. 中国的，中国人的；中国话的
+
+agreement	英 [ə'griːm(ə)nt] 美 [ə'grimənt] ( agreements )
+  n. 协议；同意，一致
+
+relative	英 ['relətɪv] 美 ['rɛlətɪv] ( relatives )
+  adj. 相对的；有关系的；成比例的
+  n. 亲戚；相关物；[语] 关系词；亲缘植物
+
+number	英 ['nʌmbə] 美 ['nʌmbɚ] ( numbering, numbered, numbers )
+  n. 数；（杂志等的）期；号码；数字；算术
+  vi. 计入；总数达到
+  vt. 编号；计入；数…的数目；使为数有限
+
+reduction	英 [rɪ'dʌkʃ(ə)n] 美 [rɪ'dʌkʃən] ( reductions )
+  n. 减少；下降；缩小；还原反应
+
+sharply	英 ['ʃɑ:plɪ] 美 ['ʃɑrpli] 
+  adv. 急剧地；锐利地
+
+Beijing	英/美 [ˌbeɪˈdʒɪŋ] 
+  n. 北京（等于Peking或Pekin）
+
+supreme	英 [suː'priːm] 美 [suˈprim] 
+  adj. 最高的；至高的；最重要的
+  n. 至高；霸权
+
+tax	英 [tæks] 美 [tæks] ( taxing, taxed, taxes )
+  vt. 向…课税；使负重担
+  n. 税金；重负
+  n. (Tax)人名；(英、匈、捷)塔克斯
+
+opinion	英 [ə'pɪnjən] 美 [ə'pɪnjən] ( opinions )
+  n. 意见；主张
+
+Donald	英/美 ['dɒnəld] 
+  n. 唐纳德（男子名）
+
+china	英 [ˈtʃaɪnə] 美 [ˈtʃaɪ.nə] 
+  n. 瓷器
+  adj. 瓷制的
+  n. China，中国
+  adj. China，中国的
+
+support	英 [sə'pɔːt] 美 [sə'pɔrt] ( supporting, supported, supports )
+  vt. 支持，支撑，支援；扶持，帮助；赡养，供养
+  n. 支持，维持；支援，供养；支持者，支撑物
+
+department	英 [dɪ'pɑːtm(ə)nt] 美 [dɪ'pɑrtmənt] ( departments )
+  n. 部；部门；系；科；局
+
+less	英 [les] 美 [lɛs] 
+  adv. 较少地；较小地；更小地
+  adj. 较少的；较小的
+  prep. 减去
+  n. 较少；较小
+  n. (Less)人名；(德、意、匈、芬)莱斯
+
+investigation	英 [ɪn,vestɪ'geɪʃ(ə)n] 美 [ɪn,vɛstɪ'ɡeʃən] 
+  n. 调查；调查研究
+
+largely	英 ['lɑːdʒlɪ] 美 ['lɑrdʒli] 
+  adv. 主要地；大部分；大量地
+
+refer	英 [rɪ'fɜː] 美 [rɪ'fɝ] ( referring, referred, refers )
+  vi. 参考；涉及；提到；查阅
+  vt. 涉及；委托；归诸于；使…求助于
+
+north	英 [nɔːθ] 美 [nɔrθ] (also North)
+  n. 北，北方
+  adj. 北方的；朝北的
+  adv. 在北方，向北方
+
+order	英 ['ɔːdə] 美 ['ɔrdɚ] ( ordering, ordered, orders )
+  n. 命令；顺序；规则；[贸易] 定单
+  vt. 命令；整理；定购
+  vi. 命令；定货
+
+whether	英 ['weðə] 美 ['wɛðɚ] 
+  conj. 是否；不论
+  pron. 两个中的哪一个
+
+temporary	英 ['temp(ə)rərɪ] 美 [ˈtempəreri] 
+  adj. 暂时的，临时的
+  n. 临时工，临时雇员
+
+arrival	英 [ə'raɪv(ə)l] 美 [ə'raɪvəl] ( arrivals )
+  n. 到来；到达；到达者
+
+January	英 ['dʒænjʊ(ə)rɪ] 美 ['dʒænjʊ'ɛri] ( Januaries )
+  n. 一月
+
+united	英 [jʊ'naɪtɪd] 美 [jʊ'naɪtɪd] 
+  adj. 一致的，统一的；团结的，和睦的
+
+apply	英 [ə'plaɪ] 美 [ə'plaɪ] ( applying, applied, applies )
+  vt. 申请；涂，敷；应用
+  vi. 申请；涂，敷；适用；请求
+
+increasingly	英 [ɪn'kriːsɪŋlɪ] 美 [ɪn'krisɪŋli] 
+  adv. 越来越多地；渐增地
+
+accord	英 [ə'kɔːd] 美 [ə'kɔrd] ( according, accorded, accords )
+  n. 符合；一致；协议；自愿
+  vt. 使一致；给予
+  vi. 符合；一致
+
+determine	英 [dɪ'tɜːmɪn] 美 [dɪ'tɝmɪn] ( determining, determined, determines )
+  v. （使）下决心，（使）做出决定
+  vt. 决定，确定；判定，判决；限定
+  vi. 确定；决定；判决，终止；[主用于法律]了结，终止，结束
+
+engage	英 [ɪn'geɪdʒ; en-] 美 [ɪn'ɡedʒ] ( engaging, engaged, engages )
+  vt. 吸引，占用；使参加；雇佣；使订婚；预定
+  vi. 从事；答应，保证；交战；啮合
+
+value	英 ['væljuː] 美 ['vælju] ( valuing, valued, values )
+  n. 值；价值；价格；重要性；确切涵义
+  vt. 评价；重视；估价
+
+Tuesday	英 ['tjuːzdeɪ; -dɪ] 美 [ˈtuzdɪ;-de] ( Tuesdays )
+  n. 星期二
+
+missile	英 ['mɪsaɪl] 美 ['mɪsl] ( missiles )
+  n. 导弹；投射物
+  adj. 导弹的；可投掷的；用以发射导弹的
+
+loan	英 [ləʊn] 美 [lon] ( loaning, loaned, loans )
+  n. 贷款；借款
+  vi. 借出
+  vt. 借；借给
+
+fiscal	英 ['fɪsk(ə)l] 美 ['fɪskl] 
+  adj. 会计的，财政的；国库的
+  n. (Fiscal)人名；(法)菲斯卡尔
+
+nuclear	英 ['njuːklɪə] 美 ['nuklɪɚ] 
+  adj. 原子能的；[细胞] 细胞核的；中心的；原子核的
+
+recent	英 ['riːs(ə)nt] 美 ['risnt] 
+  adj. 最近的；近代的
+
+court	英 [kɔːt] 美 [kɔrt] ( courts )
+  n. 法院；球场；朝廷；奉承
+  vt. 招致（失败、危险等）；向…献殷勤；设法获得
+  vi. 求爱
+  n. (Court)人名；(英)考特；(法)库尔
+
+already	英 [ɔːl'redɪ] 美 [ɔl'rɛdi] 
+  adv. 已经，早已；先前
+
+Wilbur	英/美 ['wilbə] 
+  n. 威尔伯（男子名，等于Wilber）
+

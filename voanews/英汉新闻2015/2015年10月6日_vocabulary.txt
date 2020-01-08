@@ -1,0 +1,478 @@
+express	英 [ɪk'spres; ek-] 美 [ɪk'sprɛs] ( expressing, expressed, expresses )
+  vt. 表达；快递
+  adj. 明确的；迅速的；专门的
+  n. 快车，快递，专使；捷运公司
+
+Atlantic	英 [æt'læntɪk] 美 [ət'læntɪk] 
+  n. 大西洋
+  adj. 大西洋的
+
+secretary	英 [ˈsekrətrɪ] 美 ['sɛkrətɛrɪ] ( secretaries )
+  n. 秘书；书记；部长；大臣
+
+target	英 ['tɑːgɪt] 美 ['tɑrɡɪt] ( targetting, targetted, targets )
+  美国塔吉特公司
+
+theory	英 ['θɪərɪ] 美 ['θiəri] ( theories )
+  n. 理论；原理；学说；推测
+
+spy	英 [spaɪ] 美 [spaɪ] ( spying, spied, spies )
+  vt. 侦察；发现；暗中监视
+  vi. 侦察；当间谍
+  n. 间谍；密探
+
+regulator	英 ['regjʊleɪtə] 美 ['rɛɡjuletɚ] ( regulators )
+  n. 调整者；监管者；校准器
+
+agreement	英 [ə'griːm(ə)nt] 美 [ə'grimənt] ( agreements )
+  n. 协议；同意，一致
+
+presence	英 ['prez(ə)ns] 美 ['prɛzns] ( presences )
+  n. 存在；出席；参加；风度；仪态
+
+fought	英 [fɔːt] 美 [fɔt] 
+  v. 战斗（fight的过去分词）；打架
+
+Snowden	英/美 ['snəudn] 
+  n. 斯诺登（姓氏）
+
+Sunday	英 [ˈsʌndeɪ; ˈsʌndi] 美 [ˈsʌnde; ˈsʌndi] ( Sundays )
+  n. 星期日；礼拜日
+
+summon	英 ['sʌmən] 美 ['sʌmən] ( summoning, summoned, summons )
+  vt. 召唤；召集；鼓起；振作
+
+Saturday	英 [ˈsætədɪ; -deɪ] 美 [sætɚdɪ; -de] ( Saturdays )
+  n. 星期六
+
+treaty	英 ['triːtɪ] 美 ['triti] ( treaties )
+  n. 条约，协议；谈判
+
+consequence	英 ['kɒnsɪkw(ə)ns] 美 ['kɑnsəkwɛns] ( consequences )
+  n. 结果；重要性；推论
+
+territory	英 ['terɪt(ə)rɪ] 美 ['tɛrətɔri] ( territories )
+  n. 领土，领域；范围；地域；版图
+
+condition	英 [kən'dɪʃ(ə)n] 美 [kən'dɪʃən] ( conditioning, conditioned, conditions )
+  n. 条件；情况；环境；身份
+  vt. 决定；使适应；使健康；以…为条件
+
+Tuesday	英 ['tjuːzdeɪ; -dɪ] 美 [ˈtuzdɪ;-de] ( Tuesdays )
+  n. 星期二
+
+accident	英 ['æksɪdənt] 美 ['æksədənt] ( accidents )
+  n. 事故；意外；[法] 意外事件；机遇
+
+protection	英 [prə'tekʃ(ə)n] 美 [prə'tɛkʃən] ( protections )
+  n. 保护；防卫；护照
+
+reiterate	英 [riː'ɪtəreɪt] 美 [rɪ'ɪtəret] ( reiterating, reiterated, reiterates )
+  vt. 重申；反复地做
+
+favor	英 ['feɪvə] 美 ['fevɚ] 
+  vt. 赞成；喜欢；像；赐予；证实
+  n. 喜爱；欢心；好感
+
+protest	英 [prəˈtest;ˈprəʊtest] 美 [prəˈtɛst;protɛst] ( protesting, protested, protests )
+  vi. 抗议；断言
+  vt. 抗议；断言
+  n. 抗议
+  adj. 表示抗议的；抗议性的
+
+AL	英/美 [æl] 
+  abbr. 美国联盟（American League）；美国军团（American Legion）；阿尔巴尼亚（Albania，欧洲一国家名）；美国亚拉巴马州（Alabama）
+  n. (Al)人名；(英)阿尔(Albert 在美国的昵称)
+
+incident	英 ['ɪnsɪd(ə)nt] 美 ['ɪnsɪdənt] ( incidents )
+  n. 事件，事变；插曲
+  adj. [光] 入射的；附带的；易发生的，伴随而来的
+
+serious	英 ['sɪərɪəs] 美 ['sɪrɪəs] 
+  adj. 严肃的，严重的；认真的；庄重的；危急的
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+	 
+
+medium	英 ['miːdɪəm] 美 ['midɪəm] ( media )
+  adj. 中间的，中等的；半生熟的
+  n. 方法；媒体；媒介；中间物
+
+firm	英 [fɜːm] 美 [fɝm] ( firmer, firmest, firms )
+  adj. 坚定的；牢固的；严格的；结实的
+  vt. 使坚定；使牢固
+  vi. 变坚实；变稳固
+  adv. 稳固地
+  n. 公司；商号
+
+breach	英 [briːtʃ] 美 [britʃ] ( breaching, breached, breaches )
+  n. 违背，违反；缺口
+  vt. 违反，破坏；打破
+
+trans	英 [trɑːnz] 美 [trænz] 
+  abbr. 翻译（translate）
+  pref. 表“横穿”；表“进入”
+  n. 传动装置；变速箱
+
+FaceBook	 
+  n. 脸谱网
+
+jens	 
+  n. （接）物镜
+  n. (Jens)人名；(德、挪、丹、瑞典)延斯
+
+turkish	英/美 ['tɝkɪʃ] 
+  adj. 土耳其的；土耳其人的，土耳其语的；突厥诸语言的
+  n. 土耳其语
+
+motif	英 [məʊ'tiːf] 美 [mo'tif] ( motifs )
+  n. 主题；动机；主旨；图形；意念
+
+Ireland	英 ['aɪələnd] 美 ['aɪrlənd] 
+  n. 爱尔兰
+
+social	英 ['səʊʃ(ə)l] 美 ['soʃl] 
+  adj. 社会的，社交的；群居的
+  n. 联谊会；联欢会
+
+transfer	英 [træns'fɜː; trɑːns-; -nz-] 美 [træns'fɝ] ( transferring, transferred, transfers )
+  n. 转让；转移；传递；过户
+  vi. 转让；转学；换车
+  vt. 使转移；调任
+
+instance	英 ['ɪnst(ə)ns] 美 ['ɪnstəns] ( instances )
+  n. 实例；情况；建议
+  vt. 举...为例
+
+result	英 [rɪ'zʌlt] 美 [rɪ'zʌlt] ( resulting, resulted, results )
+  n. 结果；成绩；答案；比赛结果
+  vi. 结果；导致；产生
+
+	 
+
+opposition	英 [ɒpə'zɪʃ(ə)n] 美 ['ɑpə'zɪʃən] ( oppositions )
+  n. 反对；反对派；在野党；敌对
+
+syrian	英/美 ['si:riən, 'si-] ( Syrians )
+  adj. 叙利亚的；叙利亚人的；叙利亚语的
+  n. 叙利亚人；叙利亚语
+
+rebel	英 ['reb(ə)l] 美 [rɪ'bɛl] ( rebelling, rebelled, rebels )
+  vi. 反叛；反抗；造反
+  n. 反叛者；叛徒
+  adj. 反抗的；造反的
+  n. (Rebel)人名；(德)雷贝尔；(英)里贝尔；(法)勒贝尔
+
+Assad	 
+  阿萨德（人名）
+
+Monday	英 [ˈmʌndeɪ; ˈmʌndi] 美 [ˈmʌnde; ˈmʌndɪ] ( Mondays )
+  n. 星期一
+
+attack	英 [ə'tæk] 美 [ə'tæk] ( attacking, attacked, attacks )
+  n. 攻击；抨击；疾病发作
+  vt. 攻击；抨击；动手干
+  vi. 攻击；腐蚀
+  n. (Attack)人名；(瑞典)阿塔克
+
+technological	英 [teknə'lɒdʒɪk(ə)l] 美 [tɛknə'lɑdʒɪkl] 
+  adj. 技术的；工艺的
+
+conduct	英 ['kɒndʌkt] 美 [kən'dʌkt] ( conducting, conducted, conducts )
+  vi. 导电；带领
+  vt. 管理；引导；表现
+  n. 进行；行为；实施
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+operation	英 [ɒpə'reɪʃ(ə)n] 美 [,ɑpə'reʃən] ( operations )
+  n. 操作；经营；[外科] 手术；[数][计] 运算
+
+NATO	英/美 ['neitəu] 
+  abbr. 北大西洋公约组织（North Atlantic Treaty Organization）
+  n. (Nato)人名；(意)纳托
+
+terrorist	英 ['terərɪst] 美 ['tɛrərɪst] ( terrorists )
+  n. 恐怖主义者，恐怖分子
+
+should	英 [ʃəd; strong form ʃʊd] 美 [ʃəd; strong form ʃʊd] 
+  aux. 应该；就；可能；将要
+
+islamic	英/美 [iz'læmik] 
+  adj. 伊斯兰教的；穆斯林的
+
+told	英 [təʊld] 美 [told] 
+  v. 告诉（tell的过去式）；讲述
+
+court	英 [kɔːt] 美 [kɔrt] ( courts )
+  n. 法院；球场；朝廷；奉承
+  vt. 招致（失败、危险等）；向…献殷勤；设法获得
+  vi. 求爱
+  n. (Court)人名；(英)考特；(法)库尔
+
+data	英 ['deɪtə] 美 ['detə] 
+  n. 数据（datum的复数）；资料
+  n. (Data)人名；(日)驮太 (姓)；(印、葡)达塔
+
+base	英 [beɪs] 美 [bes] ( basing, based, baser, basest, bases )
+  n. 基础；底部；垒
+  adj. 卑鄙的；低劣的
+  vt. 以…作基础
+  n. (Base)人名；(日)马濑(姓)
+
+frequently	英 ['friːkw(ə)ntlɪ] 美 ['frikwəntli] 
+  adv. 频繁地，经常地；时常，屡次
+
+airspace	英 ['eəspeɪs] 美 ['ɛr'spes] (also air space)
+  n. 空域；领空；空间
+
+increase	英 [ɪn'kriːs] 美 ['ɪnkris] ( increasing, increased, increases )
+  n. 增加，增长；提高
+  vi. 增加，增大；繁殖
+  vt. 增加，加大
+  n. (Increase)人名；(英)英克里斯
+
+ally	英 ['ælaɪ] 美 ['ælaɪ] ( allying, allied, allies )
+  n. 同盟国；伙伴；同盟者；助手
+  vt. 使联盟；使联合
+  vi. 联合；结盟
+  n. (Ally)人名；(巴基)阿利；(法)阿利；(英)艾丽(女子教名 Alice 的简称)；(尼日利)阿利
+
+spotlight	英 ['spɒtlaɪt] 美 ['spɑtlaɪt] ( spotlighting, spotlighted, spotlights )
+  n. 聚光灯；反光灯；公众注意的中心
+  vt. 聚光照明；使公众注意
+
+bashar	 
+  巴沙尔
+  巴沙尔
+
+reporter	英 [rɪ'pɔːtə] 美 [rɪ'pɔrtɚ] ( reporters )
+  n. 记者
+
+privacy	英 ['prɪvəsɪ; 'praɪ-] 美 ['praɪvəsi] 
+  n. 隐私；秘密；隐居；隐居处
+
+describe	英 [dɪ'skraɪb] 美 [dɪ'skraɪb] ( describing, described, describes )
+  vt. 描述，形容；描绘
+
+European	英 [ˌjʊərəˈpɪən] 美 ['jʊrə'piən] ( Europeans )
+  adj. 欧洲的；欧洲人的
+  n. 欧洲人
+
+warn	英 [wɔːn] 美 [wɔrn] ( warning, warned, warns )
+  vt. 警告，提醒；通知
+  vi. 发出警告，发出预告
+  n. (Warn)人名；(英)沃恩；(德)瓦恩
+
+general	英 ['dʒen(ə)r(ə)l] 美 ['dʒɛnrəl] ( generals )
+  adj. 一般的，普通的；综合的；大体的
+  n. 一般；将军，上将；常规
+  n. (General)人名；(英)杰纳勒尔
+
+fighter	英 ['faɪtə] 美 ['faɪtɚ] ( fighters )
+  n. 战士，斗争者；斗士；奋斗者；好战者
+
+group	英 [gruːp] 美 [ɡrup] ( grouping, grouped, groups )
+  n. 组；团体
+  adj. 群的；团体的
+  vi. 聚合
+  vt. 把…聚集；把…分组
+
+violate	英 ['vaɪəleɪt] 美 ['vaɪəlet] ( violating, violated, violates )
+  vt. 违反；侵犯，妨碍；亵渎
+
+restate	英 [riː'steɪt] 美 [,ri'stet] ( restating, restated, restates )
+  vt. 重申；重新叙述；重讲
+
+provision	英 [prə'vɪʒ(ə)n] 美 [prə'vɪʒn] ( provisions )
+  n. 规定；条款；准备；[经] 供应品
+  vt. 供给…食物及必需品
+
+Austrian	英/美 ['ɔstriən] ( Austrians )
+  adj. 奥地利的；奥地利人的
+  n. 奥地利人
+
+information	英 [ɪnfə'meɪʃ(ə)n] 美 ['ɪnfɚ'meʃən] 
+  n. 信息，资料；知识；情报；通知
+
+solidarity	英 [,sɒlɪ'dærɪtɪ] 美 [,sɑlɪ'dærəti] 
+  n. 团结，团结一致
+
+concern	英 [kən'sɜːn] 美 [kən'sɝn] ( concerning, concerned, concerns )
+  vt. 涉及，关系到；使担心
+  n. 关系；关心；关心的事；忧虑
+
+whistleblower	英/美 ['hwɪsəl,bloɚ] 
+  告发者；检举者
+
+against	英 [ə'genst; ə'geɪnst] 美 [əˈɡɛnst;əˈɡenst] 
+  prep. 反对，违反；靠；倚；防备
+  adj. 不利的；对立的
+
+jet	英 [dʒet] 美 [dʒɛt] ( jetting, jetted, jets )
+  n. 喷射，喷嘴；喷气式飞机；黑玉
+  adj. 墨黑的
+  vt. 射出
+  vi. 射出；[航] 乘喷气式飞机
+
+Russian	英 ['rʌʃ(ə)n] 美 ['rʌʃən] ( Russians )
+  adj. 俄国的；俄语的
+  n. 俄语；俄国人
+
+allow	英 [ə'laʊ] 美 [ə'laʊ] ( allowing, allowed, allows )
+  vt. 允许；给予；认可
+  vi. 容许；考虑
+
+border	英 ['bɔːdə] 美 ['bɔrdɚ] ( bordering, bordered, borders )
+  n. 边境；边界；国界
+  vt. 接近；与…接壤；在…上镶边
+  vi. 接界；近似
+  n. (Border)人名；(英)博德
+
+ministry	英 ['mɪnɪstrɪ] 美 ['mɪnɪstri] ( ministries )
+  n. （政府的）部门
+
+speculate	英 ['spekjʊleɪt] 美 ['spɛkjə'let] ( speculating, speculated, speculates )
+  vi. 推测；投机；思索
+  vt. 推断
+
+civilian	英 [sɪ'vɪlj(ə)n] 美 [sə'vɪlɪən] ( civilians )
+  adj. 民用的；百姓的，平民的
+  n. 平民，百姓
+
+network	英 ['netwɜːk] 美 ['nɛtwɝk] ( networking, networked, networks )
+  n. 网络；广播网；网状物
+
+Stoltenberg	 
+  n. (Stoltenberg)人名；(瑞典)斯托尔滕贝里；(挪)斯托尔滕贝格；(德)施托尔滕贝格
+
+conspiracy	英 [kən'spɪrəsɪ] 美 [kən'spɪrəsi] ( conspiracies )
+  n. 阴谋；共谋；阴谋集团
+
+citizen	英 ['sɪtɪz(ə)n] 美 ['sɪtɪzn] ( citizens )
+  n. 公民；市民；老百姓
+
+user	英 ['juːzə] 美 ['juzɚ] ( users )
+  n. 用户
+  n. 使用者
+  n. (User)人名；(土)乌塞尔
+
+	 
+
+military	英 ['mɪlɪt(ə)rɪ] 美 ['mɪlətɛri] ( militaries )
+  adj. 军事的；军人的；适于战争的
+  n. 军队；军人
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+law	英 [lɔː] 美 [lɔ] ( laws )
+  n. 法律；规律；法治；法学；诉讼；司法界
+  vi. 起诉；控告
+  vt. 控告；对…起诉
+  n. (Law)人名；(东南亚国家华语)刘；(英、缅、柬)劳
+
+violation	英 [vaɪə'leɪʃn] 美 [,vaɪə'leʃən] 
+  n. 违反；妨碍，侵害；违背；强奸
+
+whether	英 ['weðə] 美 ['wɛðɚ] 
+  conj. 是否；不论
+  pron. 两个中的哪一个
+
+Syria	英/美 ['si:riə; 'si-] 
+  n. 叙利亚共和国
+
+non	英 [nɒn] 美 [nɑn] 
+  adv. 非，不
+  n. 投反对票的人，反对票
+  n. (Non)人名；(柬)嫩；(俄)诺恩
+
+defense	英 [dɪ'fens] 美 [dɪ'fɛns] ( defenses )
+  n. 防卫，防护；防御措施；防守
+  vt. 谋划抵御
+
+decide	英 [dɪ'saɪd] 美 [dɪ'saɪd] ( deciding, decided, decides )
+  vt. 决定；解决；判决
+  vi. 决定，下决心
+
+ambassador	英 [æm'bæsədə] 美 [æm'bæsədɚ] ( ambassadors )
+  n. 大使；代表；使节
+
+Edward	英/美 ['edwəd] 
+  n. 爱德华（男子名）
+
+suspend	英 [sə'spend] 美 [sə'spɛnd] ( suspending, suspended, suspends )
+  vt. 延缓，推迟；使暂停；使悬浮
+  vi. 悬浮；禁赛
+
+summons	英 ['sʌm(ə)nz] 美 ['sʌmənz] ( summonses )
+  n. 召唤；传票；传唤；召集
+  vt. 唤出；传到；传唤到法院
+
+since	英 [sɪns] 美 [sɪns] 
+  conj. 因为；由于；既然；自…以来；自…以后
+  prep. 自…以来；自…以后
+  adv. 后来
+
+complain	英 [kəm'pleɪn] 美 [kəm'plen] ( complaining, complained, complains )
+  vi. 投诉；发牢骚；诉说
+  vt. 抱怨；控诉
+
+raise	英 [reɪz] 美 [rez] ( raising, raised, raises )
+  vt. 提高；筹集；养育；升起
+  vi. 上升
+  n. 高地；上升；加薪
+  n. (Raise)人名；(英)雷兹
+
+exchange	英 [ɪks'tʃeɪndʒ; eks-] 美 [ɪks'tʃendʒ] ( exchanging, exchanged, exchanges )
+  n. 交换；交流；交易所；兑换
+  vt. 交换；交易；兑换
+  vi. 交换；交易；兑换
+
+shield	英 [ʃiːld] 美 [ʃild] ( shielding, shielded, shields )
+  n. 盾；防护物；保护者
+  vt. 遮蔽；包庇；避开；保卫
+  vi. 防御；起保护作用
+  n. (Shield)人名；(英)希尔德
+
+lodge	英 [lɒdʒ] 美 [lɑdʒ] ( lodging, lodged, lodges )
+  n. 旅馆；门房；集会处；山林小屋
+  vt. 提出；寄存；借住；嵌入
+  vi. 寄宿；临时住宿
+  n. (Lodge)人名；(英、西)洛奇
+
+effect	英 [ɪ'fekt] 美 [ɪ'fɛkt] ( effecting, effected, effects )
+  n. 影响；效果；作用
+  vt. 产生；达到目的
+
+Russia	英 ['rʌʃə] 美 ['rʌʃə] 
+  n. 俄罗斯
+
+united	英 [jʊ'naɪtɪd] 美 [jʊ'naɪtɪd] 
+  adj. 一致的，统一的；团结的，和睦的
+
+illegally	英/美 [ɪ'ligəli] 
+  adv. 非法地
+
+first	英 [fɜːst] 美 [fɝst] 
+  adv. 第一；首先；优先；宁愿
+  n. 第一；开始；冠军
+  adj. 第一的；基本的；最早的
+  num. 第一
+  n. (First)人名；(英)弗斯特；(捷)菲尔斯特
+
+incursion	英 [ɪn'kɜːʃ(ə)n] 美 [ɪn'kɝʒn] ( incursions )
+  n. 入侵；侵犯
+
+developed	英 [dɪ'veləpt] 美 [dɪ'vɛləpt] 
+  adj. 发达的（国家或地区）；成熟的
+
+Europe	英 ['jʊrəp] 美 ['jʊrəp] 
+  n. 欧洲
+

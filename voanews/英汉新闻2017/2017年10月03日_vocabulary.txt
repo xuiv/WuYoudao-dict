@@ -1,0 +1,655 @@
+wound	英 [wuːnd] 美 [wund] ( wounding, wounded, wounds )
+  n. 创伤，伤口
+  vt. 使受伤
+  vi. 受伤，伤害
+
+Monday	英 [ˈmʌndeɪ; ˈmʌndi] 美 [ˈmʌnde; ˈmʌndɪ] ( Mondays )
+  n. 星期一
+
+police	英 [pə'liːs] 美 [pə'lis] ( policing, policed, polices )
+  n. 警察，警方；治安
+  vt. 监督；管辖；维持治安；为…配备警察
+  adj. 警察的；有关警察的
+
+blood	英 [blʌd] 美 [blʌd] 
+  n. 血，血液；血统
+  vt. 从…抽血；使先取得经验
+  n. (Blood)人名；(英、西)布拉德
+
+personnel	英 [pɜːsə'nel] 美 [,pɝsə'nɛl] 
+  n. 人事部门；全体人员
+  adj. 人员的；有关人事的
+
+supply	英 [sə'plaɪ] 美 [sə'plaɪ] ( supplying, supplied, supplies )
+  n. 供给，补给；供应品
+  vt. 供给，提供；补充
+  vi. 供给；替代
+
+tie	英 [taɪ] 美 [taɪ] ( tying, tied, ties )
+  vt. 系；约束；打结；与…成平局
+  vi. 打结；不分胜负；被用带（或绳子等）系住
+  n. 领带；平局；鞋带；领结；不分胜负
+  n. (Tie)人名；(东南亚国家华语)治；(英)泰伊；(柬)狄
+
+virgin	英 ['vɜːdʒɪn] 美 ['vɝdʒɪn] ( virgins )
+  adj. 处女的；纯洁的；未经利用的，处于原始状态的
+  n. 处女
+
+clark	英/美 [kla:k] 
+  n. 克拉克（男子名）
+  n. (Clark)人名；(瑞典、葡、西、芬、斐、意、德、匈、英、土)克拉克
+
+FBI	英/美 [,ef bi: 'ai] 
+  abbr. （美国）联邦调查局（Federal Bureau of Investigation）；英国工业联合会（Federation of British Industries）
+
+religious	英 [rɪ'lɪdʒəs] 美 [rɪ'lɪdʒəs] 
+  adj. 宗教的；虔诚的；严谨的；修道的
+  n. 修道士；尼姑
+
+silence	英 ['saɪləns] 美 ['saɪləns] ( silencing, silenced, silences )
+  n. 沉默；寂静；缄默；不谈；无声状态
+  vt. 使沉默；使安静；压制；消除噪音
+  int. 安静！；别作声！
+
+gunshot	英 ['gʌnʃɒt] 美 ['ɡʌnʃɑt] ( gunshots )
+  n. 射击；射程；炮击
+  adj. 射击的；枪炮射击所致的
+
+	 
+
+identify	英 [aɪ'dentɪfaɪ] 美 [aɪ'dɛntɪfaɪ] ( identifying, identified, identifies )
+  vt. 确定；鉴定；识别，辨认出；使参与；把…看成一样 vi. 确定；认同；一致
+
+Tokyo	英 [ˈtəʊkjəʊ] 美 ['tokjo] 
+  n. 东京（日本首都）
+
+concert	英 ['kɒnsət] 美 ['kɑnsɚt] ( concerts )
+  n. 音乐会；一致；和谐
+  vt. 使协调；协同安排
+  vi. 协调；协力
+  adj. 音乐会用的；在音乐会上演出的
+
+tremendous	英 [trɪ'mendəs] 美 [trə'mɛndəs] 
+  adj. 极大的，巨大的；惊人的；极好的
+
+shock	英 [ʃɒk] 美 [ʃɑk] ( shocking, shocked, shocks )
+  n. 休克；震惊；震动；打击；禾束堆
+  vt. 使休克；使震惊；使震动；使受电击；把…堆成禾束堆
+  vi. 感到震惊；受到震动；堆成禾束堆
+  adj. 浓密的；蓬乱的
+  n. (Shock)人名；(英)肖克
+
+governor	英 ['gʌv(ə)nə] 美 ['ɡʌvɚnɚ] ( governors )
+  n. 主管人员；统治者，管理者；[自] 调节器；地方长官
+
+electricity	英 [,ɪlek'trɪsɪtɪ; ,el-; ,iːl-] 美 [ɪ'lɛk'trɪsəti] 
+  n. 电力；电流；强烈的紧张情绪
+
+fence	英 [fens] 美 [fɛns] ( fencing, fenced, fences )
+  n. 栅栏；围墙；剑术
+  vt. 防护；用篱笆围住；练习剑术
+  vi. 击剑；搪塞；围以栅栏；跳过栅栏
+
+outdoor	英 ['aʊtdɔː] 美 ['aʊt'dɔr] 
+  adj. 户外的；露天的；野外的（等于out-of-door）
+
+first	英 [fɜːst] 美 [fɝst] 
+  adv. 第一；首先；优先；宁愿
+  n. 第一；开始；冠军
+  adj. 第一的；基本的；最早的
+  num. 第一
+  n. (First)人名；(英)弗斯特；(捷)菲尔斯特
+
+effort	英 ['efət] 美 ['ɛfɚt] ( efforts )
+  n. 努力；成就
+
+service	英 ['sɜːvɪs] 美 ['sɝvɪs] ( services )
+  n. 服务，服侍；服役；仪式
+  adj. 服务性的；耐用的；服现役的
+  vt. 维修，检修；保养
+  n. (Service)人名；(英)瑟维斯
+
+bay	英 [beɪ] 美 [be] ( baying, bayed, bays )
+  n. 海湾；狗吠声
+  vt. 向…吠叫
+  vi. 吠叫；大声叫嚷
+  n. (Bay)人名；(越)七；(英、老)贝；(德、意、罗、捷、土、丹)巴伊；(匈)鲍伊；(瑞典)巴伊
+
+RICO	英/美 ['riko] 
+  abbr. 反诈骗腐败组织集团犯罪法（Racketeer Influenced and Corrupt Organizations Act）
+  n. (Rico)人名；(英、法、西、意、葡)里科
+
+federal	英 ['fed(ə)r(ə)l] 美 ['fɛdərəl] 
+  adj. 联邦的；同盟的；联邦政府的； 联邦制的
+  adv. 联邦政府地
+  n. (Federal)人名；(英)费德勒尔
+
+monument	英 ['mɒnjʊm(ə)nt] 美 ['mɑnjumənt] ( monuments )
+  n. 纪念碑；历史遗迹；不朽的作品
+  vt. 为…树碑
+
+motive	英 ['məʊtɪv] 美 ['motɪv] ( motives )
+  n. 动机，目的；主题
+  adj. 发动的；成为动机的
+  vt. 使产生动机，激起
+
+sent	英 [sent] 美 [sɛnt] 
+  v. 送，寄出（send的过去分词）
+  n. (Sent)人名；(德)森特
+
+reporter	英 [rɪ'pɔːtə] 美 [rɪ'pɔrtɚ] ( reporters )
+  n. 记者
+
+shoot	英 [ʃuːt] 美 [ʃut] ( shooting, shot, shoots )
+  vt. 射击，射中；拍摄；发芽；使爆炸；给…注射
+  vi. 射击；发芽；拍电影
+  n. 射击；摄影；狩猎；急流
+
+off	英 [ɒf] 美 [ɔf] 
+  prep. 离开；脱落
+  adv. 切断；走开
+  adj. 远离的；空闲的
+
+contact	英 ['kɒntækt] 美 ['kɑntækt] ( contacting, contacted, contacts )
+  n. 接触，联系
+  vt. 使接触，联系
+  vi. 使接触，联系
+
+Vega	英 [ˈviːɡə] 美 ['vigə] 
+  n. [天] 织女星
+
+convert	英 [kən'vɜːt] 美 [kən'vɝt] ( converting, converted, converts )
+  vt. 使转变；转换…；使…改变信仰
+  vi. 转变，变换；皈依；改变信仰
+  n. 皈依者；改变宗教信仰者
+  n. (Convert)人名；(法)孔韦尔
+
+la	英 [,el'eɪ] 美 [,ɛl'e] 
+  n. 全音阶中的第6个音；A音的唱名
+  n. (La)人名；(中)辣(广东话·威妥玛)；(越)罗；(朝)罗；(缅、老)拉
+
+response	英 [rɪ'spɒns] 美 [rɪ'spɑns] ( responses )
+  n. 响应；反应；回答
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+bewilder	英 [bɪ'wɪldə] 美 [bɪ'wɪldɚ] ( bewildering, bewildered, bewilders )
+  vt. 使迷惑，使不知所措
+
+thousand	英 ['θaʊz(ə)nd] 美 ['θaʊznd] ( thousands )
+  n. 一千；一千个；许许多多
+  adj. 成千的；无数的
+
+dead	英 [ded] 美 [dɛd] 
+  adj. 无生命的；呆板的；废弃了的
+  adv. 完全地
+  n. 死者
+
+international	英 [ɪntə'næʃ(ə)n(ə)l] 美 [,ɪntɚ'næʃnəl] 
+  n. 国际组织；国际体育比赛；外国居留者；国际股票
+  adj. 国际的；两国（或以上）国家的；超越国界的；国际关系的；世界的
+
+due	英 [djuː] 美 [du] 
+  adj. 到期的；预期的；应付的；应得的
+  n. 应付款；应得之物
+  adv. 正（置于方位词前）
+  n. (Due)人名；(英)迪尤
+
+political	英 [pə'lɪtɪk(ə)l] 美 [pə'lɪtɪkl] 
+  adj. 政治的；党派的
+
+sheriff	英 ['ʃerɪf] 美 ['ʃɛrɪf] ( sheriffs )
+  n. 州长；郡治安官；执行吏
+  n. (Sheriff)人名；(英、葡)谢里夫；(阿拉伯)谢里夫
+
+Nevada	英/美 [nə'vædə] 
+  n. 内华达（美国州名）
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+islamic	英/美 [iz'læmik] 
+  adj. 伊斯兰教的；穆斯林的
+
+paddock	英 ['pædək] 美 ['pædək] ( paddocks )
+  n. 围场；小牧场
+  n. (Paddock)人名；(英、瑞典)帕多克
+
+responder	英/美 [rɪ'spɒndə] 
+  n. 响应器；回答者
+
+Donald	英/美 ['dɒnəld] 
+  n. 唐纳德（男子名）
+
+found	英 [faʊnd] 美 [faʊnd] ( founding, founded, founds )
+  vt. 创立，建立；创办
+  v. 找到（find的过去分词）
+
+Wednesday	英 [ˈwenzdɪ] 美 [ˈwɛnzdɪ] ( Wednesdays )
+  n. 星期三
+
+include	英 [ɪn'kluːd] 美 [ɪn'klud] ( including, included, includes )
+  vt. 包含，包括
+
+survey	英 [ˈsəːveɪ; (for v.) səˈveɪ] 美 [ˈsɝˌve; (for v.) sɝˈve] ( surveying, surveyed, surveys )
+  n. 调查；测量；审视；纵览
+  vt. 调查；勘测；俯瞰
+  vi. 测量土地
+
+terror	英 ['terə] 美 ['tɛrɚ] ( terrors )
+  n. 恐怖；恐怖行动；恐怖时期；可怕的人
+  n. (Terror)人名；(南非)特罗尔
+
+county	英 ['kaʊntɪ] 美 ['kaʊnti] ( counties )
+  n. 郡，县
+
+territory	英 ['terɪt(ə)rɪ] 美 ['tɛrətɔri] ( territories )
+  n. 领土，领域；范围；地域；版图
+
+impact	英 ['ɪmpækt] 美 [ɪm'pækt] ( impacting, impacted, impacts )
+  n. 影响；效果；碰撞；冲击力
+  vt. 挤入，压紧；撞击；对…产生影响
+  vi. 影响；撞击；冲突；压紧（on，upon，with）
+
+investigator	英 [ɪn'vestɪgeɪtə(r)] 美 [ɪn'vɛstɪɡetɚ] ( investigators )
+  n. 研究者；调查者；侦查员
+
+schedule	英 [ˈʃedju:l] 美 [ˈskedʒʊl; skɛdʒʊl] ( scheduling, scheduled, schedules )
+  vt. 安排，计划；编制目录；将……列入计划表
+  n. 时间表；计划表；一览表
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+percent	英 [pə'sent] 美 [pɚ'sɛnt] 
+  n. 百分比，百分率；部分；百分数
+  adj. 百分之…的
+  adv. 以百分之…地
+
+Kenneth	英 ['kenɪθ] 美 ['kɛnɪθ] 
+  n. 肯尼思（男子名）；英俊的领导者
+
+lead	英 [li:d;led] 美 [lid; lɛd] ( leading, led, leads )
+  n. 领导；铅；导线；榜样
+  vt. 领导；致使；引导；指挥
+  vi. 领导；导致；用水砣测深
+  adj. 带头的；最重要的
+  n. (Lead)人名；(英)利德
+
+passenger	英 ['pæsɪndʒə] 美 [pæsndʒɚ] ( passengers )
+  n. 旅客；乘客；过路人；碍手碍脚的人
+
+recovery	英 [rɪ'kʌv(ə)rɪ] 美 [rɪ'kʌvəri] ( recoveries )
+  n. 恢复，复原；痊愈；重获
+
+cell	英 [sel] 美 [sɛl] ( cells )
+  n. 细胞；电池；蜂房的巢室；单人小室
+  vi. 住在牢房或小室中
+  n. (Cell)人名；(英)塞尔
+
+puerto	 
+  n. 垭口，港口，山口
+  n. (Puerto)人名；(西)普埃尔托
+
+	 
+
+evidence	英 ['evɪd(ə)ns] 美 ['ɛvɪdəns] 
+  n. 证据，证明；迹象；明显
+  vt. 证明
+
+resort	英 [rɪ'zɔːt] 美 [rɪ'zɔrt] ( resorting, resorted, resorts )
+  n. 凭借，手段；度假胜地；常去之地
+  vi. 求助，诉诸；常去；采取某手段或方法
+
+history	英 ['hɪst(ə)rɪ] 美 [ˈhɪstrɪ] ( histories )
+  n. 历史，历史学；历史记录；来历
+
+defend	英 [dɪ'fend] 美 [dɪ'fɛnd] ( defending, defended, defends )
+  vt. 辩护；防护
+  vi. 保卫；防守
+
+since	英 [sɪns] 美 [sɪns] 
+  conj. 因为；由于；既然；自…以来；自…以后
+  prep. 自…以来；自…以后
+  adv. 后来
+
+powerful	英 ['paʊəfʊl; -f(ə)l] 美 ['paʊɚfl] 
+  adj. 强大的；强有力的
+  adv. 很；非常
+
+evil	英 ['iːv(ə)l; -vɪl] 美 ['ivl] ( evils )
+  adj. 邪恶的；不幸的；有害的；讨厌的
+  n. 罪恶，邪恶；不幸
+
+Washington	英 [ˈwɒʃɪŋtən] 美 [ˈwɑʃɪŋtən] 
+  n. 华盛顿（美国州名，美国城市名，美国第一任总统，姓氏）
+
+October	英 [ɒk'təʊbə] 美 [ɑk'tobɚ] ( Octobers )
+  n. [天] 十月
+
+	 
+
+pure	英 [pjʊə] 美 [pjʊr] ( purer, purest )
+  adj. 纯的；纯粹的；纯洁的；清白的；纯理论的
+  n. (Pure)人名；(俄)普雷
+
+administration	英 [ədmɪnɪ'streɪʃ(ə)n] 美 [əd,mɪnɪ'streʃən] ( administrations )
+  n. 管理；行政；实施；行政机构
+
+criticism	英 ['krɪtɪsɪz(ə)m] 美 ['krɪtə'sɪzəm] ( criticisms )
+  n. 批评；考证；苛求
+
+fuel	英 [fjʊəl] 美 ['fjuəl] ( fueling, fueled, fuels )
+  vi. 得到燃料
+  vt. 供以燃料，加燃料
+  n. 燃料；刺激因素
+
+wealthy	英 ['welθɪ] 美 ['wɛlθi] ( wealthier, wealthiest )
+  adj. 富有的；充分的；丰裕的
+  n. 富人
+
+believe	英 [bɪ'liːv] 美 [bɪ'liv] ( believing, believed, believes )
+  vi. 信任；料想；笃信宗教
+  vt. 相信；认为；信任
+
+group	英 [gruːp] 美 [ɡrup] ( grouping, grouped, groups )
+  n. 组；团体
+  adj. 群的；团体的
+  vi. 聚合
+  vt. 把…聚集；把…分组
+
+	 
+
+Stephen	英/美 ['stivən] 
+  n. 斯蒂芬（男子名）
+
+responsibility	英 [rɪˌspɒnsəˈbɪlətɪ] 美 [rɪˌspɑːnsəˈbɪləti] ( responsibilities )
+  n. 责任，职责；义务
+
+horrify	英 ['hɒrɪfaɪ] 美 ['hɔrə'fai] ( horrifying, horrified, horrifies )
+  vt. 使恐惧；惊骇；使极度厌恶
+
+amaze	英 [ə'meɪz] 美 [ə'mez] ( amazing, amazed, amazes )
+  vt. 使吃惊
+
+mind	英 [maɪnd] 美 [maɪnd] ( minds )
+  n. 理智，精神；意见；智力；记忆力
+  vt. 介意；专心于；照料
+  vi. 介意；注意
+
+act	英 [ækt] 美 [ækt] ( acting, acted, acts )
+  美国大学入学考试，全称是American College Testing
+
+lee	英 [liː] 美 [li] ( lees )
+  n. 保护；背风处
+  adj. 保护的；庇荫的；避风的
+  n. (Lee)人名；(朝)李；(中)李(普通话·威妥玛)；(柬)利；(中)李(广东话·威妥玛)
+
+casino	英 [kə'siːnəʊ] 美 [kə'sino] ( casinos )
+  n. 俱乐部，赌场；娱乐场
+  n. (Casino)人名；(西、法)卡西诺
+
+Mapp	 
+  n. (Mapp)人名；(英)马普
+
+along	英 [ə'lɒŋ] 美 [ə'lɔŋ] 
+  adv. 一起；向前；来到
+  prep. 沿着；顺着
+
+lawn	英 [lɔːn] 美 [lɔn] ( lawns )
+  n. 草地；草坪
+  n. (Lawn)人名；(缅)朗
+
+Sunday	英 [ˈsʌndeɪ; ˈsʌndi] 美 [ˈsʌnde; ˈsʌndi] ( Sundays )
+  n. 星期日；礼拜日
+
+Joe	英 [dʒəu] 美 [dʒo] 
+  n. 乔（男子名）
+
+distance	英 [ˈdɪstəns] 美 ['dɪstəns] ( distancing, distanced, distances )
+  n. 距离；远方；疏远；间隔
+  vt. 疏远；把…远远甩在后面
+
+maria	英 ['mærɪə] 美 ['mɛərɪr] 
+  n. 母驴；母马
+  【天文学】海(指月亮、火星表面的阴暗部分)
+
+hurt	英 [hɜːt] 美 [hɝ​t] ( hurting, hurt, hurts )
+  vt. 使受伤；损害；使疼痛；使痛心
+  vi. 感到疼痛；有坏处；带来痛苦
+  n. 痛苦；危害；痛苦的原因
+  adj. 受伤的；痛苦的；受损的
+  n. (Hurt)人名；(德、匈、捷)胡特；(英)赫特
+
+check	英 [tʃek] 美 [tʃɛk] ( checking, checked, checks )
+  vt. 检查，核对；制止，抑制；在…上打勾
+  vi. 核实，查核；中止；打勾；[象棋]将一军
+  n. 支票；制止，抑制；检验，核对
+  n. （英）切克（人名）
+
+spoke	英 [spəʊk] 美 [spok] 
+  v. 说话（speak的过去式）；为…装轮辐；说；演说；从某种观点来说
+  n. （车轮的）辐条；轮辐；破坏某人的计划；阻挠某人的行动；刹车；扶梯棍
+
+weapon	英 ['wep(ə)n] 美 ['wɛpən] ( weapons )
+  n. 武器，兵器
+
+customer	英 ['kʌstəmə] 美 ['kʌstəmɚ] ( customers )
+  n. 顾客；家伙
+
+mesquite	英 ['meskiːt; me'skiːt]  (also mesquit)
+  n. 豆科灌木（产于美国西南部和墨西哥）
+
+psychopathic	英 [,saɪkə'pæθɪk] 美 [,saɪkə'pæθɪk] 
+  adj. 精神病的；精神错乱的
+  n. 精神变态者
+
+donate	英 [də(ʊ)'neɪt] 美 ['donet] ( donating, donated, donates )
+  vt. 捐赠；捐献
+  vi. 捐赠；捐献
+  n. 捐赠；捐献
+  n. (Donate)人名；(西)多纳特
+
+meeting	英 ['miːtɪŋ] 美 ['mitɪŋ] ( meetings )
+  n. 会议；会见；集会；汇合点
+  v. 会面；会合（meet的ing形式）
+
+	 
+
+trample	英 ['træmp(ə)l] 美 ['træmpl] ( trampling, trampled, tramples )
+  vt. 践踏；蔑视，伤害
+  vi. 践踏；蔑视，伤害；脚步沉重地走
+  n. 蹂躏；践踏声
+
+period	英 ['pɪərɪəd] 美 ['pɪrɪəd] ( periods )
+  n. 周期，期间；时期；月经；课时；（语法学）句点，句号
+  adj. 某一时代的
+
+floor	英 [flɔː] 美 [flɔr] ( flooring, floored, floors )
+  n. 地板，地面；楼层；基底；议员席
+  vt. 铺地板；打倒，击倒；（被困难）难倒
+
+generator	英 ['dʒenəreɪtə] 美 ['dʒɛnəretɚ] ( generators )
+  n. 发电机；发生器；生产者
+
+Lombardo	 
+  n. (Lombardo)人名；(法、西、意、罗、英)隆巴尔多
+
+round	英 [raʊnd] 美 [raʊnd] ( rounds )
+  n. 圆；循环；一回合；圆形物
+  adj. 圆的；完全的；大概的；肥胖的
+  adv. 在周围；迂回地；朝反方向；挨个
+  vt. 完成；围捕；绕行；弄圆
+  vi. 进展；变圆；环行；发胖
+  prep. 附近；绕过；大约；在…周围
+  n. (Round)人名；(英)朗德
+
+claim	英 [kleɪm] 美 [klem] ( claiming, claimed, claims )
+  vi. 提出要求
+  vt. 要求；声称；需要；认领
+  n. 要求；声称；索赔；断言；值得
+
+kill	英 [kɪl] 美 [kɪl] ( killing, killed, kills )
+  vt. 杀死；扼杀；使终止；抵消
+  vi. 杀死
+  n. 杀戮；屠杀
+  adj. 致命的；致死的
+  n. (Kill)人名；(德)基尔
+
+order	英 ['ɔːdə] 美 ['ɔrdɚ] ( ordering, ordered, orders )
+  n. 命令；顺序；规则；[贸易] 定单
+  vt. 命令；整理；定购
+  vi. 命令；定货
+
+Mandalay	英/美 ['mændəlei; ,mændə'lei] 
+  n. 曼德勒（缅甸一座城市）
+
+crowd	英 [kraʊd] 美 [kraʊd] ( crowding, crowded, crowds )
+  n. 群众,一伙;一堆,许多,大众
+  v. 拥挤,挤满,挤进
+  vt. 挤满,将...塞进;催促,催逼
+  vi. 挤,拥挤,聚集
+
+	 
+
+restore	英 [rɪ'stɔː] 美 [rɪ'stɔr] ( restoring, restored, restores )
+  vt. 恢复；修复；归还
+  vi. 恢复；还原
+
+shot	英 [ʃɒt] 美 [ʃɑt] ( shots )
+  n. 发射；炮弹；射手；镜头
+  adj. 用尽的；破旧的；杂色的，闪光的
+  v. 射击（shoot的过去式和过去分词）
+
+military	英 ['mɪlɪt(ə)rɪ] 美 ['mɪlətɛri] ( militaries )
+  adj. 军事的；军人的；适于战争的
+  n. 军队；军人
+
+mass	英 [mæs] 美 [mæs] ( massing, massed, masses )
+  n. 块，团；群众，民众；大量，众多；质量
+  adj. 群众的，民众的；大规模的，集中的
+  vi. 聚集起来，聚集
+  vt. 使集合
+
+	 
+
+Tuesday	英 ['tjuːzdeɪ; -dɪ] 美 [ˈtuzdɪ;-de] ( Tuesdays )
+  n. 星期二
+
+eric	英/美 ['ɛrɪk] (also eriach)
+  埃里克（人名）
+
+attend	英 [ə'tend] 美 [ə'tɛnd] ( attending, attended, attends )
+  vt. 出席；上（大学等）；照料；招待；陪伴
+  vi. 出席；致力于；照料；照顾
+
+south	英 [saʊθ] 美 [saʊθ] (also South)
+  n. 南方，南边；南部
+  adv. 在南方，向南方
+  adj. 南的，南方的
+  n. (South)人名；(老)苏；(英)索思
+
+told	英 [təʊld] 美 [told] 
+  v. 告诉（tell的过去式）；讲述
+
+supremacist	英 [suː'preməsɪst; sjuː-] 美 [su'prɛməsɪst] ( supremacists )
+  n. 至上主义者
+  adj. 至上主义者的
+
+victim	英 ['vɪktɪm] 美 ['vɪktɪm] ( victims )
+  n. 受害人；牺牲品；牺牲者
+
+gunman	英 ['gʌnmən] 美 ['ɡʌnmən] ( gunmen )
+  n. 枪手；持枪歹徒
+
+involve	英 [ɪn'vɒlv] 美 [ɪn'vɑlv] ( involving, involved, involves )
+  vt. 包含；牵涉；使陷于；潜心于
+
+explosive	英 [ɪk'spləʊsɪv; ek-] 美 [ɪk'splosɪv; ɪk'splozɪv] ( explosives )
+  adj. 爆炸的；爆炸性的；爆发性的
+  n. 炸药；爆炸物
+
+Elizabeth	英/美 [ɪ'lɪzəbəθ] 
+  n. 伊丽莎白（女子名）
+
+automatic	英 [ɔːtə'mætɪk] 美 ['ɔtə'mætɪk] ( automatics )
+  adj. 自动的；无意识的；必然的
+  n. 自动机械；自动手枪
+
+locate	英 [lə(ʊ)'keɪt] 美 [ˈloˌket; loˈket] ( locating, located, locates )
+  vt. 位于；查找…的地点
+  vi. 定位；定居
+
+islam	英/美 ['ɪz'lɑm] 
+  n. 伊斯兰教
+  n. (Islam)人名；(阿拉伯、巴基、孟)伊斯兰
+
+girlfriend	英 ['gɜːlfrend] 美 ['ɡɝlfrɛnd] ( girlfriends )
+  n. 女朋友
+  女伴
+
+baffle	英 ['bæf(ə)l] 美 ['bæfl] ( baffling, baffled, baffles )
+  vt. 使…困惑；使…受挫折；用挡板控制
+  n. 挡板；困惑
+  vi. 做徒劳挣扎
+
+Ricardo	英/美 [ri'ka:dəu] 
+  n. 里卡多（姓氏）
+
+staff	英 [stɑːf] 美 [stæf] ( staffing, staffed, staffs )
+  n. 职员；参谋；棒；支撑
+  adj. 职员的；行政工作的
+  vt. 供给人员；给…配备职员
+  vi. 雇用工作人员
+  n. (Staff)人名；(德、匈)施塔夫；(瑞典、英)斯塔夫
+
+console	英 [kən'səʊl] 美 ['kɑnsol] ( consoling, consoled, consoles )
+  n. [计] 控制台；[电] 操纵台
+  vt. 安慰；慰藉
+  n. (Console)人名；(意、罗)孔索莱
+
+others	英 [ˈʌðə(r)z] 美 [ʌðɚz] ( others )
+  pron. 其他人
+
+power	英 ['paʊə] 美 ['paʊɚ] ( powering, powered, powers )
+  n. 力量，能力；电力，功率；政权，势力；[数] 幂
+  vt. 激励；供以动力；使…有力量
+  vi. 快速前进
+  adj. 借影响有权势人物以操纵权力的
+  n. (Power)人名；(英、葡)鲍尔
+
+ammunition	英 [æmjʊ'nɪʃ(ə)n] 美 [,æmju'nɪʃən] 
+  n. 弹药；军火
+  vt. 装弹药于
+  vi. 装弹药
+
+robber	英 ['rɒbə] 美 ['rɑbɚ] ( robbers )
+  n. 强盗；盗贼
+
+hurricane	英 [ˈhʌrɪkən] 美 [ˈhʌrɪken] ( hurricanes )
+  n. 飓风，暴风
+
+affiliation	英 [əfɪlɪ'eɪʃ(ə)n] 美 [ə,fɪlɪ'eʃən] ( affiliations )
+  n. 友好关系；加入；联盟；从属关系
+
+trump	英 [trʌmp] 美 [trʌmp] ( trumping, trumped, trumps )
+  n. 王牌；法宝；喇叭
+  vt. 胜过；打出王牌赢
+  vi. 出王牌；吹喇叭
+  n. (Trump)人名；(英)特朗普
+
+illness	英 [ˈɪlnəs] 美 ['ɪlnəs] ( illnesses )
+  n. 病；疾病
+
+mental	英 ['ment(ə)l] 美 ['mɛntl] 
+  adj. 精神的；脑力的；疯的
+  n. 精神病患者
+
+thought	英 [θɔːt] 美 [θɔt] ( thoughts )
+  n. 思想；思考；想法；关心
+  v. 想，思考；认为（think的过去式和过去分词）
+

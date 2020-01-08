@@ -1,0 +1,553 @@
+exception	英 [ɪk'sepʃ(ə)n; ek-] 美 [ɪk'sɛpʃən] ( exceptions )
+  n. 例外；异议
+
+prep	英 [prep] 美 [prɛp] ( prepping, prepped, preps )
+  n. 预备；预习；准备功课
+  vi. 上预备学校；作好准备
+  vt. 使准备好；使（病人）准备接受手术
+  abbr. 准备（preparation）；预备的（preparatory）；前置词（preposition）
+  n. (Prep)人名；(俄)普列普
+
+nation	英 ['neɪʃ(ə)n] 美 ['neʃən] ( nations )
+  n. 国家；民族；国民
+  n. (Nation)人名；(英)内申
+
+indian	英/美 ['ɪndɪən] ( Indians )
+  adj. 印度的；印第安人的；印第安语的
+  n. 印第安人；印度人；印第安语
+
+June	英 [dʒu:n] 美 [dʒun] ( Junes )
+  n. 六月；琼（女名）
+
+fort	英 [fɔːt] 美 [fɔrt] ( forts )
+  n. 堡垒；要塞；（美）边界贸易站
+  vt. 设要塞保卫
+  vi. 构筑要塞
+  n. (Fort)人名；(法)福尔；(德、英、西、葡、匈)福特
+
+April	英 ['eɪprəl] 美 ['eprəl] ( Aprils )
+  n. 四月
+
+Washington	英 [ˈwɒʃɪŋtən] 美 [ˈwɑʃɪŋtən] 
+  n. 华盛顿（美国州名，美国城市名，美国第一任总统，姓氏）
+
+tourist	英 ['tʊərɪst] 美 ['tʊrɪst] ( tourists )
+  n. 旅行者，观光客
+  adj. 旅游的
+  vt. 在旅行参观
+  vi. 旅游；观光
+  adv. 坐旅游车厢；坐经济舱
+
+include	英 [ɪn'kluːd] 美 [ɪn'klud] ( including, included, includes )
+  vt. 包含，包括
+
+formally	英 ['fɔːməlɪ] 美 ['fɔrmli] 
+  adv. 正式地；形式上
+
+service	英 ['sɜːvɪs] 美 ['sɝvɪs] ( services )
+  n. 服务，服侍；服役；仪式
+  adj. 服务性的；耐用的；服现役的
+  vt. 维修，检修；保养
+  n. (Service)人名；(英)瑟维斯
+
+several	英 [ˈsevrəl] 美 [ˈsɛvrəl] 
+  adj. 几个的；各自的
+  pron. 几个；数个
+
+commercial	英 [kə'mɜːʃ(ə)l] 美 [kə'mɝʃəl] ( commercials )
+  adj. 商业的；营利的；靠广告收入的
+  n. 商业广告
+
+increase	英 [ɪn'kriːs] 美 ['ɪnkris] ( increasing, increased, increases )
+  n. 增加，增长；提高
+  vi. 增加，增大；繁殖
+  vt. 增加，加大
+  n. (Increase)人名；(英)英克里斯
+
+demand	英 [dɪ'mɑːnd] 美 [dɪ'mænd] ( demanding, demanded, demands )
+  vt. 要求；需要；查询
+  vi. 需要；请求；查问
+  n. [经] 需求；要求；需要
+  n. (Demand)人名；(德)德曼德
+
+repair	英 [rɪ'peə] 美 [rɪ'pɛr] ( repairing, repaired, repairs )
+  vi. 修理；修复
+  vt. 修理；恢复；补救，纠正
+  n. 修理，修补；修补部位
+
+carter	英 ['kɑːtə] 美 ['kɑrtɚ] 
+  n. 运货马车夫，驾驶货车的人
+
+expect	英 [ɪkˈspekt] 美 [ɪk'spɛkt] ( expecting, expected, expects )
+  vt. 期望；指望；认为；预料
+  vi. 期待；预期
+
+Cordero	 
+  n. (Cordero)人名；(西)科尔德罗；(英)科德罗；(意)科尔代罗
+
+successfully	英 [sək'sesfəlɪ] 美 [sək'sɛsfəli] 
+  adv. 成功地；顺利地
+
+exchange	英 [ɪks'tʃeɪndʒ; eks-] 美 [ɪks'tʃendʒ] ( exchanging, exchanged, exchanges )
+  n. 交换；交流；交易所；兑换
+  vt. 交换；交易；兑换
+  vi. 交换；交易；兑换
+
+institute	英 ['ɪnstɪtjuːt] 美 ['ɪnstɪtut] ( instituting, instituted, institutes )
+  vt. 开始（调查）；制定；创立；提起（诉讼）
+  n. 学会，协会；学院
+
+major	英 ['meɪdʒə] 美 ['medʒɚ] ( majoring, majored, majors )
+  adj. 主要的；重要的；主修的；较多的
+  n. [人类] 成年人；主修科目；陆军少校
+  vi. 主修
+  n. (Major)人名；(西)马霍尔；(法)马若尔；(捷、德、塞、瑞典)马约尔；(英)梅杰
+
+	 
+
+Cuban	英/美 ['kju:bən] ( Cubans )
+  n. 古巴人
+  adj. 古巴的；古巴人的
+
+prohibit	英 [prə(ʊ)'hɪbɪt] 美 [prə'hɪbɪt] ( prohibiting, prohibited, prohibits )
+  vt. 阻止，禁止
+
+acquire	英 [ə'kwaɪə] 美 [ə'kwaɪr] ( acquiring, acquired, acquires )
+  vt. 获得；取得；学到；捕获
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+able	英 ['eɪb(ə)l] 美 ['ebl] ( abler, /ˈeɪblə/ ablest /ˈeɪblɪst/ )
+  adj. 能；[经管] 有能力的；能干的
+  n. (Able)人名；(伊朗)阿布勒；(英)埃布尔
+
+pentagon	英 ['pentəɡ(ə)n] 美 ['pɛntəɡɑn] ( pentagons )
+  n. 五角形
+
+Alfredo	 
+  n. 阿尔弗雷多（古代国王的名字）
+
+Cuba	英 [ˈkjuːbə] 美 ['kjubɚ] 
+  n. 古巴（拉丁美洲国家）
+
+southwest	英 [,saʊθ'west] 美 [,saʊθ'wɛst] 
+  n. 西南方
+  adj. 西南的
+  adv. 往西南；来自西南
+
+told	英 [təʊld] 美 [told] 
+  v. 告诉（tell的过去式）；讲述
+
+influx	英 ['ɪnflʌks] 美 ['ɪnflʌks] ( influxes )
+  n. 流入；汇集；河流的汇集处
+
+principle	英 ['prɪnsɪp(ə)l] 美 ['prɪnsəpl] ( principles )
+  n. 原理，原则；主义，道义；本质，本义；根源，源泉
+
+American	英 [əˈmerɪkən] 美 [əˈmɛrɪkən] ( Americans )
+  n. 美国人
+  adj. 美国的
+
+meeting	英 ['miːtɪŋ] 美 ['mitɪŋ] ( meetings )
+  n. 会议；会见；集会；汇合点
+  v. 会面；会合（meet的ing形式）
+
+operating	英 ['ɒpəreɪtɪŋ] 美 ['ɑpəretɪŋ] 
+  adj. 操作的；[外科] 外科手术的
+  v. 操作（operate的ing形式）；动手术
+
+journalist	英 [ˈdʒɜ:nəlɪst] 美 [ˈdʒɝ​nlɪst] ( journalists )
+  n. 新闻工作者；报人；记日志者
+
+comment	英 ['kɒment] 美 ['kɑmɛnt] ( commenting, commented, comments )
+  n. 评论；意见；批评
+  vi. 发表评论；发表意见
+  vt. 为…作评语
+  n. (Comment)人名；(德)科门特；(法)科芒
+
+replenishment	英 [rɪ'plenɪʃmənt] 美 [rɪ'plɛnɪʃmənt] 
+  n. 补充，补给
+
+ash	英 [æʃ] 美 [æʃ] ( ashes )
+  n. 灰；灰烬
+  n. (Ash)人名；(英、俄、捷)阿什
+
+Rodriguez	 
+  n. （西）罗德里格斯（姓氏）
+
+relation	英 [rɪ'leɪʃ(ə)n] 美 [rɪ'leʃən] ( relations )
+  n. 关系；叙述；故事；亲属关系
+
+operation	英 [ɒpə'reɪʃ(ə)n] 美 [,ɑpə'reʃən] ( operations )
+  n. 操作；经营；[外科] 手术；[数][计] 运算
+
+met	英 [met] 美 [mɛt] 
+  v. 遇见（meet的过去式和过去分词）
+  n. (Met)人名；(瑞典)梅特
+
+normalize	英 ['nɔ:məlaɪz] 美 ['nɔrməlaɪz] ( normalizing, normalized, normalizes )
+  vt. 使正常化；使规格化，使标准化
+
+airway	英 ['eəweɪ] 美 ['ɛrwe] ( airways )
+  n. 导气管；空中航线；通风孔
+
+designation	英 [dezɪg'neɪʃ(ə)n] 美 [,dɛzɪɡ'neʃən] ( designations )
+  n. 指定；名称；指示；选派
+
+Monday	英 [ˈmʌndeɪ; ˈmʌndi] 美 [ˈmʌnde; ˈmʌndɪ] ( Mondays )
+  n. 星期一
+
+united	英 [jʊ'naɪtɪd] 美 [jʊ'naɪtɪd] 
+  adj. 一致的，统一的；团结的，和睦的
+
+ahead	英 [ə'hed] 美 [ə'hɛd] 
+  adj. 向前；在前的；领先
+  adv. 向前地；领先地；在（某人或某事物的）前面；预先；在将来，为未来
+
+Florida	英/美 ['flɔridə] 
+  n. 佛罗里达（美国东南部的州）
+
+first	英 [fɜːst] 美 [fɝst] 
+  adv. 第一；首先；优先；宁愿
+  n. 第一；开始；冠军
+  adj. 第一的；基本的；最早的
+  num. 第一
+  n. (First)人名；(英)弗斯特；(捷)菲尔斯特
+
+allow	英 [ə'laʊ] 美 [ə'laʊ] ( allowing, allowed, allows )
+  vt. 允许；给予；认可
+  vi. 容许；考虑
+
+prepares	英/美 [pri'pεə] ( preparing, prepared, prepares )
+  预备
+  准备
+
+Lauderdale	 
+  劳德戴尔
+
+annual	英 ['ænjʊəl] 美 ['ænjuəl] ( annuals )
+  adj. 年度的；每年的
+  n. 年刊，年鉴；一年生植物
+
+mutual	英 ['mjuːtʃʊəl; -tjʊəl] 美 ['mjutʃuəl] 
+  adj. 共同的；相互的，彼此的
+
+security	英 [sɪ'kjʊərətɪ] 美 [sə'kjʊrəti] ( securities )
+  n. 安全；保证；证券；抵押品
+  adj. 安全的；保安的；保密的
+
+modi	英/美 ['modaɪ] 
+  n. 程序（modus的复数）
+  n. (Modi)人名；(意)莫迪
+
+echoed	英/美 ['ekəu] ( echoing, echoed, echoes )
+  重复
+
+frontier	英 ['frʌntɪə; frʌn'tɪə] 美 [frʌn'tɪr] ( frontiers )
+  n. 前沿；边界；国境
+  adj. 边界的；开拓的
+  n. (Frontier)人名；(法)弗龙捷
+
+jet	英 [dʒet] 美 [dʒɛt] ( jetting, jetted, jets )
+  n. 喷射，喷嘴；喷气式飞机；黑玉
+  adj. 墨黑的
+  vt. 射出
+  vi. 射出；[航] 乘喷气式飞机
+
+aviation	英 [eɪvɪ'eɪʃ(ə)n] 美 [,evɪ'eʃən] 
+  n. 航空；飞行术；飞机制造业
+
+Barack	英 [bɑ:'ræk]  
+  n. 巴拉克（男子名）
+
+partner	英 ['pɑːtnə] 美 ['pɑrtnɚ] ( partnering, partnered, partners )
+  n. 伙伴；合伙人；配偶
+  vi. 合伙；合股；成为搭档
+  vt. 使合作；与…合伙
+  n. (Partner)人名；(英、德)帕特纳
+
+standard	英 ['stændəd] 美 ['stændɚd] ( standards )
+  n. 标准；水准；旗；度量衡标准
+  adj. 标准的；合规格的；公认为优秀的
+  n. (Standard)人名；(英)斯坦达德；(德)施坦达德
+
+civil	英 ['sɪv(ə)l; -ɪl] 美 ['sɪvl] 
+  adj. 公民的；民间的；文职的；有礼貌的；根据民法的
+  n. (Civil)人名；(土)吉维尔；(法)西维尔
+
+Clara	英 ['klara] 美 ['klærə] 
+  n. 克拉拉（女子名）
+
+prepare	英 [prɪ'peə] 美 [prɪ'pɛr] ( preparing, prepared, prepares )
+  vt. 准备；使适合；装备；起草
+  vi. 预备；做好思想准备
+
+fully	英 ['fʊlɪ] 美 ['fʊli] 
+  adv. 充分地；完全地；彻底地
+  n. (Fully)人名；(法)菲利
+
+vice	英 [vaɪs] 美 [vaɪs] ( vices )
+  n. 恶习；缺点；[机] 老虎钳；卖淫
+  prep. 代替
+  vt. 钳住
+  adj. 副的；代替的
+  n. (Vice)人名；(塞)维采
+
+memorandum	英 [memə'rændəm] 美 [,mɛmə'rændəm] ( memorandums )
+  n. 备忘录；便笺
+
+Eduardo	 
+  n. 爱德华多（姓氏）
+
+ensure	英 [ɪn'ʃɔː; -'ʃʊə; en-] 美 [ɪn'ʃʊr] ( ensuring, ensured, ensures )
+  vt. 保证，确保；使安全
+
+	 
+
+law	英 [lɔː] 美 [lɔ] ( laws )
+  n. 法律；规律；法治；法学；诉讼；司法界
+  vi. 起诉；控告
+  vt. 控告；对…起诉
+  n. (Law)人名；(东南亚国家华语)刘；(英、缅、柬)劳
+
+tour	英 [tʊə] 美 [tʊr] ( touring, toured, tours )
+  n. 旅游，旅行；巡回演出
+  vt. 旅行，在……旅游；在……作巡回演出
+  vi. 旅行，旅游；作巡回演出
+  n. (Tour)人名；(瑞典)托尔；(英)图尔
+
+defense	英 [dɪ'fens] 美 [dɪ'fɛns] ( defenses )
+  n. 防卫，防护；防御措施；防守
+  vt. 谋划抵御
+
+	 
+
+systematically	英 [,sɪstə'mætɪklɪ] 美 [,sɪstə'mætɪkl] 
+  adv. 有系统地；有组织地
+
+Wednesday	英 [ˈwenzdɪ] 美 [ˈwɛnzdɪ] ( Wednesdays )
+  n. 星期三
+
+announce	英 [ə'naʊns] 美 [ə'naʊns] ( announcing, announced, announces )
+  vt. 宣布；述说；预示；播报
+  vi. 宣布参加竞选；当播音员
+
+personnel	英 [pɜːsə'nel] 美 [,pɝsə'nɛl] 
+  n. 人事部门；全体人员
+  adj. 人员的；有关人事的
+
+military	英 ['mɪlɪt(ə)rɪ] 美 ['mɪlətɛri] ( militaries )
+  adj. 军事的；军人的；适于战争的
+  n. 军队；军人
+
+Santa	英 ['sæntə] 美 ['sæntə] 
+  n. 圣诞老人（等于Santa Claus）
+
+reporter	英 [rɪ'pɔːtə] 美 [rɪ'pɔrtɚ] ( reporters )
+  n. 记者
+
+India	英 ['ɪndɪə] 美 ['ɪndɪə] 
+  n. 印度（南亚国家）
+
+cooperate	英 [kəʊ'ɒpəreɪt] 美 [koʊˈɑːpəreɪt] ( cooperating, cooperated, cooperates )
+  vi. 合作，配合；协力
+
+together	英 [tə'geðə] 美 [tə'ɡɛðɚ] 
+  adv. 一起；同时；相互；连续地；总共
+  adj. 新潮的；情绪稳定的，做事有效率的
+
+recent	英 ['riːs(ə)nt] 美 ['risnt] 
+  adj. 最近的；近代的
+
+sixth	英 [sɪksθ] 美 [sɪksθ] ( sixths )
+  n. 月的第六日，（与the连用的）第六个；六分之一
+  adj. （与 the 连用）第六的，第六个的；六分之一的
+
+obama	 
+  n. 奥巴马(姓)
+
+base	英 [beɪs] 美 [bes] ( basing, based, baser, basest, bases )
+  n. 基础；底部；垒
+  adj. 卑鄙的；低劣的
+  vt. 以…作基础
+  n. (Base)人名；(日)马濑(姓)
+
+closest	英 [kləusɪst] 美 [klosɪst] 
+  adj. 最靠近的（close的最高级）
+
+transportation	英 [trænspɔː'teɪʃ(ə)n; trɑːns-] 美 [,trænspɔr'teʃən] 
+  n. 运输；运输系统；运输工具；流放
+
+ally	英 ['ælaɪ] 美 ['ælaɪ] ( allying, allied, allies )
+  n. 同盟国；伙伴；同盟者；助手
+  vt. 使联盟；使联合
+  vi. 联合；结盟
+  n. (Ally)人名；(巴基)阿利；(法)阿利；(英)艾丽(女子教名 Alice 的简称)；(尼日利)阿利
+
+educational	英 [edʒʊ'keɪʃən(ə)l] 美 [,ɛdʒu'keʃənl] 
+  adj. 教育的；有教育意义的
+
+	 
+
+support	英 [sə'pɔːt] 美 [sə'pɔrt] ( supporting, supported, supports )
+  vt. 支持，支撑，支援；扶持，帮助；赡养，供养
+  n. 支持，维持；支援，供养；支持者，支撑物
+
+enable	英 [ɪn'eɪb(ə)l; en-] 美 [ɪ'nebl] ( enabling, enabled, enables )
+  vt. 使能够，使成为可能；授予权利或方法
+
+require	英 [rɪ'kwaɪə] 美 [rɪ'kwaɪr] ( requiring, required, requires )
+  vt. 需要；要求；命令
+
+minister	英 ['mɪnɪstə] 美 ['mɪnɪstɚ] ( ministers )
+  n. 部长；大臣；牧师
+  vi. 执行牧师职务；辅助或伺候某人
+
+recently	英 ['riːsntlɪ] 美 ['risntli] 
+  adv. 最近；新近
+
+official	英 [ə'fɪʃ(ə)l] 美 [əˈfɪʃəl; oʊˈfɪʃəl] ( officials )
+  adj. 官方的；正式的；公务的
+  n. 官员；公务员；高级职员
+
+secretary	英 [ˈsekrətrɪ] 美 ['sɛkrətɛrɪ] ( secretaries )
+  n. 秘书；书记；部长；大臣
+
+agreement	英 [ə'griːm(ə)nt] 美 [ə'grimənt] ( agreements )
+  n. 协议；同意，一致
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+airline	英 ['eəlaɪn] 美 ['ɛrlaɪn] ( airlines )
+  n. 航空公司；航线
+  adj. 航线的
+
+type	英 [taɪp] 美 [taɪp] ( types )
+  n. 类型，品种；模范；样式
+  vt. 打字；测定（血等）类型
+  vi. 打字
+  n. (Type)人名；(英)泰普
+
+supply	英 [sə'plaɪ] 美 [sə'plaɪ] ( supplying, supplied, supplies )
+  n. 供给，补给；供应品
+  vt. 供给，提供；补充
+  vi. 供给；替代
+
+authorize	英/美 ['ɔθəraɪz] ( authorizing, authorized, authorizes )
+  vt. 批准，认可；授权给；委托代替
+
+efficient	英 [ɪ'fɪʃ(ə)nt] 美 [ɪ'fɪʃnt] 
+  adj. 有效率的；有能力的；生效的
+
+basically	英 ['beɪsɪk(ə)lɪ] 美 ['besɪkli] 
+  adv. 主要地，基本上
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+communist	英 ['kɒmjʊnɪst] 美 [kɑmjʊnɪst] (also Communist)
+  n. 共产党员；共产主义者
+  adj. 共产主义的
+
+international	英 [ɪntə'næʃ(ə)n(ə)l] 美 [,ɪntɚ'næʃnəl] 
+  n. 国际组织；国际体育比赛；外国居留者；国际股票
+  adj. 国际的；两国（或以上）国家的；超越国界的；国际关系的；世界的
+
+	 
+
+chief	英 [tʃiːf] 美 [tʃif] ( chiefs )
+  n. 首领；酋长；主要部分
+  adj. 首席的；主要的；主任的
+  adv. 主要地；首要地
+
+access	英 ['ækses] 美 ['æksɛs] ( accessing, accessed, accesses )
+  vt. 使用；存取；接近
+  n. 进入；使用权；通路
+
+planning	英 ['plænɪŋ] 美 ['plænɪŋ] 
+  n. 规划；计划编制
+  v. 计划；设计；预期（plan的ing形式）
+
+force	英 [fɔːs] 美 [fɔrs] ( forcing, forced, forces )
+  n. 力量；武力；军队；魄力
+  vt. 促使，推动；强迫；强加
+  n. (Force)人名；(意)福尔切；(英、法)福斯
+
+stress	英 [stres] 美 [strɛs] ( stressing, stressed, stresses )
+  n. 压力；强调；紧张；重要性；重读
+  vt. 强调；使紧张；加压力于；用重音读
+  n. (Stress)人名；(意)斯特雷斯
+
+prime	英 [praɪm] 美 [praɪm] ( priming, primed, primes )
+  adj. 主要的；最好的；基本的
+  adv. 极好地
+  n. 初期；青年；精华；全盛时期
+  vt. 使准备好；填装
+  vi. 作准备
+  n. (Prime)人名；(英)普赖姆；(德)普里梅
+
+necessary	英 [ˈnesəsərɪ] 美 [ˈnɛsəˌsɛri] 
+  adj. 必要的；必需的；必然的
+  n. 必需品
+  n. (Necessary)人名；(英)内塞瑟里
+
+level	英 ['lev(ə)l] 美 ['lɛvl] ( levelling, leveled, levels )
+  n. 水平；标准；水平面
+  adj. 水平的；平坦的；同高的
+  vi. 瞄准；拉平；变得平坦
+  vt. 使同等；对准；弄平
+  n. (Level)人名；(法)勒韦尔
+
+allows	英/美 [ə'lau] ( allowing, allowed, allows )
+  vt. 允许；给予；认可（allow的第三人称单数）
+  vi. 容许；考虑（allow的第三人称单数）
+
+central	英 ['sentr(ə)l] 美 ['sɛntrəl] 
+  adj. 中心的；主要的；中枢的
+  n. 电话总机
+
+decade	英 ['dekeɪd; dɪ'keɪd] 美 ['dɛked] ( decades )
+  n. 十年，十年期；十
+
+joint	英 [dʒɒɪnt] 美 [dʒɔɪnt] ( joints )
+  n. 关节；接缝；接合处，接合点；（牛，羊等的腿）大块肉
+  adj. 共同的；连接的；联合的，合办的
+  vt. 连接，贴合；接合；使有接头
+  vi. 贴合；生节
+  n. (Joint)人名；(法)茹安
+
+within	英 [wɪð'ɪn] 美 [wɪ'ðɪn] 
+  prep. 在…之内
+  adv. 在内部
+  n. 里面
+
+earlier	英 ['ɜ:lɪə(r)] 美 ['ɝlɪr] 
+  adj. 早的；初期的 （early的比较级）
+  adv. 早地；早先的时候
+
+flight	英 [flaɪt] 美 [flaɪt] ( flights )
+  n. 飞行；班机；逃走
+  vt. 射击；使惊飞
+  vi. 迁徙
+  n. (Flight)人名；(英)弗莱特
+
+discuss	英 [dɪ'skʌs] 美 [dɪ'skʌs] ( discussing, discussed, discusses )
+  vt. 讨论；论述，辩论
+
+logistics	英 [lə'dʒɪstɪks] 美 [lə'dʒɪstɪks] 
+  n. [军] 后勤；后勤学
+  物流
+
+agree	英 [ə'griː] 美 [ə'ɡri] ( agreeing, agreed, agrees )
+  vt. 同意，赞成；承认；约定，商定
+  vi. vi. 同意，意见一致；约定，商定
+
+resource	英 [rɪ'sɔːs; rɪ'zɔːs] 美 ['risɔrs] ( resources )
+  n. 资源，财力；办法；智谋
+

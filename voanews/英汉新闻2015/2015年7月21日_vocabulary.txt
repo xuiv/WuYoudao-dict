@@ -1,0 +1,454 @@
+include	英 [ɪn'kluːd] 美 [ɪn'klud] ( including, included, includes )
+  vt. 包含，包括
+
+employee	英 [ɪmˈplɔɪi;ˌemplɔɪˈi:] 美 [ɪmˈplɔɪi;ɛmplɔɪˈi] ( employees )
+  n. 雇员；从业员工
+
+African	英 ['æfrɪk(ə)n] 美 ['æfrɪkən] ( Africans )
+  adj. 非洲的，非洲人的
+  n. 非洲人
+
+Washington	英 [ˈwɒʃɪŋtən] 美 [ˈwɑʃɪŋtən] 
+  n. 华盛顿（美国州名，美国城市名，美国第一任总统，姓氏）
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+independent	英 [,ɪndɪ'pendənt] 美 ['ɪndɪ'pɛndənt] ( independents )
+  adj. 独立的；单独的；无党派的；不受约束的
+  n. 独立自主者；无党派者
+
+	 
+
+rise	英 [raɪz] 美 [raɪz] ( rising, rose, risen, rises )
+  vi. 上升；增强；起立；高耸
+  vt. 使…飞起；使…浮上水面
+  n. 上升；高地；增加；出现
+
+responsibility	英 [rɪˌspɒnsəˈbɪlətɪ] 美 [rɪˌspɑːnsəˈbɪləti] ( responsibilities )
+  n. 责任，职责；义务
+
+	 
+
+first	英 [fɜːst] 美 [fɝst] 
+  adv. 第一；首先；优先；宁愿
+  n. 第一；开始；冠军
+  adj. 第一的；基本的；最早的
+  num. 第一
+  n. (First)人名；(英)弗斯特；(捷)菲尔斯特
+
+continue	英 [kən'tɪnjuː] 美 [kən'tɪnju] ( continuing, continued, continues )
+  vi. 继续，延续；仍旧，连续
+  vt. 继续说…；使…继续；使…延长
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+group	英 [gruːp] 美 [ɡrup] ( grouping, grouped, groups )
+  n. 组；团体
+  adj. 群的；团体的
+  vi. 聚合
+  vt. 把…聚集；把…分组
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+Monday	英 [ˈmʌndeɪ; ˈmʌndi] 美 [ˈmʌnde; ˈmʌndɪ] ( Mondays )
+  n. 星期一
+
+course	英 [kɔːs] 美 [kɔrs] ( courses )
+  n. 科目；课程；过程；进程；道路；路线，航向；一道菜
+  vt. 追赶；跑过
+  vi. 指引航线；快跑
+
+rebound	英 [rɪ'baʊnd] 美 [rɪ'baʊnd] ( rebounding, rebounded, rebounds )
+  n. 回弹；篮板球
+  vi. 回升；弹回
+  vt. 使弹回
+  v. 重新装订（rebind的过去式和过去分词）
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+inflate	英 [ɪn'fleɪt] 美 [ɪn'flet] ( inflating, inflated, inflates )
+  vt. 使充气；使通货膨胀
+  vi. 膨胀；充气
+
+allow	英 [ə'laʊ] 美 [ə'laʊ] ( allowing, allowed, allows )
+  vt. 允许；给予；认可
+  vi. 容许；考虑
+
+down	英 [daʊn] 美 [daʊn] ( downing, downed, downs )
+  adv. 向下，下去；在下面
+  adj. 向下的
+  n. 软毛，绒毛；[地质] 开阔的高地
+  prep. 沿着，往下
+  vt. 打倒，击败
+  vi. 下降；下去
+  n. (Down)人名；(英)唐
+
+management	英 ['mænɪdʒm(ə)nt] 美 ['mænɪdʒmənt] ( managements )
+  n. 管理；管理人员；管理部门；操纵；经营手段
+
+revelation	英 [revə'leɪʃ(ə)n] 美 ['rɛvə'leʃən] ( revelations )
+  n. 启示；揭露；出乎意料的事；被揭露的真相
+
+department	英 [dɪ'pɑːtm(ə)nt] 美 [dɪ'pɑrtmənt] ( departments )
+  n. 部；部门；系；科；局
+
+believe	英 [bɪ'liːv] 美 [bɪ'liv] ( believing, believed, believes )
+  vi. 信任；料想；笃信宗教
+  vt. 相信；认为；信任
+
+prosperity	英 [prɒ'sperɪtɪ] 美 [prɑ'spɛrəti] 
+  n. 繁荣，成功
+
+percent	英 [pə'sent] 美 [pɚ'sɛnt] 
+  n. 百分比，百分率；部分；百分数
+  adj. 百分之…的
+  adv. 以百分之…地
+
+united	英 [jʊ'naɪtɪd] 美 [jʊ'naɪtɪd] 
+  adj. 一致的，统一的；团结的，和睦的
+
+involvement	英 [ɪn'vɒlvm(ə)nt] 美 [ɪn'vɔlvmənt] ( involvements )
+  n. 牵连；包含；混乱；财政困难
+
+democracy	英 [dɪ'mɒkrəsɪ] 美 [dɪˈmɑkrəsi] ( democracies )
+  n. 民主，民主主义；民主政治
+
+agenda	英 [ə'dʒendə] 美 [ə'dʒɛndə] ( agendas )
+  n. 议程；日常工作事项；日程表
+
+saw	英 [sɔː] 美 [sɔ] ( sawing, sawed, sawn, saws )
+  vt. 看见；明白，了解；锯；锯成；锯开
+  vi. 锯；用锯；将某物锯成小块
+  n. 锯子；谚语
+  v. see的过去式
+
+executive	英 [ɪgˈzekjʊtɪv] 美 [ɪɡ'zɛkjətɪv] ( executives )
+  adj. 行政的；经营的；执行的，经营管理的
+  n. 总经理；执行委员会；执行者；经理主管人员
+
+Mr	英/美 [ˈmɪs.tər] 
+  abbr. 先生（Mister）
+
+rare	英 [reə] 美 [rɛr] ( rarer, rarest )
+  adj. 稀有的；稀薄的；半熟的
+  adj. 杰出的；极度的；非常好的
+  adv. 非常；极其
+  vi. 用后腿站起；渴望
+
+lie	英 [laɪ]  ( lying, lay, lain, lies )
+  vi. 躺；说谎；位于；展现
+  vt. 谎骗
+  n. 谎言；位置
+  n. (Lie)人名；(罗、挪、瑞典)利；(中)李(普通话·威妥玛)
+
+scandal	英 ['skænd(ə)l] 美 ['skændl] ( scandals )
+  n. 丑闻；流言蜚语；诽谤；公愤
+
+recent	英 ['riːs(ə)nt] 美 ['risnt] 
+  adj. 最近的；近代的
+
+loss	英 [lɒs] 美 [lɔs] ( losses )
+  n. 减少；亏损；失败；遗失
+  n. (Loss)人名；(匈)洛什；(法、德、意)洛斯
+
+	 
+
+obama	 
+  n. 奥巴马(姓)
+
+corruption	英 [kə'rʌpʃ(ə)n] 美 [kə'rʌpʃən] 
+  n. 贪污，腐败；堕落
+
+john	英 [dʒɒn] 美 [dʒɑn] ( johns )
+  n. 厕所
+
+military	英 ['mɪlɪt(ə)rɪ] 美 ['mɪlətɛri] ( militaries )
+  adj. 军事的；军人的；适于战争的
+  n. 军队；军人
+
+met	英 [met] 美 [mɛt] 
+  v. 遇见（meet的过去式和过去分词）
+  n. (Met)人名；(瑞典)梅特
+
+Nigeria	英/美 [nai'dʒiəriə] 
+  n. 尼日利亚（位于非洲）
+
+several	英 [ˈsevrəl] 美 [ˈsɛvrəl] 
+  adj. 几个的；各自的
+  pron. 几个；数个
+
+serve	英 [sɜːv] 美 [sɝv] ( serving, served, serves )
+  vt. 招待，供应；为…服务；对…有用；可作…用
+  vi. 服役，服务；适合，足够；发球；招待，侍候
+  n. 发球，轮到发球
+  n. (Serve)人名；(法)塞尔夫
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+	 
+
+host	英 [həʊst] 美 [host] ( hosting, hosted, hosts )
+  n. [计] 主机；主人；主持人；许多
+  vt. 主持；当主人招待
+  vi. 群集；做主人
+
+peaceful	英 ['piːsfʊl; -f(ə)l] 美 ['pisfəl] 
+  adj. 和平的，爱好和平的；平静的
+
+resign	英 [rɪ'zaɪn] 美 [rɪ'zaɪn] ( resigning, resigned, resigns )
+  vt. 辞职；放弃；委托；使听从
+  vi. 辞职
+  n. 辞去职务
+
+culture	英 ['kʌltʃə] 美 ['kʌltʃɚ] ( cultures )
+  n. 文化，文明；修养；栽培
+  vt. [细胞][微] 培养（等于cultivate）
+
+pressure	英 ['preʃə] 美 ['prɛʃɚ] ( pressuring, pressured, pressures )
+  n. 压力；压迫，[物] 压强
+  vt. 迫使；密封；使……增压
+
+challenge	英 ['tʃælɪn(d)ʒ] 美 ['tʃælɪndʒ] ( challenging, challenged, challenges )
+  n. 挑战；怀疑
+  vt. 向…挑战；对…质疑
+
+chairman	英 ['tʃeəmən] 美 ['tʃɛrmən] ( chairmen )
+  n. 主席，会长；董事长
+
+Tuesday	英 ['tjuːzdeɪ; -dɪ] 美 [ˈtuzdɪ;-de] ( Tuesdays )
+  n. 星期二
+
+Tokyo	英 [ˈtəʊkjəʊ] 美 ['tokjo] 
+  n. 东京（日本首都）
+
+counterterrorism	英/美 [kaʊntə'terərɪzəm] 
+  n. 反暴行；反恐怖主义；反暴力主义
+
+trip	英 [trɪp] 美 [trɪp] ( tripping, tripped, trips )
+  vi. 绊倒；远足；犯错误；轻快地走
+  n. 旅行；绊倒；差错
+  vt. 绊倒；使犯错
+  n. (Trip)人名；(荷)特里普
+
+forward	英 ['fɔːwəd] 美 ['fɔrwɚd] ( forwarding, forwarded, forwards )
+  adj. 向前的；早的；迅速的
+  adv. 向前地；向将来
+  vt. 促进；转寄；运送
+  n. 前锋
+  n. (Forward)人名；(英)福沃德
+
+replacement	英 [rɪ'pleɪsm(ə)nt] 美 [rɪ'plesmənt] ( replacements )
+  n. 更换；复位；代替者；补充兵员
+
+cooperate	英 [kəʊ'ɒpəreɪt] 美 [koʊˈɑːpəreɪt] ( cooperating, cooperated, cooperates )
+  vi. 合作，配合；协力
+
+chief	英 [tʃiːf] 美 [tʃif] ( chiefs )
+  n. 首领；酋长；主要部分
+  adj. 首席的；主要的；主任的
+  adv. 主要地；首要地
+
+level	英 ['lev(ə)l] 美 ['lɛvl] ( levelling, leveled, levels )
+  n. 水平；标准；水平面
+  adj. 水平的；平坦的；同高的
+  vi. 瞄准；拉平；变得平坦
+  vt. 使同等；对准；弄平
+  n. (Level)人名；(法)勒韦尔
+
+CEO	英/美 [,si: i: 'əʊ] ( CEOs )
+  abbr. 首席执行官；执行总裁（chief executive officer）
+
+defeat	英 [dɪ'fiːt] 美 [dɪ'fit] ( defeating, defeated, defeats )
+  vt. 击败，战胜；挫败；使…失败
+  n. 失败的事实；击败的行为
+
+Nigerian	英/美 [nai'dʒiəriən] ( Nigerians )
+  n. 尼日利亚人
+  adj. 尼日利亚的；尼日利亚人的
+
+company	英 ['kʌmp(ə)nɪ] 美 ['kʌmpəni] ( companies )
+  n. 公司；陪伴，同伴；连队
+  vi. 交往
+  vt. 陪伴
+  
+  n. (Company)人名；(西)孔帕尼；(英)康帕尼
+
+transfer	英 [træns'fɜː; trɑːns-; -nz-] 美 [træns'fɝ] ( transferring, transferred, transfers )
+  n. 转让；转移；传递；过户
+  vi. 转让；转学；换车
+  vt. 使转移；调任
+
+figure	英 ['fɪgə] 美 ['fɪɡjɚ] ( figuring, figured, figures )
+  n. 数字；人物；图形；价格；（人的）体形；画像
+  vi. 计算；出现；扮演角色
+  vt. 计算；认为；描绘；象征
+
+threat	英 [θret] 美 [θrɛt] ( threats )
+  n. 威胁，恐吓；凶兆
+
+since	英 [sɪns] 美 [sɪns] 
+  conj. 因为；由于；既然；自…以来；自…以后
+  prep. 自…以来；自…以后
+  adv. 后来
+
+clear	英 [klɪə] 美 [klɪr] ( clearing, cleared, clearer, clears, clearest )
+  adj. 清楚的；清澈的；晴朗的；无罪的
+  vt. 通过；清除；使干净；跳过
+  vi. 放晴；变清澈
+  adv. 清晰地；完全地
+  n. 清除；空隙
+  n. (Clear)人名；(英)克利尔
+
+stock	英 [stɒk] 美 [stɑk] ( stocking, stocked, stocks )
+  n. 股份，股票；库存；血统；树干；家畜
+  adj. 存货的，常备的；平凡的
+  vt. 进货；备有；装把手于…
+  vi. 囤积；办货；出新芽
+  n. (Stock)人名；(德、匈、捷)施托克；(英、法、葡、瑞典)斯托克
+
+mark	英 [mɑːk]  ( marking, marked, marks )
+  n. 标志；马克；符号；痕迹；分数
+  vi. 作记号
+  vt. .标志；做标记于；打分数
+  n. . 标志；做标记于；打分数
+
+bow	英 [baʊ] 美 [baʊ] ( bowing, bowed, bows )
+  n. 弓；鞠躬；船首
+  vi. 鞠躬；弯腰
+  vt. 鞠躬；弯腰
+  adj. 弯曲的
+  n. (Bow)人名；(东南亚国家华语)茂；(英)鲍
+
+election	英 [ɪ'lekʃ(ə)n] 美 [ɪ'lɛkʃən] ( elections )
+  n. 选举；当选；选择权；上帝的选拔
+
+held	英 [held] 美 [hɛld] 
+  v. 握住（hold的过去分词）；举起,抬起；使升高；展示；提出(作为榜样)(后与as连用)
+  n. (Held)人名；(英、瑞典)赫尔德；(德、捷)黑尔德；(罗、匈、塞)海尔德
+
+power	英 ['paʊə] 美 ['paʊɚ] ( powering, powered, powers )
+  n. 力量，能力；电力，功率；政权，势力；[数] 幂
+  vt. 激励；供以动力；使…有力量
+  vi. 快速前进
+  adj. 借影响有权势人物以操纵权力的
+  n. (Power)人名；(英、葡)鲍尔
+
+	 
+
+affirmation	英 [æfə'meɪʃ(ə)n] 美 [,æfɚ'meʃən] 
+  n. 主张，肯定；断言
+
+	 
+
+discuss	英 [dɪ'skʌs] 美 [dɪ'skʌs] ( discussing, discussed, discusses )
+  vt. 讨论；论述，辩论
+
+secretary	英 [ˈsekrətrɪ] 美 ['sɛkrətɛrɪ] ( secretaries )
+  n. 秘书；书记；部长；大臣
+
+	 
+
+	 
+
+Toshiba	 
+  n. 东芝（公司名，财富500强公司之一，总部所在地日本，主要经营电子电气）
+
+corporate	英 ['kɔːp(ə)rət] 美 [ˈkɔːrpərət] 
+  adj. 法人的；共同的，全体的；社团的；公司的；企业的
+
+resign	英 [rɪ'zaɪn] 美 [rɪ'zaɪn] ( resigning, resigned, resigns )
+  vt. 辞职；放弃；委托；使听从
+  vi. 辞职
+  n. 辞去职务
+
+	 
+
+	 
+
+economic	英 [,iːkə'nɒmɪk; ek-] 美 [ˌikəˈnɑmɪk, ˌɛkəˈ-nɑmɪk] 
+  adj. 经济的，经济上的；经济学的
+
+transition	英 [træn'zɪʃ(ə)n; trɑːn-; -'sɪʃ-] 美 [træn'zɪʃən] ( transitioning, transitioned, transitions )
+  n. 过渡；转变；[分子生物] 转换；变调
+
+profit	英 ['prɒfɪt] 美 ['prɑfɪt] ( profiting, profited, profits )
+  n. 利润；利益
+  vi. 获利；有益
+  vt. 有益于
+  n. (Profit)人名；(法)普罗菲
+
+concerned	英 [kən'sɜːnd] 美 [kən'sɝnd] 
+  adj. 有关的；关心的
+  v. 关心（concern的过去时和过去分词）；与…有关
+
+pose	英 [pəʊz] 美 [poz] ( posing, posed, poses )
+  vt. 造成，形成；摆姿势；装模作样；提出…讨论
+  vi. 摆姿势；佯装；矫揉造作
+  n. 姿势，姿态；装模作样
+
+praise	英 [preɪz] 美 [prez] ( praising, praised, praises )
+  n. 赞扬；称赞；荣耀；崇拜
+  vt. 赞美，歌颂；表扬
+  vi. 赞美；赞扬
+
+target	英 ['tɑːgɪt] 美 ['tɑrɡɪt] ( targetting, targetted, targets )
+  美国塔吉特公司
+
+Kerry	英/美 ['kerɪ] 
+  n. 黑色的小乳牛（英国产）
+
+scheme	英 [skiːm] 美 [skim] ( scheming, schemed, schemes )
+  n. 计划；组合；体制；诡计
+  vi. 搞阴谋；拟订计划
+  vt. 计划；策划
+  n. (Scheme)人名；(瑞典)谢默
+
+blame	英 [bleɪm] 美 [blem] ( blaming, blamed, blames )
+  vt. 责备；归咎于
+  n. 责备；责任；过失
+
+militant	英 ['mɪlɪt(ə)nt] 美 ['mɪlɪtənt] ( militants )
+  adj. 好战的
+  n. 富有战斗性的人；好斗者；激进分子
+
+democratic	英 [demə'krætɪk] 美 ['dɛmə'krætɪk] 
+  adj. 民主的；民主政治的；大众的
+
+attack	英 [ə'tæk] 美 [ə'tæk] ( attacking, attacked, attacks )
+  n. 攻击；抨击；疾病发作
+  vt. 攻击；抨击；动手干
+  vi. 攻击；腐蚀
+  n. (Attack)人名；(瑞典)阿塔克
+
+discus	英 ['dɪskəs] 美 ['dɪskəs] ( discuses )
+  n. 铁饼；掷铁饼
+
+Barack	英 [bɑ:'ræk]  
+  n. 巴拉克（男子名）
+
+Tanaka	 
+  n. 田中（人名）
+
+response	英 [rɪ'spɒns] 美 [rɪ'spɑns] ( responses )
+  n. 响应；反应；回答
+
+	 
+
+commitment	英 [kə'mɪtm(ə)nt] 美 [kə'mɪtmənt] ( commitments )
+  n. 承诺，保证；委托；承担义务；献身
+
+interim	英 ['ɪnt(ə)rɪm] 美 ['ɪntərɪm] 
+  adj. 临时的，暂时的；中间的；间歇的
+  n. 过渡时期，中间时期；暂定
+

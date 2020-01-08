@@ -1,0 +1,523 @@
+sail	英 [seɪl] 美 [sel] ( sailing, sailed, sails )
+  vi. 航行；启航，开船
+  n. 帆，篷；航行
+  vt. 航行
+
+carrier	英 ['kærɪə] 美 ['kærɪɚ] ( carriers )
+  n. [化学] 载体；运送者；带菌者；货架
+  n. (Carrier)人名；(英)卡里尔；(法)卡里耶
+
+dispute	英 [dɪ'spjuːt; 'dɪspjuːt] 美 ['dɪs'pjʊt] ( disputing, disputed, disputes )
+  vt. 辩论；怀疑；阻止；抗拒
+  vi. 争论
+  n. 辩论；争吵
+
+announce	英 [ə'naʊns] 美 [ə'naʊns] ( announcing, announced, announces )
+  vt. 宣布；述说；预示；播报
+  vi. 宣布参加竞选；当播音员
+
+establish	英 [ɪ'stæblɪʃ; e-] 美 [ɪˈstæblɪʃ] ( establishing, established, establishes )
+  vt. 建立；创办；安置
+  vi. 植物定植
+
+relax	英 [rɪ'læks] 美 [rɪ'læks] ( relaxing, relaxed, relaxes )
+  vi. 放松，休息；松懈，松弛；变从容；休养
+  vt. 放松；使休息；使松弛；缓和；使松懈
+
+support	英 [sə'pɔːt] 美 [sə'pɔrt] ( supporting, supported, supports )
+  vt. 支持，支撑，支援；扶持，帮助；赡养，供养
+  n. 支持，维持；支援，供养；支持者，支撑物
+
+mainland	英 ['meɪnlənd; -lænd] 美 ['menlænd] 
+  n. 大陆；本土
+  adj. 大陆的；本土的
+  n. (Mainland)人名；(英)梅因兰
+
+coast	英 [kəʊst] 美 [kost] ( coasting, coasted, coasts )
+  vi. 滑行；沿岸航行
+  vt. 沿…岸航行
+  n. 海岸；滑坡
+  n. (Coast)人名；(英)科斯特
+
+Malaysia	英 [məˈleɪʒə] 美 [mə'leʒə] 
+  n. 马来西亚；马来群岛
+
+massive	英 ['mæsɪv] 美 ['mæsɪv] 
+  adj. 大量的；巨大的，厚重的；魁伟的
+
+submerge	英 [səb'mɜːdʒ] 美 [səb'mɝdʒ] ( submerging, submerged, submerges )
+  vt. 淹没；把…浸入；沉浸
+  vi. 淹没；潜入水中；湮没
+
+press	英 [pres] 美 [prɛs] ( pressing, pressed, presses )
+  vt. 压；按；逼迫；紧抱
+  vi. 压；逼；重压
+  n. 压；按；新闻；出版社；[印刷] 印刷机
+  n. (Press)人名；(英、德、俄、西、瑞典)普雷斯
+
+launch	英 [lɔːntʃ] 美 [lɔntʃ] ( launching, launched, launches )
+  vt. 发射（导弹、火箭等）；发起，发动；使…下水
+  vi. 开始；下水；起飞
+  n. 发射；发行，投放市场；下水；汽艇
+
+missile	英 ['mɪsaɪl] 美 ['mɪsl] ( missiles )
+  n. 导弹；投射物
+  adj. 导弹的；可投掷的；用以发射导弹的
+
+project	英 [prəˈdʒekt; ˈprɒdʒekt] 美 [prəˈdʒɛkt; prɑdʒɛkt] ( projecting, projected, projects )
+  vi. 设计；计划；表达；投射
+  vt. 设计；计划；发射；放映
+  n. 工程；计划；事业
+
+cruise	英 [kruːz] 美 [krʊz] ( cruising, cruised, cruises )
+  vi. 巡航，巡游；漫游
+  vt. 巡航，巡游；漫游
+  n. 巡航，巡游；乘船游览
+  n. (Cruise)人名；(德)克鲁伊泽；(英)克鲁斯
+
+split	英 [splɪt] 美 [splɪt] ( splitting, splits )
+  vt. 分离；使分离；劈开；离开；分解
+  vi. 离开；被劈开；断绝关系
+  n. 劈开；裂缝
+  adj. 劈开的
+  
+
+international	英 [ɪntə'næʃ(ə)n(ə)l] 美 [,ɪntɚ'næʃnəl] 
+  n. 国际组织；国际体育比赛；外国居留者；国际股票
+  adj. 国际的；两国（或以上）国家的；超越国界的；国际关系的；世界的
+
+forum	英 ['fɔːrəm] 美 ['fɔrəm] ( forums )
+  n. 论坛，讨论会；法庭；公开讨论的广场
+
+difficulty	英 ['dɪfɪk(ə)ltɪ] 美 ['dɪfɪkəlti] ( difficulties )
+  n. 困难，困境
+
+xi	英 [ksaɪ; gzaɪ; saɪ; zaɪ] 美 [saɪ] 
+  n. 希腊字母的第14个字母；粒子（等于xi particle）
+
+off	英 [ɒf] 美 [ɔf] 
+  prep. 离开；脱落
+  adv. 切断；走开
+  adj. 远离的；空闲的
+
+Vietnam	英 [ˌvjet'næm] 美 [,vjɛt'næm] 
+  n. 越南（南亚国家）
+
+chief	英 [tʃiːf] 美 [tʃif] ( chiefs )
+  n. 首领；酋长；主要部分
+  adj. 首席的；主要的；主任的
+  adv. 主要地；首要地
+
+statement	英 ['steɪtm(ə)nt] 美 ['stetmənt] ( statements )
+  n. 声明；陈述，叙述；报表，清单
+
+cancellation	英 [,kænsə'leɪʃ(ə)n] 美 [,kænsə'leʃən] 
+  n. 取消；删除
+
+within	英 [wɪð'ɪn] 美 [wɪ'ðɪn] 
+  prep. 在…之内
+  adv. 在内部
+  n. 里面
+
+political	英 [pə'lɪtɪk(ə)l] 美 [pə'lɪtɪkl] 
+  adj. 政治的；党派的
+
+participate	英 [pɑː'tɪsɪpeɪt] 美 [pɑr'tɪsə'pet] ( participating, participated, participates )
+  vi. 参与，参加；分享
+  vt. 分享；分担
+  [ 过去式participated 过去分词participated 现在分词participating ]
+
+precedent	英 ['presɪd(ə)nt] 美 ['prɛsɪdənt] ( precedents )
+  n. 先例；前例
+  adj. 在前的；在先的
+
+claim	英 [kleɪm] 美 [klem] ( claiming, claimed, claims )
+  vi. 提出要求
+  vt. 要求；声称；需要；认领
+  n. 要求；声称；索赔；断言；值得
+
+kuala	英 ['kwɑ:lə] 美 ['kwɑlə] 
+  n. 河口
+
+fail	英 [feɪl] 美 [fel] ( failing, failed, fails )
+  vi. 失败，不及格；破产；缺乏；衰退
+  vt. 不及格；使失望；忘记；舍弃
+  n. 不及格
+  n. (Fail)人名；(葡、捷)法伊尔；(法)法伊
+
+tie	英 [taɪ] 美 [taɪ] ( tying, tied, ties )
+  vt. 系；约束；打结；与…成平局
+  vi. 打结；不分胜负；被用带（或绳子等）系住
+  n. 领带；平局；鞋带；领结；不分胜负
+  n. (Tie)人名；(东南亚国家华语)治；(英)泰伊；(柬)狄
+
+defense	英 [dɪ'fens] 美 [dɪ'fɛns] ( defenses )
+  n. 防卫，防护；防御措施；防守
+  vt. 谋划抵御
+
+though	英 [ðəʊ] 美 [ðo] 
+  adv. 可是，虽然；不过；然而
+  conj. 虽然；尽管
+  prep. 但
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+first	英 [fɜːst] 美 [fɝst] 
+  adv. 第一；首先；优先；宁愿
+  n. 第一；开始；冠军
+  adj. 第一的；基本的；最早的
+  num. 第一
+  n. (First)人名；(英)弗斯特；(捷)菲尔斯特
+
+warship	英 ['wɔːʃɪp] 美 ['wɔrʃɪp] ( warships )
+  n. 战船，[军] 军舰
+
+Asia	英 [ˈeɪʃn] 美 [ˈeɪʒn; eʒən] 
+  n. 亚洲
+
+work	英 [wɜːk] 美 [wɝk] ( working, worked, works )
+  n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品
+  vt. 使工作；操作；经营；使缓慢前进
+  vi. 工作；运作；起作用
+  n. （英、埃塞）沃克（人名）
+
+tension	英 ['tenʃ(ə)n] 美 ['tɛnʃən] ( tensions )
+  n. 张力，拉力；紧张，不安；电压
+  vt. 使紧张；使拉紧
+
+Philippine	英/美 ['filipi:n] 
+  adj. 菲律宾的；菲律宾人的
+  n. 菲律宾人
+
+Hussein	 
+  n. 侯赛因（姓氏）
+
+expand	英 [ɪk'spænd; ek-] 美 [ɪk'spænd] ( expanding, expanded, expands )
+  vt. 扩张；使膨胀；详述
+  vi. 发展；张开，展开
+
+secretary	英 [ˈsekrətrɪ] 美 ['sɛkrətɛrɪ] ( secretaries )
+  n. 秘书；书记；部长；大臣
+
+taiwanese	英/美 ['taiwɑ:'ni:z, -'ni:s] 
+  adj. 台湾的；台湾人的
+  n. 台湾人
+
+reef	英 [riːf] 美 [rif] ( reefs )
+  n. 暗礁；[地质] 矿脉；收帆
+  vt. 收帆；缩帆
+  vi. 缩帆；收帆
+
+declaration	英 [deklə'reɪʃ(ə)n] 美 [,dɛklə'reʃən] ( declarations )
+  n. （纳税品等的）申报；宣布；公告；申诉书
+
+southeast	英 [,saʊθ'iːst] 美 [,saʊθ'ist] 
+  adj. 东南的；来自东南的
+  n. 东南；东南地区
+  adv. 来自东南
+
+ignore	英 [ɪg'nɔː] 美 [ɪɡ'nɔr] ( ignoring, ignored, ignores )
+  vt. 驳回诉讼；忽视；不理睬
+
+mention	英 ['menʃ(ə)n] 美 ['mɛnʃən] ( mentioning, mentioned, mentions )
+  vt. 提到，谈到；提及，论及；说起
+  n. 提及，说起
+  n. (Mention)人名；(法)芒雄
+
+territory	英 ['terɪt(ə)rɪ] 美 ['tɛrətɔri] ( territories )
+  n. 领土，领域；范围；地域；版图
+
+traditional	英 [trə'dɪʃ(ə)n(ə)l] 美 [trə'dɪʃənl] 
+  adj. 传统的；惯例的
+
+	 
+
+administration	英 [ədmɪnɪ'streɪʃ(ə)n] 美 [əd,mɪnɪ'streʃən] ( administrations )
+  n. 管理；行政；实施；行政机构
+
+approach	英 [ə'prəʊtʃ] 美 [ə'protʃ] ( approaching, approached, approaches )
+  n. 方法；途径；接近
+  vt. 接近；着手处理
+  vi. 靠近
+
+outcropping	英/美 ['aʊt,krɑp] 
+  n. 出露地表；露出；露头
+
+election	英 [ɪ'lekʃ(ə)n] 美 [ɪ'lɛkʃən] ( elections )
+  n. 选举；当选；选择权；上帝的选拔
+
+expansion	英 [ɪk'spænʃ(ə)n; ek-] 美 [ɪk'spænʃən] ( expansions )
+  n. 膨胀；阐述；扩张物
+
+regret	英 [rɪ'gret] 美 [rɪ'ɡrɛt] ( regretting, regretted, regrets )
+  n. 遗憾；抱歉；悲叹
+  vt. 后悔；惋惜；哀悼
+  vi. 感到后悔；感到抱歉
+
+Theodore	英/美 ['θi:ədɔ:] 
+  n. 希欧多尔（男子名）
+
+Saturday	英 [ˈsætədɪ; -deɪ] 美 [sætɚdɪ; -de] ( Saturdays )
+  n. 星期六
+
+Thursday	英 ['θɜːzdeɪ; -dɪ] 美 [ˈθɝzde; ˈθɝzdɪ] ( Thursdays )
+  n. 星期四
+
+	 
+
+plus	英 [plʌs] 美 [plʌs] ( plusses )
+  n. 正号，加号；好处；附加额
+  adj. 正的；附加的
+  prep. 加，加上
+  n. (Plus)人名；(德)普卢斯
+
+asian	英/美 [ˈeʒən, ˈeʃən] ( Asians )
+  n. 亚洲人
+  adj. 亚洲的；亚洲人的
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+carter	英 ['kɑːtə] 美 ['kɑrtɚ] 
+  n. 运货马车夫，驾驶货车的人
+
+raise	英 [reɪz] 美 [rez] ( raising, raised, raises )
+  vt. 提高；筹集；养育；升起
+  vi. 上升
+  n. 高地；上升；加薪
+  n. (Raise)人名；(英)雷兹
+
+responsible	英 [rɪ'spɒnsɪb(ə)l] 美 [rɪ'spɑnsəbl] 
+  adj. 负责的，可靠的；有责任的
+
+nation	英 ['neɪʃ(ə)n] 美 ['neʃən] ( nations )
+  n. 国家；民族；国民
+  n. (Nation)人名；(英)内申
+
+Australia	英 [ɒ'streɪlɪə] 美 [ɔ'streljə] 
+  n. 澳大利亚，澳洲
+
+guide	英 [gaɪd] 美 [ɡaɪd] ( guiding, guided, guides )
+  n. 指南；向导；入门书
+  vt. 引导；带领；操纵
+  vi. 担任向导
+  n. (Guide)人名；(法、葡)吉德
+
+joint	英 [dʒɒɪnt] 美 [dʒɔɪnt] ( joints )
+  n. 关节；接缝；接合处，接合点；（牛，羊等的腿）大块肉
+  adj. 共同的；连接的；联合的，合办的
+  vt. 连接，贴合；接合；使有接头
+  vi. 贴合；生节
+  n. (Joint)人名；(法)茹安
+
+region	英 ['riːdʒ(ə)n] 美 ['ridʒən] ( regions )
+  n. 地区；范围；部位
+
+diplomatic	英 [dɪplə'mætɪk] 美 [,dɪplə'mætɪk] 
+  adj. 外交的；外交上的；老练的
+
+Wednesday	英 [ˈwenzdɪ] 美 [ˈwɛnzdɪ] ( Wednesdays )
+  n. 星期三
+
+brief	英 [briːf] 美 [brif] ( briefing, briefed, briefer, briefs, briefest )
+  adj. 简短的，简洁的；短暂的，草率的
+  n. 摘要，简报；概要，诉书
+  vt. 简报，摘要；作…的提要
+  n. (Brief)人名；(英)布里夫
+
+Roosevelt	英/美 ['rəuzəvelt] 
+  n. 罗斯福（姓氏，美国第26任总统）
+
+routine	英 [ruː'tiːn] 美 [rʊ'tin] ( routines )
+  n. [计] 程序；日常工作；例行公事
+  adj. 日常的；例行的
+
+Malaysian	英/美 [mə'leiʒən; -ziən] ( Malaysians )
+  adj. 马来西亚的；马来西亚人的
+  n. 马来西亚人（等于Malay）
+
+counterpart	英 ['kaʊntəpɑːt] 美 ['kaʊntɚpɑrt] ( counterparts )
+  n. 副本；配对物；极相似的人或物
+
+Chinese	英 [tʃaɪniːz]  ( Chinese )
+  n. 中文，汉语；中国人
+  adj. 中国的，中国人的；中国话的
+
+lobby	英 ['lɒbɪ] 美 ['lɑbi] ( lobbying, lobbied, lobbies )
+  n. 大厅；休息室；会客室；游说议员的团体
+  vt. 对……进行游说
+  vi. 游说议员
+
+reporter	英 [rɪ'pɔːtə] 美 [rɪ'pɔrtɚ] ( reporters )
+  n. 记者
+
+japan	英 [dʒə'pæn] 美 [dʒə'pæn] 
+  n. 漆器；日本亮漆
+  vt. 在…上涂漆
+
+	 
+
+Taipei	英/美 ['tai'pei; -'bei] 
+  n. 台北
+
+civil	英 ['sɪv(ə)l; -ɪl] 美 ['sɪvl] 
+  adj. 公民的；民间的；文职的；有礼貌的；根据民法的
+  n. (Civil)人名；(土)吉维尔；(法)西维尔
+
+accuse	英 [ə'kjuːz] 美 [ə'kjuz] ( accusing, accused, accuses )
+  vt. 控告，指控；谴责；归咎于
+  vi. 指责；控告
+
+south	英 [saʊθ] 美 [saʊθ] (also South)
+  n. 南方，南边；南部
+  adv. 在南方，向南方
+  adj. 南的，南方的
+  n. (South)人名；(老)苏；(英)索思
+
+intend	英 [ɪn'tend] 美 [ɪn'tɛnd] ( intending, intended, intends )
+  vt. 打算；想要；意指
+  vi. 有打算
+
+	 
+
+runway	英 ['rʌnweɪ] 美 ['rʌnwe] ( runways )
+  n. 跑道；河床；滑道
+
+interest	英 ['ɪnt(ə)rɪst] 美 ['ɪntrəst] ( interesting, interested, interests )
+  n. 兴趣，爱好；利息；趣味；同行
+  vt. 使……感兴趣；引起……的关心；使……参与
+
+India	英 ['ɪndɪə] 美 ['ɪndɪə] 
+  n. 印度（南亚国家）
+
+ministry	英 ['mɪnɪstrɪ] 美 ['mɪnɪstri] ( ministries )
+  n. （政府的）部门
+
+relation	英 [rɪ'leɪʃ(ə)n] 美 [rɪ'leʃən] ( relations )
+  n. 关系；叙述；故事；亲属关系
+
+since	英 [sɪns] 美 [sɪns] 
+  conj. 因为；由于；既然；自…以来；自…以后
+  prep. 自…以来；自…以后
+  adv. 后来
+
+facility	英 [fə'sɪləti] 美 [fə'sɪləti] ( facilities )
+  n. 设施；设备；容易；灵巧
+
+historic	英 [hɪ'stɒrɪk] 美 [hɪ'stɔrɪk] 
+  adj. 有历史意义的；历史上著名的
+
+ma	英 [mɑː] 美 [mɑ] ( mas )
+  n. 妈
+  n. (Ma)人名；(老、柬、刚(金))马
+
+ASEAN	英/美 ['ɑ:si:ɔn] 
+  abbr. 东南亚国家联盟（东盟）（Association of Southeast Asian Nations）
+
+obama	 
+  n. 奥巴马(姓)
+
+archipelago	英 [,ɑːkɪ'peləgəʊ] 美 ['ɑrkə'pɛlə'go] ( archipelagoes )
+  n. 群岛，列岛；多岛的海区
+
+Singapore	英 [ˌsɪŋgə'pɔ:] 美 [ˈsɪŋəˌpɔr] 
+  n. 新加坡
+
+certain	英 ['sɜːt(ə)n; -tɪn] 美 ['sɝtn] 
+  adj. 某一；必然的；确信；无疑的；有把握的
+  pron. 某些；某几个
+  n. (Certain)人名；(葡)塞尔塔因；(法)塞尔坦
+
+navigation	英 [nævɪ'geɪʃ(ə)n] 美 ['nævə'geʃən] 
+  n. 航行；航海
+
+passage	英 ['pæsɪdʒ] 美 ['pæsɪdʒ] ( passages )
+  n. 一段（文章）；走廊；通路
+  n. (Passage)人名；(英)帕西奇；(法)帕萨热
+
+minister	英 ['mɪnɪstə] 美 ['mɪnɪstɚ] ( ministers )
+  n. 部长；大臣；牧师
+  vi. 执行牧师职务；辅助或伺候某人
+
+meeting	英 ['miːtɪŋ] 美 ['mitɪŋ] ( meetings )
+  n. 会议；会见；集会；汇合点
+  v. 会面；会合（meet的ing形式）
+
+Taiwan	英/美 ['taɪ'wɑn] 
+  n. 台湾
+
+destroyer	英 [dɪ'strɒɪə] 美 [dɪ'strɔɪɚ] ( destroyers )
+  n. 驱逐舰；破坏者；起破坏作用的事物
+
+maritime	英 ['mærɪtaɪm] 美 ['mærɪtaɪm] 
+  adj. 海的；海事的；沿海的；海员的
+
+transform	英 [træns'fɔːm; trɑːns-; -nz-] 美 [træns'fɔrm] ( transforming, transformed, transforms )
+  vt. 改变，使…变形；转换
+  vi. 变换，改变；转化
+
+upcoming	英 [ʌp'kʌmɪŋ] 美 ['ʌpkʌmɪŋ] 
+  adj. 即将来临的
+
+contentious	英 [kən'tenʃəs] 美 [kənˈtenʃəs] 
+  adj. 诉讼的；有异议的，引起争论的；爱争论的
+
+ying	英/美 [wai] (also ying)
+  营
+  n. (Ying)人名；(缅、泰)英；(中)应(普通话·威妥玛)
+
+kilometer	英 ['kɪlə,mitɚ] 美 [ˈkɪləˌmitɚ; kəˈlɑmətɚ] 
+  n. [计量] 公里；[计量] 千米（等于kilometre）
+
+January	英 ['dʒænjʊ(ə)rɪ] 美 ['dʒænjʊ'ɛri] ( Januaries )
+  n. 一月
+
+aim	英 [eɪm] 美 [em] ( aiming, aimed, aims )
+  vt. 目的在于；引导；把…对准
+  vi. 打算；对准目标；瞄准
+  n. 目的；目标；对准
+
+prevents	英/美 [pri'vent; pri:-] ( preventing, prevented, prevents )
+  v. 阻止（prevent的第三人称单数）；预防
+
+china	英 [ˈtʃaɪnə] 美 [ˈtʃaɪ.nə] 
+  n. 瓷器
+  adj. 瓷制的
+  n. China，中国
+  adj. China，中国的
+
+compete	英 [kəm'piːt] 美 [kəm'pit] ( competing, competed, competes )
+  vi. 竞争；比赛；对抗
+
+aircraft	英 ['eəkrɑːft] 美 ['ɛr'kræft] ( aircraft )
+  n. 飞机，航空器
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+territorial	英 [,terɪ'tɔːrɪəl] 美 [,tɛrə'tɔrɪəl] 
+  adj. 领土的；区域的；土地的；地方的
+  n. 地方自卫队士兵
+
+Lumpur	 
+  n. 吉隆坡
+
+Beijing	英/美 [ˌbeɪˈdʒɪŋ] 
+  n. 北京（等于Peking或Pekin）
+
+told	英 [təʊld] 美 [told] 
+  v. 告诉（tell的过去式）；讲述
+
+overshadow	英 [əʊvə'ʃædəʊ] 美 ['ovɚ'ʃædo] ( overshadowing, overshadowed, overshadows )
+  vt. 使失色；使阴暗；遮阴；夺去…的光彩
+
+	 
+
+ash	英 [æʃ] 美 [æʃ] ( ashes )
+  n. 灰；灰烬
+  n. (Ash)人名；(英、俄、捷)阿什
+

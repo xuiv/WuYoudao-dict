@@ -1,0 +1,424 @@
+spread	英 [spred] 美 [sprɛd] ( spreading, spread, spreads )
+  vi. 传播；伸展
+  vt. 传播，散布；展开；伸展；铺开
+  n. 传播；伸展
+  adj. 伸展的
+
+thousand	英 ['θaʊz(ə)nd] 美 ['θaʊznd] ( thousands )
+  n. 一千；一千个；许许多多
+  adj. 成千的；无数的
+
+battlefield	英 ['bæt(ə)lfiːld] 美 ['bætlfild] ( battlefields )
+  n. 战场；沙场
+
+drug	英 [drʌg] 美 [drʌg] ( drugging, drugged, drugs )
+  n. 药；毒品；麻醉药；滞销货
+  vt. 使服麻醉药；使服毒品；掺麻醉药于
+  vi. 吸毒
+  n. (Drug)人名；(罗)德鲁格
+
+leak	英 [liːk] 美 [lik] ( leaking, leaked, leaks )
+  n. 泄漏；漏洞，裂缝
+  vt. 使渗漏，泄露
+  vi. 漏，渗；泄漏出去
+  n. (Leak)人名；(英)利克；(东南亚国家华语)力
+
+prosecutor	英 ['prɒsɪkjuːtə] 美 ['prɑsɪ'kjʊtɚ] ( prosecutors )
+  n. 检察官；公诉人；[法] 起诉人；实行者
+
+unverified	英 [ʌn'verɪfaɪd] 美 [ʌn'vɛrɪ,faɪd] 
+  adj. 未经核对的，未经证实的
+
+undercut	英 [ʌndə'kʌt] 美 [,ʌndɚ'kʌt] ( undercutting, undercuts )
+  vt. 廉价出售；较便宜的工资工作；从下边削球
+  vi. 底切
+  n. 底切；牛腰部下侧嫩肉；砍口；切球
+
+Chelsea	英/美 ['tʃelsi] 
+  n. 切尔西（伦敦自治城市，为文艺界人士聚居地）
+
+salacious	英 [sə'leɪʃəs] 美 [sə'leʃəs] 
+  adj. 好色的；猥亵的；淫荡的
+
+convincing	英 [kən'vɪnsɪŋ] 美 [kən'vɪnsɪŋ] 
+  adj. 令人信服的；有说服力的
+  v. 使相信；使明白（convince的现在分词）
+
+trump	英 [trʌmp] 美 [trʌmp] ( trumping, trumped, trumps )
+  n. 王牌；法宝；喇叭
+  vt. 胜过；打出王牌赢
+  vi. 出王牌；吹喇叭
+  n. (Trump)人名；(英)特朗普
+
+accuse	英 [ə'kjuːz] 美 [ə'kjuz] ( accusing, accused, accuses )
+  vt. 控告，指控；谴责；归咎于
+  vi. 指责；控告
+
+worthless	英 [ˈwəːθlɪs] 美 [ˈwərthləs] 
+  adj. 无价值的；不值钱的；卑微的
+
+fake	英 [feɪk] 美 [feɪk] ( faking, faked, fakes )
+  n. 假货；骗子；假动作
+  vt. 捏造；假装…的样子
+  vi. 假装；做假动作
+  adj. 伪造的
+  n. (Fake)人名；(英)费克
+
+information	英 [ɪnfə'meɪʃ(ə)n] 美 ['ɪnfɚ'meʃən] 
+  n. 信息，资料；知识；情报；通知
+
+whether	英 ['weðə] 美 ['wɛðɚ] 
+  conj. 是否；不论
+  pron. 两个中的哪一个
+
+director	英 [dɪ'rektə; daɪ-] 美 [dəˈrɛktɚ, daɪ-] ( directors )
+  n. 主任，主管；导演；人事助理
+  n. (Director)人名；(英)迪雷克托
+
+blame	英 [bleɪm] 美 [blem] ( blaming, blamed, blames )
+  vt. 责备；归咎于
+  n. 责备；责任；过失
+
+freed	英/美 [fri:] ( freeing, freed, freer, frees, freest )
+  adj. 释放的
+  v. 使自由；解放（free的过去分词）
+  n. (Freed)人名；(英)弗里德；(瑞典、法)弗雷德
+
+Barack	英 [bɑ:'ræk]  
+  n. 巴拉克（男子名）
+
+part	英 [pɑːt] 美 [pɑrt] ( parts )
+  n. 部分；角色；零件；一些；片段
+  vt. 分离；分配；分开
+  vi. 断裂；分手
+  adv. 部分地
+  adj. 部分的
+  n. (Part)人名；(英、瑞典)帕特；(泰)巴；(法)帕尔
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+surgery	英 ['sɜːdʒ(ə)rɪ] 美 ['sɝdʒəri] ( surgeries )
+  n. 外科；外科手术；手术室；诊疗室
+
+twitter	英 ['twɪtə] 美 ['twɪtɚ] ( twittering, twittered, twitters )
+  n. 微博客，鸟叫声
+  vt. 吱吱叫；嘁嘁喳喳地讲
+
+undergo	英 [ʌndə'gəʊ] 美 [,ʌndɚ'ɡo] ( undergoing, underwent, undergone, undergoes )
+  vt. 经历，经受；忍受
+  
+
+leaker	美 ['likɚ] ( leakers )
+  n. 水压试验时出汗；有漏元件；渗水铸件；走漏消息者
+
+Tuesday	英 ['tjuːzdeɪ; -dɪ] 美 [ˈtuzdɪ;-de] ( Tuesdays )
+  n. 星期二
+
+Germany	英 ['dʒɜːmənɪ] 美 ['dʒɝməni] 
+  n. 德国
+
+offense	英/美 [ə'fɛns] ( offenses )
+  n. 犯罪，过错；进攻；触怒；引起反感的事物
+
+allegation	英 [ælɪ'geɪʃ(ə)n] 美 ['ælə'geʃən] ( allegations )
+  n. 指控; 陈述，主张; 宣称; 陈词，陈述;
+
+identity	英 [aɪ'dentɪtɪ] 美 [aɪ'dɛntəti] ( identities )
+  n. 身份；同一性，一致；特性；恒等式
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+john	英 [dʒɒn] 美 [dʒɑn] ( johns )
+  n. 厕所
+
+unsubstantiated	英 [ʌnsəb'stænʃɪeɪtɪd] 美 [,ʌnsəb'stænʃɪetɪd] 
+  adj. 未经证实的，无事实根据的
+
+described	英 [dɪ'skraɪbd] 美 [dɪ'skraɪbd] ( describing, described, describes )
+  v. 描述，描写（describe的过去式）
+  adj. 描述的
+
+Bradley	英/美 ['brædli] 
+  n. 布兰得利（男子名）
+
+cable	英 ['keɪb(ə)l] 美 ['kebl] ( cables )
+  n. 缆绳；电缆；海底电报
+  vt. 打电报
+  vi. 打海底电报
+
+Russian	英 ['rʌʃ(ə)n] 美 ['rʌʃən] ( Russians )
+  adj. 俄国的；俄语的
+  n. 俄语；俄国人
+
+Iraq	英 [ɪ'rɑ:k] 美 [ɪ'rɑk] 
+  n. 伊拉克（西南亚国家）
+
+intelligence	英 [ɪn'telɪdʒ(ə)ns] 美 [ɪn'tɛlɪdʒəns] 
+  n. 智力；情报工作；情报机关；理解力；才智，智慧；天分
+
+	 
+
+elect	英 [ɪ'lekt] 美 [ɪ'lɛkt] ( electing, elected, elects )
+  adj. 选出的；当选的；卓越的
+  n. 被选的人；特殊阶层；上帝的选民
+  vt. 选举；选择；推选
+  vi. 作出选择；进行选举
+
+anyone	英 ['enɪwʌn] 美 ['ɛnɪ'wʌn] 
+  pron. 任何人；任何一个
+
+Website	英/美 ['websaɪt] (also web site)
+  n. 网站（全球资讯网的主机站）
+
+	 
+
+Vladimir	英 [vlɑ'dimɪr] 美 [vlɑ'dimɪr] 
+  n. 弗拉基米尔（古罗斯弗拉基米尔-苏兹达里公国的古都）
+
+former	英 ['fɔːmə] 美 ['fɔrmɚ] 
+  adj. 从前的，前者的；前任的
+  n. 模型，样板；起形成作用的人
+  n. (Former)人名；(法)福尔梅；(德、捷)福尔默
+
+endanger	英 [ɪn'deɪn(d)ʒə; en-] 美 [ɪn'dendʒɚ] ( endangering, endangered, endangers )
+  vt. 危及；使遭到危险
+
+false	英 [fɔːls; fɒls] 美 [fɔls] 
+  adj. 错误的；虚伪的；伪造的
+  adv. 欺诈地
+
+Putin	英/美 ['putin] 
+  n. 普京（人名）
+
+department	英 [dɪ'pɑːtm(ə)nt] 美 [dɪ'pɑrtmənt] ( departments )
+  n. 部；部门；系；科；局
+
+prostitute	英 ['prɒstɪtjuːt] 美 ['prɑstətut] ( prostitutes )
+  vt. 使沦为妓女
+  adj. 卖淫的；堕落的
+  n. 妓女
+
+attempt	英 [ə'tem(p)t] 美 [ə'tɛmpt] ( attempting, attempted, attempts )
+  n. 企图，试图；攻击
+  vt. 企图，试图；尝试
+
+anti	英 ['æntɪ] 美 ['æntaɪ] 
+  adj. 反对的
+  n. 反对者，反对论者
+  n. (Anti)人名；(意)安蒂；(阿拉伯)安提
+
+responsible	英 [rɪ'spɒnsɪb(ə)l] 美 [rɪ'spɑnsəbl] 
+  adj. 负责的，可靠的；有责任的
+
+community	英 [kəˈmju:nətɪ] 美 [kəˈmjunətɪ] ( communities )
+  n. 社区；[生态] 群落；共同体；团体
+
+involvement	英 [ɪn'vɒlvm(ə)nt] 美 [ɪn'vɔlvmənt] ( involvements )
+  n. 牵连；包含；混乱；财政困难
+
+contain	英 [kən'teɪn] 美 [kən'ten] ( containing, contained, contains )
+  vt. 包含；控制；容纳；牵制（敌军）
+  vi. 含有；自制
+
+hundred	英 ['hʌndrəd] 美 ['hʌndrəd] ( hundreds )
+  n. 一百；许多
+  adj. 一百的；许多的
+  num. 百；百个
+
+confusion	英 [kən'fjuːʒ(ə)n] 美 [kən'fjʊʒən] ( confusions )
+  n. 混淆，混乱；困惑
+
+Moscow	英 ['mɔskəʊ] 美 [ˈmɑsˌkaʊ] 
+  n. 莫斯科（俄罗斯首都）
+
+erroneous	英 [ɪ'rəʊnɪəs; e-] 美 [ɪ'ronɪəs] 
+  adj. 错误的；不正确的
+
+could	英 [kəd; kʊd] 美 [kəd; kʊd] 
+  aux. 能够
+  v. 能（can的过去式）
+
+spite	英 [spaɪt] 美 [spaɪt] 
+  n. 不顾；恶意；怨恨
+  vt. 刁难；使恼怒
+
+formerly	英 ['fɔːməlɪ] 美 ['fɔrmɚli] 
+  adv. 以前；原来
+
+administration	英 [ədmɪnɪ'streɪʃ(ə)n] 美 [əd,mɪnɪ'streʃən] ( administrations )
+  n. 管理；行政；实施；行政机构
+
+admit	英 [əd'mɪt] 美 [əd'mɪt] ( admitting, admitted, admits )
+  vt. 承认；准许进入；可容纳
+  vi. 承认；容许
+
+serviceman	英 ['sɜːvɪsmən] 美 ['sɝvɪsmən] ( servicemen )
+  n. 军人；维修人员
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+classify	英 ['klæsɪfaɪ] 美 ['klæsɪfaɪ] ( classifying, classified, classifies )
+  vt. 分类；分等
+
+legitimacy	英 [lɪ'dʒɪtɪməsɪ] 美 [lɪ'dʒɪtəməsi] 
+  n. 合法；合理；正统
+
+harm	英 [hɑːm] 美 [hɑrm] ( harming, harmed, harms )
+  n. 伤害；损害
+  vt. 伤害；危害；损害
+  n. (Harm)人名；(德)哈尔姆
+
+info	英 ['ɪnfəʊ] 美 ['ɪnfo] 
+  n. 信息；情报
+
+commute	英 [kə'mjuːt] 美 [kə'mjʊt] ( commuting, commuted, commutes )
+  vi. （搭乘车、船等）通勤；代偿
+  vt. 减刑；交换；用……交换；使……变成
+  n. 通勤（口语）
+
+sexual	英 ['sekʃʊəl; -sjʊəl] 美 [sɛkʃʊəl] 
+  adj. 性的；性别的；有性的
+
+nonviolent	英 [,nɒn'vaɪələnt] 美 [,nɑn'vaɪələnt] 
+  adj. 非暴力的
+  不使用暴力的
+
+effort	英 ['efət] 美 ['ɛfɚt] ( efforts )
+  n. 努力；成就
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+gender	英 ['dʒendə] 美 ['dʒɛndɚ] ( genders )
+  n. 性；性别；性交
+  vt. 生（过去式gendered，过去分词gendered，现在分词gendering，第三人称单数genders，形容词genderless）
+
+others	英 [ˈʌðə(r)z] 美 [ʌðɚz] ( others )
+  pron. 其他人
+
+declare	英 [dɪ'kleə] 美 [dɪ'klɛr] ( declaring, declared, declares )
+  vt. 宣布，声明；断言，宣称
+  vi. 声明，宣布
+
+secrecy	英 ['siːkrɪsɪ] 美 ['sikrəsi] 
+  n. 保密；秘密；隐蔽
+
+presidential	英 [,prezɪ'denʃəl] 美 ['prɛzədɛnʃəl] 
+  adj. 总统的；首长的；统辖的
+
+Donald	英/美 ['dɒnəld] 
+  n. 唐纳德（男子名）
+
+expose	英 [ɪk'spəʊz; ek-] 美 [ɪk'spoz；ek-] ( exposing, exposed, exposes )
+  vt. 揭露，揭发；使曝光；显示
+
+compare	英 [kəm'peə] 美 [kəm'pɛr] ( comparing, compared, compares )
+  n. 比较
+  vt. 比拟，喻为；[语]构成
+  vi. 相比，匹敌；比较，区别；比拟（常与to连用）
+  n. (Compare)人名；(意)孔帕雷
+
+sex	英 [seks] 美 [sɛks] ( sexing, sexed, sexes )
+  n. 性；性别；性行为；色情
+  vt. 引起…的性欲；区别…的性别
+
+conference	英 ['kɒnf(ə)r(ə)ns] 美 ['kɑnfərəns] ( conferences )
+  n. 会议；讨论；协商；联盟；（正式）讨论会；[工会、工党用语]（每年的）大会
+  vi. 举行或参加（系列）会议
+
+analyst	英 ['æn(ə)lɪst] 美 ['ænəlɪst] ( analysts )
+  n. 分析者；精神分析医师；分解者
+
+include	英 [ɪn'kluːd] 美 [ɪn'klud] ( including, included, includes )
+  vt. 包含，包括
+
+truth	英 [truːθ] 美 [trʊθ] ( truths )
+  n. 真理；事实；诚实；实质
+
+Afghanistan	英 [æfˈɡænɪˌstɑːn] 美 [æf'gænə,stæn] 
+  n. 阿富汗（国家名称，位于亚洲）
+
+interest	英 ['ɪnt(ə)rɪst] 美 ['ɪntrəst] ( interesting, interested, interests )
+  n. 兴趣，爱好；利息；趣味；同行
+  vt. 使……感兴趣；引起……的关心；使……参与
+
+defense	英 [dɪ'fens] 美 [dɪ'fɛns] ( defenses )
+  n. 防卫，防护；防御措施；防守
+  vt. 谋划抵御
+
+action	英 ['ækʃ(ə)n] 美 ['ækʃən] ( actioning, actioned, actions )
+  n. 行动；活动；功能；战斗；情节
+  n. (Action)人名；(英)埃克申
+
+obama	 
+  n. 奥巴马(姓)
+
+release	英 [rɪ'liːs] 美 [rɪ'lis] ( releasing, released, releases )
+  vt. 释放；发射；让与；允许发表
+  n. 释放；发布；让与
+
+	 
+
+presidency	英 ['prezɪd(ə)nsɪ] 美 ['prɛzɪdənsi] ( presidencies )
+  n. 总统（或董事长、会长、大学校长等）的职位（任期）；管辖；支配
+
+argue	英 ['ɑːgjuː] 美 ['ɑrgjʊ] ( arguing, argued, argues )
+  vi. 争论，辩论；提出理由
+  vt. 辩论，争论；证明；说服
+  n. (Argue)人名；(英、法)阿格
+
+undermine	英 [ʌndə'maɪn] 美 ['ʌndɚ'maɪn] ( undermining, undermined, undermines )
+  vt. 破坏，渐渐破坏；挖掘地基
+
+engage	英 [ɪn'geɪdʒ; en-] 美 [ɪn'ɡedʒ] ( engaging, engaged, engages )
+  vt. 吸引，占用；使参加；雇佣；使订婚；预定
+  vi. 从事；答应，保证；交战；啮合
+
+link	英 [lɪŋk] 美 [lɪŋk] ( linking, linked, links )
+  n. [计] 链环，环节；联系，关系
+  vt. 连接，连结；联合，结合
+  vi. 连接起来；联系在一起；将人或物连接或联系起来
+  n. (Link)人名；(英、德、塞、捷、匈、瑞典)林克
+
+central	英 ['sentr(ə)l] 美 ['sɛntrəl] 
+  adj. 中心的；主要的；中枢的
+  n. 电话总机
+
+nazi	英/美 ['nɑ:tsi, 'næ-] ( Nazis )
+  n. 纳粹党人；纳粹主义信徒
+  adj. 纳粹党的；纳粹主义的
+  n. (Nazi)人名；(布基)纳齐；(俄)娜济
+
+military	英 ['mɪlɪt(ə)rɪ] 美 ['mɪlətɛri] ( militaries )
+  adj. 军事的；军人的；适于战争的
+  n. 军队；军人
+
+document	英 ['dɒkjʊm(ə)nt] 美 [dɑkjəmənt] ( documenting, documented, documents )
+  n. 文件，公文；[计] 文档；证件
+  vt. 用文件证明
+
+serve	英 [sɜːv] 美 [sɝv] ( serving, served, serves )
+  vt. 招待，供应；为…服务；对…有用；可作…用
+  vi. 服役，服务；适合，足够；发球；招待，侍候
+  n. 发球，轮到发球
+  n. (Serve)人名；(法)塞尔夫
+
+dossier	英 ['dɒsɪə; -ɪeɪ; -jeɪ] 美 [do'sjɛi] ( dossiers )
+  n. 档案，卷宗；病历表册
+  n. (Dossier)人名；(法)多西耶
+
+sentence	英 ['sent(ə)ns] 美 ['sɛntəns] ( sentencing, sentenced, sentences )
+  n. [语][计] 句子，命题；宣判，判决
+  vt. 判决，宣判
+
+Brennan	 
+  n. 布伦南（姓氏）
+

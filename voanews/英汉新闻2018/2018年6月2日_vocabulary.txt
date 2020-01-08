@@ -1,0 +1,513 @@
+medium	英 ['miːdɪəm] 美 ['midɪəm] ( media )
+  adj. 中间的，中等的；半生熟的
+  n. 方法；媒体；媒介；中间物
+
+hundred	英 ['hʌndrəd] 美 ['hʌndrəd] ( hundreds )
+  n. 一百；许多
+  adj. 一百的；许多的
+  num. 百；百个
+
+weapon	英 ['wep(ə)n] 美 ['wɛpən] ( weapons )
+  n. 武器，兵器
+
+agency	英 ['eɪdʒ(ə)nsɪ] 美 ['edʒənsi] ( agencies )
+  n. 代理，中介；代理处，经销处
+
+protest	英 [prəˈtest;ˈprəʊtest] 美 [prəˈtɛst;protɛst] ( protesting, protested, protests )
+  vi. 抗议；断言
+  vt. 抗议；断言
+  n. 抗议
+  adj. 表示抗议的；抗议性的
+
+military	英 ['mɪlɪt(ə)rɪ] 美 ['mɪlətɛri] ( militaries )
+  adj. 军事的；军人的；适于战争的
+  n. 军队；军人
+
+decision	英 [dɪ'sɪʒ(ə)n] 美 [dɪ'sɪʒn] ( decisions )
+  n. 决定，决心；决议
+
+alphabet	英 ['ælfəbet] 美 ['ælfə'bɛt] ( alphabets )
+  n. 字母表，字母系统；入门，初步
+  n. Google创建的名为Alphabet的公司，改变Google原有公司架构，旨在使其当下主要业务和长期投资项目间的区别更加清晰。
+
+threat	英 [θret] 美 [θrɛt] ( threats )
+  n. 威胁，恐吓；凶兆
+
+attack	英 [ə'tæk] 美 [ə'tæk] ( attacking, attacked, attacks )
+  n. 攻击；抨击；疾病发作
+  vt. 攻击；抨击；动手干
+  vi. 攻击；腐蚀
+  n. (Attack)人名；(瑞典)阿塔克
+
+petition	英 [pɪ'tɪʃ(ə)n] 美 [pə'tɪʃən] ( petitioning, petitioned, petitions )
+  n. 请愿；请愿书；祈求；[法] 诉状
+  vi. 请愿；请求
+  vt. 请愿；请求；恳求
+
+health	英 [helθ] 美 [hɛlθ] 
+  n. 健康；卫生；保健；兴旺
+
+SAN	英/美 [sæn] 
+  abbr. 存储区域网（Storage Area Networking）
+  n. (San)人名；(泰)讪；(俄、罗、刚)萨恩；(土、柬)桑；(缅)山
+
+tech	英/美 [tɛk] 
+  n. 技术学院或学校
+  abbr. 技术（technology）；技术员（technician）
+  n. (Tech)人名；(柬)德
+
+	 
+
+willingness	英 ['wɪlɪŋnəs] 美 [ˈwɪlɪŋnɪs] 
+  n. 乐意；心甘情愿；自动自发
+
+involvement	英 [ɪn'vɒlvm(ə)nt] 美 [ɪn'vɔlvmənt] ( involvements )
+  n. 牵连；包含；混乱；财政困难
+
+	 
+
+Reuters	英/美 ['rɔɪtəz] 
+  n. 路透社（英国）
+
+maven	英 ['meɪv(ə)n] 美 ['mevn] ( mavens )
+  n. 内行，专家
+
+recent	英 ['riːs(ə)nt] 美 ['risnt] 
+  adj. 最近的；近代的
+
+Kim	英/美 [kɪm] 
+  n. 金姆（人名）
+
+public	英 ['pʌblɪk] 美 ['pʌblɪk] 
+  adj. 公众的；政府的；公用的；公立的
+  n. 公众；社会；公共场所
+  n. (Public)人名；(英)帕布利克
+
+accord	英 [ə'kɔːd] 美 [ə'kɔrd] ( according, accorded, accords )
+  n. 符合；一致；协议；自愿
+  vt. 使一致；给予
+  vi. 符合；一致
+
+related	英 [rɪ'leɪtɪd] 美 [rɪ'letɪd] 
+  adj. 有关系的，有关联的；讲述的，叙述的
+  v. 叙述（relate过去式）
+
+continue	英 [kən'tɪnjuː] 美 [kən'tɪnju] ( continuing, continued, continues )
+  vi. 继续，延续；仍旧，连续
+  vt. 继续说…；使…继续；使…延长
+
+earlier	英 ['ɜ:lɪə(r)] 美 ['ɝlɪr] 
+  adj. 早的；初期的 （early的比较级）
+  adv. 早地；早先的时候
+
+include	英 [ɪn'kluːd] 美 [ɪn'klud] ( including, included, includes )
+  vt. 包含，包括
+
+primarily	英 ['praɪm(ə)rɪlɪ; praɪ'mer-] 美 [praɪ'mɛrəli] 
+  adv. 首先；主要地，根本上
+
+program	英 ['prəʊɡræm] 美 ['proɡræm] ( programming, programmed, programs )
+  n. 程序；计划；大纲
+  vt. 用程序指令；为…制订计划；为…安排节目
+  vi. 编程序；安排节目；设计电脑程式
+
+single	英 ['sɪŋg(ə)l] 美 ['sɪŋɡl] ( singles )
+  adj. 单一的；单身的；单程的
+  n. 一个；单打；单程票
+  vt. 选出
+  vi. 击出一垒安打
+
+rally	英 ['rælɪ] 美 ['ræli] ( rallying, rallied, rallies )
+  vi. 团结；重整；恢复；（网球等）连续对打
+  vt. 团结；集合；恢复健康、力量等
+  n. 集会；回复；公路赛车会
+  n. (Rally)人名；(罗)拉利
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+jong	英/美 [jɔŋ] 
+  n. 小伙子；（旧时的）青年男奴
+  n. (Jong)人名；(东南亚国家华语)永；(德、荷)容
+
+July	英 [dʒʊˈlaɪ] 美 [dʒʊˈlaɪ] ( Julys )
+  n. 七月
+
+Donald	英/美 ['dɒnəld] 
+  n. 唐纳德（男子名）
+
+capability	英 [ˌkeɪpəˈbɪləti] 美 [ˌkepəˈbɪlətɪ] ( capabilities )
+  n. 才能，能力；性能，容量
+
+video	英 ['vɪdɪəʊ] 美 ['vɪdɪo] ( videoing, videoed, videos )
+  n. [电子] 视频；录像，录像机；电视
+  adj. 视频的；录像的；电视的
+  v. 录制
+
+proceed	英 [prə'siːd] 美 [pro'sid] ( proceeding, proceeded, proceeds )
+  vi. 开始；继续进行；发生；行进
+  n. 收入，获利
+
+breach	英 [briːtʃ] 美 [britʃ] ( breaching, breached, breaches )
+  n. 违背，违反；缺口
+  vt. 违反，破坏；打破
+
+Latin	英 ['lætɪn] 美 ['lætn] 
+  adj. 拉丁语的；拉丁人的
+  n. 拉丁语；拉丁人
+
+steal	英 [stiːl] 美 [stil] ( stealing, stole, stolen, steals )
+  vt. 剽窃；偷偷地做；偷窃
+  vi. 窃取；偷偷地行动；偷垒
+  n. 偷窃；便宜货；偷垒；断球
+
+plot	英 [plɒt] 美 [plɑt] ( plotting, plotted, plots )
+  n. 情节；图；阴谋
+  vt. 密谋；绘图；划分；标绘
+  vi. 密谋；策划；绘制
+  n. (Plot)人名；(捷)普洛特；(法)普洛
+
+north	英 [nɔːθ] 美 [nɔrθ] (also North)
+  n. 北，北方
+  adj. 北方的；朝北的
+  adv. 在北方，向北方
+
+employee	英 [ɪmˈplɔɪi;ˌemplɔɪˈi:] 美 [ɪmˈplɔɪi;ɛmplɔɪˈi] ( employees )
+  n. 雇员；从业员工
+
+movie	英 ['muːvɪ] 美 ['muvi] ( movies )
+  n. 电影；电影院；电影业
+  adj. 电影的
+
+imagery	英 ['ɪmɪdʒ(ə)rɪ] 美 ['ɪmɪdʒəri] 
+  n. 像；意象；比喻；形象化
+
+urge	英 ['ɜːdʒ] 美 [ɝdʒ] ( urging, urged, urges )
+  vt. 力劝，催促；驱策，推进
+  n. 强烈的欲望，迫切要求；推动力
+  vi. 强烈要求
+
+service	英 ['sɜːvɪs] 美 ['sɝvɪs] ( services )
+  n. 服务，服侍；服役；仪式
+  adj. 服务性的；耐用的；服现役的
+  vt. 维修，检修；保养
+  n. (Service)人名；(英)瑟维斯
+
+argue	英 ['ɑːgjuː] 美 ['ɑrgjʊ] ( arguing, argued, argues )
+  vi. 争论，辩论；提出理由
+  vt. 辩论，争论；证明；说服
+  n. (Argue)人名；(英、法)阿格
+
+evil	英 ['iːv(ə)l; -vɪl] 美 ['ivl] ( evils )
+  adj. 邪恶的；不幸的；有害的；讨厌的
+  n. 罪恶，邪恶；不幸
+
+offensive	英 [ə'fensɪv] 美 [ə'fɛnsɪv] ( offensives )
+  adj. 攻击的；冒犯的；无礼的；讨厌的
+  n. 攻势；攻击
+
+Pyongyang	英/美 ['pjʌŋjɑ:ŋ] 
+  n. 平壤（朝鲜民主主义人民共和国首都）
+
+trump	英 [trʌmp] 美 [trʌmp] ( trumping, trumped, trumps )
+  n. 王牌；法宝；喇叭
+  vt. 胜过；打出王牌赢
+  vi. 出王牌；吹喇叭
+  n. (Trump)人名；(英)特朗普
+
+intrusion	英 [ɪn'truːʒ(ə)n] 美 [ɪn'truʒn] ( intrusions )
+  n. 侵入；闯入
+
+	 
+
+work	英 [wɜːk] 美 [wɝk] ( working, worked, works )
+  n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品
+  vt. 使工作；操作；经营；使缓慢前进
+  vi. 工作；运作；起作用
+  n. （英、埃塞）沃克（人名）
+
+AI	英/美 [ˌe'aɪ] 
+  abbr. 人工智能（artificial intelligence）
+  n. (Ai)人名；(中)艾(普通话·威妥玛)；(日)爱(名)
+
+artificial	英 [ɑːtɪ'fɪʃ(ə)l] 美 [,ɑrtɪ'fɪʃl] 
+  adj. 人造的；仿造的；虚伪的；非原产地的；武断的
+
+defend	英 [dɪ'fend] 美 [dɪ'fɛnd] ( defending, defended, defends )
+  vt. 辩护；防护
+  vi. 保卫；防守
+
+march	英 [mɑːtʃ] 美 [mɑrtʃ] ( marching, marched, marches )
+  vi. （坚定地向某地）前进；行军，进军；游行示威；进展，进行
+  vt. 使前进；使行军
+  n. 行进，前进；行军；游行示威；进行曲
+
+Arsenal	英/美 ['ɑrsənl] ( arsenals )
+  n. 兵工厂；军械库
+
+cash	英 [kæʃ] 美 [kæʃ] ( cashing, cashed, cashes )
+  n. 现款，现金
+  vt. 将…兑现；支付现款
+  n. (Cash)人名；(英)卡什
+
+Inc	英/美 [iŋk] 
+  abbr. 股份有限公司（incorporated）
+
+drone	英 [drəʊn] 美 [dron] ( droning, droned, drones )
+  n. 雄蜂；嗡嗡的声音；懒惰者
+  n. 无人机（非正式）
+  vi. 嗡嗡作声；混日子
+  vt. 低沉地说
+  n. n. (Drone)人名；(法)德罗纳
+
+starve	英 [stɑːv] 美 [stɑrv] ( starving, starved, starves )
+  vi. 饿死；挨饿；渴望
+  vt. 使饿死；使挨饿
+
+un	英 [ʌn] 美 [ju ən] (also un)
+  pron. 家伙，东西
+  n. (Un)人名；(柬)温
+
+firm	英 [fɜːm] 美 [fɝm] ( firmer, firmest, firms )
+  adj. 坚定的；牢固的；严格的；结实的
+  vt. 使坚定；使牢固
+  vi. 变坚实；变稳固
+  adv. 稳固地
+  n. 公司；商号
+
+non	英 [nɒn] 美 [nɑn] 
+  adv. 非，不
+  n. 投反对票的人，反对票
+  n. (Non)人名；(柬)嫩；(俄)诺恩
+
+suspect	英 [ˈsʌspekt; (for v.) səˈspekt] 美 [sʌspɛkt; (for v.) səˈspɛkt] ( suspecting, suspected, suspects )
+  n. 嫌疑犯
+  adj. 可疑的；不可信的
+  vt. 怀疑；猜想
+  vi. 怀疑；猜想
+
+release	英 [rɪ'liːs] 美 [rɪ'lis] ( releasing, released, releases )
+  vt. 释放；发射；让与；允许发表
+  n. 释放；发布；让与
+
+cyber	英 ['saɪbə] 美 ['saɪbɚ] 
+  adj. 网络的，计算机的
+
+united	英 [jʊ'naɪtɪd] 美 [jʊ'naɪtɪd] 
+  adj. 一致的，统一的；团结的，和睦的
+
+violate	英 ['vaɪəleɪt] 美 ['vaɪəlet] ( violating, violated, violates )
+  vt. 违反；侵犯，妨碍；亵渎
+
+complaint	英 [kəm'pleɪnt] 美 [kəm'plent] ( complaints )
+  n. 抱怨；诉苦；疾病；委屈
+
+guideline	英 ['gaɪdlaɪn] 美 ['ɡaɪdlaɪn] ( guidelines )
+  n. 指导方针
+  参考
+
+told	英 [təʊld] 美 [told] 
+  v. 告诉（tell的过去式）；讲述
+
+contract	英 ['kɒntrækt] 美 ['kɑntrækt] ( contracting, contracted, contracts )
+  vi. 收缩；感染；订约
+  vt. 感染；订约；使缩短
+  n. 合同；婚约
+
+korean	英/美 [kə'riən] ( Koreans )
+  adj. 韩国人的；朝鲜人的；韩国语的；朝鲜语的
+  n. 韩国人；朝鲜人；韩国语；朝鲜语
+
+ahead	英 [ə'hed] 美 [ə'hɛd] 
+  adj. 向前；在前的；领先
+  adv. 向前地；领先地；在（某人或某事物的）前面；预先；在将来，为未来
+
+fictional	英/美 ['fɪkʃənl] 
+  adj. 虚构的；小说的
+
+project	英 [prəˈdʒekt; ˈprɒdʒekt] 美 [prəˈdʒɛkt; prɑdʒɛkt] ( projecting, projected, projects )
+  vi. 设计；计划；表达；投射
+  vt. 设计；计划；发射；放映
+  n. 工程；计划；事业
+
+nuclear	英 ['njuːklɪə] 美 ['nuklɪɚ] 
+  adj. 原子能的；[细胞] 细胞核的；中心的；原子核的
+
+company	英 ['kʌmp(ə)nɪ] 美 ['kʌmpəni] ( companies )
+  n. 公司；陪伴，同伴；连队
+  vi. 交往
+  vt. 陪伴
+  
+  n. (Company)人名；(西)孔帕尼；(英)康帕尼
+
+SONY	英/美 [sɑnɪ] 
+  n. 索尼（日本电子娱乐公司）
+  n. (Sony)人名；(中非、印尼)索尼
+
+brandish	英 ['brændɪʃ] 美 ['brændɪʃ] ( brandishing, brandished, brandishes )
+  vt. 挥舞；炫耀
+  n. 挥舞
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+several	英 [ˈsevrəl] 美 [ˈsɛvrəl] 
+  adj. 几个的；各自的
+  pron. 几个；数个
+
+retaliation	英/美 [rɪ,tælɪ'eɪʃn] 
+  n. 报复；反击；回敬
+
+national	英 ['næʃ(ə)n(ə)l] 美 ['næʃnəl] ( nationals )
+  adj. 国家的；国民的；民族的；国立的
+  n. 国民
+
+assassination	英 [əˌsæsɪˈneɪʃn] 美 [əˌsæsəˈneɪʃn] 
+  n. 暗杀，行刺
+
+launch	英 [lɔːntʃ] 美 [lɔntʃ] ( launching, launched, launches )
+  vt. 发射（导弹、火箭等）；发起，发动；使…下水
+  vi. 开始；下水；起飞
+  n. 发射；发行，投放市场；下水；汽艇
+
+Korea	英 [kə'rɪə] 美 [kə'rɪr] 
+  n. 韩国；朝鲜
+
+disrupt	英 [dɪs'rʌpt] 美 [dɪs'rʌpt] ( disrupting, disrupted, disrupts )
+  vt. 破坏；使瓦解；使分裂；使中断；使陷于混乱
+  adj. 分裂的，中断的；分散的
+
+increase	英 [ɪn'kriːs] 美 ['ɪnkris] ( increasing, increased, increases )
+  n. 增加，增长；提高
+  vi. 增加，增大；繁殖
+  vt. 增加，加大
+  n. (Increase)人名；(英)英克里斯
+
+Asia	英 [ˈeɪʃn] 美 [ˈeɪʒn; eʒən] 
+  n. 亚洲
+
+	 
+
+analyze	英 ['ænə,laɪz] 美 ['ænə,laɪz] 
+  vt. 对…进行分析，分解（等于analyse）
+
+motto	英 ['mɒtəʊ] 美 ['mɑto] ( mottos )
+  n. 座右铭，格言；箴言
+  n. (Motto)人名；(英)莫托；(意、西)莫托
+
+cancel	英 ['kæns(ə)l] 美 ['kænsl] ( cancelling, cancelled, cancels )
+  vt. 取消；删去
+  vi. 取消；相互抵消
+  vi. 取消，撤销
+  n. 取消，撤销
+  n. (Cancel)人名；(法)康塞尔
+
+don	英 [dɒn]  ( donning, donned, dons )
+  n. 先生，阁下；指导教师，大学教师
+  vt. 穿上
+  n. (Don)人名；(缅)顿；(英)唐(男子教名Donald 的昵称)
+
+summit	英 ['sʌmɪt] 美 ['sʌmɪt] ( summits )
+  n. 顶点；最高级会议；最高阶层
+  adj. 最高级的；政府首脑的
+
+massive	英 ['mæsɪv] 美 ['mæsɪv] 
+  adj. 大量的；巨大的，厚重的；魁伟的
+
+google	英/美 ['ɡuɡl] 
+  谷歌；谷歌搜索引擎
+
+unleashed	英/美 [,ʌn'li:ʃ] ( unleashing, unleashed, unleashes )
+  vt. 释放，解放（unleash的过去分词形式）
+
+ethical	英 ['eθɪk(ə)l] 美 ['ɛθɪkl] 
+  adj. 伦理的；道德的；凭处方出售的
+  n. 处方药
+
+extend	英 [ɪk'stend; ek-] 美 [ɪk'stɛnd] ( extending, extended, extends )
+  vt. 延伸；扩大；推广；伸出；给予；使竭尽全力；对…估价
+  vi. 延伸；扩大；伸展；使疏开
+
+signal	英 ['sɪgn(ə)l] 美 ['sɪgnl] ( signalling, signalled, signals )
+  n. 信号；暗号；导火线
+  vt. 标志；用信号通知；表示
+  adj. 显著的；作为信号的
+  vi. 发信号
+  n. (Signal)人名；(瑞典)西格纳尔
+
+defense	英 [dɪ'fens] 美 [dɪ'fɛns] ( defenses )
+  n. 防卫，防护；防御措施；防守
+  vt. 谋划抵御
+
+task	英 [tɑːsk] 美 [tæsk] ( tasking, tasked, tasks )
+  vt. 分派任务
+  n. 工作，作业；任务
+
+limited	英 ['lɪmɪtɪd] 美 ['lɪmɪtɪd] 
+  adj. 有限的
+  n. 高级快车
+
+institution	英 [ɪnstɪ'tjuːʃ(ə)n] 美 [,ɪnstɪ'tuʃən] ( institutions )
+  n. 制度；建立；（社会或宗教等）公共机构；习俗
+
+meeting	英 ['miːtɪŋ] 美 ['mitɪŋ] ( meetings )
+  n. 会议；会见；集会；汇合点
+  v. 会面；会合（meet的ing形式）
+
+official	英 [ə'fɪʃ(ə)l] 美 [əˈfɪʃəl; oʊˈfɪʃəl] ( officials )
+  adj. 官方的；正式的；公务的
+  n. 官员；公务员；高级职员
+
+hacker	英 ['hækə] 美 ['hækɚ] ( hackers )
+  n. 电脑黑客，企图不法侵入他人电脑系统的人
+  n. (Hacker)人名；(英)哈克
+
+Francisco	英/美 [frən'sɪskoʊ] 
+  n. 弗朗西斯科（男子名，等于Francis）
+
+thousand	英 ['θaʊz(ə)nd] 美 ['θaʊznd] ( thousands )
+  n. 一千；一千个；许许多多
+  adj. 成千的；无数的
+
+friday	美 [ˈfraɪ.deɪ] ( Fridays )
+  n. 星期五；忠仆
+
+advises	英/美 [əd'vaiz] ( advising, advised, advises )
+  建议
+  通知
+
+aerial	英 ['eərɪəl] 美 ['ɛrɪəl] ( aerials )
+  adj. 空中的，航空的；空气的；空想的
+  n. [电讯] 天线
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+intelligence	英 [ɪn'telɪdʒ(ə)ns] 美 [ɪn'tɛlɪdʒəns] 
+  n. 智力；情报工作；情报机关；理解力；才智，智慧；天分
+
+depict	英 [dɪ'pɪkt] 美 [dɪ'pɪkt] ( depicting, depicted, depicts )
+  vt. 描述；描画
+
+England	英 [ˈɪŋɡlənd] 美 ['iŋɡlənd] 
+  n. 英格兰；英国
+
+sanction	英 ['sæŋ(k)ʃ(ə)n] 美 ['sæŋkʃən] ( sanctioning, sanctioned, sanctions )
+  n. 制裁，处罚；认可；支持
+  vt. 制裁，处罚；批准；鼓励
+
+america	英/美 [əˈmɛrɪkə] 
+  n. 美国；美洲（包括北美和南美洲）
+
+pose	英 [pəʊz] 美 [poz] ( posing, posed, poses )
+  vt. 造成，形成；摆姿势；装模作样；提出…讨论
+  vi. 摆姿势；佯装；矫揉造作
+  n. 姿势，姿态；装模作样
+

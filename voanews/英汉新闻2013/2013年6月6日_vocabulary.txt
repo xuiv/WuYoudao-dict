@@ -1,0 +1,302 @@
+unification	英 [,juːnɪfɪ'keɪʃ(ə)n] 美 [,jʊnəfə'keʃən] 
+  n. 统一；一致；联合
+
+proper	英 ['prɒpə] 美 ['prɑpɚ] 
+  adj. 适当的；本身的；特有的；正派的
+  adv. 完全地
+  n. (Proper)人名；(英、德)普罗珀
+
+neighbor	英 ['neɪbə] 美 ['nebɚ] ( neighbors )
+  n. 邻居
+  adj. 邻近的
+  vi. 友好；毗邻而居
+  vt. 邻接
+  n. (Neighbor)人名；(英)内伯
+
+company	英 ['kʌmp(ə)nɪ] 美 ['kʌmpəni] ( companies )
+  n. 公司；陪伴，同伴；连队
+  vi. 交往
+  vt. 陪伴
+  
+  n. (Company)人名；(西)孔帕尼；(英)康帕尼
+
+Thursday	英 ['θɜːzdeɪ; -dɪ] 美 [ˈθɝzde; ˈθɝzdɪ] ( Thursdays )
+  n. 星期四
+
+found	英 [faʊnd] 美 [faʊnd] ( founding, founded, founds )
+  vt. 创立，建立；创办
+  v. 找到（find的过去分词）
+
+least	英 [liːst] 美 [list] 
+  adj. 最小的；最少的（little的最高级）
+  adv. 最小；最少
+  n. 最小；最少
+
+accepts	英/美 [ək'sept] ( accepting, accepted, accepts )
+  n. 合格品；良浆
+  v. 接受；承认（accept的三单形式）；同意
+
+relation	英 [rɪ'leɪʃ(ə)n] 美 [rɪ'leʃən] ( relations )
+  n. 关系；叙述；故事；亲属关系
+
+previously	美 ['priviəsli] 
+  adv. 以前；预先；仓促地
+
+commit	英 [kə'mɪt] 美 [kə'mɪt] ( committing, committed, commits )
+  vt. 犯罪，做错事；把...交托给；指派…作战；使…承担义务
+
+sidewalk	英 ['saɪdwɔːk] 美 ['saɪdwɔk] ( sidewalks )
+  n. 人行道
+
+committee	英 [kə'mɪtɪ] 美 [kə'mɪti] ( committees )
+  n. 委员会
+
+south	英 [saʊθ] 美 [saʊθ] (also South)
+  n. 南方，南边；南部
+  adv. 在南方，向南方
+  adj. 南的，南方的
+  n. (South)人名；(老)苏；(英)索思
+
+store	英 [stɔː] 美 [stɔr] ( storing, stored, stores )
+  n. 商店；储备，贮藏；仓库
+  vt. 贮藏，储存
+  n. (Store)人名；(德)施托雷
+
+reluctant	英 [rɪ'lʌkt(ə)nt] 美 [rɪ'lʌktənt] 
+  adj. 不情愿的；勉强的；顽抗的
+
+survivor	英 [sə'vaɪvə] 美 [sɚ'vaɪvɚ] ( survivors )
+  n. 幸存者；生还者；残存物
+
+discussion	英 [dɪ'skʌʃ(ə)n] 美 [dɪ'skʌʃən] ( discussions )
+  n. 讨论，议论
+
+downtown	英 ['daʊntaʊn] 美 ['daʊn'taʊn] 
+  adv. 往闹市区；在市区
+  adj. 市中心的
+  n. 市中心区；三分线以外
+
+project	英 [prəˈdʒekt; ˈprɒdʒekt] 美 [prəˈdʒɛkt; prɑdʒɛkt] ( projecting, projected, projects )
+  vi. 设计；计划；表达；投射
+  vt. 设计；计划；发射；放映
+  n. 工程；计划；事业
+
+reunification	英/美 [rijʊnɪfɪ'keʃən] 
+  n. 重新统一；重新团结
+
+ministry	英 ['mɪnɪstrɪ] 美 ['mɪnɪstri] ( ministries )
+  n. （政府的）部门
+
+Pyongyang	英/美 ['pjʌŋjɑ:ŋ] 
+  n. 平壤（朝鲜民主主义人民共和国首都）
+
+unless	英 [ʌn'les] 美 [ən'lɛs] 
+  conj. 除非，如果不
+  prep. 除…之外
+
+tension	英 ['tenʃ(ə)n] 美 ['tɛnʃən] ( tensions )
+  n. 张力，拉力；紧张，不安；电压
+  vt. 使紧张；使拉紧
+
+commercial	英 [kə'mɜːʃ(ə)l] 美 [kə'mɝʃəl] ( commercials )
+  adj. 商业的；营利的；靠广告收入的
+  n. 商业广告
+
+humanitarian	英 [hjʊ,mænɪ'teərɪən] 美 [hju,mænɪ'tɛrɪən] 
+  adj. 人道主义的；博爱的；基督凡人论的
+  n. 人道主义者；慈善家；博爱主义者；基督凡人论者
+
+demolition	英 [demə'lɪʃn] 美 [,dɛmə'lɪʃən; ,dimə'lɪʃən] ( demolitions )
+  n. 拆除（等于demolishment）；破坏；毁坏
+
+agree	英 [ə'griː] 美 [ə'ɡri] ( agreeing, agreed, agrees )
+  vt. 同意，赞成；承认；约定，商定
+  vi. vi. 同意，意见一致；约定，商定
+
+kill	英 [kɪl] 美 [kɪl] ( killing, killed, kills )
+  vt. 杀死；扼杀；使终止；抵消
+  vi. 杀死
+  n. 杀戮；屠杀
+  adj. 致命的；致死的
+  n. (Kill)人名；(德)基尔
+
+official	英 [ə'fɪʃ(ə)l] 美 [əˈfɪʃəl; oʊˈfɪʃəl] ( officials )
+  adj. 官方的；正式的；公务的
+  n. 官员；公务员；高级职员
+
+Korea	英 [kə'rɪə] 美 [kə'rɪr] 
+  n. 韩国；朝鲜
+
+permit	英 [pə'mɪt] 美 [pɚ'mɪt] ( permitting, permitted, permits )
+  vi. 许可；允许
+  vt. 许可；允许
+  n. 许可证，执照
+
+Philadelphia	英/美 [,filə'delfjə; -fiə] 
+  n. 费城（美国宾夕法尼亚州东南部港市）
+
+accident	英 ['æksɪdənt] 美 ['æksədənt] ( accidents )
+  n. 事故；意外；[法] 意外事件；机遇
+
+nuclear	英 ['njuːklɪə] 美 ['nuklɪɚ] 
+  adj. 原子能的；[细胞] 细胞核的；中心的；原子核的
+
+announce	英 [ə'naʊns] 美 [ə'naʊns] ( announcing, announced, announces )
+  vt. 宣布；述说；预示；播报
+  vi. 宣布参加竞选；当播音员
+
+weapon	英 ['wep(ə)n] 美 ['wɛpən] ( weapons )
+  n. 武器，兵器
+
+suggest	英 [sə'dʒest] 美 [sə'dʒɛst] ( suggesting, suggested, suggests )
+  vt. 提议，建议；启发；使人想起；显示；暗示
+
+thrift	英 [θrɪft] 美 [θrɪft] ( thrifts )
+  n. 节俭；节约；[植] 海石竹
+  n. (Thrift)人名；(英)思里夫特
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+program	英 ['prəʊɡræm] 美 ['proɡræm] ( programming, programmed, programs )
+  n. 程序；计划；大纲
+  vt. 用程序指令；为…制订计划；为…安排节目
+  vi. 编程序；安排节目；设计电脑程式
+
+Pennsylvania	英/美 [,pɛnsəl'veɪnjə] 
+  n. 宾夕法尼亚州（美国州名）
+
+Wednesday	英 [ˈwenzdɪ] 美 [ˈwɛnzdɪ] ( Wednesdays )
+  n. 星期三
+
+violation	英 [vaɪə'leɪʃn] 美 [,vaɪə'leʃən] 
+  n. 违反；妨碍，侵害；违背；强奸
+
+detail	英 ['diːteɪl] 美 [dɪˈtel] ( detailing, detailed, details )
+  n. 细节，详情
+  vt. 详述；选派
+  vi. 画详图
+
+number	英 ['nʌmbə] 美 ['nʌmbɚ] ( numbering, numbered, numbers )
+  n. 数；（杂志等的）期；号码；数字；算术
+  vi. 计入；总数达到
+  vt. 编号；计入；数…的数目；使为数有限
+
+rescue	英 ['reskjuː] 美 ['rɛskju] ( rescuing, rescued, rescues )
+  vt. 营救；援救
+  n. 营救；援救；解救
+
+stall	英 [stɔːl] 美 [stɔl] ( stalling, stalled, stalls )
+  n. 货摊；畜栏；托辞
+  vi. 停止，停转；拖延
+  vt. 拖延；使停转；使陷于泥中
+  n. (Stall)人名；(瑞典)斯塔尔
+
+korean	英/美 [kə'riən] ( Koreans )
+  adj. 韩国人的；朝鲜人的；韩国语的；朝鲜语的
+  n. 韩国人；朝鲜人；韩国语；朝鲜语
+
+trust	英 [trʌst] 美 [trʌst] ( trusting, trusted, trusts )
+  n. 信任，信赖；责任；托拉斯
+  vt. 信任，信赖；盼望；赊卖给
+  vi. 信任，信赖；依靠
+  n. (Trust)人名；(英)特拉斯特
+
+accepted	英 [ək'septɪd] 美 [ək'sɛptɪd] 
+  adj. 公认的；录取的；可接受的；已承兑的
+  v. 接受（accept的过去式及过去分词）
+
+continue	英 [kən'tɪnjuː] 美 [kən'tɪnju] ( continuing, continued, continues )
+  vi. 继续，延续；仍旧，连续
+  vt. 继续说…；使…继续；使…延长
+
+rubble	英 ['rʌb(ə)l] 美 ['rʌbl] 
+  n. 碎石，碎砖；粗石堆
+
+abandon	英 [ə'bænd(ə)n] 美 [ə'bændən] ( abandoning, abandoned, abandons )
+  n. 放任；狂热
+  vt. 遗弃；放弃
+
+possible	英 ['pɒsɪb(ə)l] 美 ['pɑsəbl] ( possibles )
+  adj. 可能的；合理的；合适的
+  n. 可能性；合适的人；可能的事物
+
+exist	英 [ɪg'zɪst; eg-] 美 [ɪɡ'zɪst] ( existing, existed, exists )
+  vi. 存在；生存；生活；继续存在
+
+peaceful	英 ['piːsfʊl; -f(ə)l] 美 ['pisfəl] 
+  adj. 和平的，爱好和平的；平静的
+
+wide	英 [waɪd] 美 [waɪd] ( wider, widest )
+  adj. 广泛的；宽的，广阔的；张大的；远离目标的
+  adv. 广泛地；广阔地；充分地
+  n. 大千世界
+  n. (Wide)人名；(瑞典、芬)维德
+
+deteriorate	英 [dɪ'tɪərɪəreɪt] 美 [dɪ'tɪrɪəret] ( deteriorating, deteriorated, deteriorates )
+  vi. 恶化，变坏
+  vt. 恶化
+
+level	英 ['lev(ə)l] 美 ['lɛvl] ( levelling, leveled, levels )
+  n. 水平；标准；水平面
+  adj. 水平的；平坦的；同高的
+  vi. 瞄准；拉平；变得平坦
+  vt. 使同等；对准；弄平
+  n. (Level)人名；(法)勒韦尔
+
+range	英 [reɪn(d)ʒ] 美 [rendʒ] ( ranging, ranged, ranges )
+  n. 范围；幅度；排；山脉
+  vi. （在...内）变动；平行，列为一行；延伸；漫游；射程达到
+  vt. 漫游；放牧；使并列；归类于；来回走动
+
+work	英 [wɜːk] 美 [wɝk] ( working, worked, works )
+  n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品
+  vt. 使工作；操作；经营；使缓慢前进
+  vi. 工作；运作；起作用
+  n. （英、埃塞）沃克（人名）
+
+Seoul	英 [səʊl] 美 [sol] 
+  n. 汉城，首尔（韩国首都）
+
+unexpectedly	英/美 ['ʌnik'spektidli] 
+  adv. 出乎意料地，意外地
+
+offer	英 ['ɒfə] 美 ['ɔfɚ] ( offering, offered, offers )
+  vt. 提供；出价；试图
+  n. 提议；出价；意图；录取通知书
+  vi. 提议；出现；献祭；求婚
+
+raise	英 [reɪz] 美 [rez] ( raising, raised, raises )
+  vt. 提高；筹集；养育；升起
+  vi. 上升
+  n. 高地；上升；加薪
+  n. (Raise)人名；(英)雷兹
+
+collapse	英 [kə'læps] 美 [kə'læps] ( collapsing, collapsed, collapses )
+  vi. 倒塌；瓦解；暴跌
+  vt. 使倒塌，使崩溃；使萎陷；折叠
+  n. 倒塌；失败；衰竭
+
+agenda	英 [ə'dʒendə] 美 [ə'dʒɛndə] ( agendas )
+  n. 议程；日常工作事项；日程表
+
+authority	英 [ɔː'θɒrɪtɪ] 美 [ə'θɔrəti] ( authorities )
+  n. 权威；权力；当局
+
+peninsula	英 [pɪ'nɪnsjʊlə] 美 [pə'nɪnsələ] ( peninsulas )
+  n. 半岛
+
+north	英 [nɔːθ] 美 [nɔrθ] (also North)
+  n. 北，北方
+  adj. 北方的；朝北的
+  adv. 在北方，向北方
+
+joint	英 [dʒɒɪnt] 美 [dʒɔɪnt] ( joints )
+  n. 关节；接缝；接合处，接合点；（牛，羊等的腿）大块肉
+  adj. 共同的；连接的；联合的，合办的
+  vt. 连接，贴合；接合；使有接头
+  vi. 贴合；生节
+  n. (Joint)人名；(法)茹安
+

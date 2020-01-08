@@ -1,0 +1,49 @@
+中国被指黑客攻击柬埔寨政府机构
+
+一家美国网络安全公司星期二称，网络黑客被发现攻击柬埔寨主要政府机构的电脑网络。据信这是中国政府协调的攻击行动。柬埔寨本月晚些时候即将举行选举。
+
+火眼公司的调查得出结论，柬埔寨国家选举委员会、议会、外交部、内务部以及经济和财政部的电脑网络都遭到攻击。受到攻击的还有外国外交官、媒体和反对派人士。
+
+这家公司星期二公布的报告说：“我们认为，这一行动为中国政府提供了关于柬埔寨选举和政府运转情况的大量信息。而且，这些人显然能够同时进行几个针对各种类型机构的大型攻击行动。”
+
+火眼公司发现，他们自2013年以来一直在追踪的一个恶意软件在2017年4月被植入柬埔寨政治目标的电脑中，其中包括柬埔寨反对党许多成员的电脑。
+
+这一发现使他们进一步确信，这个软件是北京植入的，以前这个软件曾经被用于同中国敏感的南中国海主权要求有关的一些目标。
+
+China Accused of Hacking Cambodian Government Institutions
+
+Cyber attackers have been caught hacking key Cambodian government institutions in what is strongly believed to be a coordinated Chinese government attack ahead of elections set for this month, a U.S. cybersecurity firm has alleged.
+
+Cambodia's National Election Committee, Senate, Ministry of Foreign Affairs, Ministry of Interior, and Ministry of Economy and Finance have all been breached, along with computer systems of foreign diplomats, media institutions and opposition figures, an investigation by FireEye Inc. concluded.
+
+"We expect this activity to provide the Chinese government with widespread visibility into Cambodian elections and government operations," the firm said in a report issued Tuesday. "Additionally, this group is clearly able to run several large-scale intrusions concurrently across a wide range of victim types."
+
+FireEye discovered that a suite of malicious software, or malware, that they had tracked since 2013 had been deployed against Cambodian political targets since at least April 2017, including numerous members of the CNRP.
+
+It further strengthened FireEye's long-held belief that the software, which it said has previously been used against maritime targets related to China's sensitive claims over the South China Sea, is being deployed by Beijing.
+
+前苹果工程师被控盗窃自动驾驶相关技术
+
+美国一家联邦法院起诉一名前苹果公司工程师偷窃与自动驾驶相关的商业机密，并企图逃往中国。
+
+加州圣荷西市的执法人员星期六在张晓浪即将登机前往中国时将他逮捕。
+
+张晓浪据说在他孩子出生后今年4月到中国请陪产假。回到美国后，他对上司说他将辞职到位于广州的小鹏汽车公司工作。这家公司也计划制造自动驾驶汽车。
+
+但是在张晓浪本应在中国休产假期间，监控摄像头却拍到他进入苹果公司自动驾驶汽车实验室将设计蓝图和其他资料下载到自己的个人电脑上。
+
+美国联邦调查局和张晓浪的律师都还没有发表评论。
+
+Former Apple Engineer Charged With Stealing Self-driving Car Technology
+
+A federal court has charged a former Apple engineer with stealing trade secrets related to a self-driving car and attempting to flee to China.
+
+Agents in San Jose, California, arrested Xiaolang Zhang on Saturday, moments before he was to board his flight.
+
+Zhang is said to have taken paternity leave in April, traveling to China just after the birth of a child.
+
+When he returned, he informed his supervisors he was leaving Apple to join Xiaopeng Motors, a Chinese company in Guangzhao, which also plans to build self-driving cars.
+
+But security cameras caught Zhang allegedly entering Apple's self-driving car lab and downloading blueprints and other information on a personal computer at the time he was supposed to be in China on paternity leave.
+
+Neither the FBI nor Zhang's lawyers have commented.

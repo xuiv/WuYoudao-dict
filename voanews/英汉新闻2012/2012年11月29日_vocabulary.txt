@@ -1,0 +1,508 @@
+	 
+
+service	英 ['sɜːvɪs] 美 ['sɝvɪs] ( services )
+  n. 服务，服侍；服役；仪式
+  adj. 服务性的；耐用的；服现役的
+  vt. 维修，检修；保养
+  n. (Service)人名；(英)瑟维斯
+
+least	英 [liːst] 美 [list] 
+  adj. 最小的；最少的（little的最高级）
+  adv. 最小；最少
+  n. 最小；最少
+
+extend	英 [ɪk'stend; ek-] 美 [ɪk'stɛnd] ( extending, extended, extends )
+  vt. 延伸；扩大；推广；伸出；给予；使竭尽全力；对…估价
+  vi. 延伸；扩大；伸展；使疏开
+
+launch	英 [lɔːntʃ] 美 [lɔntʃ] ( launching, launched, launches )
+  vt. 发射（导弹、火箭等）；发起，发动；使…下水
+  vi. 开始；下水；起飞
+  n. 发射；发行，投放市场；下水；汽艇
+
+speaker	英 ['spiːkə] 美 ['spikɚ] ( speakers )
+  n. 演讲者；扬声器；说话者；说某种语言的人
+  n. (Speaker)人名；(英)斯皮克
+
+deadline	英 ['dedlaɪn] 美 [ˈdedlaɪn] ( deadlines )
+  n. 截止期限，最后期限
+
+vote	英 [vəʊt] 美 [vot; voʊt] ( voting, voted, votes )
+  n. 投票，选举；选票；得票数
+  vt. 提议，使投票；投票决定；公认
+  vi. 选举，投票
+  n. (Vote)人名；(英、法)沃特
+
+controversial	英 [kɒntrə'vɜːʃ(ə)l] 美 [,kɑntrə'vɝʃl] 
+  adj. 有争议的；有争论的
+
+critic	英 ['krɪtɪk] 美 ['krɪtɪk] ( critics )
+  n. 批评家，评论家；爱挑剔的人
+
+health	英 [helθ] 美 [hɛlθ] 
+  n. 健康；卫生；保健；兴旺
+
+several	英 [ˈsevrəl] 美 [ˈsɛvrəl] 
+  adj. 几个的；各自的
+  pron. 几个；数个
+
+tear	英 [(for v.) ˈtɛː; (for n.) ˈtɪə] 美 [(for v.) ˈter; (for n.) ˈtir] ( tears )
+  n. 眼泪, （撕破的）洞或裂缝, 撕扯
+  vt. 撕掉, 扯下, 扰乱
+  vi. 流泪, 撕破
+  n. (Tear)人名；(英)蒂尔
+
+cannon	英 ['kænən] 美 ['kænən] ( cannons )
+  n. 大炮；加农炮；榴弹炮；机关炮
+  vi. 炮轰；开炮
+  vt. 炮轰
+  n. (Cannon)人名；(英、葡)坎农
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+overnight	英 [əʊvə'naɪt] 美 ['ovənaɪt] 
+  adv. 通宵；突然；昨晚
+  adj. 晚上的；通宵的；前夜的
+  n. 头天晚上；一夜的逗留
+  vt. 连夜快递
+  vi. 过一夜
+
+include	英 [ɪn'kluːd] 美 [ɪn'klud] ( including, included, includes )
+  vt. 包含，包括
+
+order	英 ['ɔːdə] 美 ['ɔrdɚ] ( ordering, ordered, orders )
+  n. 命令；顺序；规则；[贸易] 定单
+  vt. 命令；整理；定购
+  vi. 命令；定货
+
+demonstrate	英 ['demənstreɪt] 美 ['dɛmən'stret] ( demonstrating, demonstrated, demonstrates )
+  vt. 证明；展示；论证
+  vi. 示威
+
+crackdown	英 ['krækdaʊn] 美 ['krækdaʊn] ( crackdowns )
+  n. 镇压；（美）制裁；强制取缔；惩罚
+
+authority	英 [ɔː'θɒrɪtɪ] 美 [ə'θɔrəti] ( authorities )
+  n. 权威；权力；当局
+
+vow	英 [vaʊ] 美 [vaʊ] ( vowing, vowed, vows )
+  n. 发誓；誓言；许愿
+  vt. 发誓；郑重宣告
+  vi. 发誓；郑重宣告
+
+raid	英 [reɪd] 美 [red] ( raiding, raided, raids )
+  n. 袭击；突袭；搜捕；抢劫
+  vi. 突袭
+  vt. 袭击，突袭
+  n. (Raid)人名；(阿拉伯)拉伊德
+
+Wednesday	英 [ˈwenzdɪ] 美 [ˈwɛnzdɪ] ( Wednesdays )
+  n. 星期三
+
+Islamist	英/美 [iz'lɑ:mist] ( Islamists )
+  n. 伊斯兰教主义者；回教教徒
+
+worsen	英 ['wɜːs(ə)n] 美 ['wɝsn] ( worsening, worsened, worsens )
+  vi. 恶化；变得更坏；更坏
+  vt. 使恶化；使变得更坏
+
+act	英 [ækt] 美 [ækt] ( acting, acted, acts )
+  美国大学入学考试，全称是American College Testing
+
+draft	英 [drɑːft] 美 [dræft] ( drafting, drafted, drafts )
+  n. 汇票；草稿；选派；（尤指房间、烟囱、炉子等供暖系统中的）（小股）气流
+  vt. 起草；制定；征募
+  vi. 拟稿；绘样；作草图
+  adj. 初步画出或（写出）的；（设计、草图、提纲或版本）正在起草中的，草拟的；以草稿形式的；草图的
+
+project	英 [prəˈdʒekt; ˈprɒdʒekt] 美 [prəˈdʒɛkt; prɑdʒɛkt] ( projecting, projected, projects )
+  vi. 设计；计划；表达；投射
+  vt. 设计；计划；发射；放映
+  n. 工程；计划；事业
+
+expansion	英 [ɪk'spænʃ(ə)n; ek-] 美 [ɪk'spænʃən] ( expansions )
+  n. 膨胀；阐述；扩张物
+
+	 
+
+clash	英 [klæʃ] 美 [klæʃ] ( clashing, clashed, clashes )
+  n. 冲突，不协调；碰撞声，铿锵声
+  vi. 冲突，抵触；砰地相碰撞，发出铿锵声
+  vt. 使碰撞作声
+
+February	英 [ˈfebrʊərɪ] 美 [ˈfebrʊerɪ;'fɛbrʊɛrɪ] ( Februaries )
+  n. 二月
+
+	 
+
+stone	英 [stəʊn] 美 [ston] ( stoning, stoned, stones )
+  n. 石头；结石；[宝] 宝石
+  adj. 石的，石制的
+  vt. 向扔石块；用石头铺
+  n. (Stone)人名；(捷)斯托内；(瑞典)斯托内；(英)斯通
+
+Aung	 
+  n. (Aung)人名；(缅)昂
+
+Christian	英 [ˈkrɪstʃən] 美 ['krɪstʃən] ( Christians )
+  n. 基督徒，信徒
+  adj. 基督教的；信基督教的
+
+social	英 ['səʊʃ(ə)l] 美 ['soʃl] 
+  adj. 社会的，社交的；群居的
+  n. 联谊会；联欢会
+
+decision	英 [dɪ'sɪʒ(ə)n] 美 [dɪ'sɪʒn] ( decisions )
+  n. 决定，决心；决议
+
+court	英 [kɔːt] 美 [kɔrt] ( courts )
+  n. 法院；球场；朝廷；奉承
+  vt. 招致（失败、危险等）；向…献殷勤；设法获得
+  vi. 求爱
+  n. (Court)人名；(英)考特；(法)库尔
+
+burmese	英/美 [,bə:'mi:z] ( Burmese )
+  adj. 缅甸的；缅甸人的；缅甸语的
+  n. 缅甸人；缅甸语
+
+PRE	英/美 [pri] 
+  abbr. 炼油工程师（Petroleum Refining Engineer）
+
+turmoil	英 ['tɜːmɒɪl] 美 ['tɝmɔɪl] ( turmoils )
+  n. 混乱，骚动
+
+assembly	英 [ə'semblɪ] 美 [ə'sɛmbli] ( assemblies )
+  n. 装配；集会，集合
+
+Egypt	英 [ˈiːdʒɪpt] 美 ['idʒɪpt] 
+  n. 埃及（非洲国家）
+
+nation	英 ['neɪʃ(ə)n] 美 ['neʃən] ( nations )
+  n. 国家；民族；国民
+  n. (Nation)人名；(英)内申
+
+defy	英 [dɪ'faɪ] 美 ['difaɪ] ( defying, defied, defies )
+  vt. 藐视；公然反抗；挑衅；使落空
+  n. 挑战；对抗
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+gas	英 [gæs] 美 [ɡæs] ( gassing, gassed, gasses, gases )
+  n. 气体；[矿业] 瓦斯；汽油；毒气
+  vt. 加油；毒（死）
+  vi. 加油；放出气体；空谈
+  n. (Gas)人名；(法、德、西)加斯
+
+grievance	英 ['griːv(ə)ns] 美 ['grivəns] ( grievances )
+  n. 不满，不平；委屈；冤情
+
+	 
+
+SAN	英/美 [sæn] 
+  abbr. 存储区域网（Storage Area Networking）
+  n. (San)人名；(泰)讪；(俄、罗、刚)萨恩；(土、柬)桑；(缅)山
+
+extra	英 ['ekstrə] 美 ['ɛkstrə] ( extras )
+  adv. 特别地，非常；另外
+  n. 临时演员；号外；额外的事物；上等产品
+  adj. 额外的，另外收费的；特大的
+
+could	英 [kəd; kʊd] 美 [kəd; kʊd] 
+  aux. 能够
+  v. 能（can的过去式）
+
+reporter	英 [rɪ'pɔːtə] 美 [rɪ'pɔrtɚ] ( reporters )
+  n. 记者
+
+local	英 ['ləʊk(ə)l] 美 [ˈloʊkl] ( locals )
+  n. [计] 局部；当地居民；本地新闻
+  adj. 当地的；局部的；地方性的；乡土的
+
+immunity	英 [ɪ'mjuːnɪtɪ] 美 [ɪ'mjʊnəti] 
+  n. 免疫力；豁免权；免除
+
+accuse	英 [ə'kjuːz] 美 [ə'kjuz] ( accusing, accused, accuses )
+  vt. 控告，指控；谴责；归咎于
+  vi. 指责；控告
+
+force	英 [fɔːs] 美 [fɔrs] ( forcing, forced, forces )
+  n. 力量；武力；军队；魄力
+  vt. 促使，推动；强迫；强加
+  n. (Force)人名；(意)福尔切；(英、法)福斯
+
+Kyi	 
+  n. (Kyi)人名；(缅)枝(女名)，基(男名)
+
+nearby	英 ['nɪəbaɪ] 美 [,nɪr'baɪ] 
+  adj. 附近的，邻近的
+  adv. 在附近
+  prep. 在…附近
+
+remote	英 [rɪ'məʊt] 美 [rɪ'mot] ( remoter, remotes, remotest )
+  adj. 遥远的；偏僻的；疏远的
+  n. 远程
+
+strike	英 [straɪk] 美 [straɪk] ( strikes )
+  vi. 打，打击；罢工；敲，敲击；抓；打动；穿透
+  vt. 打，击；罢工；撞击，冲击；侵袭；打动；到达
+  n. 罢工；打击；殴打
+  n. (Strike)人名；(英)斯特赖克
+
+judicial	英 [dʒuː'dɪʃ(ə)l] 美 [dʒʊ'dɪʃəl] 
+  adj. 公正的，明断的；法庭的；审判上的
+
+refuge	英 ['refjuːdʒ] 美 ['rɛfjʊdʒ] ( refuges )
+  n. 避难；避难所；庇护
+  vt. 给予…庇护；接纳…避难
+  vi. 避难；逃避
+
+security	英 [sɪ'kjʊərətɪ] 美 [sə'kjʊrəti] ( securities )
+  n. 安全；保证；证券；抵押品
+  adj. 安全的；保安的；保密的
+
+	 
+
+since	英 [sɪns] 美 [sɪns] 
+  conj. 因为；由于；既然；自…以来；自…以后
+  prep. 自…以来；自…以后
+  adv. 后来
+
+contemplate	英 ['kɒntempleɪt; -təm-] 美 ['kɑntəmplet] ( contemplating, contemplated, contemplates )
+  vt. 沉思；注视；思忖；预期
+  vi. 冥思苦想；深思熟虑
+
+boycott	英 ['bɒɪkɒt] 美 ['bɔɪkɑt] ( boycotting, boycotted, boycotts )
+  vt. 联合抵制；拒绝参加
+  n. 联合抵制
+  n. (Boycott)人名；(英)博伊科特
+
+constitution	英 [kɒnstɪ'tjuːʃ(ə)n] 美 ['kɑnstə'tʊʃən] ( constitutions )
+  n. 宪法；体制；章程；构造；建立，组成；体格
+
+December	英 [dɪ'sembə] 美 [dɪ'sɛmbɚ] ( Decembers )
+  n. 十二月
+
+review	英 [rɪ'vjuː] 美 [rɪ'vju] ( reviewing, reviewed, reviews )
+  n. 回顾；复习；评论；检讨；检阅
+  vt. 回顾；检查；复审
+  vi. 回顾；复习功课；写评论
+
+protest	英 [prəˈtest;ˈprəʊtest] 美 [prəˈtɛst;protɛst] ( protesting, protested, protests )
+  vi. 抗议；断言
+  vt. 抗议；断言
+  n. 抗议
+  adj. 表示抗议的；抗议性的
+
+judiciary	英 [dʒʊ'dɪʃ(ə)rɪ] 美 [dʒu'dɪʃɪɛri] 
+  n. 司法部；法官；司法制度
+  adj. 司法的；法官的；法院的
+
+locate	英 [lə(ʊ)'keɪt] 美 [ˈloˌket; loˈket] ( locating, located, locates )
+  vt. 位于；查找…的地点
+  vi. 定位；定居
+
+Mr	英/美 [ˈmɪs.tər] 
+  abbr. 先生（Mister）
+
+constitutional	英 [kɒnstɪ'tjuːʃ(ə)n(ə)l] 美 [,kɑnstə'tuʃənl] 
+  adj. 宪法的；本质的；体质上的；保健的
+  n. 保健散步；保健运动
+
+truckloads	英/美 ['trʌkləud] (also truck load)
+  n. 一货车的容量；货车（truckload的复数形式）
+
+grant	英 [grɑːnt] 美 [ɡrænt] ( granting, granted, grants )
+  vt. 授予；允许；承认
+  vi. 同意
+  n. 拨款；[法] 授予物
+  n. (Grant)人名；(瑞典、葡、西、俄、罗、英、塞、德、意)格兰特；(法)格朗
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+Mohamed	 
+  n. (Mohamed)人名；(阿拉伯)穆罕默德；
+
+china	英 [ˈtʃaɪnə] 美 [ˈtʃaɪ.nə] 
+  n. 瓷器
+  adj. 瓷制的
+  n. China，中国
+  adj. China，中国的
+
+gripped	英/美 ['ɡrip] ( gripping, gripped, grips )
+  vt. 紧咬，夹住；紧握（grip过去时形式）
+
+vow	英 [vaʊ] 美 [vaʊ] ( vowing, vowed, vows )
+  n. 发誓；誓言；许愿
+  vt. 发誓；郑重宣告
+  vi. 发誓；郑重宣告
+
+	 
+
+monk	英 [mʌŋk] 美 [mʌŋk] ( monks )
+  n. 僧侣，修道士；和尚
+  n. (Monk)人名；(柬)蒙；(德、法、英)蒙克
+
+activist	英 ['æktɪvɪst] 美 ['æktɪvɪst] ( activists )
+  n. 积极分子；激进主义分子
+
+injured	英 ['ɪndʒəd] 美 ['ɪndʒɚd] 
+  adj. 受伤的；受损害的
+
+unlawfully	美 [ʌn'lɔfəli] 
+  adv. 不正当地；不合法地
+
+copper	英 ['kɒpə] 美 ['kɑpɚ] ( coppers )
+  n. 铜；铜币；警察
+  adj. 铜制的
+  vt. 镀铜
+  n. (Copper)人名；(英)科珀
+
+Burma	英/美 ['bə:mə] 
+  n. 缅甸（东南亚国家）
+
+camped	英/美 [kæmpt] 
+  adj. 露宿的
+  v. 露营（camp的过去式和过去分词）
+
+northwest	英/美 ['nɔrθ'wɛst] 
+  adj. 西北的；向西北的；来自西北的
+  n. 西北
+  adv. 在西北；向西北；来自西北
+
+decree	英 [dɪ'kriː] 美 [dɪ'kri] ( decreeing, decreed, decrees )
+  n. 法令；判决
+  vt. 命令；颁布；注定；判决
+  vi. 注定；发布命令
+
+opposition	英 [ɒpə'zɪʃ(ə)n] 美 ['ɑpə'zɪʃən] ( oppositions )
+  n. 反对；反对派；在野党；敌对
+
+challenge	英 ['tʃælɪn(d)ʒ] 美 ['tʃælɪndʒ] ( challenging, challenged, challenges )
+  n. 挑战；怀疑
+  vt. 向…挑战；对…质疑
+
+villager	英 ['vɪlɪdʒə] 美 ['vɪlɪdʒɚ] ( villagers )
+  n. 乡村居民，村民
+
+liberal	英 ['lɪb(ə)r(ə)l] 美 ['lɪbərəl] ( liberals )
+  adj. 自由主义的；慷慨的；不拘泥的；宽大的
+  n. 自由主义者
+  n. (Liberal)人名；(葡)利贝拉尔
+
+canister	英 ['kænɪstə] 美 ['kænɪstɚ] ( canisters )
+  n. 筒；（放咖啡，茶叶，烟等的）小罐；防毒面具的滤毒罐
+
+bar	英 [bɑː] 美 [bɑr] ( barring, barred, bars )
+  n. 条，棒；酒吧；障碍；法庭
+  vt. 禁止；阻拦
+  prep. 除……外
+  n. (Bar)人名；(阿拉伯、德、法、俄、罗、捷、波、葡、以)巴尔
+
+dictator	英 [dɪk'teɪtə] 美 ['dɪktetɚ] ( dictators )
+  n. 独裁者；命令者
+
+police	英 [pə'liːs] 美 [pə'lis] ( policing, policed, polices )
+  n. 警察，警方；治安
+  vt. 监督；管辖；维持治安；为…配备警察
+  adj. 警察的；有关警察的
+
+divisive	英/美 [dɪ'vaɪsɪv] 
+  adj. 分裂的；区分的；造成不和的
+
+work	英 [wɜːk] 美 [wɝk] ( working, worked, works )
+  n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品
+  vt. 使工作；操作；经营；使缓慢前进
+  vi. 工作；运作；起作用
+  n. （英、埃塞）沃克（人名）
+
+dismantle	英 [dɪs'mænt(ə)l] 美 [dɪs'mæntl] ( dismantling, dismantled, dismantles )
+  vt. 拆除；取消；解散；除掉…的覆盖物
+  vi. 可拆卸
+
+hundred	英 ['hʌndrəd] 美 ['hʌndrəd] ( hundreds )
+  n. 一百；许多
+  adj. 一百的；许多的
+  num. 百；百个
+
+against	英 [ə'genst; ə'geɪnst] 美 [əˈɡɛnst;əˈɡenst] 
+  prep. 反对，违反；靠；倚；防备
+  adj. 不利的；对立的
+
+address	英 [ə'dres] 美 [əˈdrɛs;(for n)ˈædres; ædrɛs] ( addressing, addressed, addresses )
+  vt. 演说；从事；忙于；写姓名地址；向…致辞；与…说话；提出；处理
+  n. 地址；演讲；致辞；说话的技巧；称呼
+
+dominate	英 ['dɒmɪneɪt] 美 ['dɑmɪnet] ( dominating, dominated, dominates )
+  vt. 控制；支配；占优势；在…中占主要地位
+  vi. 占优势；处于支配地位
+
+continued	英 [kən'tɪnjuːd] 美 [kən'tɪnjud] ( continuing, continued, continues )
+  adj. 继续的；持久的
+  v. 继续；逗留；维持原状（continue的过去分词）
+
+seize	英 [siːz] 美 [siz] ( seizing, seized, seizes )
+  vt. 抓住；夺取；理解；逮捕
+  vi. 抓住；利用；（机器）卡住
+
+political	英 [pə'lɪtɪk(ə)l] 美 [pə'lɪtɪkl] 
+  adj. 政治的；党派的
+
+supporter	英 [sə'pɔːtə] 美 [sə'pɔrtɚ] ( supporters )
+  n. 支持者；拥护者
+
+unnecessary	英 [ʌn'nesəs(ə)rɪ] 美 [ʌn'nɛsə'sɛri] 
+  adj. 不必要的；多余的，无用的
+
+Saturday	英 [ˈsætədɪ; -deɪ] 美 [sætɚdɪ; -de] ( Saturdays )
+  n. 星期六
+
+protester	英 [prə'testə(r)] 美 [prə'tɛstɚ] (also protestor)
+  n. 抗议者；反对者；持异议者
+
+November	英 [nə(ʊ)'vembə] 美 [no'vɛmbɚ] ( Novembers )
+  n. 十一月
+
+dawn	英 [dɔːn] 美 [dɔn] ( dawning, dawned, dawns )
+  n. 黎明；开端
+  vt. 破晓；出现；被领悟
+  n. (Dawn)人名；(西)道恩
+
+Egyptian	英 [ɪ'dʒɪpʃ(ə)n]  ( Egyptians )
+  adj. 埃及的；埃及人的
+  n. 埃及人；古代埃及语
+
+panel	英 ['pæn(ə)l] 美 ['pænl] ( panels )
+  n. 仪表板；嵌板；座谈小组，全体陪审员
+  vt. 嵌镶板
+  n. (Panel)人名；(英、法)帕内尔
+
+burn	英 [bɜːn] 美 [bɝn] ( burning, burnt, burns )
+  vt. 燃烧；烧毁，灼伤；激起…的愤怒
+  vi. 燃烧；烧毁；发热
+  n. 灼伤，烧伤；烙印
+  n. (Burn)人名；(英)伯恩
+
+flee	英 [fliː] 美 [fli] ( fleeing, fled, flees )
+  vi. 逃走；消失，消散
+  vt. 逃跑，逃走；逃避
+
+environmental	英 [ɪnvaɪrən'ment(ə)l; en-] 美 [ɪn,vaɪrən'mɛntl] 
+  adj. 环境的，周围的；有关环境的
+
+seventh	英 ['sev(ə)nθ] 美 ['sɛvənθ] ( sevenths )
+  n. 第七；七分之一
+  adj. 第七的；七分之一的
+  adv. 居第七位地
+
+Thursday	英 ['θɜːzdeɪ; -dɪ] 美 [ˈθɝzde; ˈθɝzdɪ] ( Thursdays )
+  n. 星期四
+

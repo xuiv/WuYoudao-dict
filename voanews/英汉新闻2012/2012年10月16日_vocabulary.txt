@@ -1,0 +1,367 @@
+personnel	英 [pɜːsə'nel] 美 [,pɝsə'nɛl] 
+  n. 人事部门；全体人员
+  adj. 人员的；有关人事的
+
+obama	 
+  n. 奥巴马(姓)
+
+clash	英 [klæʃ] 美 [klæʃ] ( clashing, clashed, clashes )
+  n. 冲突，不协调；碰撞声，铿锵声
+  vi. 冲突，抵触；砰地相碰撞，发出铿锵声
+  vt. 使碰撞作声
+
+presidential	英 [,prezɪ'denʃəl] 美 ['prɛzədɛnʃəl] 
+  adj. 总统的；首长的；统辖的
+
+provide	英 [prə'vaɪd] 美 [prə'vaɪd] ( providing, provided, provides )
+  vt. 提供；规定；准备；装备
+  vi. 规定；抚养；作准备
+
+television	英 [ˈtelɪvɪʒn] 美 [tɛləˌvɪʒən] ( televisions )
+  n. 电视，电视机；电视业
+
+American	英 [əˈmerɪkən] 美 [əˈmɛrɪkən] ( Americans )
+  n. 美国人
+  adj. 美国的
+
+responsibility	英 [rɪˌspɒnsəˈbɪlətɪ] 美 [rɪˌspɑːnsəˈbɪləti] ( responsibilities )
+  n. 责任，职责；义务
+
+claimed	英 [kleɪmd] 美 [klemd] ( claiming, claimed, claims )
+  v. 声称；宣称；断言（claim的过去式）
+
+ambassador	英 [æm'bæsədə] 美 [æm'bæsədɚ] ( ambassadors )
+  n. 大使；代表；使节
+
+east	英 [iːst] 美 [ist] (also East)
+  n. 东方；东风；东方国家
+  adj. 东方的；向东的；从东方来的
+  adv. 向东方，在东方
+  n. (East)人名；(英)伊斯特
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+kill	英 [kɪl] 美 [kɪl] ( killing, killed, kills )
+  vt. 杀死；扼杀；使终止；抵消
+  vi. 杀死
+  n. 杀戮；屠杀
+  adj. 致命的；致死的
+  n. (Kill)人名；(德)基尔
+
+secretary	英 [ˈsekrətrɪ] 美 ['sɛkrətɛrɪ] ( secretaries )
+  n. 秘书；书记；部长；大臣
+
+Mr	英/美 [ˈmɪs.tər] 
+  abbr. 先生（Mister）
+
+part	英 [pɑːt] 美 [pɑrt] ( parts )
+  n. 部分；角色；零件；一些；片段
+  vt. 分离；分配；分开
+  vi. 断裂；分手
+  adv. 部分地
+  adj. 部分的
+  n. (Part)人名；(英、瑞典)帕特；(泰)巴；(法)帕尔
+
+law	英 [lɔː] 美 [lɔ] ( laws )
+  n. 法律；规律；法治；法学；诉讼；司法界
+  vi. 起诉；控告
+  vt. 控告；对…起诉
+  n. (Law)人名；(东南亚国家华语)刘；(英、缅、柬)劳
+
+republican	英 [rɪ'pʌblɪk(ə)n] 美 [rɪ'pʌblɪkən] ( republicans )
+  adj. 共和国的；共和政体的；共和主义的；拥护共和政体的
+  n. 共和主义者
+
+romney	英/美 ['rɔmni] 
+  n. 罗姆尼（男性名）；罗姆尼羊
+
+Clinton	英 [ˈklintən] 美 [ˈklɪntən] 
+  n. 克林顿（男子名）
+
+charge	英 [tʃɑːdʒ] 美 [tʃɑrdʒ] ( charging, charged, charges )
+  n. 费用；电荷；掌管；控告；命令；负载
+  vt. 使充电；使承担；指责；装载；对…索费；向…冲去
+  vi. 充电；控告；索价；向前冲；记在账上
+  n. (Charge)人名；(法)沙尔热；(英)查奇
+
+nationalize	英/美 ['næʃnəlaɪz] ( nationalizing, nationalized, nationalizes )
+  vt. 使国有化；使民族化；使归化；使成国家
+
+spot	英 [spɒt] 美 [spɑt] ( spotting, spotted, spots )
+  n. 地点；斑点
+  vt. 认出；弄脏；用灯光照射
+  vi. 沾上污渍；满是斑点
+  adj. 现场的；现货买卖的
+  adv. 准确地；恰好
+
+Barack	英 [bɑ:'ræk]  
+  n. 巴拉克（男子名）
+
+response	英 [rɪ'spɒns] 美 [rɪ'spɑns] ( responses )
+  n. 响应；反应；回答
+
+remain	英 [rɪ'meɪn] 美 [rɪ'men] ( remaining, remained, remains )
+  vi. 保持；依然；留下；剩余；逗留；残存
+  n. 遗迹；剩余物，残骸
+
+Tokyo	英 [ˈtəʊkjəʊ] 美 ['tokjo] 
+  n. 东京（日本首都）
+
+clear	英 [klɪə] 美 [klɪr] ( clearing, cleared, clearer, clears, clearest )
+  adj. 清楚的；清澈的；晴朗的；无罪的
+  vt. 通过；清除；使干净；跳过
+  vi. 放晴；变清澈
+  adv. 清晰地；完全地
+  n. 清除；空隙
+  n. (Clear)人名；(英)克利尔
+
+group	英 [gruːp] 美 [ɡrup] ( grouping, grouped, groups )
+  n. 组；团体
+  adj. 群的；团体的
+  vi. 聚合
+  vt. 把…聚集；把…分组
+
+asian	英/美 [ˈeʒən, ˈeʃən] ( Asians )
+  n. 亚洲人
+  adj. 亚洲的；亚洲人的
+
+Hillary	英/美 ['hiləri:] 
+  n. 希拉里（美国现任国务卿）
+
+vice	英 [vaɪs] 美 [vaɪs] ( vices )
+  n. 恶习；缺点；[机] 老虎钳；卖淫
+  prep. 代替
+  vt. 钳住
+  adj. 副的；代替的
+  n. (Vice)人名；(塞)维采
+
+international	英 [ɪntə'næʃ(ə)n(ə)l] 美 [,ɪntɚ'næʃnəl] 
+  n. 国际组织；国际体育比赛；外国居留者；国际股票
+  adj. 国际的；两国（或以上）国家的；超越国界的；国际关系的；世界的
+
+control	英 [kən'trəʊl] 美 [kən'trol] ( controlling, controlled, controls )
+  n. 控制；管理；抑制；操纵装置
+  vt. 控制；管理；抑制
+
+September	英 [sep'tembə] 美 [sɛp'tɛmbɚ] ( Septembers )
+  n. 九月
+
+specific	英 [spə'sɪfɪk] 美 [spɪ'sɪfɪk] 
+  adj. 特殊的，特定的；明确的；详细的；[药] 具有特效的
+  n. 特性；细节；特效药
+
+kilometer	英 ['kɪlə,mitɚ] 美 [ˈkɪləˌmitɚ; kəˈlɑmətɚ] 
+  n. [计量] 公里；[计量] 千米（等于kilometre）
+
+zone	英 [zəʊn] 美 [zon] ( zoning, zoned, zones )
+  n. 地带；地区；联防
+  vi. 分成区
+  vt. 使分成地带；环绕
+  n. (Zone)人名；(塞)佐内
+
+Peru	英 [pəˈruː] 美 [pə'rʊ] 
+  n. 秘鲁（拉丁美洲国家名）
+
+westernmost	英/美 ['westənməʊst] 
+  adj. 最西的
+
+sent	英 [sent] 美 [sɛnt] 
+  v. 送，寄出（send的过去分词）
+  n. (Sent)人名；(德)森特
+
+circumstance	英 [ˈsɜ:kəmstəns] 美 [ˈsɝ​kəmˌstəns] ( circumstances )
+  n. 环境，情况；事件；境遇
+
+mitt	英 [mɪt] 美 [mɪt] ( mitts )
+  n. 手；棒球手套；连指手套；女用露指长手套
+  n. (Mitt)人名；(瑞典)米特
+
+china	英 [ˈtʃaɪnə] 美 [ˈtʃaɪ.nə] 
+  n. 瓷器
+  adj. 瓷制的
+  n. China，中国
+  adj. China，中国的
+
+Biden	英/美 [baidən] 
+  n. 拜登（姓氏）
+
+blame	英 [bleɪm] 美 [blem] ( blaming, blamed, blames )
+  vt. 责备；归咎于
+  n. 责备；责任；过失
+
+work	英 [wɜːk] 美 [wɝk] ( working, worked, works )
+  n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品
+  vt. 使工作；操作；经营；使缓慢前进
+  vi. 工作；运作；起作用
+  n. （英、埃塞）沃克（人名）
+
+Beijing	英/美 [ˌbeɪˈdʒɪŋ] 
+  n. 北京（等于Peking或Pekin）
+
+japan	英 [dʒə'pæn] 美 [dʒə'pæn] 
+  n. 漆器；日本亮漆
+  vt. 在…上涂漆
+
+surround	英 [sə'raʊnd] 美 [sə'raʊnd] ( surrounding, surrounded, surrounds )
+  vt. 围绕；包围
+  n. 围绕物
+  adj. 环绕立体声的
+
+power	英 ['paʊə] 美 ['paʊɚ] ( powering, powered, powers )
+  n. 力量，能力；电力，功率；政权，势力；[数] 幂
+  vt. 激励；供以动力；使…有力量
+  vi. 快速前进
+  adj. 借影响有权势人物以操纵权力的
+  n. (Power)人名；(英、葡)鲍尔
+
+aircraft	英 ['eəkrɑːft] 美 ['ɛr'kræft] ( aircraft )
+  n. 飞机，航空器
+
+security	英 [sɪ'kjʊərətɪ] 美 [sə'kjʊrəti] ( securities )
+  n. 安全；保证；证券；抵押品
+  adj. 安全的；保安的；保密的
+
+certain	英 ['sɜːt(ə)n; -tɪn] 美 ['sɝtn] 
+  adj. 某一；必然的；确信；无疑的；有把握的
+  pron. 某些；某几个
+  n. (Certain)人名；(葡)塞尔塔因；(法)塞尔坦
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+	 
+
+consulate	英 ['kɒnsjʊlət] 美 ['kɑnsələt] ( consulates )
+  n. 领事；领事馆；领事任期；领事职位
+
+attack	英 [ə'tæk] 美 [ə'tæk] ( attacking, attacked, attacks )
+  n. 攻击；抨击；疾病发作
+  vt. 攻击；抨击；动手干
+  vi. 攻击；腐蚀
+  n. (Attack)人名；(瑞典)阿塔克
+
+interview	英 ['ɪntəvjuː] 美 ['ɪntɚvju] ( interviewing, interviewed, interviews )
+  n. 接见，采访；面试，面谈
+  vt. 采访；接见；对…进行面谈；对某人进行面试
+
+Benghazi	英/美 [ben'ga:zi] 
+  n. 班加西（利比亚北部港口城市）
+
+Tuesday	英 ['tjuːzdeɪ; -dɪ] 美 [ˈtuzdɪ;-de] ( Tuesdays )
+  n. 星期二
+
+tension	英 ['tenʃ(ə)n] 美 ['tɛnʃən] ( tensions )
+  n. 张力，拉力；紧张，不安；电压
+  vt. 使紧张；使拉紧
+
+department	英 [dɪ'pɑːtm(ə)nt] 美 [dɪ'pɑrtmənt] ( departments )
+  n. 部；部门；系；科；局
+
+Monday	英 [ˈmʌndeɪ; ˈmʌndi] 美 [ˈmʌnde; ˈmʌndɪ] ( Mondays )
+  n. 星期一
+
+early	英 ['ɜːlɪ] 美 ['ɝli] ( earlier, earliest )
+  adj. 早期的；早熟的
+  adv. 提早；在初期
+  n. (Early)人名；(英)厄尔利
+
+territorial	英 [,terɪ'tɔːrɪəl] 美 [,tɛrə'tɔrɪəl] 
+  adj. 领土的；区域的；土地的；地方的
+  n. 地方自卫队士兵
+
+increasingly	英 [ɪn'kriːsɪŋlɪ] 美 [ɪn'krisɪŋli] 
+  adv. 越来越多地；渐增地
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+ministry	英 ['mɪnɪstrɪ] 美 ['mɪnɪstri] ( ministries )
+  n. （政府的）部门
+
+diplomatic	英 [dɪplə'mætɪk] 美 [,dɪplə'mætɪk] 
+  adj. 外交的；外交上的；老练的
+
+dispute	英 [dɪ'spjuːt; 'dɪspjuːt] 美 ['dɪs'pjʊt] ( disputing, disputed, disputes )
+  vt. 辩论；怀疑；阻止；抗拒
+  vi. 争论
+  n. 辩论；争吵
+
+campaign	英 [kæm'peɪn] 美 [kæm'pen] ( campaigning, campaigned, campaigns )
+  vi. 作战；参加竞选；参加活动
+  n. 运动；活动；战役
+
+navy	英 ['neɪvɪ] 美 ['nevi] ( navies )
+  n. 海军
+  深蓝色的
+
+criticize	英 ['krɪtɪsaɪz] 美 ['krɪtə'saɪz] ( criticizing, criticized, criticizes )
+  vt. 批评；评论；非难
+  vi. 批评；评论；苛求
+  
+
+decision	英 [dɪ'sɪʒ(ə)n] 美 [dɪ'sɪʒn] ( decisions )
+  n. 决定，决心；决议
+
+since	英 [sɪns] 美 [sɪns] 
+  conj. 因为；由于；既然；自…以来；自…以后
+  prep. 自…以来；自…以后
+  adv. 后来
+
+naval	英 ['neɪv(ə)l] 美 ['nevl] 
+  adj. 海军的；军舰的
+  n. (Naval)人名；(西、德、印)纳瓦尔
+
+Joe	英 [dʒəu] 美 [dʒo] 
+  n. 乔（男子名）
+
+deadly	英 ['dedlɪ] 美 ['dɛdli] ( deadlier, deadliest )
+  adj. 致命的；非常的；死一般的
+  adv. 非常；如死一般地
+
+Chinese	英 [tʃaɪniːz]  ( Chinese )
+  n. 中文，汉语；中国人
+  adj. 中国的，中国人的；中国话的
+
+contiguous	英 [kən'tɪgjʊəs] 美 [kən'tɪɡjuəs] 
+  adj. 连续的；邻近的；接触的
+
+game	英 [geɪm] 美 [ɡem] ( games )
+  n. 游戏；比赛
+  adj. 勇敢的
+  vi. 赌博
+  n. (Game)人名；(英)盖姆；(法)加姆；(西)加梅
+
+patrol	英 [pə'trəʊl] 美 [pə'trol] ( patrolling, patrolled, patrols )
+  n. 巡逻；巡逻队；侦察队
+  vt. 巡逻；巡查
+  vi. 巡逻；巡查
+
+administration	英 [ədmɪnɪ'streɪʃ(ə)n] 美 [əd,mɪnɪ'streʃən] ( administrations )
+  n. 管理；行政；实施；行政机构
+
+Japanese	英 [ˌdʒæpə'ni:z] 美 [,dʒæpə'niz] ( Japanese )
+  adj. 日本（人）的；日语的
+  n. 日本人；日语
+
+candidate	英 ['kændɪdeɪt; -dət] 美 [ˈkændɪˌdet, -dɪt] ( candidates )
+  n. 候选人，候补者；应试者
+
+political	英 [pə'lɪtɪk(ə)l] 美 [pə'lɪtɪkl] 
+  adj. 政治的；党派的
+
+defense	英 [dɪ'fens] 美 [dɪ'fɛns] ( defenses )
+  n. 防卫，防护；防御措施；防守
+  vt. 谋划抵御
+
+employee	英 [ɪmˈplɔɪi;ˌemplɔɪˈi:] 美 [ɪmˈplɔɪi;ɛmplɔɪˈi] ( employees )
+  n. 雇员；从业员工
+
+Libya	英/美 ['libiə] 
+  n. 埃及以西的北非地方古名；利比亚
+

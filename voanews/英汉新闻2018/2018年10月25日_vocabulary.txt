@@ -1,0 +1,526 @@
+off	英 [ɒf] 美 [ɔf] 
+  prep. 离开；脱落
+  adv. 切断；走开
+  adj. 远离的；空闲的
+
+nobody	英/美 ['nəʊbədɪ] ( nobodies )
+  pron. 无人，没有人；没有任何人
+  n. 无名小卒；小人物
+
+department	英 [dɪ'pɑːtm(ə)nt] 美 [dɪ'pɑrtmənt] ( departments )
+  n. 部；部门；系；科；局
+
+request	英 [rɪ'kwest] 美 [rɪ'kwɛst] ( requesting, requested, requests )
+  n. 请求；需要
+  vt. 要求，请求
+
+divide	英 [dɪ'vaɪd] 美 [dɪ'vaɪd] ( dividing, divided, divides )
+  vt. 划分；除；分开；使产生分歧
+  vi. 分开；意见分歧
+  n. [地理] 分水岭，分水线
+
+sgt	 
+  n. 硅栅晶体管
+
+observer	英 [əb'zɜːvə] 美 [əb'zɝvɚ] ( observers )
+  n. 观察者；[天] 观测者；遵守者
+
+enlist	英 [ɪn'lɪst; en-] 美 [ɪn'lɪst] ( enlisting, enlisted, enlists )
+  vi. 支持；从军；应募；赞助
+  vt. 使入伍；征募；谋取…的赞助或帮助
+
+American	英 [əˈmerɪkən] 美 [əˈmɛrɪkən] ( Americans )
+  n. 美国人
+  adj. 美国的
+
+aid	英 [eɪd] 美 [ed] ( aiding, aided, aids )
+  n. 援助；帮助；助手；帮助者
+  vt. 援助；帮助；有助于
+  vi. 帮助
+  n. (Aid)人名；(阿拉伯、印、英)艾德
+
+encroach	英 [ɪn'krəʊtʃ; en-] 美 [ɪn'krotʃ] ( encroaching, encroached, encroaches )
+  vi. 蚕食，侵占
+
+Nov	英 [nəʊ'vembə]  
+  abbr. 十一月（November）
+
+Monday	英 [ˈmʌndeɪ; ˈmʌndi] 美 [ˈmʌnde; ˈmʌndɪ] ( Mondays )
+  n. 星期一
+
+labor	英 ['leɪbə(r)] 美 ['lebɚ] 
+  n. 劳动；工作；劳工；分娩
+  vi. 劳动；努力；苦干
+  vt. 详细分析；使厌烦
+  n. (Labor)人名；(德、塞、法)拉博尔；(英)拉博
+
+Norway	英 ['nɔ:weɪ] 美 ['nɔrweɪ] 
+  n. 挪威（北欧国家名）
+
+trident	英 ['traɪd(ə)nt] 美 ['traɪdnt] 
+  n. 三叉戟；[数] 三叉线；三齿鱼叉
+
+commander	英 [kə'mɑːndə] 美 [kə'mændɚ] ( commanders )
+  n. 指挥官；司令官
+
+Honduras	英/美 [hɔn'djuərəs] 
+  n. 洪都拉斯（拉丁美洲国家）
+
+operation	英 [ɒpə'reɪʃ(ə)n] 美 [,ɑpə'reʃən] ( operations )
+  n. 操作；经营；[外科] 手术；[数][计] 运算
+
+Salvador	英/美 ['sælvədɔ:] 
+  n. 萨尔瓦多（巴西东部港市）
+
+provide	英 [prə'vaɪd] 美 [prə'vaɪd] ( providing, provided, provides )
+  vt. 提供；规定；准备；装备
+  vi. 规定；抚养；作准备
+
+support	英 [sə'pɔːt] 美 [sə'pɔrt] ( supporting, supported, supports )
+  vt. 支持，支撑，支援；扶持，帮助；赡养，供养
+  n. 支持，维持；支援，供养；支持者，支撑物
+
+possible	英 ['pɒsɪb(ə)l] 美 ['pɑsəbl] ( possibles )
+  adj. 可能的；合理的；合适的
+  n. 可能性；合适的人；可能的事物
+
+partner	英 ['pɑːtnə] 美 ['pɑrtnɚ] ( partnering, partnered, partners )
+  n. 伙伴；合伙人；配偶
+  vi. 合伙；合股；成为搭档
+  vt. 使合作；与…合伙
+  n. (Partner)人名；(英、德)帕特纳
+
+vehicle	英 [ˈvɪəkl] 美 [ˈviəkəl] ( vehicles )
+  n. [车辆] 车辆；工具；交通工具；运载工具；传播媒介；媒介物
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+Guatemala	英/美 [ˌɡwɑtə'mɑlə] 
+  n. 危地马拉（拉丁美洲国家）；危地马拉人
+
+Ukraine	英/美 [ju:'krein; -'krain] 
+  n. 乌克兰（原苏联一加盟共和国，现已独立）
+
+naval	英 ['neɪv(ə)l] 美 ['nevl] 
+  adj. 海军的；军舰的
+  n. (Naval)人名；(西、德、印)纳瓦尔
+
+guard	英 [gɑːd] 美 [ɡɑrd] ( guarding, guarded, guards )
+  n. 守卫；警戒；护卫队；防护装置
+  vi. 警惕
+  vt. 保卫；监视
+  n. (Guard)人名；(英)格尔德
+
+NATO	英/美 ['neitəu] 
+  abbr. 北大西洋公约组织（North Atlantic Treaty Organization）
+  n. (Nato)人名；(意)纳托
+
+emergency	英 [ɪ'mɜːdʒ(ə)nsɪ] 美 [ɪ'mɝdʒənsi] ( emergencies )
+  n. 紧急情况；突发事件；非常时刻
+  adj. 紧急的；备用的
+
+bitterly	英 ['bɪtəlɪ] 美 ['bɪtɚli] 
+  adv. 苦涩地，悲痛地；残酷地；怨恨地
+
+Donald	英/美 ['dɒnəld] 
+  n. 唐纳德（男子名）
+
+told	英 [təʊld] 美 [told] 
+  v. 告诉（tell的过去式）；讲述
+
+expect	英 [ɪkˈspekt] 美 [ɪk'spɛkt] ( expecting, expected, expects )
+  vt. 期望；指望；认为；预料
+  vi. 期待；预期
+
+reporter	英 [rɪ'pɔːtə] 美 [rɪ'pɔrtɚ] ( reporters )
+  n. 记者
+
+kilometer	英 ['kɪlə,mitɚ] 美 [ˈkɪləˌmitɚ; kəˈlɑmətɚ] 
+  n. [计量] 公里；[计量] 千米（等于kilometre）
+
+James	英/美 [dʒeimz] 
+  n. 詹姆斯（姓氏，男子名）；《雅各书》
+
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+personnel	英 [pɜːsə'nel] 美 [,pɝsə'nɛl] 
+  n. 人事部门；全体人员
+  adj. 人员的；有关人事的
+
+twitter	英 ['twɪtə] 美 ['twɪtɚ] ( twittering, twittered, twitters )
+  n. 微博客，鸟叫声
+  vt. 吱吱叫；嘁嘁喳喳地讲
+
+act	英 [ækt] 美 [ækt] ( acting, acted, acts )
+  美国大学入学考试，全称是American College Testing
+
+senior	英 ['siːnɪə; 'siːnjə] 美 ['sinɪɚ] ( seniors )
+  adj. 高级的；年长的；地位较高的；年资较深的，资格较老的
+  n. 上司；较年长者；毕业班学生
+  n. (Senior)人名；(英)西尼尔
+
+drill	英 [drɪl] 美 [drɪl] ( drilling, drilled, drills )
+  n. 训练；钻孔机；钻子；播种机
+  vi. 钻孔；训练
+  vt. 钻孔；训练；条播
+  n. (Drill)人名；(德、英)德里尔
+
+Thursday	英 ['θɜːzdeɪ; -dɪ] 美 [ˈθɝzde; ˈθɝzdɪ] ( Thursdays )
+  n. 星期四
+
+illegal	英 [ɪ'liːg(ə)l] 美 [ɪ'ligl] ( illegals )
+  adj. [法] 非法的；违法的；违反规则的
+  n. 非法移民，非法劳工
+
+ADM	英/美 [,e ɛm 'di] 
+  abbr. 辅助决策（Aid in Decision Making）；防空导弹（Air-Defence Missile）
+
+defensive	英 [dɪ'fensɪv] 美 [dɪ'fɛnsɪv] 
+  adj. 自卫的；防御用的
+  n. 防御；守势
+
+Naples	英/美 ['neiplz] 
+  n. 那不勒斯（意大利西南部港市）
+
+caravan	英 ['kærəvæn; kærə'væn] 美 ['kærəvæn] ( caravans )
+  n. （可供居住的）拖车，大篷车；（穿过沙漠地带的）旅行队（如商队）；活动住宅；移民列车
+  vi. 乘拖车度假；参加旅行队旅行
+
+patrol	英 [pə'trəʊl] 美 [pə'trol] ( patrolling, patrolled, patrols )
+  n. 巡逻；巡逻队；侦察队
+  vt. 巡逻；巡查
+  vi. 巡逻；巡查
+
+	 
+
+maj	 
+  abbr. 少校（Major）；主要的，大多数的（major）
+  n. (Maj)人名；(瑞典、波、意)玛伊(女名)，马伊
+
+agent	英 ['eɪdʒ(ə)nt] 美 ['edʒənt] ( agents )
+  n. 代理人，代理商；药剂；特工
+  vt. 由…作中介；由…代理
+  adj. 代理的
+  n. (Agent)人名；(罗)阿真特
+
+threaten	英 ['θret(ə)n] 美 ['θrɛtn] ( threatening, threatened, threatens )
+  vt. 威胁；恐吓；预示
+  vi. 威胁；可能来临
+
+military	英 ['mɪlɪt(ə)rɪ] 美 ['mɪlətɛri] ( militaries )
+  adj. 军事的；军人的；适于战争的
+  n. 军队；军人
+
+observe	英 [əb'zɜːv] 美 [əb'zɝv] ( observing, observed, observes )
+  vt. 庆祝
+  vt. 观察；遵守；说；注意到；评论
+  vi. 观察；说；注意到；评论
+
+invite	英 [ɪn'vaɪt] 美 [ɪn'vaɪt] ( inviting, invited, invites )
+  vt. 邀请，招待；招致
+  n. 邀请
+
+number	英 ['nʌmbə] 美 ['nʌmbɚ] ( numbering, numbered, numbers )
+  n. 数；（杂志等的）期；号码；数字；算术
+  vi. 计入；总数达到
+  vt. 编号；计入；数…的数目；使为数有限
+
+involves	英/美 [in'vɔlv] ( involving, involved, involves )
+  v. 包含；牵涉（involve的第三人称单数形式）
+
+refuge	英 ['refjuːdʒ] 美 ['rɛfjʊdʒ] ( refuges )
+  n. 避难；避难所；庇护
+  vt. 给予…庇护；接纳…避难
+  vi. 避难；逃避
+
+consider	英 [kən'sɪdə] 美 [kən'sɪdɚ] ( considering, considered, considers )
+  vt. 考虑；认为；考虑到；细想
+  vi. 考虑；认为；细想
+
+command	英 [kə'mɑːnd] 美 [kə'mænd] ( commanding, commanded, commands )
+  vi. 命令，指挥；控制
+  vt. 命令，指挥；控制；远望
+  n. 指挥，控制；命令；司令部
+  n. (Command)人名；(法)科芒
+
+allied	英 ['ælaɪd; ə'laɪd] 美 [əˈlaɪd,ˈælˌaɪd] 
+  adj. 联合的；同盟的；与…同属一系
+  v. 联合（ally的过去分词）
+
+deterrent	英 [dɪ'ter(ə)nt] 美 [dɪ'tɝənt] ( deterrents )
+  adj. 遏制的，威慑的；制止的
+  n. 威慑；妨碍物；挽留的事物
+
+	 
+
+thousand	英 ['θaʊz(ə)nd] 美 ['θaʊznd] ( thousands )
+  n. 一千；一千个；许许多多
+  adj. 成千的；无数的
+
+Russia	英 ['rʌʃə] 美 ['rʌʃə] 
+  n. 俄罗斯
+
+effect	英 [ɪ'fekt] 美 [ɪ'fɛkt] ( effecting, effected, effects )
+  n. 影响；效果；作用
+  vt. 产生；达到目的
+
+already	英 [ɔːl'redɪ] 美 [ɔl'rɛdi] 
+  adv. 已经，早已；先前
+
+national	英 ['næʃ(ə)n(ə)l] 美 ['næʃnəl] ( nationals )
+  adj. 国家的；国民的；民族的；国立的
+  n. 国民
+
+interview	英 ['ɪntəvjuː] 美 ['ɪntɚvju] ( interviewing, interviewed, interviews )
+  n. 接见，采访；面试，面谈
+  vt. 采访；接见；对…进行面谈；对某人进行面试
+
+border	英 ['bɔːdə] 美 ['bɔrdɚ] ( bordering, bordered, borders )
+  n. 边境；边界；国界
+  vt. 接近；与…接壤；在…上镶边
+  vi. 接界；近似
+  n. (Border)人名；(英)博德
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+trump	英 [trʌmp] 美 [trʌmp] ( trumping, trumped, trumps )
+  n. 王牌；法宝；喇叭
+  vt. 胜过；打出王牌赢
+  vi. 出王牌；吹喇叭
+  n. (Trump)人名；(英)特朗普
+
+earlier	英 ['ɜ:lɪə(r)] 美 ['ɝlɪr] 
+  adj. 早的；初期的 （early的比较级）
+  adv. 早地；早先的时候
+
+capable	英 ['keɪpəb(ə)l] 美 ['kepəbl] 
+  adj. 能干的，能胜任的；有才华的
+
+blame	英 [bleɪm] 美 [blem] ( blaming, blamed, blames )
+  vt. 责备；归咎于
+  n. 责备；责任；过失
+
+aircraft	英 ['eəkrɑːft] 美 ['ɛr'kræft] ( aircraft )
+  n. 飞机，航空器
+
+threat	英 [θret] 美 [θrɛt] ( threats )
+  n. 威胁，恐吓；凶兆
+
+homeland	英 ['həʊmlænd] 美 ['homlænd] ( homelands )
+  n. 祖国；故乡
+
+reiterate	英 [riː'ɪtəreɪt] 美 [rɪ'ɪtəret] ( reiterating, reiterated, reiterates )
+  vt. 重申；反复地做
+
+closest	英 [kləusɪst] 美 [klosɪst] 
+  adj. 最靠近的（close的最高级）
+
+navy	英 ['neɪvɪ] 美 ['nevi] ( navies )
+  n. 海军
+  深蓝色的
+
+potential	英 [pəˈtenʃl] 美 [pə'tɛnʃl] 
+  n. 潜能；可能性；[电] 电势
+  adj. 潜在的；可能的；势的
+
+Europe	英 ['jʊrəp] 美 ['jʊrəp] 
+  n. 欧洲
+
+annexation	英 [,ænək'seɪʃn; ,ænek'seɪʃn] 美 [,ænɛk'seʃən] 
+  n. 合并；附加物
+
+since	英 [sɪns] 美 [sɪns] 
+  conj. 因为；由于；既然；自…以来；自…以后
+  prep. 自…以来；自…以后
+  adv. 后来
+
+game	英 [geɪm] 美 [ɡem] ( games )
+  n. 游戏；比赛
+  adj. 勇敢的
+  vi. 赌博
+  n. (Game)人名；(英)盖姆；(法)加姆；(西)加梅
+
+juncture	英 ['dʒʌŋ(k)tʃə] 美 ['dʒʌŋktʃɚ] ( junctures )
+  n. 接缝；连接；接合
+
+agree	英 [ə'griː] 美 [ə'ɡri] ( agreeing, agreed, agrees )
+  vt. 同意，赞成；承认；约定，商定
+  vi. vi. 同意，意见一致；约定，商定
+
+reduce	英 [rɪ'djuːs] 美 [rɪ'dʊs] ( reducing, reduced, reduces )
+  vt. 减少；降低；使处于；把…分解
+  vi. 减少；缩小；归纳为
+
+migrant	英 ['maɪgr(ə)nt] 美 ['maɪɡrənt] ( migrants )
+  n. 候鸟；移居者；随季节迁移的民工
+  adj. 移居的；流浪的
+
+democrat	英 ['deməkræt] 美 ['dɛməkræt] ( democrats )
+  n. 民主党人；民主主义者；民主政体论者
+
+peninsula	英 [pɪ'nɪnsjʊlə] 美 [pə'nɪnsələ] ( peninsulas )
+  n. 半岛
+
+enter	英 ['entə] 美 ['ɛntɚ] ( entering, entered, enters )
+  vt. 进入；开始；参加
+  vi. 参加，登场；进去
+  n. [计] 输入；回车
+  n. (Enter)人名；(英)恩特
+
+aggression	英 [ə'greʃ(ə)n] 美 [ə'ɡrɛʃən] ( aggressions )
+  n. 侵略；进攻；侵犯；侵害
+
+joint	英 [dʒɒɪnt] 美 [dʒɔɪnt] ( joints )
+  n. 关节；接缝；接合处，接合点；（牛，羊等的腿）大块肉
+  adj. 共同的；连接的；联合的，合办的
+  vt. 连接，贴合；接合；使有接头
+  vi. 贴合；生节
+  n. (Joint)人名；(法)茹安
+
+depend	英 [dɪ'pend] 美 [dɪ'pɛnd] ( depending, depended, depends )
+  vi. 依赖，依靠；取决于；相信，信赖
+
+massive	英 ['mæsɪv] 美 ['mæsɪv] 
+  adj. 大量的；巨大的，厚重的；魁伟的
+
+	 
+
+alliance	英 [ə'laɪəns] 美 [ə'laɪəns] ( alliances )
+  n. 联盟，联合；联姻
+
+capability	英 [ˌkeɪpəˈbɪləti] 美 [ˌkepəˈbɪlətɪ] ( capabilities )
+  n. 才能，能力；性能，容量
+
+nation	英 ['neɪʃ(ə)n] 美 ['neʃən] ( nations )
+  n. 国家；民族；国民
+  n. (Nation)人名；(英)内申
+
+sovereign	英 ['sɒvrɪn] 美 [sɑvrɪn] ( sovereigns )
+  adj. 至高无上的；有主权的；拥有最高统治权的；不折不扣的；极好的
+  n. 君主；独立国；最高统治者
+  n. (Sovereign)人名；(英)索夫林
+
+exclusive	英 [ɪk'skluːsɪv; ek-] 美 [ɪk'sklusɪv] ( exclusives )
+  adj. 独有的；排外的；专一的
+  n. 独家新闻；独家经营的项目；排外者
+
+united	英 [jʊ'naɪtɪd] 美 [jʊ'naɪtɪd] 
+  adj. 一致的，统一的；团结的，和睦的
+
+worried	英 ['wʌrɪd] 美 ['wɝrɪd] 
+  adj. 担心的
+
+particular	英 [pəˈtɪkjʊlə(r)] 美 [pɚ'tɪkjəlɚ] 
+  adj. 特别的；详细的；独有的；挑剔的
+  n. 详细说明；个别项目
+
+central	英 ['sentr(ə)l] 美 ['sɛntrəl] 
+  adj. 中心的；主要的；中枢的
+  n. 电话总机
+
+	 
+
+EL	英/美 [ɛl] 
+  abbr. 预期损失（Expected Loss）
+  n. (El)人名；(匈)埃尔；
+
+Foggo	 
+  n. (Foggo)人名；(英)福戈
+
+refer	英 [rɪ'fɜː] 美 [rɪ'fɝ] ( referring, referred, refers )
+  vi. 参考；涉及；提到；查阅
+  vt. 涉及；委托；归诸于；使…求助于
+
+southern	英 ['sʌð(ə)n] 美 ['sʌðɚn] (also Southern)
+  adj. 南的；南方的
+  n. 南方人
+  n. (Southern)人名；(英)萨瑟恩
+
+Moscow	英 ['mɔskəʊ] 美 [ˈmɑsˌkaʊ] 
+  n. 莫斯科（俄罗斯首都）
+
+pentagon	英 ['pentəɡ(ə)n] 美 ['pɛntəɡɑn] ( pentagons )
+  n. 五角形
+
+blast	英 [blɑːst] 美 [blæst] ( blasting, blasted, blasts )
+  n. 爆炸；冲击波；一阵
+  vi. 猛攻
+  vt. 爆炸；损害；使枯萎
+  n. (Blast)人名；(德)布拉斯特
+
+scale	英 [skeɪl] 美 [skel] ( scaling, scaled, scales )
+  n. 规模；比例；鳞；刻度；天平；数值范围
+  vi. 衡量；攀登；剥落；生水垢
+  vt. 测量；攀登；刮鳞；依比例决定
+  n. (Scale)人名；(意)斯卡莱
+
+security	英 [sɪ'kjʊərətɪ] 美 [sə'kjʊrəti] ( securities )
+  n. 安全；保证；证券；抵押品
+  adj. 安全的；保安的；保密的
+
+troop	英 [truːp] 美 [trʊp] ( trooping, trooped, troops )
+  n. 军队；组；群；多数
+  vi. 群集；成群而行；结队
+  vt. 把（骑兵）编成骑兵连
+
+willing	英 ['wɪlɪŋ] 美 ['wɪlɪŋ] 
+  adj. 乐意的；自愿的；心甘情愿的
+  v. 决心；用意志力驱使；将（财产等）遗赠某人（will的现在分词）
+  n. (Willing)人名；(德、芬、瑞典)维林；(英)威林
+
+Crimea	英/美 [krai'miə] 
+  n. 克里米亚；克里米亚半岛
+
+hundred	英 ['hʌndrəd] 美 ['hʌndrəd] ( hundreds )
+  n. 一百；许多
+  adj. 一百的；许多的
+  num. 百；百个
+
+union	英 ['juːnjən; -ɪən] 美 ['junɪən] ( unions )
+  n. 联盟，协会；工会；联合
+
+deployed	英/美 [di:'plɔi] ( deploying, deployed, deploys )
+  v. 部署（deploy的过去式）；展开
+
+citizen	英 ['sɪtɪz(ə)n] 美 ['sɪtɪzn] ( citizens )
+  n. 公民；市民；老百姓
+
+seek	英 [siːk] 美 [sik] ( seeking, sought, seeks )
+  vt. 寻求；寻找；探索；搜索
+  vi. 寻找；探索；搜索
+
+action	英 ['ækʃ(ə)n] 美 ['ækʃən] ( actioning, actioned, actions )
+  n. 行动；活动；功能；战斗；情节
+  n. (Action)人名；(英)埃克申
+
+	 
+
+re	英 [riː; reɪ] 美 [ri] 
+  prep. 再，重新
+  abbr. 修订版（revised edition）；回复，答复（reply）
+  n. (Re)人名；(英、意、塞)雷
+
+force	英 [fɔːs] 美 [fɔrs] ( forcing, forced, forces )
+  n. 力量；武力；军队；魄力
+  vt. 促使，推动；强迫；强加
+  n. (Force)人名；(意)福尔切；(英、法)福斯
+
+prevent	英 [prɪ'vent] 美 [pri'vɛnt] ( preventing, prevented, prevents )
+  vt. 预防，防止；阻止
+  vi. 妨碍，阻止
+
+depart	英 [dɪ'pɑːt] 美 [dɪ'pɑrt] ( departing, departed, departs )
+  vi. 离开；出发，起程；违反；去世
+  adj. 逝世的
+
+official	英 [ə'fɪʃ(ə)l] 美 [əˈfɪʃəl; oʊˈfɪʃəl] ( officials )
+  adj. 官方的；正式的；公务的
+  n. 官员；公务员；高级职员
+

@@ -1,0 +1,753 @@
+state	英 [steɪt] 美 [stet] ( stating, stated, states )
+  n. 国家；州；情形
+  vt. 规定；声明；陈述
+  adj. 国家的；州的；正式的
+  n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+
+hurt	英 [hɜːt] 美 [hɝ​t] ( hurting, hurt, hurts )
+  vt. 使受伤；损害；使疼痛；使痛心
+  vi. 感到疼痛；有坏处；带来痛苦
+  n. 痛苦；危害；痛苦的原因
+  adj. 受伤的；痛苦的；受损的
+  n. (Hurt)人名；(德、匈、捷)胡特；(英)赫特
+
+separate	英 [(for v.) ˈsepəreɪt; (for adj.) ˈseprət] 美 [(for v.) sɛpəˌret; (for adj.) sɛprɪt] ( separating, separated, separates )
+  vt. 使分离；使分开；使分居
+  vi. 分开；隔开；分居
+  adj. 单独的；分开的；不同的；各自的；
+  n. .分开；抽印本
+
+approve	英 [ə'pruːv] 美 [ə'prʊv] ( approving, approved, approves )
+  vt. 批准；赞成；为…提供证据
+  vi. 批准；赞成；满意
+
+congress	英 ['kɒŋgres] 美 ['kɑŋɡrəs] ( congresses )
+  n. 国会；代表大会；会议；社交
+
+commitment	英 [kə'mɪtm(ə)nt] 美 [kə'mɪtmənt] ( commitments )
+  n. 承诺，保证；委托；承担义务；献身
+
+initial	英 [ɪ'nɪʃəl] 美 [ɪ'nɪʃəl] ( initialling, initialled, initials )
+  adj. 最初的；字首的
+  vt. 用姓名的首字母签名
+  n. 词首大写字母
+
+attend	英 [ə'tend] 美 [ə'tɛnd] ( attending, attended, attends )
+  vt. 出席；上（大学等）；照料；招待；陪伴
+  vi. 出席；致力于；照料；照顾
+
+role	英 [rəʊl] 美 [rol] ( roles )
+  n. 角色；任务
+  n. (Role)人名；(意、塞、赤几)罗莱
+
+meeting	英 ['miːtɪŋ] 美 ['mitɪŋ] ( meetings )
+  n. 会议；会见；集会；汇合点
+  v. 会面；会合（meet的ing形式）
+
+Brazil	英/美 [brə'zil] (also brasil)
+  n. 巴西（拉丁美洲国家）
+
+publicly	英/美 ['pʌblɪklɪ] 
+  adv. 公然地；以公众名义
+
+ministry	英 ['mɪnɪstrɪ] 美 ['mɪnɪstri] ( ministries )
+  n. （政府的）部门
+
+hurl	英 [hɜːl] 美 [hɝl] ( hurling, hurled, hurls )
+  vt. 丢下；用力投掷；愤慨地说出
+  vi. 猛投；猛掷
+  n. 用力的投掷
+
+tear	英 [(for v.) ˈtɛː; (for n.) ˈtɪə] 美 [(for v.) ˈter; (for n.) ˈtir] ( tears )
+  n. 眼泪, （撕破的）洞或裂缝, 撕扯
+  vt. 撕掉, 扯下, 扰乱
+  vi. 流泪, 撕破
+  n. (Tear)人名；(英)蒂尔
+
+total	英 ['təʊt(ə)l] 美 ['totl] ( totalling, totalled, totals )
+  adj. 全部的；完全的；整个的
+  vt. 总数达
+  vi. 合计
+  n. 总数，合计
+  n. (Total)人名；(法、德)托塔尔
+
+confrontation	英 [,kɒnfrʌn'teɪʃn] 美 [,kɑnfrən'teʃən] ( confrontations )
+  n. 对抗；面对；对质
+
+rush	英 [rʌʃ] 美 [rʌʃ] ( rushing, rushed, rushes )
+  n. 冲进；匆促；急流；灯心草
+  adj. 急需的
+  vt. 使冲；突袭；匆忙地做；飞跃
+  vi. 冲；奔；闯；赶紧；涌现
+  n. (Rush)人名；(英)拉什
+
+carbon	英 ['kɑːb(ə)n] 美 ['kɑrbən] 
+  n. [化学] 碳；碳棒；复写纸
+  adj. 碳的；碳处理的
+  n. (Carbon)人名；(西)卡尔翁；(法)卡尔邦；(英)卡本
+
+emitter	英 [ɪ'mɪtə] 美 [ɪ'mɪtɚ] 
+  n. 发射器，发射体
+
+secure	英 [sɪ'kjʊə; sɪ'kjɔː] 美 [sə'kjʊr] ( securing, secured, secures )
+  adj. 安全的；无虑的；有把握的；稳当的
+  vt. 保护；弄到；招致；缚住
+  vi. 获得安全；船抛锚；停止工作
+
+	 
+
+JAN	英/美 [dʒæn] 
+  abbr. 一月（january）
+  n. (Jan)人名；(阿富、巴基、印)贾恩；(德、荷、丹、挪、捷、波、俄、瑞典、芬、塞)扬；(英)简；(法、罗)让
+
+politically	英/美 [pə'lɪtɪkli] 
+  adv. 政治上
+
+statement	英 ['steɪtm(ə)nt] 美 ['stetmənt] ( statements )
+  n. 声明；陈述，叙述；报表，清单
+
+current	英 ['kʌr(ə)nt] 美 [kɝ​ənt] ( currents )
+  adj. 现在的；流通的，通用的；最近的；草写的
+  n. （水，气，电）流；趋势；涌流
+  n. (Current)人名；(英)柯伦特
+
+Krakow	英/美 ['kra:ku:f] 
+  n. 克拉科夫（波兰的一个城市）
+
+currently	英 ['kʌrəntlɪ] 美 ['kɝrəntlɪ] 
+  adv. 当前；一般地
+
+fund	英 [fʌnd] 美 [fʌnd] ( funding, funded, funds )
+  n. 基金；资金；存款
+  vt. 投资；资助
+  n. (Fund)人名；(德)丰德
+
+intention	英 [ɪn'tenʃ(ə)n] 美 [ɪn'tɛnʃən] ( intentions )
+  n. 意图；目的；意向；愈合
+
+Paris	英 ['pærɪs] 美 ['pærɪs] 
+  n. 巴黎（法国首都）；帕里斯（特洛伊王子）
+
+Latin	英 ['lætɪn] 美 ['lætn] 
+  adj. 拉丁语的；拉丁人的
+  n. 拉丁语；拉丁人
+
+immediately	英 [ɪ'miːdɪətlɪ] 美 [ɪ'midɪətli] 
+  adv. 立即，立刻；直接地
+  conj. 一…就
+
+amazonian	英/美 [,æmə'zəunjən] 
+  adj. （女子）刚勇的
+
+budget	英 ['bʌdʒɪt] 美 ['bʌdʒɪt] ( budgeting, budgeted, budgets )
+  n. 预算，预算费
+  vt. 安排，预定；把…编入预算
+  vi. 编预算，做预算
+  adj. 廉价的
+
+america	英/美 [əˈmɛrɪkə] 
+  n. 美国；美洲（包括北美和南美洲）
+
+gain	英 [geɪn] 美 [ɡen] ( gaining, gained, gains )
+  n. 增加；利润；收获
+  vt. 获得；增加；赚到
+  vi. 增加；获利
+  n. (Gain)人名；(英、匈、法)盖恩
+
+leader	英 ['liːdə] 美 ['lidɚ] ( leaders )
+  n. 领导者；首领；指挥者
+  n. (Leader)人名；(英)利德
+
+	 
+
+respond	英 [rɪ'spɒnd] 美 [rɪ'spɑnd] ( responding, responded, responds )
+  vi. 回答；作出反应；承担责任
+  vt. 以…回答
+  n. 应答；唱和
+
+	 
+
+security	英 [sɪ'kjʊərətɪ] 美 [sə'kjʊrəti] ( securities )
+  n. 安全；保证；证券；抵押品
+  adj. 安全的；保安的；保密的
+
+regulate	英 ['regjʊleɪt] 美 ['rɛɡjulet] ( regulating, regulated, regulates )
+  vt. 调节，规定；控制；校准；有系统的管理
+
+environmental	英 [ɪnvaɪrən'ment(ə)l; en-] 美 [ɪn,vaɪrən'mɛntl] 
+  adj. 环境的，周围的；有关环境的
+
+vote	英 [vəʊt] 美 [vot; voʊt] ( voting, voted, votes )
+  n. 投票，选举；选票；得票数
+  vt. 提议，使投票；投票决定；公认
+  vi. 选举，投票
+  n. (Vote)人名；(英、法)沃特
+
+waver	英 ['weɪvə] 美 ['wevɚ] ( wavering, wavered, wavers )
+  vi. 摇曳；踌躇；摆动
+  n. 动摇；踌躇；挥动者
+
+November	英 [nə(ʊ)'vembə] 美 [no'vɛmbɚ] ( Novembers )
+  n. 十一月
+
+elect	英 [ɪ'lekt] 美 [ɪ'lɛkt] ( electing, elected, elects )
+  adj. 选出的；当选的；卓越的
+  n. 被选的人；特殊阶层；上帝的选民
+  vt. 选举；选择；推选
+  vi. 作出选择；进行选举
+
+gas	英 [gæs] 美 [ɡæs] ( gassing, gassed, gasses, gases )
+  n. 气体；[矿业] 瓦斯；汽油；毒气
+  vt. 加油；毒（死）
+  vi. 加油；放出气体；空谈
+  n. (Gas)人名；(法、德、西)加斯
+
+realize	英 [ˈrɪəlaɪz] 美 [ˈriəˌlaɪz] ( realizing, realized, realizes )
+  vt. 实现；认识到；了解；将某物卖得，把(证券等)变成现钱；变卖
+
+ever	英 ['evə] 美 ['ɛvɚ] 
+  adv. 永远；曾经；究竟
+  n. (Ever)人名；(英)埃弗；(俄)叶韦尔；(西、法)埃韦尔
+
+remain	英 [rɪ'meɪn] 美 [rɪ'men] ( remaining, remained, remains )
+  vi. 保持；依然；留下；剩余；逗留；残存
+  n. 遗迹；剩余物，残骸
+
+spending	英 ['spendɪŋ] 美 ['spɛndɪŋ] ( spending, spent, spends )
+  n. 花费；开销
+  v. 花费；度过（spend的现在分词形式）
+
+cost	英 [kɒst] 美 [kɔst] ( costing, costs )
+  vt. 花费；使付出；使花许多钱
+  n. 费用，代价，成本；损失
+  vi. 花费
+  n. (Cost)人名；(英、罗)科斯特
+
+hopefully	英 ['həʊpfʊlɪ; -f(ə)lɪ] 美 ['hopfəli] 
+  adv. 有希望地，有前途地
+
+Sunday	英 [ˈsʌndeɪ; ˈsʌndi] 美 [ˈsʌnde; ˈsʌndi] ( Sundays )
+  n. 星期日；礼拜日
+
+Paul	英 [pɔ:l]  
+  n. 保罗（男子名）
+
+Mexican	英 ['meksɪkən] 美 ['mɛksɪkən] ( Mexicans )
+  adj. 墨西哥的；墨西哥人的
+  n. 墨西哥人；墨西哥语
+
+expires	英 [ɪk'spaɪəz] 美 [ek- ɪk'spaɪɚz] ( expiring, expired, expires )
+  n. 到期；有效期
+  v. 期满；断气（expire的三单形式）
+
+should	英 [ʃəd; strong form ʃʊd] 美 [ʃəd; strong form ʃʊd] 
+  aux. 应该；就；可能；将要
+
+election	英 [ɪ'lekʃ(ə)n] 美 [ɪ'lɛkʃən] ( elections )
+  n. 选举；当选；选择权；上帝的选拔
+
+speaker	英 ['spiːkə] 美 ['spikɚ] ( speakers )
+  n. 演讲者；扬声器；说话者；说某种语言的人
+  n. (Speaker)人名；(英)斯皮克
+
+constraint	英 [kən'streɪnt] 美 [kən'strent] ( constraints )
+  n. [数] 约束；局促，态度不自然；强制
+
+vow	英 [vaʊ] 美 [vaʊ] ( vowing, vowed, vows )
+  n. 发誓；誓言；许愿
+  vt. 发誓；郑重宣告
+  vi. 发誓；郑重宣告
+
+December	英 [dɪ'sembə] 美 [dɪ'sɛmbɚ] ( Decembers )
+  n. 十二月
+
+officer	英 ['ɒfɪsə] 美 ['ɔfɪsɚ] ( officers )
+  n. 军官，警官；公务员，政府官员；船长
+  vt. 指挥
+  n. (Officer)人名；(英)奥菲瑟
+
+authority	英 [ɔː'θɒrɪtɪ] 美 [ə'θɔrəti] ( authorities )
+  n. 权威；权力；当局
+
+pull	英 [pʊl] 美 [pʊl] ( pulling, pulled, pulls )
+  vt. 拉；拔；拖
+  vi. 拉，拖；拔
+  n. 拉，拉绳；拉力，牵引力；拖
+  n. (Pull)人名；(法)皮尔；(德、瑞典)普尔
+
+diverge	英 [daɪ'vɜːdʒ; dɪ-] 美 [daɪ'vɝdʒ] ( diverging, diverged, diverges )
+  vi. 分歧；偏离；分叉；离题
+  vt. 使偏离；使分叉
+
+whether	英 ['weðə] 美 ['wɛðɚ] 
+  conj. 是否；不论
+  pron. 两个中的哪一个
+
+global	英 ['gləʊb(ə)l] 美 ['ɡlobl] 
+  adj. 全球的；总体的；球形的
+
+funding	英 ['fʌndɪŋ] 美 ['fʌndɪŋ] 
+  n. 提供资金；用发行长期债券的方法来收回短期债券
+  v. 提供资金；积存（fund的ing形式）
+
+majority	英 [mə'dʒɒrɪtɪ] 美 [mə'dʒɔrəti] ( majorities )
+  n. 多数；成年
+
+approval	英 [ə'pruːv(ə)l] 美 [əˈpruvl] ( approvals )
+  n. 批准；认可；赞成
+
+border	英 ['bɔːdə] 美 ['bɔrdɚ] ( bordering, bordered, borders )
+  n. 边境；边界；国界
+  vt. 接近；与…接壤；在…上镶边
+  vi. 接界；近似
+  n. (Border)人名；(英)博德
+
+position	英 [pə'zɪʃ(ə)n] 美 [pə'zɪʃən] ( positioning, positioned, positions )
+  n. 位置，方位；职位，工作；姿态；站位
+  vt. 安置；把……放在适当位置
+
+review	英 [rɪ'vjuː] 美 [rɪ'vju] ( reviewing, reviewed, reviews )
+  n. 回顾；复习；评论；检讨；检阅
+  vt. 回顾；检查；复审
+  vi. 回顾；复习功课；写评论
+
+nationwide	英 ['neɪʃ(ə)nwaɪd; -'waɪd] 美 [,neʃn'waɪd] 
+  adj. 全国范围的；全国性的
+  adv. 在全国
+
+along	英 [ə'lɒŋ] 美 [ə'lɔŋ] 
+  adv. 一起；向前；来到
+  prep. 沿着；顺着
+
+Wednesday	英 [ˈwenzdɪ] 美 [ˈwɛnzdɪ] ( Wednesdays )
+  n. 星期三
+
+wildlife	英 ['waɪl(d)laɪf] 美 ['waɪldlaɪf] 
+  n. 野生动植物
+  adj. 野生动植物的
+
+enter	英 ['entə] 美 ['ɛntɚ] ( entering, entered, enters )
+  vt. 进入；开始；参加
+  vi. 参加，登场；进去
+  n. [计] 输入；回车
+  n. (Enter)人名；(英)恩特
+
+politico	英/美 [pə'lɪtɪkəʊ] ( politicos )
+  n. 政客
+
+construction	英 [kən'strʌkʃ(ə)n] 美 [kən'strʌkʃən] ( constructions )
+  n. 建设；建筑物；解释；造句
+
+company	英 ['kʌmp(ə)nɪ] 美 ['kʌmpəni] ( companies )
+  n. 公司；陪伴，同伴；连队
+  vi. 交往
+  vt. 陪伴
+  
+  n. (Company)人名；(西)孔帕尼；(英)康帕尼
+
+several	英 [ˈsevrəl] 美 [ˈsɛvrəl] 
+  adj. 几个的；各自的
+  pron. 几个；数个
+
+promise	英 ['prɒmɪs] 美 ['prɑmɪs] ( promising, promised, promises )
+  n. 许诺，允诺；希望
+  vt. 允诺，许诺；给人以…的指望或希望
+  vi. 许诺；有指望，有前途
+
+bloc	英/美 [blɒk] ( blocs )
+  n. 集团
+  n. (Bloc)人名；(法、罗)布洛克
+
+nod	英 [nɒd] 美 [nɑd] ( nodding, nodded, nods )
+  n. 点头；打盹；摆动
+  vt. 点头；点头表示
+  vi. 点头；打盹；摆动
+
+told	英 [təʊld] 美 [told] 
+  v. 告诉（tell的过去式）；讲述
+
+	 
+
+site	英 [saɪt] 美 [saɪt] ( siting, sited, sites )
+  n. 地点；位置；场所
+  vt. 设置；为…选址
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+accord	英 [ə'kɔːd] 美 [ə'kɔrd] ( according, accorded, accords )
+  n. 符合；一致；协议；自愿
+  vt. 使一致；给予
+  vi. 符合；一致
+
+totally	英 ['təʊtəlɪ] 美 ['totəli] 
+  adv. 完全地
+
+participation	英 [pɑː,tɪsɪ'peɪʃn] 美 [pɑr,tɪsɪ'peʃən] 
+  n. 参与；分享；参股
+
+Donald	英/美 ['dɒnəld] 
+  n. 唐纳德（男子名）
+
+	 
+
+withdrawn	英 [wɪð'drɔːn] 美 [wɪð'drɔn] 
+  adj. 偏僻的；沉默寡言的；孤独的
+  v. 取出；撤退（withdraw的过去分词）
+
+representative	英 [reprɪ'zentətɪv] 美 ['rɛprɪ'zɛntətɪv] ( representatives )
+  adj. 典型的，有代表性的；代议制的
+  n. 代表；典型；众议员
+
+host	英 [həʊst] 美 [host] ( hosting, hosted, hosts )
+  n. [计] 主机；主人；主持人；许多
+  vt. 主持；当主人招待
+  vi. 群集；做主人
+
+early	英 ['ɜːlɪ] 美 ['ɝli] ( earlier, earliest )
+  adj. 早期的；早熟的
+  adv. 提早；在初期
+  n. (Early)人名；(英)厄尔利
+
+associate	英 [ə'səʊʃɪeɪt; -sɪeɪt] 美 [ə'soʃɪet] ( associating, associated, associates )
+  vi. 交往；结交
+  n. 同事，伙伴；关联的事物
+  vt. 联想；使联合；使发生联系
+  adj. 副的；联合的
+
+interpret	英 [ɪn'tɜːprɪt] 美 [ɪn'tɝprɪt] ( interpreting, interpreted, interprets )
+  vt. 说明；口译
+  vi. 解释；翻译
+
+mining	英 ['maɪnɪŋ] 美 ['maɪnɪŋ] 
+  n. 矿业；采矿
+
+reporter	英 [rɪ'pɔːtə] 美 [rɪ'pɔrtɚ] ( reporters )
+  n. 记者
+
+fiscal	英 ['fɪsk(ə)l] 美 ['fɪskl] 
+  adj. 会计的，财政的；国库的
+  n. (Fiscal)人名；(法)菲斯卡尔
+
+government	英 [ˈgʌvənmənt] 美 ['ɡʌvɚnmənt] ( governments )
+  n. 政府；政体；管辖
+
+repel	英 [rɪ'pel] 美 [rɪ'pɛl] ( repelling, repelled, repels )
+  vt. 击退；抵制；使厌恶；使不愉快
+
+offer	英 ['ɒfə] 美 ['ɔfɚ] ( offering, offered, offers )
+  vt. 提供；出价；试图
+  n. 提议；出价；意图；录取通知书
+  vi. 提议；出现；献祭；求婚
+
+political	英 [pə'lɪtɪk(ə)l] 美 [pə'lɪtɪkl] 
+  adj. 政治的；党派的
+
+willing	英 ['wɪlɪŋ] 美 ['wɪlɪŋ] 
+  adj. 乐意的；自愿的；心甘情愿的
+  v. 决心；用意志力驱使；将（财产等）遗赠某人（will的现在分词）
+  n. (Willing)人名；(德、芬、瑞典)维林；(英)威林
+
+thwart	英 [θwɔːt] 美 [θwɔrt] ( thwarting, thwarted, thwarts )
+  vt. 挫败；反对；阻碍；横过
+  adj. 横放的；固执的
+  n. 划手座；独木舟的横梁
+  adv. 横过
+  prep. 横过
+
+withdraw	英 [wɪð'drɔː] 美 [wɪð'drɔ] ( withdrawing, withdrew, withdrawn, withdraws )
+  vt. 撤退；收回；撤消；拉开
+  vi. 撤退；离开
+
+measure	英 ['meʒə] 美 ['mɛʒɚ] ( measuring, measured, measures )
+  n. 测量；措施；程度；尺寸
+  vt. 测量；估量；权衡
+  vi. 测量；估量
+
+conference	英 ['kɒnf(ə)r(ə)ns] 美 ['kɑnfərəns] ( conferences )
+  n. 会议；讨论；协商；联盟；（正式）讨论会；[工会、工党用语]（每年的）大会
+  vi. 举行或参加（系列）会议
+
+influence	英 ['ɪnflʊəns] 美 ['ɪnfluəns] ( influencing, influenced, influences )
+  n. 影响；势力；感化；有影响的人或事
+  vt. 影响；改变
+
+emission	英 [ɪ'mɪʃ(ə)n] 美 [ɪ'mɪʃən] ( emissions )
+  n. （光、热等的）发射，散发；喷射；发行
+  n. (Emission)人名；(英)埃米申
+
+agent	英 ['eɪdʒ(ə)nt] 美 ['edʒənt] ( agents )
+  n. 代理人，代理商；药剂；特工
+  vt. 由…作中介；由…代理
+  adj. 代理的
+  n. (Agent)人名；(罗)阿真特
+
+candidacy	英 ['kændɪdəsɪ] 美 ['kændədəsi] ( candidacies )
+  n. 候选资格；候选状态
+
+down	英 [daʊn] 美 [daʊn] ( downing, downed, downs )
+  adv. 向下，下去；在下面
+  adj. 向下的
+  n. 软毛，绒毛；[地质] 开阔的高地
+  prep. 沿着，往下
+  vt. 打倒，击败
+  vi. 下降；下去
+  n. (Down)人名；(英)唐
+
+migrant	英 ['maɪgr(ə)nt] 美 ['maɪɡrənt] ( migrants )
+  n. 候鸟；移居者；随季节迁移的民工
+  adj. 移居的；流浪的
+
+determination	英 [dɪ,tɜːmɪ'neɪʃ(ə)n] 美 [dɪˌtɜːrmɪˈneɪʃn] 
+  n. 决心；果断；测定
+
+group	英 [gruːp] 美 [ɡrup] ( grouping, grouped, groups )
+  n. 组；团体
+  adj. 群的；团体的
+  vi. 聚合
+  vt. 把…聚集；把…分组
+
+development	英 [dɪ'veləpm(ə)nt] 美 [dɪ'vɛləpmənt] ( developments )
+  n. 发展；开发；发育；住宅小区（专指由同一开发商开发的）；[摄] 显影
+
+Michel	英/美 [mi'ʃɛl] 
+  n. 米歇尔（男子名）
+
+target	英 ['tɑːgɪt] 美 ['tɑrɡɪt] ( targetting, targetted, targets )
+  美国塔吉特公司
+
+could	英 [kəd; kʊd] 美 [kəd; kʊd] 
+  aux. 能够
+  v. 能（can的过去式）
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+patrol	英 [pə'trəʊl] 美 [pə'trol] ( patrolling, patrolled, patrols )
+  n. 巡逻；巡逻队；侦察队
+  vt. 巡逻；巡查
+  vi. 巡逻；巡查
+
+un	英 [ʌn] 美 [ju ən] (also un)
+  pron. 家伙，东西
+  n. (Un)人名；(柬)温
+
+reference	英 ['ref(ə)r(ə)ns] 美 ['rɛfrəns] ( references )
+  n. 参考，参照；涉及，提及；参考书目；介绍信；证明书
+  vi. 引用
+  vt. 引用
+
+transition	英 [træn'zɪʃ(ə)n; trɑːn-; -'sɪʃ-] 美 [træn'zɪʃən] ( transitioning, transitioned, transitions )
+  n. 过渡；转变；[分子生物] 转换；变调
+
+	 
+
+expect	英 [ɪkˈspekt] 美 [ɪk'spɛkt] ( expecting, expected, expects )
+  vt. 期望；指望；认为；预料
+  vi. 期待；预期
+
+federal	英 ['fed(ə)r(ə)l] 美 ['fɛdərəl] 
+  adj. 联邦的；同盟的；联邦政府的； 联邦制的
+  adv. 联邦政府地
+  n. (Federal)人名；(英)费德勒尔
+
+	 
+
+opposition	英 [ɒpə'zɪʃ(ə)n] 美 ['ɑpə'zɪʃən] ( oppositions )
+  n. 反对；反对派；在野党；敌对
+
+campaign	英 [kæm'peɪn] 美 [kæm'pen] ( campaigning, campaigned, campaigns )
+  vi. 作战；参加竞选；参加活动
+  n. 运动；活动；战役
+
+republican	英 [rɪ'pʌblɪk(ə)n] 美 [rɪ'pʌblɪkən] ( republicans )
+  adj. 共和国的；共和政体的；共和主义的；拥护共和政体的
+  n. 共和主义者
+
+democrat	英 ['deməkræt] 美 ['dɛməkræt] ( democrats )
+  n. 民主党人；民主主义者；民主政体论者
+
+trump	英 [trʌmp] 美 [trʌmp] ( trumping, trumped, trumps )
+  n. 王牌；法宝；喇叭
+  vt. 胜过；打出王牌赢
+  vi. 出王牌；吹喇叭
+  n. (Trump)人名；(英)特朗普
+
+Poland	英/美 ['pəulənd] 
+  n. 波兰（欧洲国家）
+
+importantly	英/美 [ɪm'pɔːt(ə)ntlɪ] 
+  adv. 重要地；大量地；有名望地；自命不凡地
+
+reduce	英 [rɪ'djuːs] 美 [rɪ'dʊs] ( reducing, reduced, reduces )
+  vt. 减少；降低；使处于；把…分解
+  vi. 减少；缩小；归纳为
+
+voiced	英 [vɒɪst]  
+  adj. 浊音的；有声的
+  v. 表达（voice的过去式和过去分词）；说出
+
+demonstrate	英 ['demənstreɪt] 美 ['dɛmən'stret] ( demonstrating, demonstrated, demonstrates )
+  vt. 证明；展示；论证
+  vi. 示威
+
+nation	英 ['neɪʃ(ə)n] 美 ['neʃən] ( nations )
+  n. 国家；民族；国民
+  n. (Nation)人名；(英)内申
+
+since	英 [sɪns] 美 [sɪns] 
+  conj. 因为；由于；既然；自…以来；自…以后
+  prep. 自…以来；自…以后
+  adv. 后来
+
+estimate	英 ['estɪmeɪt] 美 ['ɛstə,met] ( estimating, estimated, estimates )
+  vi. 估计，估价
+  n. 估计，估价；判断，看法
+  vt. 估计，估量；判断，评价
+
+police	英 [pə'liːs] 美 [pə'lis] ( policing, policed, polices )
+  n. 警察，警方；治安
+  vt. 监督；管辖；维持治安；为…配备警察
+  adj. 警察的；有关警察的
+
+shut	英 [ʃʌt] 美 [ʃʌt] ( shutting, shuts )
+  vt. 关闭；停业；幽禁
+  vi. 关上；停止营业
+  n. 关闭
+  adj. 关闭的；围绕的
+  n. (Shut)人名；(俄)舒特；(中)室(广东话·威妥玛)
+
+Brazilian	英 [brəˈzɪliən] 美 [brə'zɪljən] ( Brazilians )
+  adj. 巴西的；巴西人的
+  n. 巴西人
+
+period	英 ['pɪərɪəd] 美 ['pɪrɪəd] ( periods )
+  n. 周期，期间；时期；月经；课时；（语法学）句点，句号
+  adj. 某一时代的
+
+Ryan	英/美 ['raiən] 
+  n. 赖安（男子名）
+
+crowd	英 [kraʊd] 美 [kraʊd] ( crowding, crowded, crowds )
+  n. 群众,一伙;一堆,许多,大众
+  v. 拥挤,挤满,挤进
+  vt. 挤满,将...塞进;催促,催逼
+  vi. 挤,拥挤,聚集
+
+climate	英 [ˈklaɪmɪt] 美 [ˈklaɪmɪt] ( climates )
+  n. 气候；风气；思潮；风土
+
+amazon	英/美 [ˈæmə.zɑːn] 
+  亚马逊；古希腊女战士
+
+administration	英 [ədmɪnɪ'streɪʃ(ə)n] 美 [əd,mɪnɪ'streʃən] ( administrations )
+  n. 管理；行政；实施；行政机构
+
+interview	英 ['ɪntəvjuː] 美 ['ɪntɚvju] ( interviewing, interviewed, interviews )
+  n. 接见，采访；面试，面谈
+  vt. 采访；接见；对…进行面谈；对某人进行面试
+
+agribusiness	英 ['ægrɪbɪznɪs] 美 ['æɡrɪbɪznəs] 
+  n. 农业综合企业（包括农业设备、用品的制造、农产品的产销、制造加工等）
+
+don	英 [dɒn]  ( donning, donned, dons )
+  n. 先生，阁下；指导教师，大学教师
+  vt. 穿上
+  n. (Don)人名；(缅)顿；(英)唐(男子教名Donald 的昵称)
+
+thrower	英/美 ['θroɚ] 
+  n. 投掷者；抛油环；制陶坯的工人
+  n. (Thrower)人名；(英)思罗尔
+
+Washington	英 [ˈwɒʃɪŋtən] 美 [ˈwɑʃɪŋtən] 
+  n. 华盛顿（美国州名，美国城市名，美国第一任总统，姓氏）
+
+vital	英 ['vaɪt(ə)l] 美 ['vaɪtl] 
+  adj. 至关重要的；生死攸关的；有活力的
+  n. (Vital)人名；(法、德、意、俄、葡)维塔尔；(西)比塔尔
+
+impossible	英 [ɪm'pɒsɪb(ə)l] 美 [ɪm'pɑsəbl] 
+  adj. 不可能的；不可能存在的；难以忍受的；不真实的
+  n. 不可能；不可能的事
+
+share	英 [ʃeə] 美 [ʃɛr] ( sharing, shared, shares )
+  vt. 分享，分担；分配
+  vi. 共享；分担
+  n. 份额；股份
+  n. (Share)人名；(阿拉伯)沙雷
+
+if	英 [ɪf] 美 [ɪf] 
+  conj. （表条件）如果；即使；是否；（表假设）假如
+  n. 条件；设想
+
+apart	英 [ə'pɑːt] 美 [ə'pɑrt] 
+  adv. 相距；与众不同地；分离着
+  adj. 分离的；与众不同的
+
+partially	英 ['pɑːʃ(ə)lɪ] 美 ['pɑrʃəli] 
+  adv. 部分地；偏袒地
+
+thing	英 [θɪŋ] 美 [θɪŋ] ( things )
+  n. 事情；东西；事物；情况
+
+include	英 [ɪn'kluːd] 美 [ɪn'klud] ( including, included, includes )
+  vt. 包含，包括
+
+re	英 [riː; reɪ] 美 [ri] 
+  prep. 再，重新
+  abbr. 修订版（revised edition）；回复，答复（reply）
+  n. (Re)人名；(英、意、塞)雷
+
+central	英 ['sentr(ə)l] 美 ['sɛntrəl] 
+  adj. 中心的；主要的；中枢的
+  n. 电话总机
+
+forest	英 ['fɒrɪst] 美 ['fɔrɪst] ( forests )
+  vt. 植树于，使成为森林
+  n. 森林
+  n. (Forest)人名；(法)福雷；(英、西)福雷斯特
+
+official	英 [ə'fɪʃ(ə)l] 美 [əˈfɪʃəl; oʊˈfɪʃəl] ( officials )
+  adj. 官方的；正式的；公务的
+  n. 官员；公务员；高级职员
+
+insist	英 [ɪn'sɪst] 美 [ɪn'sɪst] ( insisting, insisted, insists )
+  vt. 坚持，强调
+  vi. 坚持，强调
+
+expand	英 [ɪk'spænd; ek-] 美 [ɪk'spænd] ( expanding, expanded, expands )
+  vt. 扩张；使膨胀；详述
+  vi. 发展；张开，展开
+
+agency	英 ['eɪdʒ(ə)nsɪ] 美 ['edʒənsi] ( agencies )
+  n. 代理，中介；代理处，经销处
+
+American	英 [əˈmerɪkən] 美 [əˈmɛrɪkən] ( Americans )
+  n. 美国人
+  adj. 美国的
+
+sent	英 [sent] 美 [sɛnt] 
+  v. 送，寄出（send的过去分词）
+  n. (Sent)人名；(德)森特
+
+decision	英 [dɪ'sɪʒ(ə)n] 美 [dɪ'sɪʒn] ( decisions )
+  n. 决定，决心；决议
+
+press	英 [pres] 美 [prɛs] ( pressing, pressed, presses )
+  vt. 压；按；逼迫；紧抱
+  vi. 压；逼；重压
+  n. 压；按；新闻；出版社；[印刷] 印刷机
+  n. (Press)人名；(英、德、俄、西、瑞典)普雷斯
+
+congressional	英 [kən'ɡreʃənəl] 美 [kən'ɡrɛʃənl] (also Congressional)
+  adj. 国会的；会议的；议会的
+
+greenhouse	英 ['griːnhaʊs] 美 ['ɡrinhaʊs] ( greenhouses )
+  n. 温室
+  造成温室效应的
+
+tremendous	英 [trɪ'mendəs] 美 [trə'mɛndəs] 
+  adj. 极大的，巨大的；惊人的；极好的
+

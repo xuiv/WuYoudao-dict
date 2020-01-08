@@ -1,0 +1,364 @@
+technology	英 [tek'nɒlədʒɪ] 美 [tɛkˈnɑlədʒɪ] ( technologies )
+  n. 技术；工艺；术语
+
+slightly	英 ['slaɪtlɪ] 美 ['slaɪtli] 
+  adv. 些微地，轻微地；纤细地
+
+vacancy	英 ['veɪk(ə)nsɪ] 美 ['vekənsi] ( vacancies )
+  n. 空缺；空位；空白；空虚
+
+judiciary	英 [dʒʊ'dɪʃ(ə)rɪ] 美 [dʒu'dɪʃɪɛri] 
+  n. 司法部；法官；司法制度
+  adj. 司法的；法官的；法院的
+
+ensure	英 [ɪn'ʃɔː; -'ʃʊə; en-] 美 [ɪn'ʃʊr] ( ensuring, ensured, ensures )
+  vt. 保证，确保；使安全
+
+litigant	英 ['lɪtɪg(ə)nt] 美 ['lɪtɪɡənt] ( litigants )
+  n. 诉讼当事人
+  adj. 诉讼的
+
+breach	英 [briːtʃ] 美 [britʃ] ( breaching, breached, breaches )
+  n. 违背，违反；缺口
+  vt. 违反，破坏；打破
+
+solid	英 ['sɒlɪd] 美 ['sɑlɪd] ( solids )
+  adj. 固体的；可靠的；立体的；结实的；一致的
+  n. 固体；立方体
+  n. (Solid)人名；(瑞典)索利德
+
+landmark	英 ['læn(d)mɑːk] 美 ['lændmɑrk] ( landmarks )
+  n. [航]陆标；地标；界标；里程碑；纪念碑；地界标；划时代的事
+  adj. 有重大意义或影响的
+  n. （瑞典、挪）兰德马克（人名）
+
+umpire	英 ['ʌmpaɪə] 美 ['ʌmpaɪɚ] ( umpiring, umpired, umpires )
+  vi. 当裁判，任裁判
+  vt. 仲裁，裁判
+  n. 裁判员，仲裁人
+
+confirm	英 [kən'fɜːm] 美 [kən'fɝm] ( confirming, confirmed, confirms )
+  vt. 确认；确定；证实；批准；使巩固
+
+vow	英 [vaʊ] 美 [vaʊ] ( vowing, vowed, vows )
+  n. 发誓；誓言；许愿
+  vt. 发誓；郑重宣告
+  vi. 发誓；郑重宣告
+
+democrat	英 ['deməkræt] 美 ['dɛməkræt] ( democrats )
+  n. 民主党人；民主主义者；民主政体论者
+
+retirement	英 [rɪ'taɪəm(ə)nt] 美 [rɪ'taɪɚmənt] ( retirements )
+  n. 退休，退役
+
+appointment	英 [əˈpɔɪntmənt] 美 [ə'pɔɪntmənt] ( appointments )
+  n. 任命；约定；任命的职位
+
+share	英 [ʃeə] 美 [ʃɛr] ( sharing, shared, shares )
+  vt. 分享，分担；分配
+  vi. 共享；分担
+  n. 份额；股份
+  n. (Share)人名；(阿拉伯)沙雷
+
+abortion	英 [ə'bɔːʃ(ə)n] 美 [ə'bɔrʃən] ( abortions )
+  n. 流产，堕胎，小产；流产的胎儿；（计划等）失败，夭折
+
+level	英 ['lev(ə)l] 美 ['lɛvl] ( levelling, leveled, levels )
+  n. 水平；标准；水平面
+  adj. 水平的；平坦的；同高的
+  vi. 瞄准；拉平；变得平坦
+  vt. 使同等；对准；弄平
+  n. (Level)人名；(法)勒韦尔
+
+heavyweight	英 ['hevɪweɪt] 美 ['hɛvɪwet] ( heavyweights )
+  n. 重量级拳击手；有影响的人物；聪明绝顶的人
+  adj. 重量级的；特别厚重的
+
+hop	英 [hɒp] 美 [hɑp] ( hopping, hopped, hops )
+  v. 单足跳跃〔跳行〕
+  vt. 搭乘
+  vi. 双足或齐足跳行
+  n. 蹦跳,跳跃；跳舞；一次飞行的距离
+  n. (Hop)人名；(中)合(广东话·威妥玛)
+
+Wednesday	英 [ˈwenzdɪ] 美 [ˈwɛnzdɪ] ( Wednesdays )
+  n. 星期三
+
+release	英 [rɪ'liːs] 美 [rɪ'lis] ( releasing, released, releases )
+  vt. 释放；发射；让与；允许发表
+  n. 释放；发布；让与
+
+impartial	英 [ɪm'pɑːʃ(ə)l] 美 [ɪm'pɑrʃəl] 
+  adj. 公平的，公正的；不偏不倚的
+
+policy	英 ['pɒləsɪ] 美 ['pɑləsi] ( policies )
+  n. 政策，方针；保险单
+
+opening	英 ['əʊp(ə)nɪŋ] 美 ['opənɪŋ] ( openings )
+  n. 开始；机会；通路；空缺的职位
+  adj. 开始的
+  v. 开放（open的ing形式）；打开；公开
+
+presidential	英 [,prezɪ'denʃəl] 美 ['prɛzədɛnʃəl] 
+  adj. 总统的；首长的；统辖的
+
+lead	英 [li:d;led] 美 [lid; lɛd] ( leading, led, leads )
+  n. 领导；铅；导线；榜样
+  vt. 领导；致使；引导；指挥
+  vi. 领导；导致；用水砣测深
+  adj. 带头的；最重要的
+  n. (Lead)人名；(英)利德
+
+fill	英 [fɪl] 美 [fɪl] ( filling, filled, fills )
+  vt. 装满，使充满；满足；堵塞；任职
+  vi. 被充满，膨胀
+  n. 满足；填满的量；装填物
+  n. (Fill)人名；(德、俄、匈)菲尔
+
+trump	英 [trʌmp] 美 [trʌmp] ( trumping, trumped, trumps )
+  n. 王牌；法宝；喇叭
+  vt. 胜过；打出王牌赢
+  vi. 出王牌；吹喇叭
+  n. (Trump)人名；(英)特朗普
+
+could	英 [kəd; kʊd] 美 [kəd; kʊd] 
+  aux. 能够
+  v. 能（can的过去式）
+
+remark	英 [rɪ'mɑːk] 美 [rɪ'mɑrk] ( remarking, remarked, remarks )
+  n. 注意；言辞
+  vt. 评论；觉察
+  vi. 谈论
+
+text	英 [tekst] 美 [tɛkst] ( texting, texted, texts )
+  n. [计] 文本；课文；主题
+  vt. 发短信
+
+Tuesday	英 ['tjuːzdeɪ; -dɪ] 美 [ˈtuzdɪ;-de] ( Tuesdays )
+  n. 星期二
+
+majority	英 [mə'dʒɒrɪtɪ] 美 [mə'dʒɔrəti] ( majorities )
+  n. 多数；成年
+
+include	英 [ɪn'kluːd] 美 [ɪn'klud] ( including, included, includes )
+  vt. 包含，包括
+
+valuation	英 [væljʊ'eɪʃ(ə)n] 美 [,vælju'eʃən] ( valuations )
+  n. 评价，估价；计算
+
+arbiter	英 ['ɑːbɪtə] 美 ['ɑrbɪtɚ] ( arbiters )
+  n. [法] 仲裁者；裁决人
+  n. (Arbiter)人名；(英)阿比特
+
+issue	英 ['ɪʃuː; 'ɪsjuː] 美 ['ɪʃu] ( issuing, issued, issues )
+  n. 问题；流出；期号；发行物
+  vt. 发行，发布；发给；放出，排出
+  vi. 发行；流出；造成…结果；传下
+
+court	英 [kɔːt] 美 [kɔrt] ( courts )
+  n. 法院；球场；朝廷；奉承
+  vt. 招致（失败、危险等）；向…献殷勤；设法获得
+  vi. 求爱
+  n. (Court)人名；(英)考特；(法)库尔
+
+committee	英 [kə'mɪtɪ] 美 [kə'mɪti] ( committees )
+  n. 委员会
+
+supreme	英 [suː'priːm] 美 [suˈprim] 
+  adj. 最高的；至高的；最重要的
+  n. 至高；霸权
+
+gay	英 [geɪ] 美 [ɡe] ( gays )
+  adj. 快乐的；放荡的；艳丽的
+  n. 同性恋者
+  n. (Gay)人名；(西)加伊；(英、法、瑞典、毛里塔)盖伊
+
+trillion	英 ['trɪljən] 美 ['trɪljən] ( trillions )
+  n. [数] 万亿
+  adj. 万亿的
+  num. [数] 万亿
+
+Donald	英/美 ['dɒnəld] 
+  n. 唐纳德（男子名）
+
+milestone	英 ['maɪlstəʊn] 美 ['maɪlston] ( milestones )
+  n. 里程碑，划时代的事件
+  n. (Milestone)人名；(英)迈尔斯通
+
+direct	英 [dəˈrekt; daɪˈrekt] 美 [dəˈrɛkt; daɪˈrɛkt] ( directing, directed, directs )
+  adj. 直接的；直系的；亲身的；恰好的
+  vt. 管理；指挥；导演；指向
+  vi. 指导；指挥
+  adv. 直接地；正好；按直系关系
+
+Anthony	英 ['æntənɪ; ˈænθəni] 美 ['æntənɪ; ˈænθəni] 
+  n. 安东尼（人名）
+
+strongly	英 ['strɒŋlɪ] 美 ['strɔŋli] 
+  adv. 强有力地；坚强地；激烈地；气味浓地
+
+stance	英 [stɑːns; stæns] 美 [stæns] ( stances )
+  n. 立场；姿态；位置；准备击球姿势
+
+fear	英 [fɪə] 美 [fɪr] ( fearing, feared, fears )
+  n. 害怕；恐惧；敬畏；担心
+  vt. 害怕；敬畏；为…担心
+  vi. 害怕；敬畏；为…担心
+
+judge	英 [dʒʌdʒ] 美 [dʒʌdʒ] ( judging, judged, judges )
+  vt. 判断；审判
+  n. 法官；裁判员
+  vi. 审判；判决
+  n. (Judge)人名；(英)贾奇
+
+retreat	英 [rɪ'triːt] 美 [rɪ'trit] ( retreating, retreated, retreats )
+  n. 撤退；休息寓所；撤退
+  vi. 撤退；退避；向后倾
+  vt. 退（棋）；使后退
+
+confirmation	英 [kɒnfə'meɪʃ(ə)n] 美 [,kɑnfɚ'meʃən] 
+  n. 确认；证实；证明；批准
+
+American	英 [əˈmerɪkən] 美 [əˈmɛrɪkən] ( Americans )
+  n. 美国人
+  adj. 美国的
+
+range	英 [reɪn(d)ʒ] 美 [rendʒ] ( ranging, ranged, ranges )
+  n. 范围；幅度；排；山脉
+  vi. （在...内）变动；平行，列为一行；延伸；漫游；射程达到
+  vt. 漫游；放牧；使并列；归类于；来回走动
+
+October	英 [ɒk'təʊbə] 美 [ɑk'tobɚ] ( Octobers )
+  n. [天] 十月
+
+favor	英 ['feɪvə] 美 ['fevɚ] 
+  vt. 赞成；喜欢；像；赐予；证实
+  n. 喜爱；欢心；好感
+
+nation	英 ['neɪʃ(ə)n] 美 ['neʃən] ( nations )
+  n. 国家；民族；国民
+  n. (Nation)人名；(英)内申
+
+Brett	英/美 [bret] 
+  n. 布雷特（男子名）
+
+senate	英 ['senɪt] 美 ['sɛnət] ( Senates )
+  n. 参议院，上院；（古罗马的）元老院
+
+retail	英 ['riːteɪl] 美 ['ritel] ( retailing, retailed, retails )
+  vt. 零售；转述
+  vi. 零售
+  n. 零售
+  adv. 以零售方式
+  adj. 零售的
+  n. (Retail)人名；(法)勒塔伊
+
+value	英 ['væljuː] 美 ['vælju] ( valuing, valued, values )
+  n. 值；价值；价格；重要性；确切涵义
+  vt. 评价；重视；估价
+
+amazon	英/美 [ˈæmə.zɑːn] 
+  亚马逊；古希腊女战士
+
+rise	英 [raɪz] 美 [raɪz] ( rising, rose, risen, rises )
+  vi. 上升；增强；起立；高耸
+  vt. 使…飞起；使…浮上水面
+  n. 上升；高地；增加；出现
+
+	 
+
+Kennedy	英/美 ['kenidi] 
+  n. 肯尼迪（姓氏，美国第35任总统）
+
+online	英 [ɒn'laɪn] 美 ['ɑn'laɪn] (also on-line)
+  adj. 联机的；在线的
+  adv. 在线地
+
+advance	英 [əd'vɑːns] 美 [əd'væns] ( advancing, advanced, advances )
+  n. 发展；前进；增长；预付款
+  vt. 提出；预付；使……前进；将……提前
+  vi. 前进；进展；上涨
+  adj. 预先的；先行的
+
+justice	英 ['dʒʌstɪs] 美 ['dʒʌstɪs] ( justices )
+  n. 司法，法律制裁；正义；法官，审判员
+  n. (Justice)人名；(英)贾斯蒂斯，贾斯蒂丝(女名)
+
+nomination	英 [nɒmɪ'neɪʃ(ə)n] 美 [,nɑmɪ'neʃən] ( nominations )
+  n. 任命，提名；提名权
+
+member	英 ['membə] 美 ['mɛmbɚ] ( members )
+  n. 成员；会员；议员
+
+generation	英 [dʒenə'reɪʃ(ə)n] 美 ['dʒɛnə'reʃən] ( generations )
+  n. 一代；产生；一代人；生殖
+
+clout	英 [klaʊt] 美 [klaʊt] ( clouting, clouted, clouts )
+  n. 破布；敲打；影响力；势力
+  vt. 给…打补钉；猛击
+  n. (Clout)人名；(法)克卢
+
+due	英 [djuː] 美 [du] 
+  adj. 到期的；预期的；应付的；应得的
+  n. 应付款；应得之物
+  adv. 正（置于方位词前）
+  n. (Due)人名；(英)迪尤
+
+September	英 [sep'tembə] 美 [sɛp'tɛmbɚ] ( Septembers )
+  n. 九月
+
+lifetime	英 ['laɪftaɪm] 美 ['laɪftaɪm] ( lifetimes )
+  n. 一生；寿命；终生；使用期
+  adj. 一生的；终身的
+
+company	英 ['kʌmp(ə)nɪ] 美 ['kʌmpəni] ( companies )
+  n. 公司；陪伴，同伴；连队
+  vi. 交往
+  vt. 陪伴
+  
+  n. (Company)人名；(西)孔帕尼；(英)康帕尼
+
+president	英 ['prezɪd(ə)nt] 美 ['prɛzɪdənt] ( presidents )
+  n. 总统；董事长；校长；主席
+
+neutral	英 ['njuːtr(ə)l] 美 ['nʊtrəl] ( neutrals )
+  adj. 中立的，中性的；中立国的；非彩色的
+  n. 中立国；中立者；非彩色；齿轮的空档
+
+demonstration	英 [demən'streɪʃ(ə)n] 美 [,dɛmən'streʃən] ( demonstrations )
+  n. 示范；证明；示威游行
+
+power	英 ['paʊə] 美 ['paʊɚ] ( powering, powered, powers )
+  n. 力量，能力；电力，功率；政权，势力；[数] 幂
+  vt. 激励；供以动力；使…有力量
+  vi. 快速前进
+  adj. 借影响有权势人物以操纵权力的
+  n. (Power)人名；(英、葡)鲍尔
+
+stock	英 [stɒk] 美 [stɑk] ( stocking, stocked, stocks )
+  n. 股份，股票；库存；血统；树干；家畜
+  adj. 存货的，常备的；平凡的
+  vt. 进货；备有；装把手于…
+  vi. 囤积；办货；出新芽
+  n. (Stock)人名；(德、匈、捷)施托克；(英、法、葡、瑞典)斯托克
+
+nominee	英 [nɒmɪ'niː] 美 [,nɑmɪ'ni] ( nominees )
+  n. 被任命者；被提名的人；代名人
+
+GMT	英/美 [,dʒi: em 'ti:] 
+  abbr. 格林威治标准时间（Greenwich Mean Time）
+
+conservative	英 [kən'sɜːvətɪv] 美 [kən'sɝvətɪv] ( conservatives )
+  adj. 保守的
+  n. 保守派，守旧者
+
+percent	英 [pə'sent] 美 [pɚ'sɛnt] 
+  n. 百分比，百分率；部分；百分数
+  adj. 百分之…的
+  adv. 以百分之…地
+
+hearing	英 ['hɪərɪŋ] 美 ['hɪrɪŋ] ( hearings )
+  n. 听力；审讯，听讯
+  v. 听见（hear的ing形式）
+  n. (Hearing)人名；(英)希尔林
+

@@ -1,0 +1,301 @@
+decision	英 [dɪ'sɪʒ(ə)n] 美 [dɪ'sɪʒn] ( decisions )
+  n. 决定，决心；决议
+
+cancel	英 ['kæns(ə)l] 美 ['kænsl] ( cancelling, cancelled, cancels )
+  vt. 取消；删去
+  vi. 取消；相互抵消
+  vi. 取消，撤销
+  n. 取消，撤销
+  n. (Cancel)人名；(法)康塞尔
+
+number	英 ['nʌmbə] 美 ['nʌmbɚ] ( numbering, numbered, numbers )
+  n. 数；（杂志等的）期；号码；数字；算术
+  vi. 计入；总数达到
+  vt. 编号；计入；数…的数目；使为数有限
+
+outpace	英 [aʊt'peɪs] 美 [,aʊt'pes] ( outpacing, outpaced, outpaces )
+  vt. 赶过；超过…速度
+
+collapse	英 [kə'læps] 美 [kə'læps] ( collapsing, collapsed, collapses )
+  vi. 倒塌；瓦解；暴跌
+  vt. 使倒塌，使崩溃；使萎陷；折叠
+  n. 倒塌；失败；衰竭
+
+escalate	英 ['eskəleɪt] 美 ['ɛskəlet] ( escalating, escalated, escalates )
+  vi. 逐步增强；逐步升高
+  vt. 使逐步上升
+
+percent	英 [pə'sent] 美 [pɚ'sɛnt] 
+  n. 百分比，百分率；部分；百分数
+  adj. 百分之…的
+  adv. 以百分之…地
+
+nation	英 ['neɪʃ(ə)n] 美 ['neʃən] ( nations )
+  n. 国家；民族；国民
+  n. (Nation)人名；(英)内申
+
+first	英 [fɜːst] 美 [fɝst] 
+  adv. 第一；首先；优先；宁愿
+  n. 第一；开始；冠军
+  adj. 第一的；基本的；最早的
+  num. 第一
+  n. (First)人名；(英)弗斯特；(捷)菲尔斯特
+
+Syria	英/美 ['si:riə; 'si-] 
+  n. 叙利亚共和国
+
+invest	英 [ɪn'vest] 美 [ɪn'vɛst] ( investing, invested, invests )
+  vt. 投资；覆盖；耗费；授予；包围
+  vi. 投资，入股；花钱买
+
+annual	英 ['ænjʊəl] 美 ['ænjuəl] ( annuals )
+  adj. 年度的；每年的
+  n. 年刊，年鉴；一年生植物
+
+global	英 ['gləʊb(ə)l] 美 ['ɡlobl] 
+  adj. 全球的；总体的；球形的
+
+decline	英 [dɪ'klaɪn] 美 [dɪ'klaɪn] ( declining, declined, declines )
+  n. 下降；衰退；斜面
+  vi. 下降；衰落；谢绝
+  vt. 谢绝；婉拒
+
+council	英 ['kaʊns(ə)l; -sɪl] 美 ['kaʊnsl] ( councils )
+  n. 委员会；会议；理事会；地方议会；顾问班子
+  n. (Council)人名；(英)康斯尔
+
+major	英 ['meɪdʒə] 美 ['medʒɚ] ( majoring, majored, majors )
+  adj. 主要的；重要的；主修的；较多的
+  n. [人类] 成年人；主修科目；陆军少校
+  vi. 主修
+  n. (Major)人名；(西)马霍尔；(法)马若尔；(捷、德、塞、瑞典)马约尔；(英)梅杰
+
+commit	英 [kə'mɪt] 美 [kə'mɪt] ( committing, committed, commits )
+  vt. 犯罪，做错事；把...交托给；指派…作战；使…承担义务
+
+international	英 [ɪntə'næʃ(ə)n(ə)l] 美 [,ɪntɚ'næʃnəl] 
+  n. 国际组织；国际体育比赛；外国居留者；国际股票
+  adj. 国际的；两国（或以上）国家的；超越国界的；国际关系的；世界的
+
+syrian	英/美 ['si:riən, 'si-] ( Syrians )
+  adj. 叙利亚的；叙利亚人的；叙利亚语的
+  n. 叙利亚人；叙利亚语
+
+observer	英 [əb'zɜːvə] 美 [əb'zɝvɚ] ( observers )
+  n. 观察者；[天] 观测者；遵守者
+
+clearest	英/美 [kliə] 
+  清楚的
+  明确的
+  清澈的
+  晴朗的（clear的最高级）
+
+yet	英 [jet] 美 [jɛt] 
+  adv. 还；但是；已经
+  conj. 但是；然而
+  n. (Yet)人名；(东南亚国家华语)一
+
+region	英 ['riːdʒ(ə)n] 美 ['ridʒən] ( regions )
+  n. 地区；范围；部位
+
+wealthy	英 ['welθɪ] 美 ['wɛlθi] ( wealthier, wealthiest )
+  adj. 富有的；充分的；丰裕的
+  n. 富人
+
+Europe	英 ['jʊrəp] 美 ['jʊrəp] 
+  n. 欧洲
+
+north	英 [nɔːθ] 美 [nɔrθ] (also North)
+  n. 北，北方
+  adj. 北方的；朝北的
+  adv. 在北方，向北方
+
+least	英 [liːst] 美 [list] 
+  adj. 最小的；最少的（little的最高级）
+  adv. 最小；最少
+  n. 最小；最少
+
+several	英 [ˈsevrəl] 美 [ˈsɛvrəl] 
+  adj. 几个的；各自的
+  pron. 几个；数个
+
+mission	英 ['mɪʃ(ə)n] 美 ['mɪʃən] ( missions )
+  n. 使命，任务；代表团；布道
+  vt. 派遣；向……传教
+
+general	英 ['dʒen(ə)r(ə)l] 美 ['dʒɛnrəl] ( generals )
+  adj. 一般的，普通的；综合的；大体的
+  n. 一般；将军，上将；常规
+  n. (General)人名；(英)杰纳勒尔
+
+annan	英/美 [ˈænən]] 
+  安南（人名）
+
+suffer	英 ['sʌfə] 美 ['sʌfɚ] ( suffering, suffered, suffers )
+  vt. 遭受；忍受；经历
+  vi. 遭受，忍受；受痛苦；经验；受损害
+  n. (Suffer)人名；(意)苏费尔
+
+security	英 [sɪ'kjʊərətɪ] 美 [sə'kjʊrəti] ( securities )
+  n. 安全；保证；证券；抵押品
+  adj. 安全的；保安的；保密的
+
+told	英 [təʊld] 美 [told] 
+  v. 告诉（tell的过去式）；讲述
+
+uncertainty	英 [ʌn'sɜːt(ə)ntɪ; -tɪntɪ] 美 [ʌn'sɝtnti] ( uncertainties )
+  n. 不确定，不可靠
+
+Saturday	英 [ˈsætədɪ; -deɪ] 美 [sætɚdɪ; -de] ( Saturdays )
+  n. 星期六
+
+torn	英 [tɔːn] 美 [tɔrn] 
+  v. 扯裂，撕开（tear的过去分词）
+  n. (Torn)人名；(英、俄、捷)托恩
+
+Kofi	 
+  n. (Kofi)人名；(法、加纳)科菲
+
+Asia	英 [ˈeɪʃn] 美 [ˈeɪʒn; eʒən] 
+  n. 亚洲
+
+due	英 [djuː] 美 [du] 
+  adj. 到期的；预期的；应付的；应得的
+  n. 应付款；应得之物
+  adv. 正（置于方位词前）
+  n. (Due)人名；(英)迪尤
+
+violence	英 ['vaɪəl(ə)ns] 美 ['vaɪələns] 
+  n. 暴力；侵犯；激烈；歪曲
+
+envoy	英 ['envɒɪ] 美 ['ɛnvɔɪ] ( envoys )
+  n. 使者；全权公使
+
+Norway	英 ['nɔ:weɪ] 美 ['nɔrweɪ] 
+  n. 挪威（北欧国家名）
+
+un	英 [ʌn] 美 [ju ən] (also un)
+  pron. 家伙，东西
+  n. (Un)人名；(柬)温
+
+america	英/美 [əˈmɛrɪkə] 
+  n. 美国；美洲（包括北美和南美洲）
+
+wealth	英 [welθ] 美 [wɛlθ] 
+  n. 财富；大量；富有
+
+Robert	英/美 ['rɔbət] 
+  n. 罗伯特（男子名）
+
+damage	英 ['dæmɪdʒ] 美 ['dæmɪdʒ] ( damaging, damaged, damages )
+  n. 损害；损毁；赔偿金
+  vi. 损害；损毁
+  vt. 损害，毁坏
+
+combine	英 [kəm'baɪn] 美 [kəm'baɪn] ( combining, combined, combines )
+  vt. 使化合；使联合，使结合
+  vi. 联合，结合；化合
+  n. 联合收割机；联合企业
+
+suspend	英 [sə'spend] 美 [sə'spɛnd] ( suspending, suspended, suspends )
+  vt. 延缓，推迟；使暂停；使悬浮
+  vi. 悬浮；禁赛
+
+total	英 ['təʊt(ə)l] 美 ['totl] ( totalling, totalled, totals )
+  adj. 全部的；完全的；整个的
+  vt. 总数达
+  vi. 合计
+  n. 总数，合计
+  n. (Total)人名；(法、德)托塔尔
+
+mood	英 [muːd] 美 [mud] ( moods )
+  n. 情绪，语气；心境；气氛
+  n. (Mood)人名；(英)穆德；(瑞典)莫德
+
+broker	英 ['brəʊkə] 美 ['brokɚ] ( brokering, brokered, brokers )
+  n. 经纪人，掮客
+  vi. 作为权力经纪人进行谈判
+  vt. 以中间人等身分安排...
+  n. (Broker)人名；(英)布罗克；(俄)布罗克尔
+
+premature	英 ['premətjʊə] 美 [,primə'tʃʊr] 
+  adj. 早产的；不成熟的；比预期早的
+  n. 早产儿；过早发生的事物
+
+monitoring	英 ['mɒnɪtərɪŋ] 美 ['mɔnɪtərɪŋ] ( monitoring, monitored, monitors )
+  n. 监视，[自] 监控；检验，检查
+  v. 监视，[通信][军] 监听，监督（monitor的ing形式）
+
+remain	英 [rɪ'meɪn] 美 [rɪ'men] ( remaining, remained, remains )
+  vi. 保持；依然；留下；剩余；逗留；残存
+  n. 遗迹；剩余物，残骸
+
+increase	英 [ɪn'kriːs] 美 ['ɪnkris] ( increasing, increased, increases )
+  n. 增加，增长；提高
+  vi. 增加，增大；繁殖
+  vt. 增加，加大
+  n. (Increase)人名；(英)英克里斯
+
+economic	英 [,iːkə'nɒmɪk; ek-] 美 [ˌikəˈnɑmɪk, ˌɛkəˈ-nɑmɪk] 
+  adj. 经济的，经济上的；经济学的
+
+pacific	英 [pə'sɪfɪk] 美 [pə'sɪfɪk] 
+  adj. 和平的；温和的；平静的
+  n. 太平洋
+  adj. 太平洋的
+
+target	英 ['tɑːgɪt] 美 ['tɑrɡɪt] ( targetting, targetted, targets )
+  美国塔吉特公司
+
+member	英 ['membə] 美 ['mɛmbɚ] ( members )
+  n. 成员；会员；议员
+
+net	英 [net] 美 [nɛt] ( netting, netted, nets )
+  n. 网；网络；净利；实价
+  vi. 编网
+  vt. 得到；净赚；用网捕
+  adj. 纯粹的；净余的
+  n. (Net)人名；(法)内
+
+unarmed	英 [ʌn'ɑːmd] 美 ['ʌn'ɑrmd] 
+  adj. 没有武装的；无武器的
+  v. 缴械；解除…的武装（unarm的过去分词）
+
+found	英 [faʊnd] 美 [faʊnd] ( founding, founded, founds )
+  vt. 创立，建立；创办
+  v. 找到（find的过去分词）
+
+Tuesday	英 ['tjuːzdeɪ; -dɪ] 美 [ˈtuzdɪ;-de] ( Tuesdays )
+  n. 星期二
+
+united	英 [jʊ'naɪtɪd] 美 [jʊ'naɪtɪd] 
+  adj. 一致的，统一的；团结的，和睦的
+
+steady	英 ['stedɪ] 美 ['stɛdi] ( steadying, steadied, steadier, steadies, steadiest )
+  adj. 稳定的；不变的；沉着的
+  vi. 稳固
+  vt. 使稳定；稳固；使坚定
+  adv. 稳定地；稳固地
+  n. 关系固定的情侣；固定支架
+
+population	英 [pɒpjʊ'leɪʃ(ə)n] 美 [,pɑpju'leʃən] ( populations )
+  n. 人口；[生物] 种群，[生物] 群体；全体居民
+
+repeatedly	英 [rɪ'piːtɪdlɪ] 美 [rɪ'pitɪdli] 
+  adv. 反复地；再三地；屡次地
+
+while	英 [waɪl] 美 [hwaɪl] ( whiling, whiled, whiles )
+  conj. 虽然；然而；当……的时候
+  n. 一会儿；一段时间
+  vt. 消磨；轻松地度过
+
+gunfire	英 ['gʌnfaɪə] 美 ['ɡʌnfaɪɚ] 
+  n. 炮火；炮火声
+
+millionaire	英 [mɪljə'neə] 美 [,mɪljə'nɛr] ( millionaires )
+  n. 百万富翁；大富豪
+  adj. 100万以上人口的
+
+vehicle	英 [ˈvɪəkl] 美 [ˈviəkəl] ( vehicles )
+  n. [车辆] 车辆；工具；交通工具；运载工具；传播媒介；媒介物
+
