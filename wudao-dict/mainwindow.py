@@ -110,7 +110,7 @@ class MainWindow(QMainWindow):
                     word_info = self.history_manager.get_word_info(self.word)
                     if word_info:
                         #print(word_info)
-                        self.history_manager.add_item(self.word)
+                        self.history_manager.add_item(word_info)
                         self.painter.draw_text(word_info, self.draw_conf)
                         self.ui.textBrowser.setHtml(self.painter.html)
                         return
